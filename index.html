@@ -1013,11 +1013,30 @@
             window.open(googleUrl, '_blank');
         }
         
-        function formatarTexto(texto) {
+       function formatarTexto(texto) {
             if (!texto) return '';
             let html = texto;
+            
+            // 1. Mantém formatação de negrito e itálico (como já fazia)
             html = html.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
             html = html.replace(/\*(.*?)\*/g, '<em>$1</em>');
+            
+            // 2. *** NOVA LÓGICA ***
+            // Adiciona quebra de linha <br> antes de marcadores de lista.
+            // A Regex (/( [IVXLCDM]+\. )/gi) procura por:
+            // (espaço) (Numerais Romanos) (ponto) (espaço)
+            // E substitui por: <br> (espaço) (Numerais Romanos) (ponto) (espaço)
+            // A flag 'g' garante que TODOS os itens sejam formatados.
+            // A flag 'i' torna a busca case-insensitive (pega I. ou i.)
+            html = html.replace(/( [IVXLCDM]+\. )/gi, '<br>$1');
+
+            // 3. *** NOVA LÓGICA ***
+            // Adiciona quebra de linha dupla antes da pergunta final.
+            // Isso é específico para o padrão que você mostrou.
+            // (espaço)(Diante da legislação...)
+            // vira: <br><br> (espaço)(Diante da legislação...)
+            html = html.replace(/( Diante da legislação)/g, '<br><br>$1');
+
             return html;
         }
         
