@@ -396,7 +396,7 @@
     </div>
 
     <div id="messageBox" class="hidden fixed bottom-24 left-1/2 -translate-x-1/2 bg-gray-800 text-white px-6 py-3 rounded-lg shadow-lg z-50">
-        <p>Limite de 10 parágrafos atingido.</p>
+        <p>Limite de 20 parágrafos atingido.</p>
     </div>
 
     <div id="onboardingToast" class="hidden fixed bottom-6 left-1/2 -translate-x-1/2 bg-blue-600 text-white px-4 py-3 rounded-lg shadow-lg z-50 flex items-center gap-4 max-w-xs w-11/12 justify-between">
@@ -429,7 +429,7 @@
         const articleTextMap = new Map();
         let selectedElements = new Set(); // Armazena os IDs dos elementos selecionados
         let fabState = 'idle'; // 'idle' (+), 'selecting' (✔), 'actions_open' (X)
-        const SELECTION_LIMIT = 10; // Limite de parágrafos
+        const SELECTION_LIMIT = 20; // Limite de parágrafos
         
         let highlightMarkInstance;
         let searchResults = [];
@@ -741,7 +741,7 @@
                     selectedElements.add(articleId);
                     targetElement.classList.add('manual-selection');
                  } else {
-                    showMessage("Limite de 10 parágrafos atingido.");
+                    showMessage("Limite de 20 parágrafos atingido.");
                  }
              }
 
