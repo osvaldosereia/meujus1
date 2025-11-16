@@ -1,0 +1,1696 @@
+[
+  {
+    "id": "3505758",
+    "metadata": "Ano: 2025 | Banca: FGV | Órgão: TJ-CE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante"
+    ],
+    "enunciado_principal": "Em 2023, Cláudia, com 50 anos, ajuizou ação de investigação de paternidade post mortem, alegando ser filha de José, falecido em 1998. À época da morte de José, Cláudia já era maior de idade, mas alegou ter descoberto apenas em 2022, por meio de declarações de familiares, a possível relação biológica com o falecido. A sentença, proferida em 2025, confirmou a paternidade com base em prova genética produzida por meio de exame realizado com um irmão unilateral. Após o trânsito em julgado, Cláudia ajuizou ação de petição de herança para reivindicar sua parte na sucessão, cuja partilha foi realizada entre os filhos reconhecidos em 2000. Os herdeiros contestaram, alegando que a pretensão de Cláudia estaria prescrita, já que transcorreram mais de dez anos desde o falecimento de José. A autora, por sua vez, alegou que o prazo prescricional só poderia se iniciar com o trânsito em julgado da sentença que reconheceu sua filiação. Sobre a hipótese, com base na jurisprudência do STJ e no Código Civil, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A ação de petição de herança é imprescritível, pois decorre diretamente do direito de personalidade vinculado à filiação."
+      },
+      {
+        "letra": "B",
+        "texto": "O prazo prescricional da petição de herança é de dez anos, mas seu curso é suspenso enquanto pendente a ação de reconhecimento de paternidade."
+      },
+      {
+        "letra": "C",
+        "texto": "O reconhecimento judicial da filiação tem efeitos retroativos, de modo que Cláudia terá direito à herança, não havendo prescrição enquanto a paternidade não for declarada judicialmente."
+      },
+      {
+        "letra": "D",
+        "texto": "O prazo prescricional da ação de petição de herança é de dez anos e tem como termo inicial a abertura da sucessão, ainda que a paternidade só tenha sido reconhecida posteriormente."
+      },
+      {
+        "letra": "E",
+        "texto": "Como Cláudia não teve ciência da sua condição de filha antes de 2022, aplica-se a teoria subjetiva da actio nata, fazendo com que o prazo prescricional só comece a fluir a partir da data de sua descoberta."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3260345",
+    "metadata": "Ano: 2025 | Banca: MPE-SP | Órgão: MPE-SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante"
+    ],
+    "enunciado_principal": "Em relação à aceitação e à renúncia da herança, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O negócio jurídico de aceitação da herança é unilateral e tem eficácia ex tunc, ou seja, retroage à data da abertura da sucessão. Por sua vez, o negócio jurídico unilateral de renúncia à herança tem eficácia ex nunc, ou seja, não retroage à data do falecimento do de cujus."
+      },
+      {
+        "letra": "B",
+        "texto": "Se o herdeiro, ao renunciar à herança, prejudicar eventuais credores, estes poderão aceitar a herança em seu nome, independentemente de autorização judicial, sendo certo que permanecerá válida a renúncia no que tange à eventual valor remanescente após o pagamento da dívida do renunciante."
+      },
+      {
+        "letra": "C",
+        "texto": "O Código Civil autoriza a aceitação ou a renúncia da herança em parte, de modo que o herdeiro poderá escolher qual será o objeto da aceitação e qual será o objeto da renúncia."
+      },
+      {
+        "letra": "D",
+        "texto": "Caso o de cujus tenha deixado testamento de seus bens, de modo que determinado herdeiro seja chamado para receber a herança e também legado determinado, o herdeiro não poderá aceitar o legado e renunciar à herança ou aceitar a herança e renunciar ao legado."
+      },
+      {
+        "letra": "E",
+        "texto": "A aceitação da herança torna definitiva a qualidade de herdeiro, de modo que não é possível, posteriormente, renunciar à herança. Se assim o quiser, deverá formalizar outra espécie de negócio jurídico, como, por exemplo a doação ou a cessão de seus direitos hereditários."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3170839",
+    "metadata": "Ano: 2024 | Banca: FCC | Órgão: TRT - 20ª REGIÃO (SE)",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante"
+    ],
+    "enunciado_principal": "André faleceu, deixando quatro filhos, Bernardo, Carolina, Debora e Eduardo, todos maiores e capazes. Bernardo renunciou à herança por instrumento particular subscrito por duas testemunhas. Carolina renunciou à herança por escritura pública sob a condição de que Debora também renunciasse à sua parte na herança. Por fim, Debora renunciou à herança por termo judicial firmado nos autos do processo de inventário. Previamente às respectivas renúncias, nenhum dos herdeiros havia aceitado a herança. Nesse caso, de acordo com o Código Civil,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "somente as renúncias de Carolina e de Débora são válidas."
+      },
+      {
+        "letra": "B",
+        "texto": "todas as renúncias são válidas."
+      },
+      {
+        "letra": "C",
+        "texto": "nenhuma das renúncias é válida."
+      },
+      {
+        "letra": "D",
+        "texto": "somente a renúncia de Débora é válida."
+      },
+      {
+        "letra": "E",
+        "texto": "somente as renúncias de Berardo e de Débora são válidas."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3153842",
+    "metadata": "Ano: 2024 | Banca: CESPE / CEBRASPE | Órgão: TJ-PE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante"
+    ],
+    "enunciado_principal": "Conforme entendimento jurisprudencial do STJ, o bem integrante da herança jacente é incorporado ao domínio do ente público",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "com a sentença de declaração de vacância, podendo até esse momento ser exercida posse ad usucapionem."
+      },
+      {
+        "letra": "B",
+        "texto": "após o decurso do prazo de cinco anos, a contar da abertura da sucessão, mas não se admite o exercício de posse ad usucapionem."
+      },
+      {
+        "letra": "C",
+        "texto": "no momento da abertura da sucessão, razão por que não se admite o exercício de posse ad usucapionem."
+      },
+      {
+        "letra": "D",
+        "texto": "a partir da arrecadação, podendo até esse momento ser exercida posse ad usucapionem."
+      },
+      {
+        "letra": "E",
+        "texto": "com a instauração do arrolamento, podendo até esse momento ser exercida posse ad usucapionem."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3151533",
+    "metadata": "Ano: 2024 | Banca: CESPE / CEBRASPE | Órgão: TJ-PE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aspectos Gerais do Direito das Sucessões – Momento, Espécies, Lugar, Herança e Representação",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante"
+    ],
+    "enunciado_principal": "Segundo entendimento do STJ, o reconhecimento da renúncia da herança deve-se dar de modo expresso e",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "solene, sendo necessária a adoção da forma de escritura pública ou termo judicial, sob pena de nulidade."
+      },
+      {
+        "letra": "B",
+        "texto": "pode ser realizada por meio de instrumento particular, dada a inexistência de prescrição legal quanto à forma a ser adotada."
+      },
+      {
+        "letra": "C",
+        "texto": "solene, sendo necessária a forma de escritura pública, sob pena de anulabilidade."
+      },
+      {
+        "letra": "D",
+        "texto": "solene, havendo necessidade de se adotar a forma do termo judicial, sob pena de nulidade."
+      },
+      {
+        "letra": "E",
+        "texto": "solene, havendo necessidade de se adotar a forma do termo judicial, sob pena de anulabilidade."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3088389",
+    "metadata": "Ano: 2024 | Banca: FCC | Órgão: TRT - 7ª Região (CE)",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante"
+    ],
+    "enunciado_principal": "De acordo com o disposto no Código Civil, são herdeiros necessários",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "os descendentes e o cônjuge, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "os descendentes, os ascendentes e 0 cônjuge."
+      },
+      {
+        "letra": "C",
+        "texto": "os descendentes, o cônjuge e os irmãos."
+      },
+      {
+        "letra": "D",
+        "texto": "os descendentes, apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "o cônjuge, apenas."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3030248",
+    "metadata": "Ano: 2024 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante"
+    ],
+    "enunciado_principal": "Em relação aos efeitos da renúncia à herança, na sucessão legítima é correto afirmar",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a habilitação dos credores do renunciante que se virem prejudicados com o ato de renúncia se fará por meio de ação de petição herança, no prazo decadencial de 90 (noventa) dias."
+      },
+      {
+        "letra": "B",
+        "texto": "a obrigatoriedade da colação não se aplica a renunciante."
+      },
+      {
+        "letra": "C",
+        "texto": "a renúncia é anulável e retratável."
+      },
+      {
+        "letra": "D",
+        "texto": "não haverá direito de representação aos descendentes do renunciante, considerado inexistente, de modo que, a sua parte acresce a dos demais herdeiros do mesmo grau dentro da mesma classe."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2567623",
+    "metadata": "Ano: 2024 | Banca: VUNESP | Órgão: Câmara de Campinas - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante"
+    ],
+    "enunciado_principal": "A renúncia da herança é um ato jurídico que, quanto à manifestação da vontade, pode ser caracterizado como",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não solene."
+      },
+      {
+        "letra": "B",
+        "texto": "não receptício."
+      },
+      {
+        "letra": "C",
+        "texto": "plurilateral."
+      },
+      {
+        "letra": "D",
+        "texto": "simples."
+      },
+      {
+        "letra": "E",
+        "texto": "sinalagmático."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2414892",
+    "metadata": "Ano: 2024 | Banca: Instituto Consulplan | Órgão: MPE-SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante"
+    ],
+    "enunciado_principal": "Nos termos da Lei nº 10.406/2002, que institui o Código Civil, e da jurisprudência do STJ, julgue o item a seguir. Sobre a aceitação e a renúncia da herança, ninguém pode suceder, representando herdeiro renunciante, mas, se ele for o único legítimo da sua classe, ou se todos os outros da mesma classe renunciarem a herança, poderão os filhos vir à sucessão, por direito próprio, e por cabeça.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2374418",
+    "metadata": "Ano: 2023 | Banca: FCC | Órgão: DPE-ES",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante"
+    ],
+    "enunciado_principal": "Uma família comparece à Defensoria Pública pedindo informações quanto à divisão dos bens deixados pela matriarca, recentemente falecida. Informaram que a autora da herança, Paula, era divorciada e teve três filhas, Marina, Helena e Luíza. A filha mais velha, Marina, faleceu antes de sua genitora, e deixou os filhos Gustavo e Larissa. Helena é mãe de Tales, mas lavrou escritura pública renunciando à herança de sua mãe. Por fim, Luíza, mãe de Hugo e Valentina, não manifestou expressamente aceitação à herança, mas já está desfrutando de bens deixados por sua genitora. Com base nos fatos descritos, a herança deverá ser dividida por",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "estirpe, à proporção de metade para Luíza, sendo a outra metade dividida entre Gustavo e Larissa, por representação."
+      },
+      {
+        "letra": "B",
+        "texto": "estirpe, sendo um terço dividido entre Gustavo e Larissa, um terço para Tales, sendo essas duas hipóteses de representação, enquanto o outro terço vai para Luíza, por direito próprio."
+      },
+      {
+        "letra": "C",
+        "texto": "cabeça, em três partes iguais, sendo cada uma delas destinadas para Luíza, Gustavo e Larissa."
+      },
+      {
+        "letra": "D",
+        "texto": "cabeça, em cinco partes iguais, sendo cada uma destinada a um dos netos, Gustavo, Larissa, Tales, Hugo e Valentina."
+      },
+      {
+        "letra": "E",
+        "texto": "estirpe, sendo um terço dividido entre Gustavo e Larissa, um terço para Tales, e um terço dividido entre Hugo e Valentina."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2324597",
+    "metadata": "Ano: 2023 | Banca: MPE-PR | Órgão: MPE-PR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante",
+      "Sucessão Legítima – Ordem de Vocação Hereditária"
+    ],
+    "enunciado_principal": "Avalie as seguintes asserções e a relação proposta entre elas: I. Havendo herdeiros necessários, não é possível ao testador dispor da totalidade do patrimônio. PORQUE II. o sistema adotado pelo Direito brasileiro garante aos herdeiros a legítima, que é a metade dos bens da herança. A respeito dessas asserções, assinale a opção correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As asserções I e II são proposições verdadeiras e a II é uma justificativa da I."
+      },
+      {
+        "letra": "B",
+        "texto": "As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa da I."
+      },
+      {
+        "letra": "C",
+        "texto": "A asserção I é uma proposição verdadeira e a II é uma proposição falsa."
+      },
+      {
+        "letra": "D",
+        "texto": "A asserção I é uma proposição falsa e a II é uma proposição verdadeira."
+      },
+      {
+        "letra": "E",
+        "texto": "As asserções I e II são proposições falsas."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2319988",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: Câmara dos Deputados",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante"
+    ],
+    "enunciado_principal": "O Banco XYZ é credor de Diana, que não possui outros bens além de um carro e valores correntes necessários para sua sobrevivência, uma vez que não lograra sucesso na vida empresarial. Determinado dia, Diana é surpreendida com a informação de que Judith, irmã bilateral de seu pai, com quem pouco tinha contato, havia falecido e lhe havia deixado herança a ser compartilhada com outros 3 (três) primos, todos filhos de outro irmão bilateral do pai de Diana. Por conta da dívida com o Banco XYZ, Diana decide renunciar à herança, para que não seja integralmente consumida pela instituição financeira. Em pesquisa de localização de bens de Diana, o Banco XYZ tomou ciência da renúncia feita em ofício de notas, bem como identificar o inventário judicial ainda em curso de Judith. Diante destes fatos, o Banco XYZ",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "poderá aceitar a herança e receber metade do monte deixado por Judith."
+      },
+      {
+        "letra": "B",
+        "texto": "nada poderá fazer, senão continuar buscando bens de Diana."
+      },
+      {
+        "letra": "C",
+        "texto": "deverá mover ação pauliana contra os primos de Diana, não lhe cabendo se habilitar no inventário."
+      },
+      {
+        "letra": "D",
+        "texto": "poderá aceitar a herança e receber um quarto do monte deixado por Judith."
+      },
+      {
+        "letra": "E",
+        "texto": "deverá se habilitar no inventário dos bens de Judith para receber seu crédito."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2287602",
+    "metadata": "Ano: 2023 | Banca: Instituto Consulplan | Órgão: CRC-RJ",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aspectos Gerais do Direito das Sucessões – Momento, Espécies, Lugar, Herança e Representação",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante",
+      "Sucessão Legítima – Ordem de Vocação Hereditária"
+    ],
+    "enunciado_principal": "A aceitação e a renúncia da herança são procedimentos legais relacionados à sucessão, que diz respeito à transferência dos bens, direitos e obrigações de uma pessoa falecida para seus herdeiros. Ambos os processos têm implicações significativas para os sucessores e envolvem considerações legais e financeiras importantes. Considerando os referidos institutos, analise as afirmativas a seguir. I. Não exprimem aceitação de herança os atos oficiosos, como o funeral do finado, os meramente conservatórios, ou os de administração e guarda provisória. II. A renúncia da herança deve constar expressamente de instrumento privado ou termo judicial. III. Ninguém pode suceder, representando herdeiro renunciante. Se, porém, ele for o único legítimo da sua classe, ou se todos os outros da mesma classe renunciarem à herança, poderão os filhos vir à sucessão, por direito próprio, e por cabeça. IV. São revogáveis os atos de aceitação ou de renúncia da herança. Está correto o que se afirma apenas em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II."
+      },
+      {
+        "letra": "B",
+        "texto": "I e III."
+      },
+      {
+        "letra": "C",
+        "texto": "II e III."
+      },
+      {
+        "letra": "D",
+        "texto": "II e IV."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2272717",
+    "metadata": "Ano: 2023 | Banca: TJ-AM | Órgão: TJ-AM",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante",
+      "Sucessão Legítima – Ordem de Vocação Hereditária"
+    ],
+    "enunciado_principal": "A cessão de direitos hereditários é ato permitido aos herdeiros, em conformidade com o disposto no Código Civil. A respeito do assunto, leia as assertivas abaixo. I. O coerdeiro não poderá ceder onerosamente a sua quota hereditária à pessoa estranha à sucessão se outro coerdeiro a quiser adquirir, pelo mesmo valor. II. É ineficaz a cessão pelo coerdeiro de qualquer bem do acervo hereditário considerado singularmente. III. Realizada a cessão de direitos hereditários, os direitos conferidos ao herdeiro cedente em consequência de substituição ou de direito de acrescer, presumem-se abrangidos pela cessão feita anteriormente. Considerando as assertivas acima, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas estão corretas as assertivas II e III."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas estão corretas as assertivas I e II."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas a assertiva III está correta."
+      },
+      {
+        "letra": "D",
+        "texto": "Estão corretas as assertivas I, II, III."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2261417",
+    "metadata": "Ano: 2023 | Banca: VUNESP | Órgão: TJ-AL",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante"
+    ],
+    "enunciado_principal": "Em 10.10.2022, houve a declaração judicial de vacância da herança, nesse caso,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "com a declaração de vacância há incorporação definitiva da herança ao patrimônio do Estado."
+      },
+      {
+        "letra": "B",
+        "texto": "os herdeiros colaterais ficarão excluídos da sucessão."
+      },
+      {
+        "letra": "C",
+        "texto": "após a declaração judicial de vacância caberá a nomeação de curador."
+      },
+      {
+        "letra": "D",
+        "texto": "somente após a declaração judicial de vacância serão realizadas as diligências de arrecadação dos bens da herança."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2193810",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: PGM - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante"
+    ],
+    "enunciado_principal": "A respeito da herança jacente, assinale a opção correta, considerando a legislação vigente acerca do assunto e o entendimento do STJ.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Até a declaração de vacância, corre o prazo para que o imóvel possa ser usucapido pelo particular que o detém."
+      },
+      {
+        "letra": "B",
+        "texto": "O estado-membro é o sucessor dos bens jacentes."
+      },
+      {
+        "letra": "C",
+        "texto": "É vedado ao juiz do domicilio do autor da herança determinar, de oficio, a abertura do procedimento de arrecadação da herança jacente."
+      },
+      {
+        "letra": "D",
+        "texto": "Logo que aberta a sucessão, os bens que compõem a herança jacente passam a integrar o patrimônio do ente público."
+      },
+      {
+        "letra": "E",
+        "texto": "A jacência, por pressupor incerteza quanto à existência dos herdeiros, tem como consequência necessária a declaração de vacância."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2131255",
+    "metadata": "Ano: 2023 | Banca: FUNDEPES | Órgão: Prefeitura de Marechal Deodoro - AL",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Direito das Sucessões",
+      "Parentesco",
+      "Casamento no Direito de Família",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante",
+      "Sucessão Legítima – Ordem de Vocação Hereditária"
+    ],
+    "enunciado_principal": "Dadas as afirmativas a respeito do direito de família e do direito sucessório, I. A declaração de vacância da herança não prejudicará os herdeiros que legalmente se habilitarem; mas, decorridos cinco anos da abertura da sucessão, os bens arrecadados passarão ao domínio do Município ou do Distrito Federal, se localizados nas respectivas circunscrições, incorporando-se ao domínio da União quando situados em território federal. II. O registro civil do casamento religioso deverá ser promovido dentro de sessenta dias de sua realização, mediante comunicação do celebrante ao ofício competente, ou por iniciativa de qualquer interessado, desde que haja sido homologada previamente a habilitação regulada Código no Civil. Após o referido prazo, o registro dependerá de nova habilitação.III. São herdeiros necessários os descendentes, os ascendentes, os colaterais e o cônjuge. IV. Os filhos, havidos ou não da relação de casamento, ou por adoção, terão os mesmos direitos e qualificações, proibidas quaisquer designações discriminatórias relativas à filiação. verifica-se que estão corretas apenas",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "C",
+        "texto": "III e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "II e III."
+      },
+      {
+        "letra": "E",
+        "texto": "I e IV."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2110681",
+    "metadata": "Ano: 2023 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aspectos Gerais do Direito das Sucessões – Momento, Espécies, Lugar, Herança e Representação",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante",
+      "Sucessão Legítima – Ordem de Vocação Hereditária",
+      "Sucessão Testamentária - Testamento, Codicilo e Legado"
+    ],
+    "enunciado_principal": "Sobre o direito sucessório, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "com a morte do autor da herança, o legatário torna- -se titular do domínio da coisa certa existente no acervo hereditário, ainda que o legado esteja sujeito a condição suspensiva. Contudo, a posse da coisa legada não é deferida de imediato quando da abertura da sucessão, diferentemente do que se aplica com a posse do acervo hereditário."
+      },
+      {
+        "letra": "B",
+        "texto": "a renúncia abdicativa da herança deve constar expressamente de instrumento público ou termo judicial. Para que se caracterize a renúncia, o renunciante deve renunciar indistintamente em favor de todos os coerdeiros. A renúncia feita sem observância da forma prescrita no Código Civil pode ser anulada."
+      },
+      {
+        "letra": "C",
+        "texto": "aberta a sucessão, a herança transmite-se, desde logo, aos herdeiros legítimos e testamentários. O princípio da saisine não se aplica ao Poder Público, pois este não é considerado herdeiro no Código Civil de 2002. Sendo jacente a herança, somente depois da declaração expressa da vacância, decorrido o prazo de 5 (cinco) anos da abertura da sucessão, é que estes bens passarão ao domínio do Município ou do Distrito Federal, se localizados nas respectivas circunscrições, ou incorporados ao domínio da União quando situados em território federal."
+      },
+      {
+        "letra": "D",
+        "texto": "o Código Civil protege o cônjuge, qualquer que seja o regime de bens, garantindo-lhe direito real de habitação relativamente ao imóvel destinado à residência da família, ainda que não seja o único daquela natureza a inventariar."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2048183",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: MPE-PA",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante"
+    ],
+    "enunciado_principal": "De acordo com o Código Civil, são excluídos da sucessão os herdeiros ou legatários que I tiverem sido autores, coautores ou partícipes de homicídio doloso, ou tentativa deste, contra a pessoa de cuja sucessão se tratar seu cônjuge, companheiro, ascendente ou descendente. II tiverem acusado caluniosamente em juízo o autor da herança ou incorrerem em crime contra a sua honra, ou de seu cônjuge ou de seu companheiro. III por violência ou meios fraudulentos, inibirem ou obstarem o autor da herança de dispor livremente de seus bens por ato de última vontade. Assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas o item II está certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas o item III está certo."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas os itens I e II estão certos."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas os itens I e III estão certos."
+      },
+      {
+        "letra": "E",
+        "texto": "Todos os itens estão certos."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2006460",
+    "metadata": "Ano: 2022 | Banca: INSTITUTO AOCP | Órgão: MPE-MS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aspectos Gerais do Direito das Sucessões – Momento, Espécies, Lugar, Herança e Representação",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante",
+      "Sucessão Legítima – Ordem de Vocação Hereditária"
+    ],
+    "enunciado_principal": "Assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Quando parte da herança consistir em bens digitais de difícil avaliação econômica, é possível a cisão do inventário em duas etapas a fim de evitar que se prolongue indefinidamente a avaliação dos bens e que se inviabilize o acesso aos bens já passíveis de avaliação."
+      },
+      {
+        "letra": "B",
+        "texto": "A aceitação ou adição da herança é o ato do herdeiro que confirma a transmissão da herança."
+      },
+      {
+        "letra": "C",
+        "texto": "O ato para dispor da meação equipara-se à cessão de direitos hereditários, devendo ser realizado por instrumento público ou termo judicial."
+      },
+      {
+        "letra": "D",
+        "texto": "É inconstitucional a distinção de regimes sucessórios entre cônjuges e companheiros, ainda que a Constituição Federal promova diferenciação entre as entidades familiares ao dispor que a lei deve facilitar a conversão de união estável em casamento."
+      },
+      {
+        "letra": "E",
+        "texto": "O direito à sucessão aberta e o direito à herança constituem bens imóveis."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1999998",
+    "metadata": "Ano: 2022 | Banca: FGV | Órgão: AGE-MG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante",
+      "Sucessão Legítima – Ordem de Vocação Hereditária"
+    ],
+    "enunciado_principal": "Mário, solteiro, sem qualquer descendente ou ascendente vivo, falece em 2022, deixando apenas dois irmãos bilaterais vivos (Jorge e Carlos) e uma irmã unilateral (Irina), pré-morta em 2021. Esta, por sua vez, deixou duas filhas vivas (Raquel e Viviane). Mário deixou testamento público, celebrado sob as formalidades da lei e firmado pelo tabelião, pelo testador e duas testemunhas, deixando 75% de sua herança para Marta, sua amiga de infância. Diante desse caso, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Jorge e Carlos herdarão, cada um, 10% (dez por cento) da herança, enquanto Raquel e Viviane herdarão, por representação, o quinhão de 2,5% da herança cada uma."
+      },
+      {
+        "letra": "B",
+        "texto": "O testamento público celebrado por Mário, apesar de válido, é ineficaz, porque excedeu o limite de sua parte disponível, ofendendo a legítima dos herdeiros colaterais."
+      },
+      {
+        "letra": "C",
+        "texto": "A partilha entre os herdeiros legítimos deve ser igualitária, cabendo a cada um o quinhão correspondente a 6,25% da herança."
+      },
+      {
+        "letra": "D",
+        "texto": "Os irmãos bilaterais herdam por direito próprio, na proporção de 8,33% para cada um, enquanto Raquel e Viviane herdam por representação, na proporção de 4,165% para cada uma."
+      },
+      {
+        "letra": "E",
+        "texto": "A herança é jacente, atraindo o procedimento especial que visa à declaração de sua vacância, para fins de transferência do acervo hereditário para o Município ou para o Distrito Federal."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1985699",
+    "metadata": "Ano: 2022 | Banca: SELECON | Órgão: Prefeitura de Cuiabá - MT",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante"
+    ],
+    "enunciado_principal": "V, B, C e Y herdaram bens e direitos do seu falecido genitor mas, por motivos particulares, todos exerceram o seu direito de renúncia à herança. Nos termos do Código Civil, quando todos os chamados a suceder renunciarem à herança, será esta desde logo declarada:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "presente"
+      },
+      {
+        "letra": "B",
+        "texto": "jacente"
+      },
+      {
+        "letra": "C",
+        "texto": "existente"
+      },
+      {
+        "letra": "D",
+        "texto": "vacante"
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1985527",
+    "metadata": "Ano: 2022 | Banca: IBFC | Órgão: Prefeitura de Dourados - MS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante"
+    ],
+    "enunciado_principal": "Acerca das disposições do Código Civil sobre aceitação e renúncia da herança, analise as afirmativas abaixo e dê valores Verdadeiro (V) ou Falso (F). ( ) Aceita a herança, torna-se definitiva a sua transmissão ao herdeiro, desde a abertura da sucessão. ( ) São passíveis de revogação, via de regra, os atos de aceitação ou de renúncia da herança. ( ) Não se pode aceitar ou renunciar a herança em parte, sob condição ou a termo. Assinale a alternativa que apresenta a sequência correta de cima para baixo.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V - V - V"
+      },
+      {
+        "letra": "B",
+        "texto": "V - F - V"
+      },
+      {
+        "letra": "C",
+        "texto": "F - F - V"
+      },
+      {
+        "letra": "D",
+        "texto": "V - V - F"
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1981426",
+    "metadata": "Ano: 2022 | Banca: FCC | Órgão: DPE-MT",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante"
+    ],
+    "enunciado_principal": "Em razão do falecimento de seu genitor, os herdeiros do de cujus procuraram a Defensoria Pública do Mato Grosso para orientações acerca da aceitação e renúncia da herança. Sobre o tema, os interessados devem ser orientados que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "são irrevogáveis os atos de aceitação ou de renúncia da herança."
+      },
+      {
+        "letra": "B",
+        "texto": "os atos oficiosos do herdeiro, como administração ou guarda provisória dos bens, exprimem aceitação da herança."
+      },
+      {
+        "letra": "C",
+        "texto": "para sua validade, a renúncia da herança deve constar expressamente de instrumento público ou particular."
+      },
+      {
+        "letra": "D",
+        "texto": "a pessoa interessada pode renunciar à herança em parte, sob condição ou a termo."
+      },
+      {
+        "letra": "E",
+        "texto": "não se admite aceitação tácita da herança, exigindo-se sua formalização por escrito."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1974555",
+    "metadata": "Ano: 2022 | Banca: FGV | Órgão: TJ-PE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante"
+    ],
+    "enunciado_principal": "Emengarda faleceu, deixando muitos bens e péssimo relacionamento com seus cinco filhos. Fábio a injuriou em um jantar de família há muitos anos e nunca mais se falaram desde então. Guilherme a coagiu a modificar seu testamento, ameaçando divulgar informações íntimas suas se não lhe deixasse a parte disponível da herança. Henrique caluniou o homem com quem ela vivia há muitos anos em união estável. Igor tentou matá-la por envenenamento, estando preso desde então pelo seu crime. Enfim, Júlio, foi quem efetivamente a matou, buscando contê-la em uma discussão que chegou às vias de fato, tendo sido condenado por homicídio culposo. O herdeiro que pode pretender excluir por indignidade todos os demais e ficar com a herança toda de Emengarda para si é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fábio;"
+      },
+      {
+        "letra": "B",
+        "texto": "Guilherme;"
+      },
+      {
+        "letra": "C",
+        "texto": "Henrique;"
+      },
+      {
+        "letra": "D",
+        "texto": "Igor;"
+      },
+      {
+        "letra": "E",
+        "texto": "Júlio."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1969745",
+    "metadata": "Ano: 2022 | Banca: FCC | Órgão: TRT - 23ª REGIÃO (MT)",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aspectos Gerais do Direito das Sucessões – Momento, Espécies, Lugar, Herança e Representação",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante"
+    ],
+    "enunciado_principal": "De acordo com o Código Civil, a herança",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "só se transmite aos herdeiros depois de concluído o inventário."
+      },
+      {
+        "letra": "B",
+        "texto": "não pode ser disposta integralmente por testamento quando existirem herdeiros necessários."
+      },
+      {
+        "letra": "C",
+        "texto": "transmite-se definitivamente aos herdeiros necessários independentemente de aceitação."
+      },
+      {
+        "letra": "D",
+        "texto": "pode ser parcialmente renunciada pelo herdeiro."
+      },
+      {
+        "letra": "E",
+        "texto": "defere-se como um todo unitário, ainda que vários sejam os herdeiros."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1937976",
+    "metadata": "Ano: 2022 | Banca: Quadrix | Órgão: CRC-PR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante"
+    ],
+    "enunciado_principal": "No que se refere aos procedimentos de jurisdição voluntária, julgue o item.Nos casos em que a lei considere jacente a herança, o juiz em cuja comarca tiver domicílio o falecido procederá imediatamente à arrecadação dos respectivos bens.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1869741",
+    "metadata": "Ano: 2022 | Banca: FGV | Órgão: DPE-MS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante"
+    ],
+    "enunciado_principal": "Quando Hermenegildo morreu, deixou o pequeno casebre onde residiu nos últimos anos da sua vida e alguns bens pessoais. Sua vizinha tentou alegar que era companheira do falecido, mas não houve comprovação satisfatória dessa alegação. Há notícia de que ele teria deixado um filho, que o abandonara há muitos anos, bem como teria um primo em outro Estado, mas não há elementos indicativos de quem sejam. Diante disso, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a herança ficará jacente, figurando sua vizinha como curadora até que se obtenha a localização do filho e, na ausência deste por cinco anos, ela se torna proprietária dos bens;"
+      },
+      {
+        "letra": "B",
+        "texto": "o juiz mandará arrolar e arrecadar os bens, mas pode ser dispensada a expedição de editais, ante a notícia de que haveria herdeiros;"
+      },
+      {
+        "letra": "C",
+        "texto": "findo o prazo de um ano, a herança passará à propriedade do ente público, extinguindo-se os direitos de eventuais herdeiros;"
+      },
+      {
+        "letra": "D",
+        "texto": "declarada a vacância da herança, seu primo não terá mais qualquer direito, mas seu filho ainda poderá reivindicar os bens por cinco anos."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2171039",
+    "metadata": "Ano: 2021 | Banca: FCC | Órgão: MANAUSPREV",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aspectos Gerais do Direito das Sucessões – Momento, Espécies, Lugar, Herança e Representação",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante",
+      "Sucessão Legítima – Ordem de Vocação Hereditária"
+    ],
+    "enunciado_principal": "De acordo com o Código Civil, ocorrendo óbito da pessoa, sua herança",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "transmite-se, desde logo, aos herdeiros, legítimos e testamentários, independentemente da realização ou conclusão do inventário."
+      },
+      {
+        "letra": "B",
+        "texto": "passa a ser de titularidade do Estado enquanto não ultimado o inventário."
+      },
+      {
+        "letra": "C",
+        "texto": "é transmitida apenas aos herdeiros necessários indicados por lei, sendo ineficaz a indicação de qualquer outra pessoa feita pelo autor da herança em vida."
+      },
+      {
+        "letra": "D",
+        "texto": "transmite-se, desde logo, apenas aos herdeiros testamentários, ao passo que, em relação aos legítimos, a transmissão da herança depende da conclusão do inventário."
+      },
+      {
+        "letra": "E",
+        "texto": "transmite-se, desde logo, apenas aos herdeiros legítimos, ao passo que, em relação aos testamentários, a transmissão da herança depende da conclusão do inventário."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1857389",
+    "metadata": "Ano: 2021 | Banca: CESPE / CEBRASPE | Órgão: PGE-AL",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante"
+    ],
+    "enunciado_principal": "De acordo com o disposto no Código Civil relativamente a aceitação e renúncia de herança, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A renúncia da herança deve constar expressamente de instrumento particular ou termo judicial."
+      },
+      {
+        "letra": "B",
+        "texto": "Os atos oficiosos realizados pelo herdeiro, como o funeral do finado, exprimem a aceitação da herança."
+      },
+      {
+        "letra": "C",
+        "texto": "A cessão gratuita, pura e simples, da herança praticada por um herdeiro em benefício dos demais co-herdeiros importa aceitação da herança."
+      },
+      {
+        "letra": "D",
+        "texto": "O herdeiro pode sujeitar a aceitação parcial da herança à condição suspensiva."
+      },
+      {
+        "letra": "E",
+        "texto": "Os atos de aceitação ou de renúncia de herança são irrevogáveis."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1852463",
+    "metadata": "Ano: 2021 | Banca: Instituto Consulplan | Órgão: TJ-MS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante"
+    ],
+    "enunciado_principal": "Aos herdeiros não se impõe a aceitação da renúncia de forma indiscriminada, admitindo-se, desta feita, a renúncia à mesma. NÃO corresponde às disposições legais pertinentes à temática:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A renúncia praticada com a finalidade de esvaziamento patrimonial pode ser anulada mediante prova do credor."
+      },
+      {
+        "letra": "B",
+        "texto": "Para validação da renúncia da herança, esta deve constar expressamente de instrumento público ou termo judicial."
+      },
+      {
+        "letra": "C",
+        "texto": "A aceitação ou renúncia da herança em parte, sob condição ou a termo, requer formalização por instrumento público."
+      },
+      {
+        "letra": "D",
+        "texto": "Havendo prejuízo aos credores pela renúncia da herança, podem aqueles, com autorização do Juiz, aceitá-la em nome do renunciante."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1842944",
+    "metadata": "Ano: 2021 | Banca: FCC | Órgão: PGE-GO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante"
+    ],
+    "enunciado_principal": "Simone, proprietária de apenas um imóvel residencial situado no município de Goiânia-GO, onde era domiciliada, faleceu sem deixar testamento ou herdeiros conhecidos. Ultimado o inventário, no qual esse imóvel foi arrecadado, foram publicados editais, na forma da lei processual. Nesse caso, decorrido o prazo legal sem que nenhum herdeiro tenha-se habilitado ou requerido a sua habilitação, a herança deverá ser declarada",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "vacante, passando o imóvel arrecadado ao domínio do município de Goiânia."
+      },
+      {
+        "letra": "B",
+        "texto": "vacante, passando o imóvel arrecadado ao domínio do Estado de Goiás."
+      },
+      {
+        "letra": "C",
+        "texto": "jacente, passando o imóvel arrecadado ao domínio do município de Goiânia."
+      },
+      {
+        "letra": "D",
+        "texto": "jacente, passando o imóvel arrecadado ao domínio do Estado de Goiás."
+      },
+      {
+        "letra": "E",
+        "texto": "jacente, passando o imóvel arrecadado ao domínio da União."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1826548",
+    "metadata": "Ano: 2021 | Banca: CESPE / CEBRASPE | Órgão: MPE-SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante"
+    ],
+    "enunciado_principal": "A respeito do direito de família, do direito das sucessões e do registro público, julgue o item seguinte. É válida a renúncia à herança realizada por mandatário constituído para tal fim por instrumento particular.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1791347",
+    "metadata": "Ano: 2021 | Banca: CESPE / CEBRASPE | Órgão: MPE-AP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante"
+    ],
+    "enunciado_principal": "A renúncia da herança se comprova por",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "atos contrários à aceitação."
+      },
+      {
+        "letra": "B",
+        "texto": "termo judicial."
+      },
+      {
+        "letra": "C",
+        "texto": "instrumento particular."
+      },
+      {
+        "letra": "D",
+        "texto": "cessão gratuita aos demais co-herdeiros."
+      },
+      {
+        "letra": "E",
+        "texto": "declaração escrita dada a qualquer herdeiro."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1781535",
+    "metadata": "Ano: 2021 | Banca: AOCP | Órgão: MPE-RS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante"
+    ],
+    "enunciado_principal": "Analise o seguinte caso hipotérico: Calpúrnia possuía um patrimônio de R$ 10.000.000,00 (dez milhões de reais), composto apenas de imóveis. Ao falecer, foi verificado que Calpúrnia não possuía a ela vinculado nenhum herdeiro, descendente, ascendente ou colateral, cônjuge e nem mesmo testamento, por fim, ninguém para receber seu patrimônio em razão da sucessão. Considerando as premissas apresentadas, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O Ministério Público será declarado como curador do patrimônio pelo prazo de um ano, sendo que, transcorrido tal prazo sem a manifestação de herdeiros, será declarada a herança como vacante."
+      },
+      {
+        "letra": "B",
+        "texto": "Eventuais credores de Calpúrnia não poderão exercer seus direitos a ter adimplidos os débitos por meio dos bens deixados, sendo a herança repassada ao poder público diretamente, visto que, com o falecimento, ocorre a sucessão imediata (princípio da saisini) e, não havendo herdeiros para o recebimento dos bens, o patrimônio é destinado ao Município ou ao Distrito Federal, que não podem ser classificados como devedores."
+      },
+      {
+        "letra": "C",
+        "texto": "No caso em tela, os bens deverão ser primeiramente arrecadados. Em seguida, deverá ser nomeado um curador para administração destes, até que ocorra a entrega ao sucessor devidamente habilitado ou a ocorrência de declaração de vacância da herança."
+      },
+      {
+        "letra": "D",
+        "texto": "Decorrido o prazo de um ano após a publicação dos editais necessários e sem que tenha qualquer herdeiro se habilitado, o juiz declarará a herança como jacente."
+      },
+      {
+        "letra": "E",
+        "texto": "Sequencialmente à finalização da arrecadação dos bens, devem ser estes entregues ao Município ou Distrito Federal para sua administração, até que seja a herança declarada jacente ou vacante."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1781496",
+    "metadata": "Ano: 2019 | Banca: SELECON | Órgão: Prefeitura de Cuiabá - MT",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante"
+    ],
+    "enunciado_principal": "Q. faleceu deixando diversos bens moveis e imóveis, não tendo testamento nem herdeiros conhecidos. Nesse caso, nos termos do Código Civil, haverá arrecadação da herança que ficará sob a guarda e administração de um:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "tutor"
+      },
+      {
+        "letra": "B",
+        "texto": "curador"
+      },
+      {
+        "letra": "C",
+        "texto": "sindico"
+      },
+      {
+        "letra": "D",
+        "texto": "gestor"
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1100195",
+    "metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: TJ-PA",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante"
+    ],
+    "enunciado_principal": "A respeito de aceitação e renúncia de herança, julgue os itens seguintes. I Aceitando a herança, o herdeiro passa a responder por todo o passivo deixado pelo de cujus, ainda que isso supere os limites das forças da herança. II Conforme entendimento do STJ, é possível a constituição de mandatário com poderes expressos para renunciar a herança, admitindo-se que a outorga dos referidos poderes seja conferida por instrumento público ou particular. III Os credores prejudicados pelo devedor que renuncia a herança poderão aceitá-la em nome do renunciante, desde que habilitem seus créditos no juízo do inventário e solicitem autorização judicial para aceitação no prazo de 180 dias seguintes ao conhecimento do fato. Assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nenhum item está certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas o item II está certo."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas o item III está certo."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas os itens I e II estão certos."
+      },
+      {
+        "letra": "E",
+        "texto": "Apenas os itens I e III estão certos."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1037435",
+    "metadata": "Ano: 2019 | Banca: CONSULPLAN | Órgão: TJ-MG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante"
+    ],
+    "enunciado_principal": "De acordo com o Código Civil Brasileiro, analise as afirmativas sobre direito de sucessões. I. A aceitação da herança pode ser tácita e há de resultar, tão somente, de atos próprios da qualidade de herdeiro. A renúncia da herança depende de ato solene, manifestada por meio de escritura pública, ou por termo nos autos do inventário. II. Havendo renúncia, os herdeiros do renunciante não podem exercer o direito de representação. III. Os descendentes do herdeiro excluído, seja por indignidade, seja por deserdação sucedem, como se ele morto fosse antes da abertura da sucessão. IV. Qualquer sucessor pode ser excluído da sucessão por indignidade, mas somente o herdeiro necessário pode ser deserdado. Estão corretas as afirmativas",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II, III e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "I e III, apenas"
+      },
+      {
+        "letra": "C",
+        "texto": "I, II e IV, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "II, III e IV, apenas."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1014384",
+    "metadata": "Ano: 2019 | Banca: VUNESP | Órgão: Prefeitura de São José do Rio Preto - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante"
+    ],
+    "enunciado_principal": "Romeu, proprietário de 30 (trinta) imóveis, faleceu aos 78 (setenta e oito) anos sem deixar testamento nem herdeiro legítimo notoriamente conhecido. Em relação ao fato hipotético, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não se habilitando até a declaração de vacância, os colaterais ficarão excluídos da sucessão."
+      },
+      {
+        "letra": "B",
+        "texto": "Os bens da herança, depois de arrecadados, ficarão sob a guarda e administração do Município até a sua entrega ao sucessor devidamente habilitado."
+      },
+      {
+        "letra": "C",
+        "texto": "Realizado o inventário, serão expedidos editais na forma da lei processual, e, decorridos dois anos de sua primeira publicação, sem que haja herdeiro habilitado, será a herança declarada vacante."
+      },
+      {
+        "letra": "D",
+        "texto": "A declaração de vacância da herança não prejudicará os herdeiros que se habilitarem; mas, decorridos cinco anos da abertura da sucessão, os bens arrecadados passarão ao domínio do Estado."
+      },
+      {
+        "letra": "E",
+        "texto": "Quando todos os chamados a suceder renunciarem à herança, será esta desde logo declarada jacente."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1010477",
+    "metadata": "Ano: 2019 | Banca: MPE-SP | Órgão: MPE-SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante"
+    ],
+    "enunciado_principal": "Roberto Nascimento faleceu sem deixar testamento nem herdeiros notoriamente conhecidos. Com relação à sua herança, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "praticadas as diligências de arrecadação e ultimado o inventário, serão expedidos editais na forma da lei processual, e, decorrido um ano de sua primeira publicação, sem que haja herdeiro habilitado, ou penda habilitação, será a herança declarada jacente."
+      },
+      {
+        "letra": "B",
+        "texto": "os credores de Roberto têm o direito de pedir o pagamento das dívidas, desde que reconhecidas judicialmente, nos limites das forças da herança."
+      },
+      {
+        "letra": "C",
+        "texto": "seus bens serão arrecadados, ficando sob a guarda e a administração de um curador, até a sua entrega ao sucessor devidamente habilitado ou à declaração de sua vacância."
+      },
+      {
+        "letra": "D",
+        "texto": "quando todos os chamados a suceder renunciarem à herança, será esta desde logo declarada jacente."
+      },
+      {
+        "letra": "E",
+        "texto": "a declaração de vacância da herança não prejudicará os herdeiros que legalmente se habilitarem; mas, decorridos cinco anos da abertura da sucessão, os bens arrecadados passarão ao domínio do Município ou do Distrito Federal, se localizados nas respectivas circunscrições, incorporando-se ao domínio da União quando situados em território federal. Não se habilitando até a declaração de jacência, os colaterais ficarão excluídos da sucessão."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1008815",
+    "metadata": "Ano: 2019 | Banca: Instituto Consulplan | Órgão: MPE-SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante"
+    ],
+    "enunciado_principal": "O interessado em que o herdeiro declare se aceita, ou não, a herança, poderá, quinze dias após aberta a sucessão, requerer ao juiz prazo razoável, não maior de trinta dias, para, nele, se pronunciar o herdeiro, sob pena de se haver a herança por aceita.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "973769",
+    "metadata": "Ano: 2019 | Banca: NC-UFPR | Órgão: TJ-PR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante"
+    ],
+    "enunciado_principal": "Leonel faleceu em decorrência de acidente automobilístico. Deixou cinco filhos e cônjuge. Tendo em vista o relacionamento muito difícil com o pai falecido, um de seus filhos resolve renunciar à herança. Os demais filhos desejam aceitá-la. A cônjuge supérstite impõe como condição ao seu aceite à herança que todos os filhos também aceitem. A respeito do assunto, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Exprimem aceitação de herança os atos oficiosos, como o funeral do finado."
+      },
+      {
+        "letra": "B",
+        "texto": "Importa em aceitação a cessão gratuita, pura e simples, da herança, aos demais co-herdeiros."
+      },
+      {
+        "letra": "C",
+        "texto": "A renúncia da herança deve constar expressamente de instrumento público ou particular."
+      },
+      {
+        "letra": "D",
+        "texto": "Não se pode aceitar ou renunciar a herança em parte, sob condição ou a termo."
+      },
+      {
+        "letra": "E",
+        "texto": "São revogáveis os atos de aceitação ou de renúncia da herança."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1045956",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: Prefeitura de Guararapes - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta acerca da herança e sua aceitação.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A herança defere-se em tantas partes quantos forem os herdeiros."
+      },
+      {
+        "letra": "B",
+        "texto": "Até a partilha, o direito dos co-herdeiros, quanto à propriedade e posse da herança, é divisível."
+      },
+      {
+        "letra": "C",
+        "texto": "O herdeiro responde por encargos superiores às forças da herança, salvo se provar que o falecido era, ao tempo em que contraiu as dívidas, insolvente."
+      },
+      {
+        "letra": "D",
+        "texto": "O direito à sucessão aberta, bem como o quinhão de que disponha o co-herdeiro, pode ser objeto de cessão por escritura pública."
+      },
+      {
+        "letra": "E",
+        "texto": "É permitida a cessão, pelo co-herdeiro, de seu direito hereditário sobre qualquer bem da herança considerado singularmente."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "953762",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aspectos Gerais do Direito das Sucessões – Momento, Espécies, Lugar, Herança e Representação",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante",
+      "Sucessão Testamentária - Testamento, Codicilo e Legado"
+    ],
+    "enunciado_principal": "Augusto, que tem um vultoso patrimônio, foi condenado criminalmente por lesão corporal seguida de morte, de que foi vítima Josué. O processo criminal durou 18 meses; transitada em julgado a sentença, o condenado empreendeu fuga, e, após um ano, foi morto resistindo à prisão. Josué, quando de sua morte, tinha um filho, Rodolfo, com 15 anos de idade. Augusto era viúvo e não convivia em união estável, só tendo como parentes dois tios e dois sobrinhos. Nesse caso, a herança de Augusto será",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "considerada jacente e, antes da vacância, será paga a indenização devida a Rodolfo, passando depois os bens ao município em que se situarem, aos quais, porém, não aproveita a prescrição iniciada."
+      },
+      {
+        "letra": "B",
+        "texto": "recebida pelos dois sobrinhos, mas nada será devido a Rodolfo a título de indenização, porque a morte não resultou direta e imediatamente da atuação de Augusto."
+      },
+      {
+        "letra": "C",
+        "texto": "recebida pelos dois tios e pelos dois sobrinhos, mas não responderão eles pela indenização, porque a dívida fundada na responsabilidade civil não se transmite com a herança."
+      },
+      {
+        "letra": "D",
+        "texto": "recebida pelos dois sobrinhos, aproveitando-lhes a prescrição iniciada, mas responderão pela indenização devida a Rodolfo, nos limites da força da herança, proporcionalmente ao que se atribuir a cada um, se a ação indenizatória for proposta depois da partilha."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "951413",
+    "metadata": "Ano: 2018 | Banca: FCC | Órgão: SEAD-AP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante"
+    ],
+    "enunciado_principal": "Quando todos os chamados a suceder renunciarem à herança, inexistindo outros herdeiros, será esta desde logo declarada",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "jacente."
+      },
+      {
+        "letra": "B",
+        "texto": "vacante."
+      },
+      {
+        "letra": "C",
+        "texto": "jacente e vacante, nesta ordem."
+      },
+      {
+        "letra": "D",
+        "texto": "vacante e jacente, nesta ordem."
+      },
+      {
+        "letra": "E",
+        "texto": "vacante e jacente, nesta ordem, o que implicará a ineficácia do último ato de renúncia ."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "948352",
+    "metadata": "Ano: 2018 | Banca: FCC | Órgão: SEFAZ-SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante"
+    ],
+    "enunciado_principal": "Olavo, divorciado, faleceu deixando dois filhos, Alessandro e Breno, cada qual deles contando com um filho. Durante o processo de inventário, Alessandro e Breno renunciaram à herança. Nesse caso,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a herança deve se destinar aos herdeiros de segunda classe, por direito próprio."
+      },
+      {
+        "letra": "B",
+        "texto": "a herança deve ser destinada aos descendentes de segundo grau, por direito próprio."
+      },
+      {
+        "letra": "C",
+        "texto": "a herança deve ser destinada aos descendentes de segundo grau, por representação."
+      },
+      {
+        "letra": "D",
+        "texto": "deve ser declarada jacente, abrindo-se procedimento para a vacância."
+      },
+      {
+        "letra": "E",
+        "texto": "a herança deve ser destinada aos herdeiros de segunda classe, por representação."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "941636",
+    "metadata": "Ano: 2018 | Banca: CONSULPLAN | Órgão: TJ-MG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aspectos Gerais do Direito das Sucessões – Momento, Espécies, Lugar, Herança e Representação",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante",
+      "Sucessão Legítima – Ordem de Vocação Hereditária"
+    ],
+    "enunciado_principal": "Assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O direito de representação dá-se na linha reta descendente, mas nunca na ascendente."
+      },
+      {
+        "letra": "B",
+        "texto": "O renunciante à herança de uma pessoa não poderá representá-la na sucessão de outra."
+      },
+      {
+        "letra": "C",
+        "texto": "Na linha transversal, somente se dá o direito de representação em favor dos filhos de irmãos do falecido, quando com irmãos deste concorrerem."
+      },
+      {
+        "letra": "D",
+        "texto": "Dá-se o direito de representação, quando a lei chama certos parentes do falecido a suceder em todos os direitos, em que ele sucederia, se vivo fosse."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "940397",
+    "metadata": "Ano: 2018 | Banca: COSEAC | Órgão: Prefeitura de Maricá - RJ",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante"
+    ],
+    "enunciado_principal": "De acordo com o Código Civil, a herança vacante passará ao domínio do município, mesmo que compareça herdeiro habilitado, decorridos:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "dez anos da declaração de vacância."
+      },
+      {
+        "letra": "B",
+        "texto": "cinco anos da declaração de vacância"
+      },
+      {
+        "letra": "C",
+        "texto": "dez anos da abertura da sucessão"
+      },
+      {
+        "letra": "D",
+        "texto": "três anos da declaração de vacância."
+      },
+      {
+        "letra": "E",
+        "texto": "cinco anos da abertura da sucessão."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "936330",
+    "metadata": "Ano: 2018 | Banca: TRF - 2ª Região | Órgão: TRF - 2ª REGIÃO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante"
+    ],
+    "enunciado_principal": "Devido ao desabamento do Edifício Wilton Paes de Almeida, localizado na capital do Estado de São Paulo, após um incêndio de grandes proporções ocorrido no local, pai e filho se encontravam no interior do prédio e vieram a falecer. Não tendo sido identificado por perícia qual foi o momento da morte de cada um dos dois, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ambos herdam reciprocamente o patrimônio do outro."
+      },
+      {
+        "letra": "B",
+        "texto": "a hipótese é de comoriência."
+      },
+      {
+        "letra": "C",
+        "texto": "o caso é de ausência judicialmente declarada."
+      },
+      {
+        "letra": "D",
+        "texto": "houve sucessão aberta em favor do filho morto."
+      },
+      {
+        "letra": "E",
+        "texto": "a situação é de herança deixada pelo filho em benefício do seu pai."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "927215",
+    "metadata": "Ano: 2018 | Banca: CONSULPLAN | Órgão: TJ-MG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aspectos Gerais do Direito das Sucessões – Momento, Espécies, Lugar, Herança e Representação",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante",
+      "Sucessão Legítima – Ordem de Vocação Hereditária",
+      "Inventário e Partilha"
+    ],
+    "enunciado_principal": "Quanto ao direito das sucessões, analise as afirmativas a seguir. I. Na petição de herança, o herdeiro aparente, que de boa-fé houver pago um legado, não está obrigado a prestar o equivalente ao verdadeiro sucessor, ressalvado a este o direito de proceder contra quem o recebeu. II. A sucessão de bens de estrangeiros, situados no Brasil, será regulada na lei do país em que era domiciliado o defunto, qualquer que seja a natureza e a situação dos bens, exceto quando houver cônjuge ou filhos brasileiros, ou de quem os represente, quando se utilizará a lei material brasileira, sempre que não lhes for mais favorável a lei pessoal do “de cujus”. III. Havendo a concorrência de herdeiros de classes diversas, a renúncia de qualquer deles devolve sua parte aos que integram a mesma ordem dos chamados a suceder. IV. Quando os netos, representando seus pais, sucedem aos avós, estão obrigados a trazer à colação, ainda que não o hajam herdado, o que os pais teriam de conferir, sob pena de sonegação. Estão corretas as afirmativas",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II, III e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "I e IV, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "I, II e III, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "II, III e IV, apenas."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "906389",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante"
+    ],
+    "enunciado_principal": "A substituição compendiosa é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a concorrência da substituição ordinária e da substituição recíproca."
+      },
+      {
+        "letra": "B",
+        "texto": "aquela em que o testador determina que certa parte de seu patrimônio ou um ou mais bens dele destacado fiquem sob a confiança de um herdeiro instituído, sobre o qual pesará a obrigação de transmitir o conteúdo da deixa testamentária a um outro herdeiro ou legatário."
+      },
+      {
+        "letra": "C",
+        "texto": "aquela em que o testador designa vários substitutos simultâneos ao herdeiro instituído."
+      },
+      {
+        "letra": "D",
+        "texto": "a concorrência da substituição vulgar e da substituição fideicomissária."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "896339",
+    "metadata": "Ano: 2018 | Banca: IESES | Órgão: TJ-CE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aspectos Gerais do Direito das Sucessões – Momento, Espécies, Lugar, Herança e Representação",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante",
+      "Inventário e Partilha"
+    ],
+    "enunciado_principal": "Em relação a sonegação, responda: I. Só se pode arguir de sonegação o inventariante depois de encerrada a descrição dos bens, com a declaração, por ele feita, de não existirem outros por inventariar e partir. II. A pena de sonegadas independe de ação própria, podendo ser aplicada no inventário mediante requerimento fundamentado formulado pelos herdeiros. III. Está sujeito à pena de sonegação o herdeiro que deixar de apresentar bens que deveria colacionar. Assinale a correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas as assertivas I e III são verdadeiras."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas as assertivas I e II são verdadeiras."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas a assertiva II é verdadeira."
+      },
+      {
+        "letra": "D",
+        "texto": "Todas as assertivas são verdadeiras."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "896337",
+    "metadata": "Ano: 2018 | Banca: IESES | Órgão: TJ-CE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aspectos Gerais do Direito das Sucessões – Momento, Espécies, Lugar, Herança e Representação",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante",
+      "Sucessão Legítima – Ordem de Vocação Hereditária"
+    ],
+    "enunciado_principal": "Sr. José faleceu hoje. Era viúvo, e não vivia em união estável. Ele teve três filhos: Ricardo, já falecido em 2015; André e Rita. Ricardo foi casado em comunhão universal com Ana, e teve dois filhos, atualmente maiores de idade. André é divorciado, e tem três filhos, todos maiores. Rita é solteira. Com base neste problema, responda: I. Por se tratar de sucessão de descendentes, é possível a representação do filho Ricardo, pré-morto. Neste caso, seus representantes serão a viúva Ana, e os seus dois filhos. II. Caso André decida não aceitar a herança, seus filhos irão receber por representação. III. Rita é irmã unilateral de Ricardo e André. Neste caso, ela deve receber metade do que couber a cada um deles. IV. Por serem representantes do herdeiro Ricardo, seus filhos não podem renunciar a herança. Assinale a correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas as assertivas II, III e IV são verdadeiras."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas as assertivas I, II e IV são verdadeiras."
+      },
+      {
+        "letra": "C",
+        "texto": "Todas as assertivas são falsas."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas as assertivas I, II e III são verdadeiras."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "886190",
+    "metadata": "Ano: 2018 | Banca: Fundação CEFETBAHIA | Órgão: MPE-BA",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante",
+      "Sucessão Legítima – Ordem de Vocação Hereditária",
+      "Sucessão Testamentária - Testamento, Codicilo e Legado"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta sobre o Direito das Sucessões.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A responsabilidade pelo cumprimento do legado caberá ao legatário."
+      },
+      {
+        "letra": "B",
+        "texto": "Todos os herdeiros do testador são responsáveis pelo pagamento do imposto de transmissão do bem ao legatário."
+      },
+      {
+        "letra": "C",
+        "texto": "O direito de acrescer ocorre quando o testador beneficia várias pessoas com a mesma herança ou legado em porções determinadas."
+      },
+      {
+        "letra": "D",
+        "texto": "O direito de acrescer pode ocorrer entre herdeiros e legatários."
+      },
+      {
+        "letra": "E",
+        "texto": "O direito de acrescer é privativo do direito das sucessões."
+      }
+    ],
+    "gabarito": "D"
+  }
+]
