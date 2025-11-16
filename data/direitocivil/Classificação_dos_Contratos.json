@@ -1,0 +1,687 @@
+[
+  {
+    "id": "3219872",
+    "metadata": "Ano: 2025 | Banca: CPCON | Órgão: Prefeitura de Nazarezinho - PB",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Classificação dos Contratos"
+    ],
+    "enunciado_principal": "Quanto às disposições do Código Civil, assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O incapaz responde pelos prejuízos que causar, se as pessoas por ele responsáveis não tiverem obrigação de fazê-lo ou não dispuserem de meios suficientes. A indenização deverá ser na extensão exata do dano, mesmo que prejudique as pessoas que dele dependam."
+      },
+      {
+        "letra": "B",
+        "texto": "As pessoas jurídicas de direito público interno são civilmente responsáveis por atos dos seus agentes que nessa qualidade causem danos a terceiros, ressalvado direito regressivo contra os causadores do dano, se houver, por parte destes o dolo, excluindo-se a culpa."
+      },
+      {
+        "letra": "C",
+        "texto": "Conforme previsão expressa, as pessoas jurídicas de direito público, a que se tenha dado estrutura de direito privado, não podem ser regidas, quanto ao seu funcionamento, pelas normas constantes no Código Civil."
+      },
+      {
+        "letra": "D",
+        "texto": "Se da ofensa resultar defeito pelo qual o ofendido não possa exercer o seu ofício ou profissão, ou se lhe diminua a capacidade de trabalho, a indenização, além das despesas do tratamento e lucros cessantes até ao fim da convalescença, incluirá pensão correspondente à importância do trabalho para que se inabilitou, ou da depreciação que ele sofreu, podendo, de acordo com a preferência do juiz, a indenização ser arbitrada e paga de uma só vez."
+      },
+      {
+        "letra": "E",
+        "texto": "Os contratos civis e empresariais presumem-se paritários e simétricos até a presença de elementos concretos que justifiquem o afastamento dessa presunção, ressalvados os regimes jurídicos previstos em leis especiais, garantido também que as partes negociantes poderão estabelecer parâmetros objetivos para a interpretação das cláusulas negociais e de seus pressupostos de revisão ou de resolução, de modo que a alocação de riscos definida pelas partes deve ser respeitada e observada, razão pela qual a revisão contratual somente ocorrerá de maneira excepcional e limitada."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3115058",
+    "metadata": "Ano: 2024 | Banca: FEPESE | Órgão: Prefeitura de Palhoça - SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Classificação dos Contratos"
+    ],
+    "enunciado_principal": "De acordo com o Código Civil, um contrato é considerado real quando:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "se perfaz com a entrega da coisa acordada."
+      },
+      {
+        "letra": "B",
+        "texto": "apenas um dos contratantes recebe uma vantagem real."
+      },
+      {
+        "letra": "C",
+        "texto": "além da vontade real das partes, a lei exige uma determinada formalidade."
+      },
+      {
+        "letra": "D",
+        "texto": "a obrigação estipulada é simétrica entre as partes."
+      },
+      {
+        "letra": "E",
+        "texto": "o valor acordado entre as partes extrapola o real preço de mercado do objeto contratual."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2522297",
+    "metadata": "Ano: 2024 | Banca: VUNESP | Órgão: Prefeitura de Lins - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Classificação dos Contratos"
+    ],
+    "enunciado_principal": "Sobre a classificação dos contratos, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O contrato é considerado atualmente como um negócio jurídico bilateral, exigindo a presença de, pelo menos, duas manifestações de vontade, de forma que não se considera mais possível a existência de contratos unilaterais."
+      },
+      {
+        "letra": "B",
+        "texto": "É denominado de gratuito o contrato em que não há ônus econômico para nenhuma das partes."
+      },
+      {
+        "letra": "C",
+        "texto": "Nos contratos relacionais há uma dependência recíproca entre os contratantes, que decorre da duração e complexidade do vínculo contratual."
+      },
+      {
+        "letra": "D",
+        "texto": "No direito brasileiro os contratos são classificados, em regra, como formais, pois em sua maioria dependem de alguma forma específica."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2270220",
+    "metadata": "Ano: 2023 | Banca: Instituto Consulplan | Órgão: Câmara de São Joaquim da Barra - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Classificação dos Contratos",
+      "Contrato Aleatório e Contrato Preliminar"
+    ],
+    "enunciado_principal": "Os contratos são acordos de vontade geradores de obrigações, sendo classificados de acordo com a lei e a doutrina. Podemos afirmar que são, respectivamente, contratos aleatórios, reais e gratuitos, os contratos de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Seguro; compra e venda; e, mútuo."
+      },
+      {
+        "letra": "B",
+        "texto": "Seguro, compra e venda; e, comodato."
+      },
+      {
+        "letra": "C",
+        "texto": "Jogo e aposta (lícita); compra e venda; e, doação com encargo."
+      },
+      {
+        "letra": "D",
+        "texto": "Compra de safra futura, em que se assumiu o risco de nada existir; depósito; e, doação pura e simples."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2181244",
+    "metadata": "Ano: 2023 | Banca: Ibest | Órgão: CRF-SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Noções e Princípios do Direito Contratual",
+      "Classificação dos Contratos"
+    ],
+    "enunciado_principal": "A vontade manifestada nos contratos faz lei entre as partes contratantes (DINIZ, 2008). Com relação a contratos, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Em um contrato de compra e venda, o vendedor é obrigado a entregar a coisa antes de receber o preço, desde que não se trate de venda a crédito."
+      },
+      {
+        "letra": "B",
+        "texto": "Entende-se por retrovenda aquela realizada sob condição suspensiva, ainda que a coisa tenha sido entregue ao comprador."
+      },
+      {
+        "letra": "C",
+        "texto": "Preempção é o direito do vendedor de reservar para si a propriedade, até que o preço esteja integralmente pago."
+      },
+      {
+        "letra": "D",
+        "texto": "Pelo contrato estimatório, a tradição da coisa é substituída pela entrega do seu título representativo, salvo se houver defeito comprovado."
+      },
+      {
+        "letra": "E",
+        "texto": "Em um contrato de adesão, se houver cláusulas ambíguas ou contraditórias, deve-se adotar a interpretação mais favorável ao aderente."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2075583",
+    "metadata": "Ano: 2023 | Banca: FUMARC | Órgão: AL-MG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Noções e Princípios do Direito Contratual",
+      "Formação dos Contratos",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido",
+      "Constituição da Relação Contratual - sujeitos, forma e objeto",
+      "Classificação dos Contratos"
+    ],
+    "enunciado_principal": "Relativamente às regras contratuais previstas no Código Civil brasileiro vigente, é CORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A coisa recebida em virtude de contrato comutativo não pode ser enjeitada por vícios ou defeitos ocultos."
+      },
+      {
+        "letra": "B",
+        "texto": "A liberdade contratual será exercida nos limites da função social do contrato, sendo que, nas relações contratuais privadas, prevalecerão o princípio da intervenção mínima e a excepcionalidade da revisão contratual."
+      },
+      {
+        "letra": "C",
+        "texto": "Os contratos civis e empresariais não se presumem paritários e simétricos até a presença de elementos concretos que justifiquem o afastamento dessa presunção, ressalvados os regimes jurídicos previstos em leis especiais, garantido também que: as partes negociantes poderão estabelecer parâmetros objetivos para a interpretação das cláusulas negociais e de seus pressupostos de revisão ou de resolução; a alocação de riscos definida pelas partes deve ser respeitada e observada; e a revisão contratual somente ocorrerá de maneira excepcional e limitada."
+      },
+      {
+        "letra": "D",
+        "texto": "Tanto a cláusula resolutiva expressa, quanto a tácita operam de pleno direito, independentemente de interpelação judicial."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2666189",
+    "metadata": "Ano: 2022 | Banca: IVIN | Órgão: Prefeitura de Estreito - MA",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Classificação dos Contratos"
+    ],
+    "enunciado_principal": "Marco assinou contrato de adesão com uma empresa prestadora de internet. O contrato possuía, porém, algumas cláusulas que deixaram Marco confuso acerca do estabelecido entre as partes. Observe as cláusulas transcritas abaixo e, em seguida, assinale a alternativa correta: I. “A parte contratante renuncia, desde já, o direito ao usufruto do serviço de internet, referente à quantidade de dados não consumidos no período de bloqueio do serviço em virtude de inadimplência, ainda que quitado o valor posteriormente.” II. “O contratante está, por meio deste instrumento, adquirindo o serviço de internet de 100 megabits por segundo, ao qual terá direito ao fornecimento mínimo de 90% desta velocidade.” III. “O contratante não poderá reclamar perante a contratada pelo fornecimento de velocidade inferior a 70% do pacote contratado.”",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Em contratos de adesão, a presença de cláusulas contraditórias as torna automaticamente nulas."
+      },
+      {
+        "letra": "B",
+        "texto": "Em contratos de adesão, as cláusulas que estabelecem renúncia antecipada de direitos por parte do aderente somente valerão se constarem do texto de forma destacada, em fonte aumentada, de forma a dar claro conhecimento ao aderente."
+      },
+      {
+        "letra": "C",
+        "texto": "Na presença de cláusulas ambíguas ou contraditórias, a interpretação a ser adotada será a mais favorável ao aderente. No caso mostrado, Marco continuará a ter direito ao fornecimento mínimo de 90% da velocidade da internet contratada, com o direito à reclamação preservado."
+      },
+      {
+        "letra": "D",
+        "texto": "Cláusulas em contrato de adesão que estipulem renúncia antecipada de direitos decorrentes da natureza do contrato são anuláveis judicialmente."
+      },
+      {
+        "letra": "E",
+        "texto": "Quando, em um contrato de adesão, constem cláusulas ambíguas ou abusivas, deve-se considerar a última do texto como válida, em virtude do princípio da sobreposição de direitos."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2176038",
+    "metadata": "Ano: 2022 | Banca: Instituto UniFil | Órgão: Câmara de Mandaguaçu - PR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Formação dos Contratos",
+      "Classificação dos Contratos"
+    ],
+    "enunciado_principal": "Conforme disposto no Código Civil - Dos contratos, assinale a alternativa incorreta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Quando houver no contrato de adesão cláusulas ambíguas ou contraditórias, dever-se-á adotar a interpretação mais favorável ao aderente"
+      },
+      {
+        "letra": "B",
+        "texto": "A liberdade contratual será exercida nos limites da função social do contrato."
+      },
+      {
+        "letra": "C",
+        "texto": "É licito ser objeto de contrato a herança de pessoa viva."
+      },
+      {
+        "letra": "D",
+        "texto": "Os contratantes são obrigados a guardar, assim na conclusão do contrato, como em sua execução, os princípios de probidade e boa-fé."
+      },
+      {
+        "letra": "E",
+        "texto": "Nos contratos de adesão, são nulas as cláusulas que estipulem a renúncia antecipada do aderente a direito resultante da natureza do negócio."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2118352",
+    "metadata": "Ano: 2022 | Banca: VUNESP | Órgão: Prefeitura de São José dos Campos - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Classificação dos Contratos"
+    ],
+    "enunciado_principal": "Quanto à classificação do contrato, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Quanto ao efeito, pode ser plurilateral, que prevê a existência de vários polos, com deveres e direitos idênticos."
+      },
+      {
+        "letra": "B",
+        "texto": "Quanto à onerosidade, pode ser oneroso comutativo, que se configura pela prestação mútua e já estabelecidas consequências do cumprimento ou não do contrato, tendo cada parte uma obrigação para com a outra já determinada."
+      },
+      {
+        "letra": "C",
+        "texto": "Quanto ao momento da execução, pode ser diferido, o que ocorre quando o momento de celebração e cumprimento do contrato ocorrem em um único ato."
+      },
+      {
+        "letra": "D",
+        "texto": "Quanto ao agente, pode ser impessoal coletivo, que consiste na hipótese em que qualquer pessoa pode cumprir o contrato."
+      },
+      {
+        "letra": "E",
+        "texto": "Quanto à forma, pode ser consensual, que decorre da ausência de disposição legal específica, de modo a poder ser feito o contrato de qualquer forma."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1964938",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: MPC-SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Classificação dos Contratos"
+    ],
+    "enunciado_principal": "As transformações digitais e o uso de tecnologias disruptivas constituem grandes desafios, especialmente em se tratando de seus aspectos jurídicos. A esse respeito, julgue o item seguinte. A adoção de contratos inteligentes em determinados negócios jurídicos facilita a atuação jurisdicional, uma vez que a inexistência de pessoas nas posições contratuais dificulta a criação de embaraços ao cumprimento de ordens judiciais.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1875655",
+    "metadata": "Ano: 2021 | Banca: CESPE / CEBRASPE | Órgão: TJ-RJ",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Classificação dos Contratos"
+    ],
+    "enunciado_principal": "Entre as diversas formas de classificação dos contratos, o contrato de troca ou permuta, por meio do qual dois indivíduos se obrigam, de forma recíproca, a entregar coisa diferente de dinheiro, pode ser classificado como",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "informal, gratuito e sinalagmático."
+      },
+      {
+        "letra": "B",
+        "texto": "atípico, informal e unilateral."
+      },
+      {
+        "letra": "C",
+        "texto": "gratuito, típico e consensual."
+      },
+      {
+        "letra": "D",
+        "texto": "oneroso, atípico e unilateral."
+      },
+      {
+        "letra": "E",
+        "texto": "sinalagmático, oneroso e consensual."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1857385",
+    "metadata": "Ano: 2021 | Banca: CESPE / CEBRASPE | Órgão: PGE-AL",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Classificação dos Contratos"
+    ],
+    "enunciado_principal": "Considerando a classificação dos contratos quanto ao sacrifício patrimonial das partes, assinale a opção que contém somente espécies de contratos que, como regra geral, são gratuitos.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "doação pura e simples e locação de coisas"
+      },
+      {
+        "letra": "B",
+        "texto": "comodato e seguro"
+      },
+      {
+        "letra": "C",
+        "texto": "depósito voluntário e seguro"
+      },
+      {
+        "letra": "D",
+        "texto": "depósito voluntário e doação pura e simples"
+      },
+      {
+        "letra": "E",
+        "texto": "comodato e locação de coisas"
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1812883",
+    "metadata": "Ano: 2020 | Banca: IGECS | Órgão: Câmara de Jandira - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Classificação dos Contratos"
+    ],
+    "enunciado_principal": "Em relação às disposições dos contratos em geral do Código Civil, considere as seguintes afirmativas: I. Quando houver no contrato de adesão cláusulas ambíguas ou contraditórias, dever-se-á adotar a interpretação mais favorável a quem se beneficia delas. II. Deixa de ser obrigatória a proposta se, feita a pessoa ausente, não tiver sido expedida a resposta dentro do prazo dado. III. Os contratantes são obrigados a guardar, assim na conclusão do contrato, como em sua execução, os princípios de probidade e boa-fé. IV. A proposta de contrato obriga o proponente, somente nos casos em que não resultar dos termos dela, da natureza do negócio, ou das circunstâncias do caso. São verdadeiras (V) ou falsas (F):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V, V, F, V."
+      },
+      {
+        "letra": "B",
+        "texto": "F, F, V, F."
+      },
+      {
+        "letra": "C",
+        "texto": "V, F, V, V."
+      },
+      {
+        "letra": "D",
+        "texto": "F, V. V, F."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1670169",
+    "metadata": "Ano: 2020 | Banca: IDIB | Órgão: CRM-MT",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Classificação dos Contratos"
+    ],
+    "enunciado_principal": "Em uma audiência cível, Francisco Boaventura escutou o seguinte comentário feito pelo Juiz da causa: “Se o contrato versar sobre coisas ou fatos futuros, cujo risco de não virem a existir um dos contratantes assuma, terá o outro direito de receber integralmente o que lhe foi prometido, desde que de sua parte não tenha havido dolo ou culpa, ainda que nada do avençado venha a existir”. Nesse caso, é correto afirmar que o Juiz está se referindo ao contrato",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a termo a quo."
+      },
+      {
+        "letra": "B",
+        "texto": "aleatório."
+      },
+      {
+        "letra": "C",
+        "texto": "em favor de terceiro."
+      },
+      {
+        "letra": "D",
+        "texto": "excessivamente oneroso."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1120597",
+    "metadata": "Ano: 2020 | Banca: CESPE / CEBRASPE | Órgão: TJ-PA",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Classificação dos Contratos"
+    ],
+    "enunciado_principal": "José e Rafael realizaram um negócio jurídico em que ficou estipulado que: José entregaria determinado bem móvel para Rafael, que ficaria autorizado a vender o bem, pagando a José, em contrapartida, o valor de quinhentos reais; e Rafael poderia optar por devolver o bem, no prazo de vinte dias, para José. De acordo com o Código Civil, nessa situação hipotética foi firmado um contrato classificado como",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "atípico."
+      },
+      {
+        "letra": "B",
+        "texto": "solene."
+      },
+      {
+        "letra": "C",
+        "texto": "unilateral."
+      },
+      {
+        "letra": "D",
+        "texto": "consensual."
+      },
+      {
+        "letra": "E",
+        "texto": "comutativo."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1037426",
+    "metadata": "Ano: 2019 | Banca: CONSULPLAN | Órgão: TJ-MG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Noções e Princípios do Direito Contratual",
+      "Classificação dos Contratos"
+    ],
+    "enunciado_principal": "De acordo com as disposições do Código Civil, analise as afirmativas a respeito dos contratos em geral. I. O contrato preliminar, inclusive quanto a forma, deve conter todos os requisitos essenciais ao contrato a ser celebrado. II. Nos contratos bilaterais, pode qualquer dos contratantes alegar em defesa a exceção do contrato não cumprido. III. Nos contratos de adesão, havendo cláusulas que gerem dúvida na sua interpretação, será adotada a mais favorável ao aderente. IV. São alguns dos requisitos para a aplicação da cláusula rebus sic stantibus: a ocorrência de acontecimentos extraordinários e imprevisíveis e que tenham tornado a prestação de uma das partes excessivamente onerosa, com extrema vantagem para a outra. Estão corretas as afirmativas",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II, III e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "I e IV, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "I, II e III, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "II, III e IV, apenas."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "993513",
+    "metadata": "Ano: 2019 | Banca: COPS-UEL | Órgão: Prefeitura de Londrina - PR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Classificação dos Contratos"
+    ],
+    "enunciado_principal": "Pode-se classificar o contrato de compra e venda como",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "bilateral, oneroso, formal e aleatório."
+      },
+      {
+        "letra": "B",
+        "texto": "gratuito, bilateral, formal e aleatório."
+      },
+      {
+        "letra": "C",
+        "texto": "comutativo, unilateral, de execução simultânea e translativo."
+      },
+      {
+        "letra": "D",
+        "texto": "unilateral, translativo, oneroso e de execução diferida."
+      },
+      {
+        "letra": "E",
+        "texto": "oneroso, translativo, bilateral e comutativo."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "986565",
+    "metadata": "Ano: 2019 | Banca: FCC | Órgão: DPE-SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Classificação dos Contratos"
+    ],
+    "enunciado_principal": "O contrato de seguro prestamista é classificado como",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "acessório, oneroso e de adesão."
+      },
+      {
+        "letra": "B",
+        "texto": "aleatório, acessório e paritário."
+      },
+      {
+        "letra": "C",
+        "texto": "oneroso, paritário e aleatório."
+      },
+      {
+        "letra": "D",
+        "texto": "gratuito, de adesão e aleatório."
+      },
+      {
+        "letra": "E",
+        "texto": "principal, oneroso e paritário."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1170267",
+    "metadata": "Ano: 2018 | Banca: AOCP | Órgão: UEFS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Classificação dos Contratos"
+    ],
+    "enunciado_principal": "Cada item a seguir conceitua uma das várias espécies de contratos previstos no Código Civil Brasileiro. Identifique a qual espécie de contrato a assertiva se refere e após assinale a alternativa com a sequência correta. I. Pelo contrato de __________, uma pessoa, não ligada a outra em virtude de mandato, de prestação de serviços ou por qualquer relação de dependência, obriga-se a obter para a segunda um ou mais negócios, conforme as instruções recebidas. II. Pelo contrato de ___________, uma pessoa garante satisfazer ao credor uma obrigação assumida pelo devedor, caso este não a cumpra. III. Na ___________, uma das partes se obriga a ceder à outra, por tempo determinado ou não, o uso e gozo de coisa não fungível, mediante certa retribuição. IV. Pelo contrato de ___________, um dos contratantes se obriga a transferir o domínio de certa coisa, e o outro, a pagar-lhe certo preço em dinheiro.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "corretagem / depósito / empréstimo / compra e venda"
+      },
+      {
+        "letra": "B",
+        "texto": "agência e distribuição / fiança / empréstimo / mútuo"
+      },
+      {
+        "letra": "C",
+        "texto": "corretagem / fiança / locação de coisas / compra e venda"
+      },
+      {
+        "letra": "D",
+        "texto": "comissão / depósito / locação de coisas / mandato"
+      },
+      {
+        "letra": "E",
+        "texto": "corretagem / comissão / locação de coisas / mandato"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1097725",
+    "metadata": "Ano: 2018 | Banca: CESGRANRIO | Órgão: Petrobras",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Classificação dos Contratos"
+    ],
+    "enunciado_principal": "Nos termos do Código Civil, que regulamenta os contratos comerciais, quando uma pessoa, não ligada a outra em virtude de mandato, de prestação de serviços ou por qualquer relação de dependência, obriga-se a obter para a segunda um ou mais negócios, conforme as instruções recebidas, está configurado o contrato de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "corretagem"
+      },
+      {
+        "letra": "B",
+        "texto": "comissão"
+      },
+      {
+        "letra": "C",
+        "texto": "transporte"
+      },
+      {
+        "letra": "D",
+        "texto": "seguro"
+      },
+      {
+        "letra": "E",
+        "texto": "renda"
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "911502",
+    "metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: TJ-CE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Classificação dos Contratos"
+    ],
+    "enunciado_principal": "Contrato de prestações certas e determinadas no qual as partes possam antever as vantagens e os encargos, que geralmente se equivalem porque não envolvem maiores riscos aos pactuantes, é classificado como",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "benéfico."
+      },
+      {
+        "letra": "B",
+        "texto": "aleatório."
+      },
+      {
+        "letra": "C",
+        "texto": "bilateral imperfeito."
+      },
+      {
+        "letra": "D",
+        "texto": "derivado."
+      },
+      {
+        "letra": "E",
+        "texto": "comutativo."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "893164",
+    "metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: EBSERH",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Classificação dos Contratos"
+    ],
+    "enunciado_principal": "Considerando o que dispõe o Código Civil acerca de negócios jurídicos e contratos, julgue o item a seguir. Nos contratos de adesão, as cláusulas que estipulem renúncia antecipada do aderente a direito resultante da natureza do negócio serão consideradas abusivas, sendo, portanto, nulas",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  }
+]

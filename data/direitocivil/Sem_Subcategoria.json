@@ -1,0 +1,254 @@
+[
+  {
+    "id": "2589783",
+    "metadata": "Ano: 2024 | Banca: ACAFE | Órgão: CELESC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Sem_Subcategoria"
+    ],
+    "enunciado_principal": "Nicanor, advogado, vendeu seu carro para Baltazar, veterinário. Dias após a aquisição do automóvel Baltazar percebeu que o veículo apresentava um significativo vazamento de óleo. Neste caso será possível que Baltazar se utilize do _________________, requerendo a _______________ do contrato ou o _____________________ vez que a relação estabelecida se deu entre particulares. A alternativa que representa o preenchimento CORRETO das lacunas acima é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Código de Defesa do Consumidor; devolução dos valores pagos abatimento no preço."
+      },
+      {
+        "letra": "B",
+        "texto": "Código de Defesa do Consumidor; redibição; abatimento no preço."
+      },
+      {
+        "letra": "C",
+        "texto": "Código Civil; redibição; abatimento no preço."
+      },
+      {
+        "letra": "D",
+        "texto": "Código Civil; restituição dos valores pagos; abatimento proporcional no preço."
+      },
+      {
+        "letra": "E",
+        "texto": "Código de Defesa do Consumidor; redibição; abatimento no preço."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2627047",
+    "metadata": "Ano: 2023 | Banca: Avança SP | Órgão: Câmara de Jaguariúna - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Sem_Subcategoria"
+    ],
+    "enunciado_principal": "De acordo com o Código Civil assinale a alternativa correta acerca da prescrição.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Em cinco anos, a pretensão dos hospedeiros ou fornecedores de víveres destinados a consumo no próprio estabelecimento, para o pagamento da hospedagem ou dos alimentos."
+      },
+      {
+        "letra": "B",
+        "texto": "Em quatro anos, a pretensão para haver prestações alimentares, a partir da data em que se vencerem."
+      },
+      {
+        "letra": "C",
+        "texto": "Em três anos, a pretensão de ressarcimento de enriquecimento sem causa."
+      },
+      {
+        "letra": "D",
+        "texto": "Em dois anos, a pretensão relativa à tutela, a contar da data da aprovação das contas."
+      },
+      {
+        "letra": "E",
+        "texto": "Em um ano, a pretensão do vencedor para haver do vencido o que despendeu em juízo."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2627040",
+    "metadata": "Ano: 2023 | Banca: Avança SP | Órgão: Câmara de Jaguariúna - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Sem_Subcategoria"
+    ],
+    "enunciado_principal": "Assinale a alternativa falsa em relação à classificação dos contratos de Direito Civil.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Exigenciais são os contratos que exigem, para se aperfeiçoar, além do consentimento, a entrega da coisa que lhe serve de objeto."
+      },
+      {
+        "letra": "B",
+        "texto": "Impessoais são aqueles contratos cuja prestação pode ser cumprida, indiferentemente pelo obrigado ou por terceiro."
+      },
+      {
+        "letra": "C",
+        "texto": "Na ideia de comutatividade está presente a de equivalência das prestações."
+      },
+      {
+        "letra": "D",
+        "texto": "São nulas as cláusulas que estipulem renúncia antecipada do aderente a direito resultante da natureza do negócio."
+      },
+      {
+        "letra": "E",
+        "texto": "Nos contratos onerosos, ambas as partes obtêm proveito, ao qual corresponde um sacrifício."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2627038",
+    "metadata": "Ano: 2023 | Banca: Avança SP | Órgão: Câmara de Jaguariúna - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Sem_Subcategoria"
+    ],
+    "enunciado_principal": "Sobre os conceitos do Direito Civil, marque a alternativa certa.I - Negócio jurídico são ações ou omissões decorrentes da vontade humana que tem seus efeitos determinados na lei, mas as partes possuem maior amplitude para dispor sobre o objeto da relação.II - Obrigação é o vínculo jurídico em virtude do qual uma pessoa pode exigir de outra prestação economicamente apreciável.III - No conceito de obrigações tem-se que sinalagma obrigacional é o nome técnico que descreve a situação em que ambas as partes são credoras e devedoras ao mesmo tempo.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas o item I está correto."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas o item II está correto."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas o item III está correto."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas os itens I e III estão corretos."
+      },
+      {
+        "letra": "E",
+        "texto": "Todos os itens estão corretos."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2627036",
+    "metadata": "Ano: 2023 | Banca: Avança SP | Órgão: Câmara de Jaguariúna - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Sem_Subcategoria"
+    ],
+    "enunciado_principal": "No que diz respeito aos conceitos de prescrição e decadência, assinale a alternativa correta.I - Buscam impedir a eternização de conflitos na vida social, extinguindo posições jurídicas que seus respectivos titulares não façam valer após certo lapso temporal.II - A decadência é a extinção da pretensão à prestação devida, direito que continua existindo na relação jurídica de direito, em função de um descumprimento (que gerou a ação).III - A prescrição se refere à perda efetiva de um direito pelo seu não exercício no prazo estipulado.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas o item I está correto."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas o item II está correto."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas o item III está correto."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas os itens II e III estão corretos."
+      },
+      {
+        "letra": "E",
+        "texto": "Todos os itens estão corretos."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2627034",
+    "metadata": "Ano: 2023 | Banca: Avança SP | Órgão: Câmara de Jaguariúna - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Sem_Subcategoria"
+    ],
+    "enunciado_principal": "De acordo com as Súmulas dos Tribunais Superiores, assinale a alternativa correta.I - Salvo estipulação contratual averbada no registro imobiliário, o adquirente responde pelas benfeitorias do locatário.II - O enfiteuta pode purgar a mora enquanto não decretado o comisso por sentença.III — A execução não prescreve no mesmo prazo de prescrição da ação.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas o item I está correto."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas o item II está correto."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas o item III está correto."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas os itens I e II estão corretos."
+      },
+      {
+        "letra": "E",
+        "texto": "Todos os itens estão corretos."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2627033",
+    "metadata": "Ano: 2023 | Banca: Avança SP | Órgão: Câmara de Jaguariúna - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Sem_Subcategoria"
+    ],
+    "enunciado_principal": "Além dos casos expressamente declarados na lei, é anulável o negócio jurídico:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não revestir a forma prescrita em lei."
+      },
+      {
+        "letra": "B",
+        "texto": "for preterida alguma solenidade que a lei considere essencial para a sua validade."
+      },
+      {
+        "letra": "C",
+        "texto": "por vício resultante de erro, dolo, coação, estado de perigo, lesão ou fraude contra credores."
+      },
+      {
+        "letra": "D",
+        "texto": "Tiver por objetivo fraudar lei imperativa."
+      },
+      {
+        "letra": "E",
+        "texto": "A lei taxativamente o declarar nulo, ou proibir-lhe a prática, sem cominar sanção."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2748187",
+    "metadata": "Ano: 2018 | Banca: Instituto Águia | Órgão: CEAGESP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Sem_Subcategoria"
+    ],
+    "enunciado_principal": "São responsáveis pela reparação civil:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os donos de hotéis, hospedarias, casas ou estabelecimentos onde se albergue por dinheiro, mesmo para fins de educação, pelos seus hóspedes, moradores e educandos."
+      },
+      {
+        "letra": "B",
+        "texto": "Aqueles que foram coagidos a participar do ato ilícito."
+      },
+      {
+        "letra": "C",
+        "texto": "Os pais, pelos filhos menores, ainda que estes não estejam sob a sua autoridade e em sua companhia."
+      },
+      {
+        "letra": "D",
+        "texto": "O empregador ou comitente, por seus empregados, serviçais e prepostos, em condutas pessoais por eles praticadas."
+      }
+    ],
+    "gabarito": "A"
+  }
+]

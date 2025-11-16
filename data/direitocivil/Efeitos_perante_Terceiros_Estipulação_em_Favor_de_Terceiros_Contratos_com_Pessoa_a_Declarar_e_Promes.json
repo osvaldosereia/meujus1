@@ -1,0 +1,540 @@
+[
+  {
+    "id": "3373883",
+    "metadata": "Ano: 2025 | Banca: FGV | Órgão: TRF - 5ª REGIÃO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Efeitos perante Terceiros: Estipulação em Favor de Terceiros, Contratos com Pessoa a Declarar e Promessa de Fato de Terceiro"
+    ],
+    "enunciado_principal": "Inocêncio decidiu doar a Venâncio uma das vastas fazendas que possui no interior da Bahia. Dentro da fazenda há um galpão de armazenamento de defensivos agrícolas, que era usado também pela fazenda vizinha, de propriedade de Deocleciano. Por conta disso, no contrato de doação, fizeram constar que o donatário se obrigaria a manter o galpão de armazenamento de defensivos agrícolas aberto para uso também da fazenda de Deocleciano. O cumprimento dessa obrigação pode ser exigido por:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Inocêncio, apenas;"
+      },
+      {
+        "letra": "B",
+        "texto": "Deocleciano, apenas;"
+      },
+      {
+        "letra": "C",
+        "texto": "Inocêncio e Deocleciano, necessariamente juntos;"
+      },
+      {
+        "letra": "D",
+        "texto": "Inocêncio ou Deocleciano, necessariamente em separado;"
+      },
+      {
+        "letra": "E",
+        "texto": "Inocêncio ou Deocleciano, juntos ou em separado."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3345930",
+    "metadata": "Ano: 2025 | Banca: FGV | Órgão: TJ-GO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Efeitos perante Terceiros: Estipulação em Favor de Terceiros, Contratos com Pessoa a Declarar e Promessa de Fato de Terceiro"
+    ],
+    "enunciado_principal": "Lucas, empresário do ramo de tecnologia, celebrou um contrato com a sociedade empresária InovaTech Ltda., pelo qual encomendou a customização de um software de gestão da sociedade empresarial, no prazo de 60 dias. No contrato, estipulou-se expressamente que o software deveria ser entregue e licenciado em favor de João, seu sobrinho, que estava iniciando um empreendimento próprio e necessitava da ferramenta para a administração do novo negócio. João anuiu expressamente ao contrato e foi reservado a ele o direito de reclamar a execução. Passados três meses do prazo acordado para a entrega, João, sem ter recebido o software, entrou em contato com a InovaTech Ltda. exigindo a execução do contrato. A sociedade empresária, por sua vez, informa que recebeu uma comunicação de Lucas renunciando ao benefício concedido a João e determinando que o software fosse entregue a outra pessoa de sua escolha. Diante desse impasse, João procurou um advogado especializado para saber quais são os seus direitos, especialmente porque pretende requerer a entrega do software. Com base no caso apresentado e na legislação vigente, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Lucas tem total liberdade para substituir João como beneficiário, pois a estipulação em favor de terceiro pode ser revogada a qualquer tempo, independentemente da anuência deste."
+      },
+      {
+        "letra": "B",
+        "texto": "João não tem legitimidade para exigir a execução do contrato, pois a relação jurídica contratual é exclusiva entre Lucas e a InovaTech Ltda., sendo ele apenas um terceiro sem vínculo jurídico."
+      },
+      {
+        "letra": "C",
+        "texto": "A InovaTech Ltda. não está obrigada a entregar o software a João, pois Lucas, como estipulante, pode renunciar ao benefício concedido ao terceiro a qualquer momento e indicar outro beneficiário."
+      },
+      {
+        "letra": "D",
+        "texto": "João pode exigir o cumprimento do contrato e a entrega do software, pois, ao anuir expressamente à estipulação e ter o direito de reclamar a execução, Lucas não pode mais substituí-lo unilateralmente como beneficiário."
+      },
+      {
+        "letra": "E",
+        "texto": "João somente poderia exigir a entrega do software se tivesse sido parte formal no contrato desde a sua celebração, pois a estipulação em favor de terceiro não confere a ele direito subjetivo sobre a obrigação."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3219209",
+    "metadata": "Ano: 2025 | Banca: Avança SP | Órgão: Câmara de Itupeva - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Contratos em Geral",
+      "Noções e Princípios do Direito Contratual",
+      "Efeitos perante Terceiros: Estipulação em Favor de Terceiros, Contratos com Pessoa a Declarar e Promessa de Fato de Terceiro",
+      "Contrato Aleatório e Contrato Preliminar"
+    ],
+    "enunciado_principal": "Acerca dos contratos e de acordo com o Código Civil, analise as afirmativas a seguir. I – Os contratos civis e empresariais presumem- se paritários e simétricos até a presença de elementos concretos que justifiquem o afastamento dessa presunção, ressalvados os regimes jurídicos previstos em leis especiais, garantido também que as partes negociantes poderão estabelecer parâmetros objetivos para a interpretação das cláusulas negociais e de seus pressupostos de revisão ou de resolução. II – Se ao terceiro, em favor de quem se fez o contrato, se deixar o direito de reclamar-lhe a execução, não poderá o estipulante exonerar o devedor. III – O adquirente decai do direito de obter a redibição ou abatimento no preço no prazo de trinta dias se a coisa for móvel, e de noventa dias se for imóvel, contado da entrega efetiva; se já estava na posse, o prazo conta-se da alienação, reduzido à metade. IV – Se for aleatório, por serem objeto dele coisas futuras, tomando o adquirente a si o risco de virem a existir em qualquer quantidade, terá também direito o alienante a todo o preço, desde que de sua parte não tiver concorrido culpa, ainda que a coisa venha a existir em quantidade inferior à esperada. Está correto o que se afirma em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "I e IV, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "II, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "II, III e IV, apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II e IV, apenas."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2511476",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: Câmara dos Deputados",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Efeitos perante Terceiros: Estipulação em Favor de Terceiros, Contratos com Pessoa a Declarar e Promessa de Fato de Terceiro"
+    ],
+    "enunciado_principal": "José Pereira, analista de dados, em conversa com Vicente, um colega de longa data, especialista em machine learning, mencionou que pretendia expandir a sua empresa de consultoria e, para tanto, estava firmando parcerias com especialistas de diferentes áreas. Vicente demonstrou certa satisfação com a notícia e indicou que poderiam conversar melhor sobre os eventuais projetos futuros. No mês seguinte, José Pereira informou a Vicente que fechou um grande projeto com a Empresa Terra, para o aprimoramento do sistema de carros autônomos, com duração de 36 meses. Informou ainda que, em razão da urgência e da excelente oportunidade, celebrou o contrato sem consultá-lo, mas incluiu uma cláusula que permite a indicação de terceiro para a prestação dos serviços contratados e que essa indicação seria feita em até 48 horas. Diante da situação hipotética, é correto afirmar que a cláusula mencionada é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "válida, mas Vicente poderá recusar a nomeação; no entanto, caso aceite, se se despedir antes do prazo, responderá conjuntamente com José Pereira por perdas e danos."
+      },
+      {
+        "letra": "B",
+        "texto": "válida, porém ineficaz; assim, caso Vicente queira prestar os serviços, José Pereira poderá subcontratá-lo para tal, permanecendo como o responsável pelo cumprimento do contrato."
+      },
+      {
+        "letra": "C",
+        "texto": "válida; se Vicente aceitar a nomeação, observando a mesma forma adotada pelas partes para a celebração do contrato, adquirirá todos os direitos e assumirá todas as obrigações decorrentes do contrato com a Empresa Terra."
+      },
+      {
+        "letra": "D",
+        "texto": "válida, mas inoponível à Vicente, que poderá recusar a nomeação; nesse caso, José Pereira responderá pelas consequências do inadimplemento relativo, ainda que se disponha a executar o contrato ou a indicar nova pessoa."
+      },
+      {
+        "letra": "E",
+        "texto": "válida e eficaz; assim, caso Vicente queira prestar os serviços, aceitará a nomeação que importará na extinção do contrato celebrado por José Pereira e Empresa Terra."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2414877",
+    "metadata": "Ano: 2024 | Banca: Instituto Consulplan | Órgão: MPE-SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Efeitos perante Terceiros: Estipulação em Favor de Terceiros, Contratos com Pessoa a Declarar e Promessa de Fato de Terceiro"
+    ],
+    "enunciado_principal": "Márcia e Pedro celebraram um instrumento particular, que foi assinado por ambas as partes. O referido instrumento prova as obrigações convencionais de qualquer valor; mas os seus efeitos, bem como os da cessão, não se operam, a respeito de terceiros, antes de registrado no registro público.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2312090",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: TJ-PR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Noções e Princípios do Direito Contratual",
+      "Efeitos perante Terceiros: Estipulação em Favor de Terceiros, Contratos com Pessoa a Declarar e Promessa de Fato de Terceiro"
+    ],
+    "enunciado_principal": "A Associação dos Magistrados do Estado X contratou pacotes de hospedagem com a sociedade hoteleira Y para participação dos associados em um importante congresso no Paraná, assumindo todas as despesas. Ao chegar no local, o juiz Theotônio discorda das regras de check-in e manifesta seu descontentamento ao gerente. O responsável, então, lhe informa que todas as regras da hospedagem foram passadas à associação. Nesse caso, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "por força da relatividade dos contratos, as regras pactuadas entre a Associação e a sociedade hoteleira Y são inoponíveis a Theotônio;"
+      },
+      {
+        "letra": "B",
+        "texto": "por força da relatividade dos contratos, as regras pactuadas entre a Associação e a sociedade hoteleira Y são inoponíveis a Theotônio, que, no entanto, deve a elas se submeter se quiser se hospedar, em homenagem ao princípio da boa-fé objetiva;"
+      },
+      {
+        "letra": "C",
+        "texto": "a hipótese é de exceção ao princípio da relatividade contratual, de modo que as regras pactuadas entre a Associação e a sociedade hoteleira Y são oponíveis, como um todo, a Theotônio, que as aceitou juntamente com o benefício;"
+      },
+      {
+        "letra": "D",
+        "texto": "embora a hipótese seja de exceção ao princípio da relatividade contratual, apenas os direitos decorrentes da contratação são oponíveis a Theotônio, mas não os deveres;"
+      },
+      {
+        "letra": "E",
+        "texto": "embora a hipótese seja de exceção ao princípio da relatividade contratual, apenas os direitos e deveres concernentes à obrigação principal são oponíveis a Theotônio, mas não os direitos e deveres acessórios."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2224551",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: TJ-BA",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Efeitos perante Terceiros: Estipulação em Favor de Terceiros, Contratos com Pessoa a Declarar e Promessa de Fato de Terceiro"
+    ],
+    "enunciado_principal": "Uma grande empresa contrata plano de saúde coletivo, assumindo todos os custos e comprometendo-se a indicar os nomes de seus empregados como beneficiários da apólice. Nesse caso, o contrato se qualifica como:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "promessa de fato de terceiro;"
+      },
+      {
+        "letra": "B",
+        "texto": "estipulação em favor de terceiro;"
+      },
+      {
+        "letra": "C",
+        "texto": "preliminar ou pré-contrato;"
+      },
+      {
+        "letra": "D",
+        "texto": "policitação;"
+      },
+      {
+        "letra": "E",
+        "texto": "com pessoa a declarar."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2134214",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: AGU",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Contratos em Geral",
+      "Efeitos perante Terceiros: Estipulação em Favor de Terceiros, Contratos com Pessoa a Declarar e Promessa de Fato de Terceiro",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Assinale a opção correta no que tange aos contratos regulados pelo Código Civil, especialmente após as mudanças introduzidas pela Lei da Liberdade Econômica, considerando a jurisprudência do Superior Tribunal de Justiça (STJ).",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As hipóteses de caso fortuito e de força maior sempre incidirão nas resoluções contratuais que se deem de forma culposa"
+      },
+      {
+        "letra": "B",
+        "texto": "A lei prevê expressamente que as partes negociantes deverão estabelecer parâmetros objetivos para a interpretação dos pressupostos de revisão das cláusulas negociais."
+      },
+      {
+        "letra": "C",
+        "texto": "A revisão de contratos de direito civil cujas reações forem paritárias receberá o mesmo tratamento jurisprudencial dado à revisão dos contratos de consumo,"
+      },
+      {
+        "letra": "D",
+        "texto": "Conforme expressa previsão legal , a liberdade contratual se rá exercida em razão e nos limit es da função social do contrato."
+      },
+      {
+        "letra": "E",
+        "texto": "A teoria da imprevisão originada no direito administrativo francês, foi recepcionada pelo direito civil brasileiro, tendo sido expressamente prevista pelo atual Código Civil."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1862991",
+    "metadata": "Ano: 2022 | Banca: FGV | Órgão: MPE-GO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Efeitos perante Terceiros: Estipulação em Favor de Terceiros, Contratos com Pessoa a Declarar e Promessa de Fato de Terceiro"
+    ],
+    "enunciado_principal": "André identificou excelente oportunidade de negócio ao ver imóvel que estava sendo anunciado por preço inferior a seu valor de mercado, tendo em vista o interesse do proprietário em se desfazer dele rapidamente. Não desejando o imóvel para si, André firmou contrato para a aquisição do bem, mas fez dele constar cláusula que lhe permitia, em até cinco dias, indicar qualquer outra pessoa para assumir a posição de comprador em seu lugar, transmitindo-lhe todos os direitos e obrigações. Tendo isso em vista, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a substituição de André se opera se, no prazo de cinco dias, o indicado aceitar assumir a posição contratual, ainda que a comunicação ao vendedor ocorra depois disso;"
+      },
+      {
+        "letra": "B",
+        "texto": "a aceitação do indicado pode ser formalizada por instrumento particular, ainda que o contrato de compra e venda tenha sido celebrado por escritura pública;"
+      },
+      {
+        "letra": "C",
+        "texto": "a substituição de André pelo indicado não terá efeitos retroativos, assumindo os direitos e obrigações contratuais a partir da efetivação da substituição;"
+      },
+      {
+        "letra": "D",
+        "texto": "se o terceiro indicado por André era insolvente no momento da nomeação, o contrato produzirá efeitos somente entre os contratantes originários;"
+      },
+      {
+        "letra": "E",
+        "texto": "se o indicado por André recusar a nomeação ou não manifestar sua aceitação dentro do prazo, o contrato de compra e venda se resolverá de pleno direito."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1823378",
+    "metadata": "Ano: 2021 | Banca: INSTITUTO MAIS | Órgão: SETEC Campinas",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Efeitos perante Terceiros: Estipulação em Favor de Terceiros, Contratos com Pessoa a Declarar e Promessa de Fato de Terceiro"
+    ],
+    "enunciado_principal": "Sobre os contratos, de acordo com o Código Civil, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "No contrato com pessoa a declarar, a aceitação da pessoa nomeada não será eficaz se não se revestir da mesma forma que as partes usaram para o contrato."
+      },
+      {
+        "letra": "B",
+        "texto": "O que estipula em favor de terceiro não pode exigir o cumprimento da obrigação e ao estipulante é vedado substituir o terceiro designado no contrato, sem sua prévia anuência."
+      },
+      {
+        "letra": "C",
+        "texto": "No contrato com pessoa a declarar, a indicação deve ser comunicada à outra parte no prazo de quinze dias úteis da conclusão do contrato, se outro não tiver sido estipulado."
+      },
+      {
+        "letra": "D",
+        "texto": "O contrato preliminar, quanto à forma, deve conter todos os requisitos essenciais ao contrato que será celebrado, como a data, assinatura das partes e indicação de duas testemunhas."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1062131",
+    "metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: TJ-AM",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Efeitos perante Terceiros: Estipulação em Favor de Terceiros, Contratos com Pessoa a Declarar e Promessa de Fato de Terceiro"
+    ],
+    "enunciado_principal": "Julgue o item que se segue, a respeito da disciplina jurídica dos contratos no direito civil.No direito civil, há exceções ao princípio da relatividade dos efeitos contratuais, como, por exemplo, nos institutos da estipulação em favor de terceiro e do contrato com pessoa a declarar.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "973944",
+    "metadata": "Ano: 2019 | Banca: NC-UFPR | Órgão: TJ-PR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Efeitos perante Terceiros: Estipulação em Favor de Terceiros, Contratos com Pessoa a Declarar e Promessa de Fato de Terceiro"
+    ],
+    "enunciado_principal": "A Teoria Geral dos Contratos, para o Direito Civil, representa um marco teórico, principio lógico e normativo. Dela nascem muitas outras espécies de contratos, regrados algumas vezes por legislações específicas e até resoluções. Vários são os exemplos dessa constatação, a saber, o contrato de seguro de vida, que decorre do gênero estipulação em favor de terceiros, e o contrato de shows artísticos, que decorre da promessa de fato de terceiro. Em relação a essas duas bases contratuais e com fundamento no Código Civil brasileiro, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O que estipula em favor de terceiro não pode exigir o cumprimento da obrigação."
+      },
+      {
+        "letra": "B",
+        "texto": "Se ao terceiro, em favor de quem se fez o contrato, se deixar o direito de reclamar-lhe a execução, poderá o estipulante exonerar o devedor."
+      },
+      {
+        "letra": "C",
+        "texto": "Aquele que tiver prometido fato de terceiro responderá por perdas e danos quando este o não executar."
+      },
+      {
+        "letra": "D",
+        "texto": "Na estipulação em favor de terceiros, a substituição pode ser feita por ato entre vivos, ressalvados os casos de disposição de última vontade, os quais são vedados."
+      },
+      {
+        "letra": "E",
+        "texto": "O estipulante pode reservar-se o direito de substituir o terceiro designado no contrato, dependendo da sua anuência e da do outro contratante."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1243356",
+    "metadata": "Ano: 2018 | Banca: IMA | Órgão: Prefeitura de Santana de Parnaíba - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Efeitos perante Terceiros: Estipulação em Favor de Terceiros, Contratos com Pessoa a Declarar e Promessa de Fato de Terceiro",
+      "Constituição da Relação Contratual - sujeitos, forma e objeto"
+    ],
+    "enunciado_principal": "Sobre o direito contratual, de acordo com as disposições do Código Civil de 2002, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nos casos dos contratos paritários atípicos, não há o dever das partes de respeitarem os princípios da probidade e boa-fé."
+      },
+      {
+        "letra": "B",
+        "texto": "Nos contratos de adesão, são nulas as cláusulas ambíguas, contraditórias e as que estipulem renúncia antecipada do aderente a direito resultante da natureza do negócio."
+      },
+      {
+        "letra": "C",
+        "texto": "Aquele que estipula em favor de terceiro pode reservar-se no direito de substituir o terceiro designado, independentemente da anuência do outro contratante"
+      },
+      {
+        "letra": "D",
+        "texto": "Em caso de vício redibitório, pode o alienante optar entre receber de volta a coisa ou abater proporcionalmente o preço, se possível."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "927217",
+    "metadata": "Ano: 2018 | Banca: CONSULPLAN | Órgão: TJ-MG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Efeitos perante Terceiros: Estipulação em Favor de Terceiros, Contratos com Pessoa a Declarar e Promessa de Fato de Terceiro",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Quanto aos contratos, segundo o Código Civil, analise as afirmativas a seguir. I. A parte lesada pelo inadimplemento pode pedir a resolução do contrato, se não preferir exigir-lhe o cumprimento, cabendo, em qualquer dos casos, indenização por perdas e danos. II. Aquele que tiver prometido fato de terceiro responderá por perdas e danos, quando este o não executar, exceto se o terceiro for o cônjuge do promitente, dependendo da sua anuência o ato a ser praticado, e desde que, pelo regime do casamento, a indenização, de algum modo, venha a recair sobre os seus bens. III. É anulável a venda de ascendente a descendente, salvo se os outros descendentes e o cônjuge do alienante, independente do regime de bens, expressamente houverem consentido. IV. O vendedor pode executar a cláusula de reserva de domínio em razão do não pagamento integral do valor devido, independente de constituir o comprador em mora pelo protesto do título ou interpelação judicial. Estão corretas as afirmativas",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II, III e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "III e IV, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "I, II e III, apenas."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "880734",
+    "metadata": "Ano: 2018 | Banca: FAUEL | Órgão: Prefeitura de Paranavaí - PR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Noções e Princípios do Direito Contratual",
+      "Formação dos Contratos",
+      "Efeitos perante Terceiros: Estipulação em Favor de Terceiros, Contratos com Pessoa a Declarar e Promessa de Fato de Terceiro",
+      "Vícios Redibitórios e Evicção",
+      "Contrato Aleatório e Contrato Preliminar"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta, a respeito dos contratos.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não pode ser objeto de contrato a herança de pessoa falecida."
+      },
+      {
+        "letra": "B",
+        "texto": "A oferta ao público equivale a proposta quando encerra os requisitos essenciais ao contrato, ainda que o contrário resulte das circunstâncias ou dos usos."
+      },
+      {
+        "letra": "C",
+        "texto": "Na estipulação em favor de terceiro, o estipulante pode reservar-se o direito de substituir o terceiro designado no contrato, exceto se houver oposição do outro contratante."
+      },
+      {
+        "letra": "D",
+        "texto": "Na evicção tem direito o evicto a receber o preço que pagou pela coisa evicta, se não soube do risco da evicção, ou, dele informado, não o assumiu, salvo no caso de cláusula de exclusão da garantia contra a evicção."
+      },
+      {
+        "letra": "E",
+        "texto": "O contrato preliminar, exceto quanto à forma, deve conter todos os requisitos essenciais ao contrato a ser celebrado."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "875435",
+    "metadata": "Ano: 2018 | Banca: FGV | Órgão: Câmara de Salvador - BA",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Contratos em Geral",
+      "Efeitos perante Terceiros: Estipulação em Favor de Terceiros, Contratos com Pessoa a Declarar e Promessa de Fato de Terceiro"
+    ],
+    "enunciado_principal": "Souto aceitou transportar mercadorias que lhe foram entregues por Sátiro. Foi estipulado no contrato por Sátiro que a carga deverá ser entregue a Amélia, que não é parte no contrato. Consideradas essas informações e o disposto na legislação civil sobre estipulações contratuais em favor de terceiros, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "somente Sátiro, na condição de estipulante, pode exigir o cumprimento da obrigação de entrega da carga perante o transportador Souto;"
+      },
+      {
+        "letra": "B",
+        "texto": "somente Amélia, na condição de terceiro em favor de quem se estipulou a obrigação, pode exigir o cumprimento da entrega da carga perante o transportador Souto;"
+      },
+      {
+        "letra": "C",
+        "texto": "se à Amélia for atribuído o direito de reclamar do transportador a entrega da carga, poderá Sátiro exonerar Souto dessa obrigação;"
+      },
+      {
+        "letra": "D",
+        "texto": "tanto o estipulante Sátiro quanto a destinatária Amélia poderão, individual ou conjuntamente, exigir o cumprimento da obrigação de Souto e alterar as condições e normas do contrato;"
+      },
+      {
+        "letra": "E",
+        "texto": "Sátiro, na qualidade de estipulante, pode reservar-se o direito de substituir a destinatária da carga, Amélia, independentemente da sua anuência e da do transportador."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "875434",
+    "metadata": "Ano: 2018 | Banca: FGV | Órgão: Câmara de Salvador - BA",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Efeitos perante Terceiros: Estipulação em Favor de Terceiros, Contratos com Pessoa a Declarar e Promessa de Fato de Terceiro"
+    ],
+    "enunciado_principal": "Wagner, ao celebrar contrato de compra e venda com Wanderley, estipulou que seu irmão Urandi, credor de Wanderley, concederia moratória a este tão logo o contrato fosse celebrado. Diante da promessa da concessão de moratória (fato de terceiro), é correto afirmar que Wagner:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "terá obrigação de indenizar Wanderley se Urandi, tendo aceito a concessão de moratória prometida por Wagner, não a cumprir;"
+      },
+      {
+        "letra": "B",
+        "texto": "não terá nenhuma obrigação perante Wanderley, porque é defeso nos contratos sinalagmáticos prometer fato de terceiro;"
+      },
+      {
+        "letra": "C",
+        "texto": "assumirá pessoalmente a promessa de moratória de Urandi feita a Wanderley, podendo esse exigir seu cumprimento, afastada indenização substitutiva;"
+      },
+      {
+        "letra": "D",
+        "texto": "responderá por perdas e danos perante Wanderley, se Urandi não lhe conceder moratória;"
+      },
+      {
+        "letra": "E",
+        "texto": "nenhuma obrigação terá perante Wanderley, porque Urandi é parente consanguíneo colateral do promitente."
+      }
+    ],
+    "gabarito": "D"
+  }
+]

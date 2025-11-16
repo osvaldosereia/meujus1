@@ -1,0 +1,2148 @@
+[
+  {
+    "id": "3272302",
+    "metadata": "Ano: 2025 | Banca: FUNDATEC | Órgão: DPE-SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Responsabilidade civil",
+      "Parentesco",
+      "Poder Familiar",
+      "Modalidades da Responsabilidade Civil"
+    ],
+    "enunciado_principal": "Conforme a jurisprudência do STJ, analise as assertivas a seguir: I. É possível o reconhecimento da pluriparentalidade, pois a paternidade socioafetiva, declarada ou não em registro não impede o reconhecimento concomitante da filiação de origem biológica. II. Todos os integrantes da cadeia de consumo respondem solidariamente pela comercialização de conteúdo impróprio para criança e adolescente sem as precauções exigidas no ECA. III. A guarda compartilhada não demanda custódia física conjunta nem tempo de convívio igualitário, pois, diante de sua flexibilidade, essa modalidade de guarda comporta as fórmulas mais diversas para sua implementação, a serem fixadas pelo juiz ou por acordo entre as partes. IV. A competência para processar e julgar as ações conexas de interesse de menor é, em princípio, do foro do domicílio do detentor de sua guarda. Quais estão corretas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas II e III."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas I, III e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas II, III e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II, III e IV."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3208081",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: FUNPRESP-EXE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "Acerca de aspectos do direito de família, julgue o seguinte item. A relação de parentesco socioafetiva pode ser considerada fator que gera a obrigação alimentar, o que possibilita ao filho socioafetivo pleitear alimentos tanto ao pai biológico quanto ao pai socioafetivo simultaneamente, em razão da situação de multiparentalidade.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3100523",
+    "metadata": "Ano: 2024 | Banca: FAPEC | Órgão: MPE-MS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A preexistência de casamento ou de união estável de um dos conviventes não impede o reconhecimento de um novo vínculo referente ao mesmo período, inclusive para fins previdenciários, mesmo que não haja separação de fato."
+      },
+      {
+        "letra": "B",
+        "texto": "Independentemente de esforço comum, são incomunicáveis os bens adquiridos na constância da união estável contraída por septuagenário, em virtude da separação obrigatória dos bens."
+      },
+      {
+        "letra": "C",
+        "texto": "Pedro e João, irmãos entre si, casaram-se, cada qual, com Joana e Maria, irmãs entre si, e ambos os casais tiveram filhos, Bianca e Adão, respectivamente. Nessa situação, Bianca e Adão são parentes colaterais em linha duplicada."
+      },
+      {
+        "letra": "D",
+        "texto": "A sentença que reduz, majora ou exonera o alimentante do pagamento produz efeitos ex nunc, sem retroação."
+      },
+      {
+        "letra": "E",
+        "texto": "A renúncia da herança não pode ser tácita, exigindo manifestação expressa, com indispensável assistência de advogado, em instrumento público ou termo judicial."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3095760",
+    "metadata": "Ano: 2024 | Banca: Quadrix | Órgão: Conselho Federal de Nutrição",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "À luz do Código Civil, julgue o item a seguir, acerca das relações de parentesco.Qualquer pessoa, ainda que sem justo interesse, pode contestar a ação de investigação de paternidade ou de maternidade.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3095759",
+    "metadata": "Ano: 2024 | Banca: Quadrix | Órgão: Conselho Federal de Nutrição",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "À luz do Código Civil, julgue o item a seguir, acerca das relações de parentesco.O filho maior de 18 anos de idade pode ser reconhecido sem seu consentimento.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3095758",
+    "metadata": "Ano: 2024 | Banca: Quadrix | Órgão: Conselho Federal de Nutrição",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "À luz do Código Civil, julgue o item a seguir, acerca das relações de parentesco.São ineficazes a condição e o termo apostos ao ato de reconhecimento do filho.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3095757",
+    "metadata": "Ano: 2024 | Banca: Quadrix | Órgão: Conselho Federal de Nutrição",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "À luz do Código Civil, julgue o item a seguir, acerca das relações de parentesco.A ação de prova de filiação compete pessoalmente ao f ilho, enquanto viver, não passando aos herdeiros, se ele morrer.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3095756",
+    "metadata": "Ano: 2024 | Banca: Quadrix | Órgão: Conselho Federal de Nutrição",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "À luz do Código Civil, julgue o item a seguir, acerca das relações de parentesco.A filiação prova‑se pela certidão do termo de nascimento registrada no registro civil.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3095755",
+    "metadata": "Ano: 2024 | Banca: Quadrix | Órgão: Conselho Federal de Nutrição",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "À luz do Código Civil, julgue o item a seguir, acerca das relações de parentesco.Os filhos, havidos ou não da relação de casamento, ou por adoção, terão os mesmos direitos e as mesmas qualificações, proibidas quaisquer designações discriminatórias relativas à filiação.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3095754",
+    "metadata": "Ano: 2024 | Banca: Quadrix | Órgão: Conselho Federal de Nutrição",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "À luz do Código Civil, julgue o item a seguir, acerca das relações de parentesco.Cada cônjuge ou companheiro é aliado aos parentes do outro pelo vínculo da consanguinidade.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3095753",
+    "metadata": "Ano: 2024 | Banca: Quadrix | Órgão: Conselho Federal de Nutrição",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "À luz do Código Civil, julgue o item a seguir, acerca das relações de parentesco.Contam‑se, na linha reta, os graus de parentesco pelo número de gerações, e, na colateral, também pelo número delas, subindo de um dos parentes até ao ascendente comum, e descendo até encontrar o outro parente.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3095752",
+    "metadata": "Ano: 2024 | Banca: Quadrix | Órgão: Conselho Federal de Nutrição",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "À luz do Código Civil, julgue o item a seguir, acerca das relações de parentesco.São parentes em linha colateral ou transversal, até o quinto grau, as pessoas provenientes de um só tronco, sem descenderem uma da outra.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3095751",
+    "metadata": "Ano: 2024 | Banca: Quadrix | Órgão: Conselho Federal de Nutrição",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "À luz do Código Civil, julgue o item a seguir, acerca das relações de parentesco.São parentes em linha reta as pessoas que estão umas para com as outras na relação de ascendentes e descendentes.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2307541",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: TJ-SE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco",
+      "Casamento no Direito de Família",
+      "Regime de Bens e Outros Direitos Patrimoniais nas Relações Familiares"
+    ],
+    "enunciado_principal": "No processo de habilitação para casamento de Denis e Maria, o primo de um dos nubentes arguiu que, embora Denis fosse divorciado, a partilha dos bens do seu casamento anterior ainda não havia sido decidida. Esse fato:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "só pode ser oposto até o momento da celebração, por se tratar de impedimento;"
+      },
+      {
+        "letra": "B",
+        "texto": "não pode ser arguido por parente colateral de quarto grau, por se tratar de causa suspensiva;"
+      },
+      {
+        "letra": "C",
+        "texto": "pode ser oposto por qualquer interessado, por se tratar de impedimento;"
+      },
+      {
+        "letra": "D",
+        "texto": "configura impedimento e, constatado e provado, tornaria inexistente o casamento se ainda assim celebrado;"
+      },
+      {
+        "letra": "E",
+        "texto": "configura causa suspensiva e, constatado e provado, tornaria anulável o casamento se ainda assim celebrado."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2287485",
+    "metadata": "Ano: 2023 | Banca: Quadrix | Órgão: CREFITO-14ª Região(PI)",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "Com base no Código Civil, assinale a alternativa correta, quanto às relações de parentesco.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "São parentes em linha transversal as pessoas que estão umas para com as outras na relação de ascendentes e descendentes."
+      },
+      {
+        "letra": "B",
+        "texto": "São parentes em linha colateral, até o quarto grau, as pessoas provenientes de um só tronco, sem descenderem uma da outra."
+      },
+      {
+        "letra": "C",
+        "texto": "O parentesco somente pode ser natural, sendo vedado o vínculo civil."
+      },
+      {
+        "letra": "D",
+        "texto": "Contam‑se, na linha reta, os graus de parentesco pelo número de nascidos vivos e, na colateral, também pelo número deles, subindo de um dos parentes até ao ascendente divergente e descendo até encontrar o outro parente."
+      },
+      {
+        "letra": "E",
+        "texto": "Os filhos, desde que havidos da relação de casamento, terão os mesmos direitos e qualificações, proibidas quaisquer designações discriminatórias relativas à filiação."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2261421",
+    "metadata": "Ano: 2023 | Banca: VUNESP | Órgão: TJ-AL",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "O primo de “A”, filho do irmão do pai de “A”, é parente de “A” em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "quarto grau."
+      },
+      {
+        "letra": "B",
+        "texto": "quinto grau."
+      },
+      {
+        "letra": "C",
+        "texto": "segundo grau."
+      },
+      {
+        "letra": "D",
+        "texto": "terceiro grau."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2254948",
+    "metadata": "Ano: 2023 | Banca: VUNESP | Órgão: TJ-RJ",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "José, com 18 anos, era registrado como filho de Pedro. Entretanto, descobriu que sua mãe Maria, no período de sua concepção, estava separada de fato de Pedro e teria tido um relacionamento amoroso com Isaías, falecido há dois anos. Isaías tinha características físicas muito semelhantes a José. Este, então, propôs ação de reconhecimento de paternidade contra os sucessores de Isaías, cumulada com petição de herança. Pedro subscreveu declaração escrita onde afirmou que concorda com a pretensão de José de buscar o seu verdadeiro vínculo biológico; declarou, ainda, que pretende manter sua condição de pai de José, em razão da afetividade que possui com ele. Acerca do caso narrado, pode-se corretamente afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "deveria ter sido previamente proposta ação negatória de paternidade em face de Pedro, tendo em vista que, para todos os fins legais, é o pai de José e este não pode pretender o reconhecimento de paternidade se já possui um pai informado em seu registro."
+      },
+      {
+        "letra": "B",
+        "texto": "a ação de investigação de paternidade é imprescritível, podendo ser mantido o nome de Pedro como pai de José, juntamente com o de Isaias, se procedente a ação."
+      },
+      {
+        "letra": "C",
+        "texto": "a ação de investigação de paternidade não pode ser conhecida, tendo em vista que somente poderia ser proposta em até um ano após José ter completado 16 anos."
+      },
+      {
+        "letra": "D",
+        "texto": "a ação de reconhecimento de paternidade é imprescritível, e a ação de petição de herança tem o seu prazo prescricional iniciado após o trânsito em julgado da decisão judicial que reconheceu a paternidade."
+      },
+      {
+        "letra": "E",
+        "texto": "se ocorrer a confirmação que Isaías era o pai biológico de José, deve ser excluído o vínculo de paternidade de Pedro."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2219070",
+    "metadata": "Ano: 2023 | Banca: Quadrix | Órgão: CREFITO-7ª Região(BA e SE)",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "A partir do que dispõe o Código Civil, julgue o item.O parentesco por afinidade limita-se aos ascendentes, aos descendentes e aos irmãos do cônjuge ou do companheiro e extingue-se com a dissolução do casamento ou da união estável.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2208481",
+    "metadata": "Ano: 2023 | Banca: VUNESP | Órgão: MPE-SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Direito das Sucessões",
+      "Parentesco"
+    ],
+    "enunciado_principal": "É entendimento dominante e atual do Supremo Tribunal Federal:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A paternidade socioafetiva, declarada ou não em registro público, impede o reconhecimento do vínculo de filiação concomitante baseado na origem biológica."
+      },
+      {
+        "letra": "B",
+        "texto": "É inconstitucional a distinção de regimes sucessórios entre cônjuges e companheiros."
+      },
+      {
+        "letra": "C",
+        "texto": "A legislação infraconstitucional que estabeleça módulos urbanos na respectiva área em que situado o imóvel pode obstar o reconhecimento do direito à usucapião especial urbana."
+      },
+      {
+        "letra": "D",
+        "texto": "É compatível com a Constituição a ideia de um direito ao esquecimento, assim entendido como o poder de obstar, em razão da passagem do tempo, a divulgação de fatos ou dados verídicos."
+      },
+      {
+        "letra": "E",
+        "texto": "A pessoa transgênero tem o direito fundamental subjetivo à alteração de seu prenome, vedada a modificação da sua classificação de gênero, no registro civil."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2207292",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: DPE-RS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "Rômulo e Moema são casados por três anos, até que Moema conhece César e passa a integrar um triângulo amoroso.Nesse interim, Moema engravida, o que causa muita desconfiança a Rômulo que, àquela altura, já se sabia portador de doença que diminui significativamente a capacidade para conceber.Confronta, então, Moema que, depois de assumir o affair, lhe jura amor eterno e rigorosa fidelidade doravante. Diz mais: que sentia em seu coração que Bento, o bebê em sua barriga, era de Rômulo.Rômulo registra o filho como seu. Todavia, anos depois, quando do divórcio, ingressa com ação negatória de paternidade.Nesse caso, a Defensoria Pública que atua em favor de Rômulo deverá:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "requerer a realização de exame DNA, uma vez que a prova da divergência genética entre Rômulo e Bento é suficiente para anular o registro de filiação;"
+      },
+      {
+        "letra": "B",
+        "texto": "protestar pelo depoimento pessoal de Moema, considerando que a confissão do adultério ilide a presunção de paternidade:"
+      },
+      {
+        "letra": "C",
+        "texto": "comprovar que Moema levou Rômulo a erro essencial quanto à paternidade de Bento, o que foi determinante para o registro civil, caso em que será possível a anulação do registro;"
+      },
+      {
+        "letra": "D",
+        "texto": "demonstrar a incapacidade de Rômulo para, à época conceber, o que infirma o registro de filiação, mesmo que falta de exame genético;"
+      },
+      {
+        "letra": "E",
+        "texto": "evidenciar a ausência de vínculo socioafetivo entre Rômulo e Bento e, mais do que isso, o interesse deste último em conhecer sua origem genética e alterar o registro civil, única hipótese em que será possível. retificá-lo."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2131255",
+    "metadata": "Ano: 2023 | Banca: FUNDEPES | Órgão: Prefeitura de Marechal Deodoro - AL",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Direito das Sucessões",
+      "Parentesco",
+      "Casamento no Direito de Família",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante",
+      "Sucessão Legítima – Ordem de Vocação Hereditária"
+    ],
+    "enunciado_principal": "Dadas as afirmativas a respeito do direito de família e do direito sucessório, I. A declaração de vacância da herança não prejudicará os herdeiros que legalmente se habilitarem; mas, decorridos cinco anos da abertura da sucessão, os bens arrecadados passarão ao domínio do Município ou do Distrito Federal, se localizados nas respectivas circunscrições, incorporando-se ao domínio da União quando situados em território federal. II. O registro civil do casamento religioso deverá ser promovido dentro de sessenta dias de sua realização, mediante comunicação do celebrante ao ofício competente, ou por iniciativa de qualquer interessado, desde que haja sido homologada previamente a habilitação regulada Código no Civil. Após o referido prazo, o registro dependerá de nova habilitação.III. São herdeiros necessários os descendentes, os ascendentes, os colaterais e o cônjuge. IV. Os filhos, havidos ou não da relação de casamento, ou por adoção, terão os mesmos direitos e qualificações, proibidas quaisquer designações discriminatórias relativas à filiação. verifica-se que estão corretas apenas",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "C",
+        "texto": "III e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "II e III."
+      },
+      {
+        "letra": "E",
+        "texto": "I e IV."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2099012",
+    "metadata": "Ano: 2023 | Banca: INSTITUTO AOCP | Órgão: MPE-RR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Adoção no Direito de Família",
+      "Parentesco",
+      "Casamento no Direito de Família"
+    ],
+    "enunciado_principal": "O parentesco entre as pessoas naturais poderá ser civil, natural ou por afinidade. Por isso, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "irmãos bilaterais são parentes na linha colateral ou transversal em primeiro grau; os unilaterais, em segundo grau."
+      },
+      {
+        "letra": "B",
+        "texto": "por afinidade, o parentesco na linha colateral existe até o quarto grau."
+      },
+      {
+        "letra": "C",
+        "texto": "os cônjuges são parentes entre si pelo casamento, constituindo vínculo de parentesco civil."
+      },
+      {
+        "letra": "D",
+        "texto": "pela adoção, é constituído parentesco civil entre pais e filho na linha reta em primeiro grau."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2068787",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "Quanto às relações de parentesco e à competência para julgar as ações a esse respeito, assinale a opção correta à luz do Código Civil e da Lei de Organização Judiciária do Distrito Federal e dos Territórios.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "No Código Civil, há previsão de adoção de pessoa maior de dezoito anos de idade, o que depende da assistência efetiva do poder público e de sentença constitutiva de competência do juiz da vara da infância e da juventude."
+      },
+      {
+        "letra": "B",
+        "texto": "No Código Civil, há previsão de adoção de pessoa maior de dezoito anos de idade, o que depende da assistência efetiva do poder público e de sentença constitutiva de competência do juiz da vara de família."
+      },
+      {
+        "letra": "C",
+        "texto": "Nos termos do Código Civil, as regras gerais do Estatuto da Criança e do Adolescente não são aplicáveis à adoção de pessoa maior de dezoito anos de idade."
+      },
+      {
+        "letra": "D",
+        "texto": "Embora haja previsão de adoção de pessoa maior de dezoito anos de idade no Código Civil, a Lei de Organização Judiciária do Distrito Federal e dos Territórios não estabelece regra de competência para julgamento desse tipo de demanda."
+      },
+      {
+        "letra": "E",
+        "texto": "Embora haja regra expressa de competência para o julgamento da ação de pessoa maior de dezoito anos de idade na Lei de Organização Judiciária do Distrito Federal e dos Territórios, não há previsão do instituto no Código Civil, devendo ser usado por analogia, no que couber, o Estatuto da Criança e do Adolescente."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2068786",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "Cada um dos itens a seguir apresenta uma situação hipotética seguida de uma assertiva a ser julgada conforme as disposições do Código Civil e da jurisprudência do STJ em relação à proteção da pessoa dos filhos em situações de multiparentalidade. I O pai biológico de Maria faleceu quando ela tinha apenas doze anos de idade. Dois anos depois, a mãe de Maria passou a viver em união estável com João. Desde então, João tomou para si o exercício da função paterna na vida de Maria, situação plenamente aceita por ela. Por essa razão, João e Maria decidiram tornar jurídica a situação fática então existente, para ser reconhecida a paternidade socioafetiva dele mediante sua inclusão no registro civil dela, sem exclusão do pai biológico falecido. Nessa situação hipotética, reconhecida a multiparentalidade em razão da ligação afetiva entre enteada e padrasto, Maria terá direitos patrimoniais e sucessórios em relação tanto ao pai falecido quanto a João. II Regina namorava publicamente Adão e outros rapazes quando engravidou. Dois meses depois do nascimento de Felipe, fruto dessa gravidez, Adão o registrou e passou a tratá-lo publicamente como filho. Todavia, com dúvidas acerca da paternidade, Adão fez, extrajudicialmente, um exame de DNA e constatou que Felipe não era seu filho biológico. Nessa situação hipotética, a divergência entre a paternidade biológica e a declarada no registro de nascimento é suficiente para que Adão possa pleitear judicialmente a anulação do ato registral, mesmo configurada a paternidade socioafetiva. III Daniel e Jonas convivem em união estável homoafetiva e resolveram ter um filho. Procuraram, então, uma clínica de fertilização na companhia de Marta, irmã de Jonas, para um programa de inseminação artificial. Daniel e Marta se submeteram ao ciclo de reprodução assistida, dando origem a Letícia. Marta foi somente a chamada barriga solidária. Nessa situação hipotética, o registro civil de Letícia deverá ser realizado pelo cartório, independentemente de prévia autorização judicial. IV Quando Eva se casou com Ivo, já era mãe de Elias, fruto de um relacionamento anterior. Embora Elias seja filho biológico e registral de outro homem, perante a sociedade, o trabalho, os amigos e a escola, Ivo sempre o apresenta como seu filho, sem qualquer distinção. Nessa situação hipotética, depois do falecimento de Ivo, Elias poderá obter judicialmente o reconhecimento de Ivo como seu pai socioafetivo, incluindo-o no seu registro civil, sem a exclusão do pai biológico. Estão certos apenas os itens",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II."
+      },
+      {
+        "letra": "B",
+        "texto": "I e III."
+      },
+      {
+        "letra": "C",
+        "texto": "II e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "I, III, e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "II, III e IV."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2068778",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "Pedro ajuizou ação requerendo o reconhecimento de sua paternidade biológica de Rafael, com quatorze anos de idade, em cuja certidão de nascimento já constava o nome do padrasto como pai. Nessa situação hipotética,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não há impedimento quanto à procedência da ação apenas se a paternidade socioafetiva não tiver sido declarada em registro público de notas e títulos."
+      },
+      {
+        "letra": "B",
+        "texto": "há impedimento quanto à procedência da ação, em razão dos efeitos jurídicos que esta causaria."
+      },
+      {
+        "letra": "C",
+        "texto": "há impedimento quanto à procedência da ação, porquanto só se admite um pai, biológico ou não."
+      },
+      {
+        "letra": "D",
+        "texto": "não há impedimento quanto à procedência da ação, porquanto podem ser reconhecidos os dois vínculos."
+      },
+      {
+        "letra": "E",
+        "texto": "não há impedimento quanto à procedência da ação, porquanto Rafael ainda é menor de idade."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2674832",
+    "metadata": "Ano: 2022 | Banca: IDECAN | Órgão: TJ-PI",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "A Lei 11.698/2008 alterou alguns artigos do Código Civil de 10 de janeiro de 2002 para instituir e disciplinar a guarda compartilhada. Em 2014, com a aprovação da Lei 13.058, algumas correções foram realizadas, principalmente no tocante à obrigatoriedade do magistrado em observar e aplicar a guarda compartilhada, com prioridade, mesmo que não haja consenso entre os genitores, desde que ambos estejam aptos a exercer o poder familiar e que nenhum deles declare que não deseja a guarda do filho. Ainda de acordo com a nova lei, analise as afirmativas a seguir:-I. Para estabelecer as atribuições do pai e da mãe e os períodos de convivência sob guarda compartilhada, o juiz, de ofício ou a requerimento do Ministério Público, deverá basear-se na oitiva dos filhos, visando à divisão equilibrada do tempo com o pai e com a mãe.II. Qualquer estabelecimento público ou privado é obrigado a prestar informações a qualquer dos genitores sobre os filhos destes, sob pena de multa de R$ 500,00 (quinhentos reais) a R$ 1.000,00 (mil reais) por dia pelo não atendimento da solicitação.III. A guarda unilateral obriga o pai ou a mãe que não a detenha a supervisionar os interesses dos filhos, e, para possibilitar tal supervisão, qualquer dos genitores sempre será parte legitima para solicitar informações e/ou prestação de contas, objetivas ou subjetivas, em assuntos ou situações que direta ou indiretamente afetem a saúde física e psicológica e a educação de seus filhos.IV. A alteração não autorizada ou o descumprimento imotivado de cláusula de guarda unilateral ou compartilhada implicará perda da guarda atribuída ao seu detentor.-Assinale",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "se somente a afirmativa I estiver correta."
+      },
+      {
+        "letra": "B",
+        "texto": "se somente a afirmativa li estiver correta."
+      },
+      {
+        "letra": "C",
+        "texto": "se somente a afirmativa Ili estiver correta."
+      },
+      {
+        "letra": "D",
+        "texto": "se somente as afirmativas li e IlI estiverem corretas."
+      },
+      {
+        "letra": "E",
+        "texto": "se somente as afirmativas I, lI e IlI estiverem corretas."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2006463",
+    "metadata": "Ano: 2022 | Banca: INSTITUTO AOCP | Órgão: MPE-MS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "Assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Julgada procedente a investigação de paternidade, os alimentos são devidos a partir da citação."
+      },
+      {
+        "letra": "B",
+        "texto": "Em ação investigatória, a recusa do suposto pai a se submeter ao exame de DNA induz presunção juris tantum de paternidade."
+      },
+      {
+        "letra": "C",
+        "texto": "O reconhecimento dos filhos havidos fora do casamento pode ser feito em testamento."
+      },
+      {
+        "letra": "D",
+        "texto": "A paternidade socioafetiva impede o reconhecimento do vínculo de filiação concomitante, baseado na origem biológica."
+      },
+      {
+        "letra": "E",
+        "texto": "É possível o reconhecimento da paternidade socioafetiva post mortem, isto é, após o falecimento de quem se pretende reconhecer como pai."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1992788",
+    "metadata": "Ano: 2022 | Banca: PGR | Órgão: PGR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco",
+      "União Estável",
+      "Regime de Bens e Outros Direitos Patrimoniais nas Relações Familiares"
+    ],
+    "enunciado_principal": "MARQUE A ALTERNATIVA CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na união estável, salvo contrato escrito entre os companheiros, aplica-se às relações patrimoniais o regime de separação de bens"
+      },
+      {
+        "letra": "B",
+        "texto": "Comprovado o adultério da mulher, fica ilidida a presunção legal da paternidade."
+      },
+      {
+        "letra": "C",
+        "texto": "Presumem-se concebidos na constância do casamento os filhos havidos por inseminação artificial heteróloga, ainda que não tenha havido prévia autorização do marido."
+      },
+      {
+        "letra": "D",
+        "texto": "O Supremo Tribunal Federal, em repercussão geral, fixou a tese de que a paternidade socioafetiva não impede o reconhecimento do vínculo de filiação concomitante baseado na origem biológica."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1990925",
+    "metadata": "Ano: 2022 | Banca: IESES | Órgão: TJ-TO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "O reconhecimento dos filhos havidos fora do casamento é irrevogável e será feito: I. No registro de nascimento. II. Por testamento, desde que expressamente manifestado. III. Por escritura pública ou escrito particular, a ser arquivado em cartório. IV. Por manifestação expressa e direta perante o juiz, desde que o reconhecimento haja sido o objeto único e principal do ato que o contém. A sequência correta é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas a assertiva IV está incorreta."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas as assertivas I e II estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "As assertivas I, II, III e IV estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas as assertivas II e IV estão incorretas."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1971997",
+    "metadata": "Ano: 2022 | Banca: IDECAN | Órgão: TJ-PI",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "Entende-se parentesco por afinidade o vínculo existente entre parentes do cônjuge ou companheiro limitados aos ascendentes, aos descendentes e aos irmãos. Nesse sentido, é parente por afinidade",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "sobrinho."
+      },
+      {
+        "letra": "B",
+        "texto": "primo."
+      },
+      {
+        "letra": "C",
+        "texto": "mãe."
+      },
+      {
+        "letra": "D",
+        "texto": "nora."
+      },
+      {
+        "letra": "E",
+        "texto": "tio."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1960395",
+    "metadata": "Ano: 2022 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco",
+      "Poder Familiar"
+    ],
+    "enunciado_principal": "As situações denominadas de alienação parental representam uma particularidade do Serviço Social, visto que podem desvelar expressões da questão social e constituir fundamental contribuição para a compreensão do objeto da disputa judicial. Gois e Oliveira (2019) consideram que, do ponto de vista social, as situações no processo judicial como alienação parental devem ser apreendidas a partir do direito à convivência social (familiar e comunitária) e da equidade de direitos e deveres entre pai e mãe. Ainda de acordo com as autoras citadas, o posicionamento quanto à equidade parental, pressuposto legal da sociedade contemporânea, passa pelo reconhecimento",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "da preservação da convivência pacífica entre pais e filhos."
+      },
+      {
+        "letra": "B",
+        "texto": "da assimetria nas relações de poder do par parental."
+      },
+      {
+        "letra": "C",
+        "texto": "da violência doméstica enquanto uma realidade."
+      },
+      {
+        "letra": "D",
+        "texto": "do pertencimento social em condições dignas."
+      },
+      {
+        "letra": "E",
+        "texto": "da judicialização de questões de âmbito social."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1942132",
+    "metadata": "Ano: 2022 | Banca: FCC | Órgão: Prefeitura de Teresina - PI",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "Em relação ao parentesco em geral e à filiação:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Entre outras situações previstas legalmente, presumem-se concebidos na constância do casamento os filhos havidos, a qualquer tempo, quando se tratar de embriões excedentários, decorrentes de concepção artificial homóloga."
+      },
+      {
+        "letra": "B",
+        "texto": "A prova da impotência do cônjuge para gerar, à época da concepção, não ilide a presunção da paternidade na constância do casamento."
+      },
+      {
+        "letra": "C",
+        "texto": "Os filhos, havidos ou não da relação de casamento, terão os mesmos direitos e qualificações, proibidas quaisquer designações discriminatórias relativas à filiação, salvo as concernentes à adoção."
+      },
+      {
+        "letra": "D",
+        "texto": "Na linha reta ou colateral, o parentesco por afinidade não se extingue com a dissolução do casamento ou da união estável."
+      },
+      {
+        "letra": "E",
+        "texto": "Cabe ao marido o direito de contestar a paternidade dos filhos nascidos de sua mulher, sendo tal ação prescritível em dez anos."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1925090",
+    "metadata": "Ano: 2022 | Banca: FGV | Órgão: TJ-MS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "Raquel, filha de Vera e César, casou-se civilmente com Ricardo. Raquel é irmã de Gustavo. Gustavo e Laura são casados. Ricardo tem dois irmãos, Bernardo e Daniel. Bernardo tem um filho, Adonis. Diante disso, no que concerne ao parentesco civilmente relevante, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ricardo é parente por afinidade de Gustavo na linha colateral;"
+      },
+      {
+        "letra": "B",
+        "texto": "Adonis é parente em linha reta por afinidade de Vera e César;"
+      },
+      {
+        "letra": "C",
+        "texto": "Raquel é parente por afinidade de Ricardo;"
+      },
+      {
+        "letra": "D",
+        "texto": "Laura é parente colateral em segundo grau de Ricardo;"
+      },
+      {
+        "letra": "E",
+        "texto": "Daniel é parente em linha reta de Adonis."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1914745",
+    "metadata": "Ano: 2022 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "Sobre o Instituto da emancipação, pode-se afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o filho reconhecido, sem seu próprio consentimento, somente poderá impugnar o reconhecimento até um ano após a maioridade civil, não havendo prazo para os emancipados."
+      },
+      {
+        "letra": "B",
+        "texto": "o filho reconhecido, sem seu próprio consentimento, pode impugnar o reconhecimento até quatro anos após a emancipação."
+      },
+      {
+        "letra": "C",
+        "texto": "a pessoa emancipada necessitará do consentimento de seu tutor para impugnar reconhecimento de filiação."
+      },
+      {
+        "letra": "D",
+        "texto": "vige a tutela até a maioridade, independentemente da emancipação do tutelado."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1909653",
+    "metadata": "Ano: 2022 | Banca: VUNESP | Órgão: HORTOPREV - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco",
+      "Casamento no Direito de Família"
+    ],
+    "enunciado_principal": "Presumem-se concebidos na constância do casamento os filhos",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "nascidos cento e oitenta dias, pelo menos, antes de estabelecida a convivência conjugal."
+      },
+      {
+        "letra": "B",
+        "texto": "havidos por fecundação artificial homóloga, desde que não falecido o marido."
+      },
+      {
+        "letra": "C",
+        "texto": "havidos, a qualquer tempo, quando se tratar de embriões excedentários, decorrentes de concepção artificial homóloga."
+      },
+      {
+        "letra": "D",
+        "texto": "havidos por inseminação artificial heteróloga, independentemente de autorização do marido."
+      },
+      {
+        "letra": "E",
+        "texto": "nascidos nos trezentos e sessenta e cinco dias subsequentes à dissolução da sociedade conjugal, por morte, separação judicial, nulidade e anulação do casamento."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1894824",
+    "metadata": "Ano: 2022 | Banca: FGV | Órgão: MPE-BA",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "Juliana se casou com o seu namorado de adolescência, Raul. Os sogros dela, Ana e Ricardo, não ficaram muito satisfeitos, pois preferiam que Raul tivesse se casado com outra pessoa. A irmã de Raul, Eunice, aproveitou para atormentar Juliana com esse fato. Tudo isso gerou uma animosidade entre Juliana e a família de Raul, que não conseguiam conviver no mesmo ambiente. Juliana se arrependeu de ter se tornado parente dos familiares de Raul e passou a considerar o divórcio para extinguir esse vínculo. Diante disso, o divórcio extinguiria o parentesco entre Juliana e:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ana, por serem parentes por afinidade em linha reta;"
+      },
+      {
+        "letra": "B",
+        "texto": "Eunice, por serem parentes por afinidade na linha colateral;"
+      },
+      {
+        "letra": "C",
+        "texto": "Ricardo, por serem parentes socioafetivos em linha reta;"
+      },
+      {
+        "letra": "D",
+        "texto": "Eunice, por serem parentes socioafetivos na linha colateral;"
+      },
+      {
+        "letra": "E",
+        "texto": "Ana, Ricardo e Eunice, por serem parentes por afinidade de Juliana."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2169536",
+    "metadata": "Ano: 2021 | Banca: FCC | Órgão: MANAUSPREV",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "Hugo tem um primo chamado Bernardo. Bernardo é filho do irmão do genitor de Hugo. O Código Civil, ao regulamentar o Direito de Família, enquadra essa situação de parentesco que popularmente conhecemos por “primo-irmão” como parentesco por",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "afinidade em linha reta de terceiro grau."
+      },
+      {
+        "letra": "B",
+        "texto": "afinidade em linha colateral de terceiro grau."
+      },
+      {
+        "letra": "C",
+        "texto": "consanguinidade em linha colateral de primeiro grau."
+      },
+      {
+        "letra": "D",
+        "texto": "consanguinidade em linha reta de primeiro grau."
+      },
+      {
+        "letra": "E",
+        "texto": "consanguinidade em linha colateral de quarto grau."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1868344",
+    "metadata": "Ano: 2021 | Banca: IESES | Órgão: TJ-RO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "O Código Civil Brasileiro regulamenta as relações de parentesco, consanguíneo e por afinidade, em linha reta e colateral. A respeito do assunto, leia as assertivas a seguir e responda: I. O parentesco por afinidade limita-se aos ascendentes e descendentes do cônjuge ou companheiro, sem incluir colaterais. II. O parentesco por afinidade sempre se extingue com o fim do casamento ou união estável. III. São parentes em linha colateral ou transversal, até o terceiro grau, as pessoas provenientes de um só tronco, sem descenderem uma da outra. IV. São parentes em linha reta as pessoas que estão umas para com as outras na relação de ascendentes e descendentes. Considerando as assertivas acima, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Estão corretas as assertivas I, II, III e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas estão corretas as assertivas I, II e III."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas a assertiva IV está correta."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas estão corretas as assertivas II e IV"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1859262",
+    "metadata": "Ano: 2021 | Banca: FUMARC | Órgão: PC-MG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "Z. casado com Y, mulher, não pode gerar filhos em razão de azoospermia decorrente de cirurgia que removeu glândulas produtoras de esperma. Ele autorizou que Y fosse fertilizada, mediante inseminação artificial, com sêmen de H., amigo do casal. Ela ficou grávida e a criança N. nasceu viva. Foi registrada como filha do casal. Ocorreu grave desentendimento entre Z. e H. Agora, Z. pretende aforar ação negatória de paternidade sob o fundamento de não ser pai de N. É CORRETO afirmar que a pretensão de Z.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não pode ser acolhida, porque o fundamento alegado contraria o princípio da paternidade responsável."
+      },
+      {
+        "letra": "B",
+        "texto": "não pode ser acolhida, porque ele autorizou a inseminação artificial heteróloga."
+      },
+      {
+        "letra": "C",
+        "texto": "pode ser acolhida, porque a inseminação artificial heteróloga é imoral."
+      },
+      {
+        "letra": "D",
+        "texto": "pode ser acolhida, porque apenas a paternidade biológica é admitida no direito brasileiro."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1852626",
+    "metadata": "Ano: 2021 | Banca: FGV | Órgão: TJ-SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "Mário reconheceu voluntariamente a paternidade socioafetiva de Joana, que somente fora registrada por sua mãe. Apesar de conviverem em família e de terem sólidos laços afetivos, Joana, depois de atingir a maioridade e cerca de trinta anos após o reconhecimento, ingressou com ação de investigação de paternidade em face de Cícero, alegando ser ele o seu pai biológico, o que era verdadeiro e estava cabalmente provado, embora não existisse qualquer laço afetivo entre ambos. Considerando a narrativa acima e a plena veracidade dos fatos descritos, o pedido formulado por Joana, no sentido de que fosse reconhecido que Cícero era seu pai, deve ser julgado:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "improcedente, já que a paternidade socioafetiva se sobrepõe à biológica;"
+      },
+      {
+        "letra": "B",
+        "texto": "improcedente, pois a paternidade socioafetiva, a exemplo da adoção, faz surgir nova relação parental, cessando a anterior;"
+      },
+      {
+        "letra": "C",
+        "texto": "procedente, pois Joana não concorreu para o reconhecimento inverídico da paternidade por Mário;"
+      },
+      {
+        "letra": "D",
+        "texto": "procedente, desde que Joana tenha averbado, no registro civil, ao atingir a maioridade, a sua divergência;"
+      },
+      {
+        "letra": "E",
+        "texto": "improcedente, considerando a ausência de afetividade entre Joana e Cícero e o decurso do tempo."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1826547",
+    "metadata": "Ano: 2021 | Banca: CESPE / CEBRASPE | Órgão: MPE-SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "A respeito do direito de família, do direito das sucessões e do registro público, julgue o item seguinte. De acordo com o STJ, a configuração do abandono afetivo depende de a paternidade ser previamente reconhecida.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1813771",
+    "metadata": "Ano: 2021 | Banca: FCC | Órgão: DPE-GO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "Ana e Flávia são casadas e pretendem ter um filho. Não dispondo de condições financeiras para arcar com os custos de tratamento de fertilização, realizaram inseminação caseira com material genético doado por um amigo do casal. A inseminação caseira teve êxito e Ana ficou grávida. Flávia acompanhou o trabalho de parto de Ana e ambas se identificaram na maternidade como casal, apresentando exames pré-natais, que contaram com o acompanhamento de Flávia, a demonstrar que a gravidez era fruto de projeto parental conjunto. Contudo, na declaração de nascido vivo do bebê, chamado de Arthur, constou apenas o nome de Ana, como “mãe solteira”. Diante dessa situação,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Flávia deverá ajuizar ação para reconhecimento da maternidade, com fundamento na igualdade de tratamento e direitos garantidos às famílias heteroafetivas pelo valor jurídico conferido à socioafetividade."
+      },
+      {
+        "letra": "B",
+        "texto": "considerando que o procedimento de inseminação se deu fora das clínicas ou centros de serviço de reprodução humana autorizados, o reconhecimento judicial dependerá da realização de contrato de doação do material válido realizado entre as partes."
+      },
+      {
+        "letra": "C",
+        "texto": "Flávia somente poderá ser reconhecida como mãe de Arthur por meio de ação de adoção, uma vez que o Supremo Tribunal Federal já reconhece amplamente a possibilidade de adoção por casais homoafetivos."
+      },
+      {
+        "letra": "D",
+        "texto": "Ana e Flávia poderão realizar diretamente o registro da criança em cartório, constando o nome das duas como mães; contudo o doador do material genético deverá ser registrado como pai da criança."
+      },
+      {
+        "letra": "E",
+        "texto": "como a inseminação caseira não possui respaldo jurídico, a maternidade agiu corretamente ao fazer constar na declaração de nascido vivo somente Ana, parturiente, como “mãe solteira” de Arthur."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1810240",
+    "metadata": "Ano: 2021 | Banca: AEVSF/FACAPE | Órgão: Prefeitura de Petrolina - PE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "Com relação às relações de parentesco, indique a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "São parentes em linha colateral as pessoas que estão umas para com as outras na relação de ascendentes e descendentes."
+      },
+      {
+        "letra": "B",
+        "texto": "O parentesco por afinidade limita-se aos ascendentes, aos descendentes e aos irmãos do cônjuge ou companheiro."
+      },
+      {
+        "letra": "C",
+        "texto": "Na linha reta, a afinidade se extingue com a dissolução do casamento ou da união estável."
+      },
+      {
+        "letra": "D",
+        "texto": "São parentes em linha transversal, até o sexto grau, as pessoas provenientes de um só tronco, sem descenderem uma da outra."
+      },
+      {
+        "letra": "E",
+        "texto": "O Código Civil veda o reconhecimento dos filhos havido fora do casamento por meio de testamento."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1785382",
+    "metadata": "Ano: 2021 | Banca: FCC | Órgão: DPE-BA",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco",
+      "Poder Familiar"
+    ],
+    "enunciado_principal": "Paula, 17 anos, ficou órfã de pai e mãe e reside juntamente com dois irmãos mais novos em um barraco construído por sua falecida mãe. Paula, apesar de muito jovem, assumia a responsabilidade da família, guardava os documentos dos irmãos, incluindo cartão de vacinação, e se apresentava para tratar das demandas de todos. Tal situação retrata claramente uma hipótese de família",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "anaparental."
+      },
+      {
+        "letra": "B",
+        "texto": "pluriparental."
+      },
+      {
+        "letra": "C",
+        "texto": "monoparental."
+      },
+      {
+        "letra": "D",
+        "texto": "unipessoal."
+      },
+      {
+        "letra": "E",
+        "texto": "em mosaico."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1767779",
+    "metadata": "Ano: 2021 | Banca: MPDFT | Órgão: MPDFT",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco",
+      "Casamento no Direito de Família"
+    ],
+    "enunciado_principal": "De acordo com a legislação constitucional e infraconstitucional vigentes, podemos afirmar: I. Nas ações de divórcio, em que há situação recente de violência doméstica declarada em Vara especializada, o Ministério Público somente intervirá quando houver interesse de incapaz envolvido. II. Em discussão de guarda de filho menor, o cônjuge considerado culpado no processo de divórcio poderá sofrer restrições em sua pretensão de guarda compartilhada.III. O companheiro é parente por afinidade em terceiro grau do sobrinho de sua companheira. IV. Não é possível a coexistência simultânea de um pai biológico e um pai socioafetivo no assento de nascimento de uma pessoa, pela proibição legal da multiparentalidade. V. Quando ambos os genitores do alimentando estiverem vivos, não será possível a fixação de alimentos avoengos.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Estão corretas I, IV e V."
+      },
+      {
+        "letra": "B",
+        "texto": "Estão corretas II, IV e V."
+      },
+      {
+        "letra": "C",
+        "texto": "Estão corretas II, IV e V."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas uma está correta."
+      },
+      {
+        "letra": "E",
+        "texto": "Todas são falsas."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1759313",
+    "metadata": "Ano: 2021 | Banca: FGV | Órgão: DPE-RJ",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "Josefa, 36 anos, conhece Felipe, 42 anos, e decidem, após um período de namoro, residir juntos. Josefa possui dois filhos de outros relacionamentos, Carla, 14 anos, e Lúcio, 12 anos, e está com a guarda exclusiva de Carla. Já Felipe, por sua vez, também possui outra filha de anterior relacionamento, Paula, 15 anos, que reside com Felipe, que possui sua guarda compartilhada com a mãe da adolescente. O pai registral de Carla é falecido, e Lúcio não possui a informação do pai registral. Nesse contexto, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o reconhecimento de paternidade socioafetiva somente poderá ser realizado por meio de ação judicial;"
+      },
+      {
+        "letra": "B",
+        "texto": "o reconhecimento de maternidade socioafetiva de Paula por Josefa, caso realizado no Cartório de Registro Civil, independe da concordância da mãe registral, mas Paula deverá ser ouvida;"
+      },
+      {
+        "letra": "C",
+        "texto": "havendo discussão judicial acerca da paternidade de Lúcio, Felipe pode reconhecer pela via administrativa a paternidade socioafetiva, havendo extinção do processo sem resolução do mérito por falta superveniente de objeto;"
+      },
+      {
+        "letra": "D",
+        "texto": "o princípio do melhor interesse da criança permite que Felipe possa reconhecer sua paternidade socioafetiva em relação a Carla, junto ao Registrador Civil, com a concordância de Josefa e de Carla, mantendo-se o nome do pai registral;"
+      },
+      {
+        "letra": "E",
+        "texto": "é possível a retratação do reconhecimento de paternidade socioafetiva junto ao Registrador Civil, hipótese em que o Registrador, suspeitando da má-fé do requerente, poderá suscitar dúvida junto ao juízo de registros públicos."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1299414",
+    "metadata": "Ano: 2020 | Banca: Quadrix | Órgão: CFP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "Em conformidade com a Lei n.⁰ 12.518/2010, assinale a alternativa correta no que diz respeito à alienação parental.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A alienação parental é caracterizada pela interferência na formação educacional da criança ou do adolescente, promovida ou induzida por um dos cuidadores para que repudie genitor(a) ou que cause prejuízo ao estabelecimento ou à manutenção de vínculos."
+      },
+      {
+        "letra": "B",
+        "texto": "A alienação parental é caracterizada pela interferência na formação psicológica, promovida ou induzida por um dos cuidadores para que repudie genitor(a) ou que cause prejuízo ao estabelecimento ou à manutenção de vínculos."
+      },
+      {
+        "letra": "C",
+        "texto": "A alienação parental é caracterizada pela alteração na formação educacional da criança, promovida ou induzida para que repudie cuidador(a) ou que cause prejuízo ao estabelecimento ou à manutenção de vínculos."
+      },
+      {
+        "letra": "D",
+        "texto": "A alienação parental é toda manifestação promovida para que repudie genitor(a) ou que cause prejuízo ao estabelecimento ou à manutenção de vínculos."
+      },
+      {
+        "letra": "E",
+        "texto": "A alienação parental é caracterizada pela interferência na formação psicológica da criança ou do adolescente, promovida ou induzida por um dos cuidadores para que repudie genitor(a) ou que cause prejuízo ao estabelecimento ou à manutenção de vínculos."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1149601",
+    "metadata": "Ano: 2020 | Banca: VUNESP | Órgão: AVAREPREV-SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "Cristiano casou-se com Joana e com ela teve duas filhas antes de se divorciarem. Após o divórcio, Cristiano casou-se com Matilde e teve 1 filho, Leonardo, e, após dez anos de casamento, em meio a uma discussão, Matilde afirmou que o filho do casal, Leonardo, era, na verdade, filho de João, colega de trabalho de Matilde. Diante da situação hipotética e o previsto expressamente no Código Civil, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Basta a confissão de Matilde para excluir a paternidade de Cristiano"
+      },
+      {
+        "letra": "B",
+        "texto": "A prova da impotência de Cristiano, para gerar, à época da concepção, ilide a presunção da paternidade."
+      },
+      {
+        "letra": "C",
+        "texto": "Cabe a Cristiano contestar a paternidade de Leonardo e, no caso de morte de Cristiano, a ação será extinta, não sendo possível às filhas de Cristiano prosseguir com a ação."
+      },
+      {
+        "letra": "D",
+        "texto": "Contestada a filiação, os herdeiros do impugnante não têm direito de prosseguir na ação."
+      },
+      {
+        "letra": "E",
+        "texto": "Se iniciada a ação de prova de filiação por Leonardo, os eventuais herdeiros poderão continuá-la, mesmo após extinto o processo."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1677395",
+    "metadata": "Ano: 2019 | Banca: VUNESP | Órgão: TJ-AL",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "Ocorrendo o reconhecimento de filho em testamento de modo incidental, a posterior revogação do testamento",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "revoga o reconhecimento do filho."
+      },
+      {
+        "letra": "B",
+        "texto": "não afasta o reconhecimento do fiiho diante do caráter irrevogável do ato."
+      },
+      {
+        "letra": "C",
+        "texto": "somente não revogará o reconhecimento de filiação se houver essa ressalva quando da revogação do testamento."
+      },
+      {
+        "letra": "D",
+        "texto": "revoga o reconhecimento do filho ante a perda da eficácia do testamento."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1677363",
+    "metadata": "Ano: 2019 | Banca: VUNESP | Órgão: TJ-AL",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "Sobre o reconhecimento dos filhos havidos fora do casamento ou da união estável, considere as seguintes afirmações: I. Os genitores comparecem perante o oficial de registro, pessoalmente, ou por intermédio de procurador com poderes específicos, para efetuar o assento, do qual constará o nome dos genitores e dos respectivos avós. II. Apenas a mãe comparece perante o oficial da registro com declaração de reconhecimento ou anuêncla do pai à efetivação do registro. III. O reconhecimento do filho é irrevogável e poderá ser feito no registro de nascimento, nâo devendo constar o estado civil dos pais. Está(ão) correta(s):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente I."
+      },
+      {
+        "letra": "B",
+        "texto": "I, lI e III."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente I e II."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente l e III."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1180412",
+    "metadata": "Ano: 2019 | Banca: Quadrix | Órgão: CRO-AC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco",
+      "Casamento no Direito de Família"
+    ],
+    "enunciado_principal": "Quanto ao direito de família e às sucessões, julgue o item. Suponha‐se que Maria seja filha de Antônio e Joana, nascendo na constância do casamento, mas Joana tenha confessado adultério, afirmando que Maria não seria filha de Antônio. Nesse caso, a confissão de Joana não ilide a presunção legal da paternidade de Antônio.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1135467",
+    "metadata": "Ano: 2019 | Banca: VUNESP | Órgão: SERTPREV - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "O grau de parentesco entre um tio-avô e seu sobrinho- -neto, entre primos, entre irmãos, bem como entre tio e sobrinho é, respectivamente, de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "quinto grau, quarto grau, terceiro grau, terceiro grau."
+      },
+      {
+        "letra": "B",
+        "texto": "terceiro grau, quarto grau, segundo grau, quarto grau."
+      },
+      {
+        "letra": "C",
+        "texto": "quarto grau, terceiro grau, segundo grau, terceiro grau."
+      },
+      {
+        "letra": "D",
+        "texto": "quarto grau, quarto grau, segundo grau, terceiro grau."
+      },
+      {
+        "letra": "E",
+        "texto": "quinto grau, terceiro grau, segundo grau, terceiro grau."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1037163",
+    "metadata": "Ano: 2019 | Banca: CONSULPLAN | Órgão: TJ-MG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "Em relação ao reconhecimento de paternidade e maternidade socioafetiva, é INCORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O pretenso pai ou mãe será pelo menos dezesseis anos mais velho que o filho a ser reconhecido."
+      },
+      {
+        "letra": "B",
+        "texto": "Se o filho for maior de doze anos, o reconhecimento da paternidade ou maternidade socioafetiva exigirá seu consentimento."
+      },
+      {
+        "letra": "C",
+        "texto": "O reconhecimento da paternidade ou da maternidade socioafetiva poderá ocorrer por meio de documento público ou particular de disposição de última vontade, desde que seguidos os demais trâmites previstos no Provimento 63/CNJ."
+      },
+      {
+        "letra": "D",
+        "texto": "O reconhecimento da paternidade ou maternidade socioafetiva será processado perante o oficial de registro civil das pessoas naturais, ainda que diverso daquele em que foi lavrado o assento, mediante a exibição de documento oficial de identificação com foto do requerente e da certidão de nascimento do filho, com menos de noventa dias de expedição, ambos em original e cópia, sem constar do traslado menção à origem da filiação."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1026898",
+    "metadata": "Ano: 2019 | Banca: FCC | Órgão: MPE-MT",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "No que tange às relações de parentesco e à filiação, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Em nenhuma hipótese pode alguém vindicar estado contrário ao que resulta do registro de nascimento."
+      },
+      {
+        "letra": "B",
+        "texto": "Contam-se, na linha reta, os graus de parentesco pelo número de gerações, e, na colateral, também pelo número delas, subindo de um dos parentes até ao ascendente comum, e descendo até encontrar o outro parente."
+      },
+      {
+        "letra": "C",
+        "texto": "É suficiente o adultério da mulher, desde que por ela confessado, para ilidir a presunção legal da paternidade."
+      },
+      {
+        "letra": "D",
+        "texto": "Na linha colateral, a afinidade entre parentes não se extingue com a dissolução do casamento ou da união estável."
+      },
+      {
+        "letra": "E",
+        "texto": "Presumem-se concebidos na constância do casamento os filhos havidos por fecundação artificial homóloga, salvo se falecido o marido."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1008823",
+    "metadata": "Ano: 2019 | Banca: Instituto Consulplan | Órgão: MPE-SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "De acordo com o Código Civil, cada cônjuge ou companheiro é aliado aos parentes do outro pelo vínculo da afinidade. Na linha reta, a afinidade se extingue com a dissolução do casamento ou da união estável.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "994246",
+    "metadata": "Ano: 2019 | Banca: FUNDEP (Gestão de Concursos) | Órgão: DPE-MG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco",
+      "Regime de Bens e Outros Direitos Patrimoniais nas Relações Familiares"
+    ],
+    "enunciado_principal": "O Direito das Famílias está em constante evolução, pois as relações de afeto são dinâmicas, e o operador do direito deve estar preparado para lidar com as mais variadas e inusitadas situações. Com relação aos institutos do Direito das Famílias, assinale a alternativa incorreta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A relação de intenso afeto dos cônjuges por animal adquirido na constância do matrimônio poderá, a depender das características do caso concreto, autorizar a regulamentação judicial do direito de visita ao animal de estimação."
+      },
+      {
+        "letra": "B",
+        "texto": "A relação de filiação socioafetiva permite formular pedido de reconhecimento do estado de filiação socioafetiva, com pluralidade registral, isto é, o reconhecimento da filiação socioafetiva concomitante à filiação biológica."
+      },
+      {
+        "letra": "C",
+        "texto": "Não é possível falar em abandono afetivo antes do reconhecimento da paternidade."
+      },
+      {
+        "letra": "D",
+        "texto": "Não há causa de rompimento de noivado que possa ser tratada como ato ilícito, passível de indenização por danos morais."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "972017",
+    "metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: TJ-PR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "Eduardo, na qualidade de pai registral, ajuizou ação de anulação de registro de nascimento, tendo como fundamento um exame de DNA comprobatório de ausência de vínculo genético entre ele e o filho registrado. Nessa situação hipotética, à luz do entendimento jurisprudencial do STJ, o magistrado deverá",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "considerar suficiente a comprovação da ausência de vínculo genético entre Eduardo e o filho registrado e declarar a anulação do registro de nascimento."
+      },
+      {
+        "letra": "B",
+        "texto": "considerar irrelevante o resultado do exame de DNA, uma vez que o registro de nascimento, após formalizado, não é passível de anulação."
+      },
+      {
+        "letra": "C",
+        "texto": "reconhecer como nulo de pleno direito o registro de nascimento."
+      },
+      {
+        "letra": "D",
+        "texto": "exigir, além do exame de DNA, prova robusta de que Eduardo fora induzido a erro ou coagido a registrar o filho de outrem como seu."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "960731",
+    "metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: TJ-BA",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "Com relação ao reconhecimento voluntário de filhos tidos fora do casamento, julgue os seguintes itens. I O Código Civil admite o reconhecimento voluntário de paternidade por declaração direta e expressa perante o juiz, desde que manifestada em ação própria, denominada ação declaratória de paternidade. Nesse caso, o ato jurídico é irrevogável. II De acordo com o Código Civil, o reconhecimento voluntário de paternidade por meio do testamento é revogável pelo testador, por constituir ato de última vontade, mutável a qualquer tempo antes do falecimento do testador. III O reconhecimento de filiação pode preceder o nascimento do filho e, até mesmo, ser posterior ao falecimento deste. Nesse último caso, admite-se o reconhecimento post mortem se o filho deixar descendentes. Assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas o item II está certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas o item III está certo."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas os itens I e II estão certos."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas os itens I e III estão certos."
+      },
+      {
+        "letra": "E",
+        "texto": "Todos os itens estão certos."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "960529",
+    "metadata": "Ano: 2019 | Banca: MPE-PR | Órgão: MPE-PR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Direito das Sucessões",
+      "Personalidade, Pessoa Natural e Capacidade",
+      "Parentesco",
+      "Regime de Bens e Outros Direitos Patrimoniais nas Relações Familiares",
+      "Parte Geral",
+      "Aspectos Gerais do Direito das Sucessões – Momento, Espécies, Lugar, Herança e Representação"
+    ],
+    "enunciado_principal": "Não é tese de repercussão geral do STF:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A paternidade socioafetiva, declarada ou não em registro público, impede o reconhecimento do vínculo de filiação concomitante baseado na origem biológica, com os efeitos jurídicos próprios."
+      },
+      {
+        "letra": "B",
+        "texto": "O transgênero tem direito fundamental subjetivo à alteração de seu prenome e de sua classificação de gênero no registro civil, não se exigindo, para tanto, nada além da manifestação de vontade do indivíduo, o qual poderá exercer tal faculdade tanto pela via judicial como diretamente pela via administrativa."
+      },
+      {
+        "letra": "C",
+        "texto": "A alteração do prenome do transgênero deve ser averbada à margem do assento de nascimento, vedada a inclusão do termo 'transgênero'."
+      },
+      {
+        "letra": "D",
+        "texto": "É inconstitucional a distinção de regimes sucessórios entre cônjuges e companheiros prevista no art. 1.790 do CC/2002, devendo ser aplicado, tanto nas hipóteses de casamento quanto nas de união estável, o regime do art. 1.829 do CC/2002."
+      },
+      {
+        "letra": "E",
+        "texto": "É constitucional a penhora de bem de família pertencente a fiador de contrato de locação, em virtude da compatibilidade da exceção prevista no art. 3°, inciso VII, da Lei n. 8.009/1990 com o direito à moradia consagrado no art. 6° da Constituição Federal, com redação da EC 26/2000."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "954281",
+    "metadata": "Ano: 2018 | Banca: FCC | Órgão: DPE-MA",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "O reconhecimento voluntário da paternidade ou da maternidade socioafetiva",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pode ser feita judicial ou extrajudicialmente e, neste caso, somente pode ser feito unilateralmente e não poderá implicar no reconhecimento de mais de dois pais ou de duas mães."
+      },
+      {
+        "letra": "B",
+        "texto": "pode ser feito judicial ou extrajudicialmente, unilateral ou bilateralmente, sem qualquer restrição quanto ao número de pais ou de mães reconhecidos no registro."
+      },
+      {
+        "letra": "C",
+        "texto": "se trata de processo de jurisdição necessária e, portanto, deve ser feito por meio de ação de judicial de investigação de paternidade ou de ação de adoção."
+      },
+      {
+        "letra": "D",
+        "texto": "pode ser feita judicial ou extrajudicialmente e, neste caso, pode ser feito unilateral ou bilateralmente, desde que não implique no reconhecimento de mais de dois pais ou de duas mães."
+      },
+      {
+        "letra": "E",
+        "texto": "uma vez realizado judicialmente por meio de devido processo legal, obsta a discussão judicial a respeito da realidade biológica."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "952066",
+    "metadata": "Ano: 2018 | Banca: Fundação CEFETBAHIA | Órgão: MPE-BA",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco",
+      "Regime de Bens e Outros Direitos Patrimoniais nas Relações Familiares",
+      "Obrigação Alimentar no Direito Civil"
+    ],
+    "enunciado_principal": "Sobre o Direito de Família, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a família natural é aquela formada pelos pais, qualquer deles, seus descendentes e os avós."
+      },
+      {
+        "letra": "B",
+        "texto": "segundo entendimento do Superior Tribunal de Justiça (STJ), na ação de investigação de paternidade, a ausência do réu ao exame de DNA leva à procedência da ação mesmo na ausência de indícios de provas da paternidade alegada."
+      },
+      {
+        "letra": "C",
+        "texto": "cabe a prisão civil do devedor de alimentos gravídicos deferidos em caráter de antecipação de tutela."
+      },
+      {
+        "letra": "D",
+        "texto": "a maioridade extingue automaticamente o direito dos filhos de percepção dos alimentos pelos pais porque são devidos com base na relação de parentesco."
+      },
+      {
+        "letra": "E",
+        "texto": "o dever de prestar alimentos é recíproco, devendo recair sobre o parente com maior poder aquisitivo."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "951006",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: TJ-MT",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "Maria é casada com José e mantinha um relacionamento extraconjugal com João quando engravidou. Nasceu Caio, que foi registrado em nome de José e era tido por este como filho. Entretanto, em razão de sua semelhança física com João, este ajuizou um pedido de reconhecimento de paternidade, tendo o teste de DNA comprovado o vínculo biológico. José ama seu filho e quer manter-se como pai de Caio. Assinale a solução que deve ser adotada, considerando o entendimento de Jurisprudência.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Deverá prevalecer a paternidade biológica, devendo ser retirado o nome de José do registro de nascimento, e ser inserido o nome de João."
+      },
+      {
+        "letra": "B",
+        "texto": "Deverá prevalecer a paternidade socioafetiva, devendo continuar a constar como pai de Caio, no registro de nascimento, somente José."
+      },
+      {
+        "letra": "C",
+        "texto": "O sistema jurídico somente admite a pluripaternidade como uma situação provisória, devendo Caio, após a maioridade, escolher quem continuará a constar do seu registro de nascimento como pai."
+      },
+      {
+        "letra": "D",
+        "texto": "Deverá ser incluído o nome de João como pai no registro de nascimento, para os efeitos jurídicos próprios, devendo, entretanto, ser mantido o nome de José, em razão da paternidade socioafetiva deste."
+      },
+      {
+        "letra": "E",
+        "texto": "Poderá ser incluído o nome de João como pai no registro de nascimento, mas sem os efeitos jurídicos decorrentes da paternidade, salvo o de permitir o conhecimento, por parte de Caio, da sua origem genética, por ter prevalência a paternidade socioafetiva de José."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "936113",
+    "metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: MPE-PI",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "Considerando essa situação hipotética, julgue o item subsequente de acordo com o entendimento do STF.Embora no ordenamento jurídico seja possível o reconhecimento de situação de pluriparentalidade, caso a paternidade biológica seja comprovada, a paternidade socioafetiva deixará de produzir efeitos sucessórios.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "936112",
+    "metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: MPE-PI",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco",
+      "Poder Familiar"
+    ],
+    "enunciado_principal": "Considerando essa situação hipotética, julgue o item subsequente de acordo com o entendimento do STF.A paternidade socioafetiva, por estar declarada em registro público, impede o reconhecimento do vínculo de filiação baseado na origem biológica.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "927218",
+    "metadata": "Ano: 2018 | Banca: CONSULPLAN | Órgão: TJ-MG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco",
+      "Obrigação Alimentar no Direito Civil"
+    ],
+    "enunciado_principal": "Quanto ao direito de família, analise as afirmativas a seguir. I. A guarda compartilhada não exclui a fixação do regime de convivência e não implica ausência do pagamento de pensão alimentícia. II. Qualquer descendente possui legitimidade, por direito próprio, para propor o reconhecimento do vínculo de parentesco em face dos avós ou de qualquer ascendente de grau superior, ainda que o pai não tenha iniciado a ação de prova da filiação em vida. III. A obrigação alimentar dos avós tem natureza subsidiária, somente se configurando no caso de impossibilidade total de seu cumprimento pelos pais. IV. O cancelamento do pagamento de pensão alimentícia a filho que atingiu a maioridade está sujeito à decisão judicial, mediante contraditório, ainda que nos próprios autos. Estão corretas as afirmativas",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II, III e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "I, II e III, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "I, II e IV, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "II, III e IV, apenas."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "921346",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: PC-SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco",
+      "Casamento no Direito de Família"
+    ],
+    "enunciado_principal": "Maria propôs ação de divórcio em face de João e ambos, já divorciados, estão aguardando a homologação da partilha dos bens do casal. Nesse período, Maria conhece José e decidem se casar. Sobre o caso hipotético, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os colaterais de terceiro grau de José, consanguíneos ou afins, podem arguir o fato de que Maria é divorciada e a partilha de bens dela e de João ainda não foi homologada."
+      },
+      {
+        "letra": "B",
+        "texto": "Maria e José podem celebrar o casamento, desde que com o regime de separação obrigatória de bens."
+      },
+      {
+        "letra": "C",
+        "texto": "Se o oficial de registro tiver conhecimento de que a partilha de bens de Maria e João ainda não foi homologada, ele é obrigado a declarar o impedimento."
+      },
+      {
+        "letra": "D",
+        "texto": "Ainda que Maria prove a inexistência de prejuízo de João, o juiz não poderá autorizar o casamento de Maria e José até que a partilha de bens seja homologada."
+      },
+      {
+        "letra": "E",
+        "texto": "Qualquer pessoa relativamente incapaz pode declarar o impedimento do casamento de Maria até o momento da celebração."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "908328",
+    "metadata": "Ano: 2018 | Banca: FCC | Órgão: DPE-AM",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco",
+      "Casamento no Direito de Família",
+      "União Estável",
+      "Poder Familiar"
+    ],
+    "enunciado_principal": "Considerando-se os princípios atuais aplicáveis à família, inclusive sob o prisma constitucional,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o casamento homoafetivo é possível, estabelecendo relações obrigacionais mútuas, mas por falta de previsão legal não estabelece relações sucessórias, devendo os cônjuges homoafetivos beneficiarem-se por meio de testamento."
+      },
+      {
+        "letra": "B",
+        "texto": "à união estável aplicam-se somente as normas do direito civil obrigacional, acrescidas daquelas que amparam a mulher previdenciariamente e no reconhecimento da constituição de patrimônio comum."
+      },
+      {
+        "letra": "C",
+        "texto": "nada obstante a igualdade jurídica entre homem e mulher, permanece o patriarcalismo, residualmente, na administração do patrimônio material do núcleo familiar."
+      },
+      {
+        "letra": "D",
+        "texto": "os filhos possuem direitos iguais, independentemente de sua origem, salvo aqueles adotados após a maioridade, em relação a restrições sucessórias, somente."
+      },
+      {
+        "letra": "E",
+        "texto": "a paternidade socioafetiva, declarada ou não em registro público, não impede o reconhecimento do vínculo de filiação concomitante baseado na origem biológica, com todas as suas consequências patrimoniais e extrapatrimoniais."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "908281",
+    "metadata": "Ano: 2018 | Banca: FCC | Órgão: DPE-AM",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "O Conselho Nacional de Justiça (CNJ) editou ato regulamentar por meio do qual institui modelo único de certidão de nascimento a ser adotada pelos ofícios de registro civil das pessoas naturais, estabelecendo procedimento para que se dê o reconhecimento voluntário e a respectiva averbação da paternidade e maternidade socioafetiva perante os oficiais de registro. Seguindo referido procedimento, considere que um filho, em cuja certidão de nascimento não consta o nome do pai, e sua mãe biológica, juntamente com o atual marido, que foi e é o responsável desde o nascimento pela criação do filho, obtêm o reconhecimento da paternidade socioafetiva, sendo lançada a filiação na certidão respectiva. Ocorre que o filho pretende, agora, discutir e ver reconhecida, judicialmente, a paternidade biológica. Nessa hipótese, à vista da Constituição Federal e da jurisprudência do Supremo Tribunal Federal,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o reconhecimento da paternidade socioafetiva e respectivo lançamento em certidão são nulos, ainda que não seja reconhecida a paternidade biológica, uma vez que baseados em procedimento estabelecido em ato do Conselho Nacional de Justiça, que não possui competência para expedir atos regulamentares em relação aos serviços notariais e de registro."
+      },
+      {
+        "letra": "B",
+        "texto": "o reconhecimento da paternidade socioafetiva e respectivo lançamento em certidão impedem o reconhecimento simultâneo de paternidade biológica, devendo ser desconstituída aquela, primeiramente, para então se pretender discutir judicialmente a biológica."
+      },
+      {
+        "letra": "C",
+        "texto": "é admissível a discussão judicial da paternidade biológica, para produção dos efeitos jurídicos próprios, mantendo-se concomitantemente à paternidade socioafetiva, ainda que esta tenha sido declarada em registro público."
+      },
+      {
+        "letra": "D",
+        "texto": "é admissível a discussão judicial da paternidade biológica, cujo reconhecimento, contudo, provocará a desconstituição do reconhecimento da paternidade socioafetiva, sobre a qual tem precedência."
+      },
+      {
+        "letra": "E",
+        "texto": "não é admissível a discussão judicial da paternidade biológica, sobre a qual tem precedência a paternidade socioafetiva, reconhecida e lançada em certidão em conformidade com procedimento estabelecido por órgão competente."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "906385",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "A presunção de paternidade dos filhos concebidos na constância do casamento, prevista no artigo 1.597 do Código Civil,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "tem caráter absoluto em relação ao pai e relativo em relação a terceiros."
+      },
+      {
+        "letra": "B",
+        "texto": "configura-se para os havidos a qualquer tempo, quando se tratar de embriões excedentários decorrentes de concepção artificial heteróloga."
+      },
+      {
+        "letra": "C",
+        "texto": "é estabelecida para os havidos por fecundação artificial homóloga, mesmo que falecido o marido."
+      },
+      {
+        "letra": "D",
+        "texto": "é estabelecida para os havidos por inseminação artificial heteróloga, desde que haja prévia autorização do marido e mediante comprovação de que esse seja incapaz de procriar."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "904446",
+    "metadata": "Ano: 2018 | Banca: FCC | Órgão: DPE-RS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "Maria cresceu sem conhecer seu pai. Aos 30 anos, soube que era filha de João, o qual teve declarada sua morte presumida há 11 anos. Ainda assim, Maria resolve propor ação para investigação da paternidade contra a sucessão de João. Sobre a prova necessária para demonstrar a paternidade,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "considerando que se desconhece a existência de restos mortais, não é possível provar a paternidade."
+      },
+      {
+        "letra": "B",
+        "texto": "é possível provar a paternidade, ainda que os herdeiros se neguem a realizar o exame pericial."
+      },
+      {
+        "letra": "C",
+        "texto": "a presunção advinda da negativa em realizar o exame pericial não pode ser oposta aos herdeiros."
+      },
+      {
+        "letra": "D",
+        "texto": "se inexistirem herdeiros, não é possível provar a paternidade, pois fundamental a prova pericial."
+      },
+      {
+        "letra": "E",
+        "texto": "se Maria tiver pai registral, com quem tenha vínculo afetivo, não é possível propor a ação para buscar conhecer sua origem genética."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "895168",
+    "metadata": "Ano: 2018 | Banca: IESES | Órgão: TJ-AM",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco"
+    ],
+    "enunciado_principal": "A respeito do reconhecimento de filhos, responda: I. O reconhecimento pode preceder o nascimento do filho ou ser posterior ao seu falecimento, se ele deixar descendentes. II. O filho maior pode ser reconhecido independentemente do seu consentimento. III. O reconhecimento não pode ser revogado, exceto quando feito em testamento. Assinale a correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas a assertiva II é verdadeira."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas a assertiva I é verdadeira."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas as assertivas I e III são verdadeiras."
+      },
+      {
+        "letra": "D",
+        "texto": "Todas as assertivas são verdadeiras."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "873670",
+    "metadata": "Ano: 2018 | Banca: FCC | Órgão: DPE-AP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Parentesco",
+      "Obrigação Alimentar no Direito Civil"
+    ],
+    "enunciado_principal": "Um adolescente de 15 anos recebe da mãe a notícia de que aquele que como pai o criara, e assim consta de seu registro de nascimento, falecido no ano anterior, não é seu pai biológico. O pai biológico, a seu turno, embora reconheça o fato, não tem a intenção de se aproximar do adolescente, de modo a provê-lo de suporte emocional e material. Diante do impasse, o adolescente pretende socorrer-se das vias judiciais para ver comprovada e reconhecida formalmente a paternidade biológica, mas gostaria que fosse preservada em seu registro de nascimento a indicação de filiação daquele que como pai o criou. À luz da Constituição Federal e da jurisprudência do Supremo Tribunal Federal sobre a matéria, a pretensão do adolescente é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ilegítima, pois, em conformidade com o princípio constitucional da paternidade responsável, a paternidade biológica prevalece sobre a paternidade socioafetiva, para fins de registro, embora não impeça o reconhecimento do vínculo de filiação baseado na socioafetividade, com os efeitos jurídicos próprios desta."
+      },
+      {
+        "letra": "B",
+        "texto": "legítima, pois, em conformidade com o princípio constitucional da dignidade da pessoa humana, a paternidade socioafetiva prevalece sobre a paternidade biológica, para fins de registro, embora não impeça o reconhecimento do vínculo de filiação baseado na origem biológica, com os efeitos jurídicos próprios desta."
+      },
+      {
+        "letra": "C",
+        "texto": "legítima, pois, conforme julgamento em sede de repercussão geral, merecem tutela jurídica concomitante, para todos os fins de direito, os vínculos parentais de origem afetiva e biológica, a fim de prover a mais completa e adequada tutela aos sujeitos envolvidos, ante os princípios constitucionais da dignidade da pessoa humana e da paternidade responsável."
+      },
+      {
+        "letra": "D",
+        "texto": "legítima, pois, em conformidade com súmula vinculante, a paternidade socioafetiva, declarada ou não em registro público, não impede o reconhecimento do vínculo de filiação concomitante baseado na origem biológica, com os efeitos jurídicos próprios desta."
+      },
+      {
+        "letra": "E",
+        "texto": "ilegítima, pois não é consagrada, no ordenamento brasileiro, a pluriparentalidade, não sendo dado ao Judiciário, ainda que provocado, atuar de modo a permitir que a eleição individual dos objetivos de vida tenha preferência em relação a formulações legais definidoras de modelos destinados a produzir resultados eleitos a priori pelo legislador, em caráter geral."
+      }
+    ],
+    "gabarito": "C"
+  }
+]

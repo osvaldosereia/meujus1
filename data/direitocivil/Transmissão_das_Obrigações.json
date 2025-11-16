@@ -1,0 +1,2272 @@
+[
+  {
+    "id": "3420708",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: SUSEP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "Julgue o item subsequente, no que se refere às disposições obrigacionais e suas implicações. Quando houver múltiplas cessões relativas a um mesmo crédito, prevalecerá aquela em que ocorrer a tradição do título cedido.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3373877",
+    "metadata": "Ano: 2025 | Banca: FGV | Órgão: TRF - 5ª REGIÃO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "Tício deve R$ 10.000,00 ao Banco Xpto S/A em razão de um empréstimo que tomara. Sucede que, em demanda judicial, o Banco Xpto S/A é condenado a pagar R$ 5.000,00 a Tício, a título de danos morais. Nesse ínterim, para maximizar seus ganhos, a instituição financeira cede o crédito em face de Tício para a faturizadora XXY S.A. por R$ 8.500,00. Notificado, Tício nada objeta. Nessa data, Tício mantém R$ 2.000,00 em conta-corrente no Banco XPTO S/A. Se a faturizadora desejar securitizar sua carteira, o valor máximo pela qual poderá assegurar esse crédito cedido será:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "R$ 10.000,00;"
+      },
+      {
+        "letra": "B",
+        "texto": "R$ 5.000,00, porque Tício poderá alegar que houve a extinção parcial da obrigação pela compensação com o valor devido a título de danos morais;"
+      },
+      {
+        "letra": "C",
+        "texto": "R$ 8.000,00, porque Tício poderá alegar que houve a extinção parcial da obrigação pela compensação com o valor depositado perante o cedente;"
+      },
+      {
+        "letra": "D",
+        "texto": "R$ 3.000,00, porque Tício poderá alegar que houve a extinção parcial da obrigação pela compensação com o valor depositado perante o cedente e com aquele devido a título de danos morais;"
+      },
+      {
+        "letra": "E",
+        "texto": "R$ 8.500,00, porque foi o valor pago pela cessionária pelo crédito."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3301220",
+    "metadata": "Ano: 2025 | Banca: FGV | Órgão: TJ-SE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações",
+      "Adimplemento, Modalidades de Pagamento e Extinção das Obrigações"
+    ],
+    "enunciado_principal": "Bruno, que estava inscrito em cadastros de inadimplentes, pediu a sua sogra que financiasse um carro em seu nome. Em determinado momento, ela se mudou para a Itália, não conseguindo mais pagar as parcelas mensais. Bruno, então, procurou a instituição financeira arrendadora para assumir as prestações, cuja quitação faria imediatamente à vista, de modo que o veículo pudesse, desde logo, ser registrado em seu nome. A credora, no entanto, negou o requerimento, considerando a negativação de Bruno. Mesmo assim, Bruno consignou, em agência daquele mesmo banco, todo o saldo devedor. Nesse caso, à luz exclusivamente do ordenamento civil, Bruno:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "era terceiro interessado com legitimidade para consignar o pagamento em caso de recusa injusta do credor para recebê-lo, como se verificou, de modo que faz jus ao registro do veículo em seu nome, pela sub-rogação nas garantias do credor;"
+      },
+      {
+        "letra": "B",
+        "texto": "perfectibilizou uma assunção da dívida, que dispensa a anuência do credor, de modo que faz jus ao registro da propriedade do veículo em seu nome;"
+      },
+      {
+        "letra": "C",
+        "texto": "pretendia a assunção da dívida, o que, se tivesse obtido a imprescindível concordância do credor, teria como efeito a transferência do veículo para o seu nome;"
+      },
+      {
+        "letra": "D",
+        "texto": "perfectibilizou a cessão de posição contratual, a qual dispensa a anuência do cedido, de modo que faz jus à transferência do veículo para o seu nome;"
+      },
+      {
+        "letra": "E",
+        "texto": "perfectibilizou a cessão de posição contratual, a qual, embora não dispense a anuência do cedido, deve ser reconhecida como válida e eficaz no caso concreto, de sorte a ensejar a transferência do veículo para o seu nome."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3272349",
+    "metadata": "Ano: 2025 | Banca: FUNDATEC | Órgão: DPE-SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Direito de Família",
+      "Transmissão das Obrigações",
+      "Poder Familiar",
+      "Obrigação Alimentar no Direito Civil"
+    ],
+    "enunciado_principal": "Considerando os enunciados do Conselho de Justiça Federal sobre alimentos, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A obrigação alimentar originada do poder familiar, especialmente para atender às necessidades educacionais, pode não cessar com a maioridade."
+      },
+      {
+        "letra": "B",
+        "texto": "Em acordos celebrados antes do advento do novo Código, ainda que expressamente convencionado que os alimentos cessarão com a maioridade, o juiz deve ouvir os interessados, apreciar as circunstâncias do caso concreto e obedecer ao princípio rebus sic stantibus."
+      },
+      {
+        "letra": "C",
+        "texto": "Quando se tratar de sócio de serviço em sociedade simples, poderá haver penhora das verbas que seriam destinadas ao sócio, ainda que de caráter alimentar."
+      },
+      {
+        "letra": "D",
+        "texto": "As despesas com doula e consultora de amamentação podem ser objeto de alimentos gravídicos, observado o trinômio da necessidade, possibilidade e proporcionalidade para a sua fixação."
+      },
+      {
+        "letra": "E",
+        "texto": "A transmissibilidade da obrigação alimentar é limitada às forças da herança."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3172662",
+    "metadata": "Ano: 2024 | Banca: IBFC | Órgão: TRF - 5ª REGIÃO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "“A” é devedor de “B”. Ocorre que “C” procura “B” e diz que quer assumir o débito de “A”. Diante do exposto, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Trata-se de uma sub-rogação de débito"
+      },
+      {
+        "letra": "B",
+        "texto": "Trata-se de uma novação de débito"
+      },
+      {
+        "letra": "C",
+        "texto": "Não possível “C” assumir o débito de “A”, pois, para que isso ocorra, é necessária a anuência de “B”"
+      },
+      {
+        "letra": "D",
+        "texto": "Trata-se de uma imputação do pagamento"
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3144287",
+    "metadata": "Ano: 2024 | Banca: EVO Concursos | Órgão: Câmara de Rio Casca - MG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "Quanto à assunção de dívida, prevista no Código Civil vigente, assinale abaixo a alternativa que coaduna com a Lei 10.406 de 2002.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Havendo assentimento expresso do devedor primitivo, consideram-se extintas, a partir da assunção da dívida, as garantias especiais por ele originariamente dadas ao credor."
+      },
+      {
+        "letra": "B",
+        "texto": "Se a substituição do devedor vier a ser validada, restaura-se o débito, com todas as suas garantias, salvo as garantias prestadas por terceiros, exceto se este conhecia o vício que inquinava a obrigação."
+      },
+      {
+        "letra": "C",
+        "texto": "O novo devedor não pode opor ao credor as exceções pessoais que competiam ao devedor primitivo."
+      },
+      {
+        "letra": "D",
+        "texto": "O adquirente de imóvel hipotecado pode tomar a seu cargo o pagamento do crédito garantido; se o credor, notificado, não impugnar em vinte dias a transferência do débito, entender-se-á dado o assentimento."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3127324",
+    "metadata": "Ano: 2024 | Banca: VUNESP | Órgão: Prefeitura de Marília - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "Júlio, que possuía uma dívida no valor de R$ 10.000,00 (dez mil reais) com Enrico, celebrou um contrato de compra e venda de um imóvel com Lívia. No referido contrato, Lívia assumiu a obrigação de Júlio de pagar a dívida de R$ 10.000,00 (dez mil reais) a Enrico. Diante dessa situação hipotética, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não é necessário o consentimento expresso de Enrico."
+      },
+      {
+        "letra": "B",
+        "texto": "Qualquer das partes pode assinar prazo para que Enrico consinta na assunção da dívida, interpretando-se o seu silêncio como aceitação."
+      },
+      {
+        "letra": "C",
+        "texto": "Lívia não pode opor a Enrico as exceções pessoais que competiam a Júlio."
+      },
+      {
+        "letra": "D",
+        "texto": "Se a substituição do devedor vier a ser anulada, restaura-se o débito, com todas as suas garantias, inclusive aquelas prestadas por terceiros."
+      },
+      {
+        "letra": "E",
+        "texto": "Consideram-se extintas, a partir da assunção da dívida, as garantias especiais dadas por Júlio a Enrico, ainda que haja assentimento expresso de Júlio."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3088386",
+    "metadata": "Ano: 2024 | Banca: FCC | Órgão: TRT - 7ª Região (CE)",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "De acordo com a legislação civil acerca da transmissão das obrigações,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "após a assunção da dívida, o novo devedor pode opor as exceções pessoais que competiam ao devedor primitivo."
+      },
+      {
+        "letra": "B",
+        "texto": "é facultado a terceiro assumir a obrigação do devedor sem o expresso consentimento do credor, bastando sua cientificação."
+      },
+      {
+        "letra": "C",
+        "texto": "salvo disposição em contrário, a cessão de um crédito não abrange os seus acessórios."
+      },
+      {
+        "letra": "D",
+        "texto": "ocorrendo várias cessões do mesmo crédito, prevalece a que se completar com a tradição do título do crédito cedido."
+      },
+      {
+        "letra": "E",
+        "texto": "o credor pode ceder seu crédito em qualquer hipótese, sendo vedada estipulação em sentido contrário."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3087125",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: TJ-RR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações",
+      "Teoria Geral das Obrigações"
+    ],
+    "enunciado_principal": "Bianca, Getúlio, Luciana, Marisa e Mônica, amigos desde infância, contraíram um empréstimo junto ao Banco da Lua S.A., cujo pagamento ocorrerá em sessenta prestações. Por força da cláusula terceira, todos os devedores são solidários. Ao longo do empréstimo, diversas situações surgiram entre eles. Bianca tornou-se insolvente, Getúlio faleceu e o Banco exonerou Luciana da solidariedade. A respeito da situação hipotética, com base no Código Civil brasileiro, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A propositura da ação do credor em face, apenas, de um dos devedores importará renúncia da solidariedade."
+      },
+      {
+        "letra": "B",
+        "texto": "Se Getúlio tenha deixado herdeiros, cada um será obrigado a pagar toda a dívida, em virtude da perpetuidade da solidariedade."
+      },
+      {
+        "letra": "C",
+        "texto": "Como a ação foi proposta somente contra Marisa, ela responderá integral e isoladamente pelos juros da mora."
+      },
+      {
+        "letra": "D",
+        "texto": "A renúncia da solidariedade em favor de Luciana atinge todos os demais devedores, por respeito ao princípio da igualdade substancial."
+      },
+      {
+        "letra": "E",
+        "texto": "Caso Mônica satisfaça a dívida por inteiro tem direito a exigir de cada um dos codevedores a sua quota, dividindo-se igualmente por todos a de Bianca."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3049338",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: TJ-SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "A sociedade XYZ adquiriu da fabricante Peça Pronta todo o maquinário para modernizar seu parque industrial. A fim de viabilizar a milionária compra e venda, a fabricante procurou financiamento no Banco Dinheiro Fácil S/A, que lhe anteciparia o valor parcelado, mediante cessão do crédito que tinha contra a sociedade XYZ. Em resumo, esta era a dinâmica do negócio: a sociedade XYZ pagaria à fabricante Peça Pronta diretamente o valor da entrada e, após, suportaria 20 parcelas iguais. Paralelamente, a fabricante cederia ao Banco Dinheiro Fácil S/A o crédito relativo ao valor financiado (total subtraído da entrada) em troca do adiantamento desse mesmo importe, tudo sem a interveniência da sociedade XYZ. Sucede que, até o vencimento da décima parcela, a fabricante Peça Pronta, que ainda nada tinha entregado, pediu falência e fechou as portas. Nesse caso, à luz exclusivamente do ordenamento civil, a instituição financeira:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "fará jus aos valores vencidos e às parcelas vincendas, na qualidade de cessionária do crédito, de modo que somente a inadimplência da fabricante é res inter alios acta;"
+      },
+      {
+        "letra": "B",
+        "texto": "não terá a obrigação de devolver os valores já pagos, mas não fará jus às parcelas vincendas;"
+      },
+      {
+        "letra": "C",
+        "texto": "deverá devolver todos os valores diante da insubsistência do objeto contratual, inclusive a entrada, por força da interdependência entre as avenças coligadas;"
+      },
+      {
+        "letra": "D",
+        "texto": "deverá ceder à sociedade XYZ o crédito que anteriormente lhe fora transferido, para que a sociedade possa executá-lo em face da fabricante Peça Pronta, embora não esteja obrigada a devolver os valores recebidos;"
+      },
+      {
+        "letra": "E",
+        "texto": "deverá devolver todos os valores diante da insubsistência do objeto contratual, mas não a entrada, porquanto a interdependência entre as avenças coligadas não concretiza a unificação do regime de responsabilidade civil."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3025445",
+    "metadata": "Ano: 2024 | Banca: Instituto Access | Órgão: Prefeitura de São João do Ivaí - PR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações",
+      "Adimplemento, Modalidades de Pagamento e Extinção das Obrigações",
+      "Teoria Geral das Obrigações"
+    ],
+    "enunciado_principal": "Existindo uma devolução voluntária do título da obrigação, quando por escrito particular, prova desoneração do devedor e seus coobrigados, se o credor for capaz de alienar, e o devedor capaz de adquirir, ocorre:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Compensação."
+      },
+      {
+        "letra": "B",
+        "texto": "Remissão das dívidas."
+      },
+      {
+        "letra": "C",
+        "texto": "Novação."
+      },
+      {
+        "letra": "D",
+        "texto": "Confusão."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2586639",
+    "metadata": "Ano: 2024 | Banca: NC-UFPR | Órgão: Prefeitura de Campo Magro - PR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "Considerando as modalidades, o não cumprimento e a transmissão das obrigações no Código Civil, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na obrigação solidária passiva, em caso de rateio entre os codevedores da parte que, na obrigação, caberia ao insolvente, não contribuirão os exonerados da solidariedade pelo credor."
+      },
+      {
+        "letra": "B",
+        "texto": "A cessão do crédito não tem eficácia em relação ao devedor que dela não foi notificado, ainda que ele se tenha declarado ciente da cessão realizada em escrito público ou particular."
+      },
+      {
+        "letra": "C",
+        "texto": "Nos contratos benéficos, o contratante a quem o contrato aproveite responde por dolo, e aquele a quem não favoreça responde por simples culpa, enquanto, nos contratos onerosos, cada uma das partes responde por culpa, salvo as exceções previstas em lei."
+      },
+      {
+        "letra": "D",
+        "texto": "A mora do credor responsabiliza o devedor que agiu com dolo ou culpa pela conservação da coisa, bem como obriga o credor a ressarcir as despesas empregadas em conservá-la e a recebê-la pela estimação mais favorável ao devedor, se seu valor oscilar entre o dia estabelecido para o pagamento e o da efetivação."
+      },
+      {
+        "letra": "E",
+        "texto": "A cláusula penal deverá ser reduzida pelo juiz, inclusive de ofício, com fundamento na equidade, se a obrigação principal tiver sido cumprida em parte ou se a pena se mostrar excessivamente onerosa."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2564424",
+    "metadata": "Ano: 2024 | Banca: CESPE / CEBRASPE | Órgão: Prefeitura de Mossoró - RN",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "Acerca dessas situações hipotéticas, julgue o seguinte item à luz dos preceitos legais pertinentes à transmissão de obrigações. Na situação I, é requisito de validade do negócio jurídico de cessão de crédito o consentimento de Paulo.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2564423",
+    "metadata": "Ano: 2024 | Banca: CESPE / CEBRASPE | Órgão: Prefeitura de Mossoró - RN",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "Acerca dessas situações hipotéticas, julgue o seguinte item à luz dos preceitos legais pertinentes à transmissão de obrigações. Na situação II, é requisito de validade do negócio jurídico de assunção de dívida o consentimento de Marina.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2514958",
+    "metadata": "Ano: 2024 | Banca: Quadrix | Órgão: NOVACAP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "Considerando as disposições do Código Civil, julgue o item a seguir, acerca das obrigações, dos atos unilaterais e dos contratos.Ocorrendo várias cessões do mesmo crédito, prevalece a que primeiro for realizada.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2514957",
+    "metadata": "Ano: 2024 | Banca: Quadrix | Órgão: NOVACAP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "Considerando as disposições do Código Civil, julgue o item a seguir, acerca das obrigações, dos atos unilaterais e dos contratos.A obrigação solidária pode ser pura e simples para um dos cocredores ou codevedores, e condicional, ou a prazo, ou pagável em lugar diferente, para o outro.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2497625",
+    "metadata": "Ano: 2024 | Banca: IBADE | Órgão: Prefeitura de Jaru - RO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "No que se refere à transmissão das obrigações, analise as afirmativas abaixo: I- O credor pode ceder o seu crédito, se a isso não se opuser a natureza da obrigação, a lei, ou a convenção com o devedor. II- Ocorrendo várias cessões do mesmo crédito, prevalece aquela cujo instrumento contém a data mais antiga. III- Salvo estipulação em contrário, o cedente responde pela solvência do devedor. Assinale a alternativa que indica quais das afirmativas acima está correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I;"
+      },
+      {
+        "letra": "B",
+        "texto": "I e II;"
+      },
+      {
+        "letra": "C",
+        "texto": "I e III;"
+      },
+      {
+        "letra": "D",
+        "texto": "II e III;"
+      },
+      {
+        "letra": "E",
+        "texto": "I, II e III."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2448958",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: AL-PR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "Em julho de 2021, René Kant celebrou contrato de mútuo com o Banco Königsberg S.A. no valor de dez mil reais, que deveria ser pago em 60 (sessenta) prestações de R$ 350,00 (trezentos e cinquenta reais). A cláusula terceira do contrato prevê que na hipótese de 03 (três) meses de inadimplência, o MUTUANTE fica autorizado a promover a cobrança judicial da totalidade dos valores concedidos a título de mútuo, como também a incluir o nome do MUTUÁRIO nos órgãos de proteção ao crédito. Em setembro de 2023, o Banco Königsberg S.A. transferiu onerosamente o crédito do contrato com René para o Fundo de Investimento de Direitos Creditórios Metafísica, sendo silente a respeito da responsabilidade do cedente em caso de inadimplemento da obrigação cedida. Por força do desemprego, no ano de 2024, o mutuário tornou-se inadimplente de três parcelas consecutivas do empréstimo, levando o Fundo a incluir o nome de René nos órgãos de proteção ao crédito. Diante da situação hipotética, com base no tema transmissão das obrigações, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A cessão do crédito do Banco Königsberg para o Fundo de Investimento é válida e eficaz, desde que haja o consentimento expresso de René."
+      },
+      {
+        "letra": "B",
+        "texto": "A jurisprudência consolidada do Superior Tribunal de Justiça compreende que a ausência de notificação do devedor torna inexequível e ineficaz a cessão de crédito."
+      },
+      {
+        "letra": "C",
+        "texto": "Salvo se tiver procedido de má-fé, o Banco Königsberg S.A. não fica responsável perante o Fundo de Investimento pela existência do crédito ao tempo em que lhe cedeu."
+      },
+      {
+        "letra": "D",
+        "texto": "Na situação hipotética narrada, o Banco Königsberg S.A. não responde perante o Fundo de Investimento pela insolvência de René Kant."
+      },
+      {
+        "letra": "E",
+        "texto": "De acordo com o entendimento consolidado do Superior Tribunal de Justiça, para que o cessionário pratique os atos necessários à preservação do crédito é necessária a ciência do devedor."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2348945",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: Prefeitura de São José dos Campos - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "Com a incorporação da sociedade XYZ pela sociedade ABC, ocorreu a transmissão das obrigações civis da empresa incorporada, gerando, por conseguinte, diversas polêmicas entre os membros do corpo jurídico da sociedade incorporadora. A respeito do tema transmissão das obrigações, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A cessão de crédito independe de notificação do devedor, desde que realizada por instrumento público, em virtude da eficácia erga omnes."
+      },
+      {
+        "letra": "B",
+        "texto": "A assunção de dívida exonera o devedor primitivo, quando houver o consentimento expresso do credor, salvo se aquele, ao tempo da assunção, era insolvente e o credor o ignorava."
+      },
+      {
+        "letra": "C",
+        "texto": "Salvo estipulação em contrário, o cedente responde pela solvência do devedor."
+      },
+      {
+        "letra": "D",
+        "texto": "As exceções pessoais que competiam ao devedor primitivo na assunção de dívida podem ser opostas ao novo devedor."
+      },
+      {
+        "letra": "E",
+        "texto": "Na cessão de crédito, os atos conservatórios do direito cedido não podem ser exercidos pelo cessionário, por falta de legitimidade."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2328427",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: TJ-GO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "João fez um empréstimo de bem fungível a Antônio. Posteriormente, cedeu esse crédito a José e comunicou formalmente a Antônio quanto à cessão ocorrida. Com base nas informações e no Código Civil de 2002, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "João não poderia ceder o crédito sem a aquiescência de Antônio, razão pela qual a cessão é inválida perante terceiros;"
+      },
+      {
+        "letra": "B",
+        "texto": "João não poderia ceder o crédito sem a aquiescência de Antônio, razão pela qual a cessão é ineficaz perante terceiros;"
+      },
+      {
+        "letra": "C",
+        "texto": "João não poderia ceder o crédito sem a aquiescência de Antônio, razão pela qual a cessão é inexistente perante terceiros;"
+      },
+      {
+        "letra": "D",
+        "texto": "João poderia ceder o crédito sem a aquiescência de Antônio, bastando a notificação;"
+      },
+      {
+        "letra": "E",
+        "texto": "Antônio poderá pagar a dívida tanto a João quanto a José e receber a devida quitação."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2287603",
+    "metadata": "Ano: 2023 | Banca: Instituto Consulplan | Órgão: CRC-RJ",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "A transmissão das obrigações refere-se ao processo pelo qual as obrigações estabelecidas em um contrato ou em uma relação jurídica são transferidas de uma parte para outra, seja de forma voluntária ou involuntária. Isso pode ocorrer de diversas maneiras, e entender como ocorre a transmissão é essencial para compreender as dinâmicas legais envolvidas em uma variedade de situações. Uma das espécies da transmissão das obrigações é a cessão de crédito. Em relação à referida cessão, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O credor pode opor ao cessionário as exceções que lhe competirem, bem como as que, no momento em que veio a ter conhecimento da cessão, tinha contra o cedente."
+      },
+      {
+        "letra": "B",
+        "texto": "O credor pode ceder o seu crédito, se a isso se opuser a natureza da obrigação, a lei, ou a convenção com o devedor; a cláusula proibitiva da cessão não poderá ser oposta ao cessionário de boa-fé, se não constar do instrumento da obrigação."
+      },
+      {
+        "letra": "C",
+        "texto": "Na cessão por título oneroso, o cedente, ainda que não se responsabilize, fica responsável ao cessionário pela existência do crédito ao tempo em que lhe cedeu; a mesma responsabilidade lhe cabe nas cessões por título gratuito, se tiver procedido de má-fé."
+      },
+      {
+        "letra": "D",
+        "texto": "Fica obrigado ao devedor que, antes de ter conhecimento da cessão, pagar ao credor primitivo, ou que, no caso de mais de uma cessão notificada, pagar ao cessionário que lhe apresenta, com o título de cessão, o da obrigação cedida; quando o crédito constar de escritura pública prevalecerá a prioridade da notificação."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2287484",
+    "metadata": "Ano: 2023 | Banca: Quadrix | Órgão: CREFITO-14ª Região(PI)",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "Considerando o Código Civil, assinale a alternativa correta, a respeito da transmissão das obrigações.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O credor pode ceder seu crédito, se a isso não se opuser a natureza da obrigação, a lei ou a convenção com o devedor; a cláusula proibitiva da cessão não poderá ser oposta ao cessionário de boa‑fé, se não constar do instrumento da obrigação."
+      },
+      {
+        "letra": "B",
+        "texto": "Salvo disposição em contrário, na cessão de um crédito, abrange‑se apenas o principal, sem seus acessórios."
+      },
+      {
+        "letra": "C",
+        "texto": "O cessionário de crédito hipotecário não tem o direito de fazer averbar a cessão no registro do imóvel"
+      },
+      {
+        "letra": "D",
+        "texto": "A cessão do crédito não tem eficácia em relação ao devedor, ainda quando a este não for notificado."
+      },
+      {
+        "letra": "E",
+        "texto": "Salvo estipulação em contrário, o cedente responde pela solvência do devedor."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2285627",
+    "metadata": "Ano: 2023 | Banca: Quadrix | Órgão: CRM-TO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "À luz do Código Civil, julgue o item.O cedente responde pela solvência do devedor.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2261412",
+    "metadata": "Ano: 2023 | Banca: VUNESP | Órgão: TJ-AL",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "A cessão de crédito realizada entre o cedente e o cessionário sem a notificação do devedor da relação obrigacional cedida é negócio jurídico",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "válido e ineficaz entre o cedente e cessionário."
+      },
+      {
+        "letra": "B",
+        "texto": "anulável pelo devedor da obrigação cedida."
+      },
+      {
+        "letra": "C",
+        "texto": "inválido em razão da não participação do devedor da obrigação cedida."
+      },
+      {
+        "letra": "D",
+        "texto": "válido e eficaz entre cedente e cessionário."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2224553",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: TJ-BA",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "Em uma sessão conciliatória nos Juizados Especiais Cíveis, Helga admite dever três mil reais a Domitila. Mas traz consigo sua mãe Jorinda, que pede: “D. Domitila, por favor, transfira essa dívida para mim, minha filha está sofrendo muito”. Nesse caso, propôs-se uma:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "cessão de crédito, em que a anuência do credor é imprescindível;"
+      },
+      {
+        "letra": "B",
+        "texto": "cessão de crédito, em que a anuência do devedor é imprescindível;"
+      },
+      {
+        "letra": "C",
+        "texto": "assunção de dívida, em que a anuência do credor é imprescindível;"
+      },
+      {
+        "letra": "D",
+        "texto": "assunção de dívida, em que a anuência do devedor é imprescindível;"
+      },
+      {
+        "letra": "E",
+        "texto": "assunção de dívida, em que a anuência do credor e do devedor é imprescindível."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2224543",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: TJ-BA",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações",
+      "Teoria Geral das Obrigações"
+    ],
+    "enunciado_principal": "Guilherme, Rafael e David são devedores solidários de Alexandre. No dia do vencimento, Guilherme e Rafael entregam suas cotas-partes para David que, em vez de imediatamente procurar Alexandre para o pagamento, resolve apostar, em um sítio eletrônico, todos os valores, para multiplicá-los. Ocorre que, logo na primeira rodada, perde tudo. Nesse caso, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a dívida e a solidariedade remanescem em face de Guilherme, Rafael e David, sendo certo que os dois primeiros só têm direito indenizatório contra o último;"
+      },
+      {
+        "letra": "B",
+        "texto": "a dívida se extinguiu em relação a Guilherme e Rafael pela entrega de suas cotas-partes, considerando que, impossibilitada a prestação por culpa de um dos devedores solidários, pelas perdas e danos, só responde o culpado;"
+      },
+      {
+        "letra": "C",
+        "texto": "a dívida subsiste, mas rompeu-se o vínculo da solidariedade, considerando que, impossibilitada a prestação por culpa de um dos devedores solidários, pelas perdas e danos, só responde o culpado;"
+      },
+      {
+        "letra": "D",
+        "texto": "a dívida e a solidariedade extinguiram-se em relação a Guilherme, Rafael e David, porque não podem responder pelo caso fortuito;"
+      },
+      {
+        "letra": "E",
+        "texto": "a dívida e a solidariedade remanescem em face de Guilherme, Rafael e David, sendo certo que os primeiros devem arcar com os riscos de não terem feito o pagamento diretamente ao credor, de modo que nem direito indenizatório terão em face de David."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2203715",
+    "metadata": "Ano: 2023 | Banca: FURB | Órgão: Prefeitura de Jaraguá do Sul - SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "O Livro I da Parte Especial do Código Civil traz as regras gerais sobre as obrigações, estabelecendo como possível a cessão de créditos. Sobre esse tema, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na cessão de um crédito, não são abrangidos os seus acessórios, porque autônomos."
+      },
+      {
+        "letra": "B",
+        "texto": "O cedente sempre responde pela solvência do devedor."
+      },
+      {
+        "letra": "C",
+        "texto": "O cessionário somente pode exercer os atos conservatórios do direito cedido em caso de conhecimento, expresso ou tácito, da cessão pelo devedor."
+      },
+      {
+        "letra": "D",
+        "texto": "Ocorrendo várias cessões do mesmo crédito, prevalece a última, porque mais atual."
+      },
+      {
+        "letra": "E",
+        "texto": "A cessão do crédito não tem eficácia em relação ao devedor, senão quando a este notificada; mas por notificado se tem o devedor que, em escrito público ou particular, se declarou ciente da cessão feita."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2194810",
+    "metadata": "Ano: 2023 | Banca: Instituto Consulplan | Órgão: CRF-MG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "Após firmado contrato entre dois particulares, um terceiro sujeito não integrante da relação assumiu a posição do devedor no negócio jurídico ajustado. Nesse tipo de situação",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o consentimento do credor pode ser presumido, de modo que o seu silêncio é interpretado como aprovação."
+      },
+      {
+        "letra": "B",
+        "texto": "é dispensável o consentimento do credor embora necessária sua notificação a respeito da substituição do devedor."
+      },
+      {
+        "letra": "C",
+        "texto": "o devedor originário fica exonerado da obrigação mesmo se, ao tempo da assunção, fosse insolvente e o credor o ignorava."
+      },
+      {
+        "letra": "D",
+        "texto": "qualquer das partes pode assinar prazo ao credor para que consinta na assunção da dívida, interpretando-se o seu silêncio como recusa."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2193805",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: PGM - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações",
+      "Adimplemento, Modalidades de Pagamento e Extinção das Obrigações"
+    ],
+    "enunciado_principal": "Marcos, credor de Paulo, recebeu de Claudia o pagamento da dívida de Paulo e transferiu a ela, expressamente, todos os seus direitos enquanto credor. Nessa situação hipotética, ocorreu o pagamento por",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "cessão."
+      },
+      {
+        "letra": "B",
+        "texto": "sub-rogação."
+      },
+      {
+        "letra": "C",
+        "texto": "assunção de dívida."
+      },
+      {
+        "letra": "D",
+        "texto": "novação."
+      },
+      {
+        "letra": "E",
+        "texto": "compensação."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2179355",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: AGER - Mato Grosso",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "A assunção de dívida",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "independe da anuência do credor em qualquer caso."
+      },
+      {
+        "letra": "B",
+        "texto": "depende da anuência do credor em qualquer caso."
+      },
+      {
+        "letra": "C",
+        "texto": "depende da anuência do credor tão somente no caso do novo devedor ter idade superior a setenta anos."
+      },
+      {
+        "letra": "D",
+        "texto": "independe da anuência do credor nos caso de o patrimônio do novo devedor ser dez vezes superior ao valor da dívida por ele assumida."
+      },
+      {
+        "letra": "E",
+        "texto": "depende exclusivamente do ajuste de vontade a ser firmado entre o devedor originário e o novo devedor."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2166889",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: PGM - Niterói",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Inadimplemento das Obrigações",
+      "Transmissão das Obrigações",
+      "Adimplemento, Modalidades de Pagamento e Extinção das Obrigações",
+      "Teoria Geral das Obrigações"
+    ],
+    "enunciado_principal": "Fernando é dono de uma pequena floricultura. Certa vez, ele comentou com seu irmão Francisco que estava preocupado, pois uma dívida vultosa contraída com um fornecedor de flores venceria no mês seguinte e ele não sabia se disporia de recursos suficientes para adimplir o débito. Fernando ainda disse ao irmão que já tinha consultado um advogado e que não dispunha de qualquer argumento jurídico para eximir-se do pagamento da dívida. Naquele mesmo dia, apiedando-se da situação do irmão, Francisco decidiu surpreendê-lo e, sem nada dizer a ele, pagou, em nome próprio, a dívida integral junto ao fornecedor de flores, que prontamente aceitou o pagamento. Em casos como esse, o direito civil brasileiro estabelece que Francisco:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "sub-rogou-se automaticamente no direito que o fornecedor de flores titularizava contra Fernando;"
+      },
+      {
+        "letra": "B",
+        "texto": "nada pode cobrar de Fernando, pois realizou o pagamento sem o conhecimento deste;"
+      },
+      {
+        "letra": "C",
+        "texto": "nada pode cobrar de Fernando, pois realizou o pagamento em nome próprio;"
+      },
+      {
+        "letra": "D",
+        "texto": "pode cobrar de Fernando o reembolso do valor pago, mas apenas a partir da data de vencimento da dívida original;"
+      },
+      {
+        "letra": "E",
+        "texto": "pode cobrar de Fernando o reembolso do valor pago, desde a data em que realizou o pagamento."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2164938",
+    "metadata": "Ano: 2023 | Banca: Quadrix | Órgão: PROCON-DF",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "Caso a substituição do devedor seja anulada, restaurar‑se‑á o débito, mas sem eventuais garantias anteriores.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2164936",
+    "metadata": "Ano: 2023 | Banca: Quadrix | Órgão: PROCON-DF",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações",
+      "Adimplemento, Modalidades de Pagamento e Extinção das Obrigações"
+    ],
+    "enunciado_principal": "É facultado a terceiro assumir a obrigação do devedor, mediante o consentimento expresso do credor. Assim, o devedor primitivo fica exonerado, salvo se aquele, à época da assunção, fosse insolvente e o credor o ignorasse.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2164935",
+    "metadata": "Ano: 2023 | Banca: Quadrix | Órgão: PROCON-DF",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações",
+      "Teoria Geral das Obrigações"
+    ],
+    "enunciado_principal": "O cedente responde pela solvência do devedor, e está vedado às partes dispor em sentido contrário.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2164934",
+    "metadata": "Ano: 2023 | Banca: Quadrix | Órgão: PROCON-DF",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações",
+      "Adimplemento, Modalidades de Pagamento e Extinção das Obrigações"
+    ],
+    "enunciado_principal": "O devedor pode opor ao cessionário as exceções que lhe competirem, mas nada poderá alegar quanto àquelas que tinha contra o cedente.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2164933",
+    "metadata": "Ano: 2023 | Banca: Quadrix | Órgão: PROCON-DF",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "Caso ocorram várias cessões do mesmo crédito, prevalece a cessão que se completar com a tradição do título do crédito cedido.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2164932",
+    "metadata": "Ano: 2023 | Banca: Quadrix | Órgão: PROCON-DF",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "A cessão de crédito tem eficácia em relação ao devedor, ainda que este não seja notificado.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2164930",
+    "metadata": "Ano: 2023 | Banca: Quadrix | Órgão: PROCON-DF",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "O credor pode ceder o seu crédito, desde que isso não contrarie a natureza da obrigação, a lei ou a convenção com o devedor.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2134217",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: AGU",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações",
+      "Adimplemento, Modalidades de Pagamento e Extinção das Obrigações"
+    ],
+    "enunciado_principal": "Assinale a opção que corresponde ao instituto jurídico relativo à hipótese de transferência dos direitos do credor para quem pagou a obrigação ou para quem emprestou o necessário para solvê-la.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "confusão"
+      },
+      {
+        "letra": "B",
+        "texto": "imputação em pagamento"
+      },
+      {
+        "letra": "C",
+        "texto": "consignação em pagamento"
+      },
+      {
+        "letra": "D",
+        "texto": "sub-rogação"
+      },
+      {
+        "letra": "E",
+        "texto": "dação em pagamento"
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2065727",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: CGE-SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "A Sociedade Ativos e Passivos Gestão Financeira S.A. adquiriu a carteira de créditos de uma determinada Administradora de Cartão de Crédito. Diante do alto índice de inadimplência, a Sociedade promoveu ação de cobrança diante de diversos consumidores do cartão de crédito. Vários réus alegaram basicamente a inexistência de relação contratual entre eles e a Sociedade. A respeito do tema cessão de crédito, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Por força legal, a cessão de crédito só se admite nos casos previstos em lei."
+      },
+      {
+        "letra": "B",
+        "texto": "Salvo disposição contrária, a cessão de crédito envolve, apenas, o principal, não alcançando os acessórios."
+      },
+      {
+        "letra": "C",
+        "texto": "Salvo estipulação em contrário, no caso narrado no enunciado, a Administradora de Cartão de Crédito não responde pela solvência do devedor."
+      },
+      {
+        "letra": "D",
+        "texto": "É facultada a cessão de crédito a terceiro, desde que haja o consentimento expresso e escrito do devedor."
+      },
+      {
+        "letra": "E",
+        "texto": "A cessão de crédito no direito brasileiro é consequência da cessão de contrato, assim, deveria a Administradora de Cartão de Crédito ter cedido o contrato específico."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2043818",
+    "metadata": "Ano: 2023 | Banca: Quadrix | Órgão: CRO - SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "Segundo as disposições do Código Civil a respeito das obrigações, julgue o item.Havendo mais de um devedor ou mais de um credor em obrigação divisível, esta presume-se dividida em tantas obrigações, iguais e distintas, quantos os credores ou devedores.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2408599",
+    "metadata": "Ano: 2022 | Banca: SELECON | Órgão: Câmara de São Gonçalo - RJ",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "Cléo é devedor de Joia, sendo o contrato de prestações continuadas. Em determinado momento, Mirtes assume a obrigação de Cléo, com expresso consentimento de Joia e continua cumprindo as prestações. Cléo restou exonerada da obrigação. Nos termos do Código Civil, ocorreu a denominada:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "securitização de dívida"
+      },
+      {
+        "letra": "B",
+        "texto": "assunção de dívida"
+      },
+      {
+        "letra": "C",
+        "texto": "incorporação de dívida"
+      },
+      {
+        "letra": "D",
+        "texto": "extrapolação de dívida"
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2117951",
+    "metadata": "Ano: 2022 | Banca: VUNESP | Órgão: TJ-RJ",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "O credor pode ceder o seu crédito, se a isso não se opuser a natureza da obrigação, a lei, ou a convenção com o devedor. Acerca do tema, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "desde que com o conhecimento da cessão pelo devedor, pode o cessionário exercer os atos conservatórios do direito cedido."
+      },
+      {
+        "letra": "B",
+        "texto": "é responsável solidariamente o devedor que, antes de ter conhecimento da cessão, paga ao credor primitivo."
+      },
+      {
+        "letra": "C",
+        "texto": "na cessão pro solvendo, o cedente obriga-se a pagar se o devedor cedido for insolvente, assumindo, portanto, o risco da insolvência do devedor."
+      },
+      {
+        "letra": "D",
+        "texto": "em regra, na cessão de um crédito não se abrangem todos os seus acessórios."
+      },
+      {
+        "letra": "E",
+        "texto": "o devedor não pode opor ao cessionário as exceções que lhe competirem, nem aquelas que, no momento em que veio a ter conhecimento da cessão, tinha contra o cedente."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2095442",
+    "metadata": "Ano: 2022 | Banca: FUNDATEC | Órgão: Prefeitura de Giruá - RS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações",
+      "Teoria Geral das Obrigações",
+      "Modalidades de Obrigações"
+    ],
+    "enunciado_principal": "Conforme o entendimento do Superior Tribunal de Justiça, as obrigações ambientais:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Possuem natureza propter rem."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente podem ser cobradas do proprietário ou possuidor atual."
+      },
+      {
+        "letra": "C",
+        "texto": "Podem ser cobradas do proprietário anterior, de forma subsidiária."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente podem ser cobradas do proprietário, não alcançando o possuidor."
+      },
+      {
+        "letra": "E",
+        "texto": "Tem natureza personalíssima."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1982177",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: Prefeitura de Maringá - PR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações",
+      "Adimplemento, Modalidades de Pagamento e Extinção das Obrigações"
+    ],
+    "enunciado_principal": "Hilda, credora, celebrou com Romeu e Lisa, devedores solidários, negócio jurídico referente à aquisição de equipamentos de informática. Nesse situação hipotética, de acordo com o Código Civil,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Hilda não poderá exigir o cumprimento da obrigação apenas de Romeu."
+      },
+      {
+        "letra": "B",
+        "texto": "O pagamento parcial realizado por Romeu aproveita à Lisa."
+      },
+      {
+        "letra": "C",
+        "texto": "caso Romeu faleça, seus herdeiros somente serão obrigados a pagar a quota correspondente ao quinhão hereditário."
+      },
+      {
+        "letra": "D",
+        "texto": "Hilda não poderá renunciar a solidariedade em favor de Romeu."
+      },
+      {
+        "letra": "E",
+        "texto": "Eventual ajuizamento de ação de Hilda em face exclusivamente de Lisa caracterizará renúncia tácita da solidariedade desta em face de Romeu."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1971716",
+    "metadata": "Ano: 2022 | Banca: FUNDEP (Gestão de Concursos) | Órgão: MPE-MG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Inadimplemento das Obrigações",
+      "Transmissão das Obrigações",
+      "Modalidades de Obrigações"
+    ],
+    "enunciado_principal": "Considere as assertivas a seguir: I. Nas obrigações em que há solidariedade ativa, pode o devedor opor a um dos credores solidários as exceções pessoais oponíveis aos outros. II. Nas arras penitenciais, se a parte que as recebeu não executar o contrato, poderá a que as deu considerar o contrato desfeito e exigir, além da indenização suplementar, sua devolução mais o equivalente, com atualização monetária segundo índices oficiais regularmente estabelecidos, juros e honorários de advogado. III. Quando se estipular a cláusula penal para o caso de mora, ou em segurança especial de outra cláusula determinada, terá o credor o arbítrio de exigir a satisfação da pena cominada, juntamente com o desempenho da obrigação principal. IV. É facultado a terceiro assumir a obrigação do devedor, com o consentimento expresso do credor, ficando exonerado o devedor primitivo solvente e, salvo assentimento expresso do devedor primitivo, consideram-se extintas, a partir da assunção da dívida, as garantias especiais por ele originariamente dadas ao credor. Assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas as assertivas I, II e IV são verdadeiras."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas as assertivas I, II e III são verdadeiras."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas as assertivas III e IV são verdadeiras."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas as assertivas II e III são verdadeiras."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1962809",
+    "metadata": "Ano: 2022 | Banca: FUMARC | Órgão: TRT - 13ª Região (PB)",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações",
+      "Modalidades de Obrigações"
+    ],
+    "enunciado_principal": "A solidariedade nas obrigações",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não se presume, resulta apenas da vontade das partes quando se trata de negócios privados."
+      },
+      {
+        "letra": "B",
+        "texto": "não se presume, resulta apenas da lei."
+      },
+      {
+        "letra": "C",
+        "texto": "não se presume, resulta da lei ou da vontade das partes."
+      },
+      {
+        "letra": "D",
+        "texto": "pode ser objeto de presunção relativa."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1962808",
+    "metadata": "Ano: 2022 | Banca: FUMARC | Órgão: TRT - 13ª Região (PB)",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações",
+      "Teoria Geral das Obrigações",
+      "Modalidades de Obrigações"
+    ],
+    "enunciado_principal": "Quanto à obrigação de dar, é CORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A obrigação de dar coisa certa abrange os acessórios dela, se expressamente mencionados."
+      },
+      {
+        "letra": "B",
+        "texto": "A obrigação de dar coisa certa abrange, em regra, os acessórios dela, ainda que não mencionados."
+      },
+      {
+        "letra": "C",
+        "texto": "Deteriorada a coisa, não sendo o devedor culpado, resolve-se necessariamente a obrigação."
+      },
+      {
+        "letra": "D",
+        "texto": "Os frutos percebidos pertencem ao credor a partir da constituição da obrigação."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1929271",
+    "metadata": "Ano: 2022 | Banca: Quadrix | Órgão: COREN-AP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações",
+      "Modalidades de Obrigações"
+    ],
+    "enunciado_principal": "Acerca das obrigações solidárias, julgue o item.Se um dos credores solidários falecer, deixando herdeiros, cada um destes poderá exigir e receber o crédito em sua integralidade.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1891791",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: PC-RJ",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "Acerca da transmissão das obrigações, prevista no Código Civil Brasileiro, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A cessão de contrato, também chamada cessão de posição contratual, é vedada no direito brasileiro, mesmo se ambos os contratantes estiverem de acordo com a cessão."
+      },
+      {
+        "letra": "B",
+        "texto": "Salvo disposição em contrário, na cessão de um crédito abrangem-se todos os seus acessórios."
+      },
+      {
+        "letra": "C",
+        "texto": "Na cessão de crédito, salvo estipulação em contrário, o cedente responde pela solvência do devedor."
+      },
+      {
+        "letra": "D",
+        "texto": "Na cessão de crédito pro solvendo, o cedente responde apenas pela existência e validade do crédito cedido."
+      },
+      {
+        "letra": "E",
+        "texto": "Na assunção de dívida, o novo devedor pode opor ao credor todas as exceções pessoais que competiam ao devedor primitivo."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2170837",
+    "metadata": "Ano: 2021 | Banca: FAFIPA | Órgão: Câmara de Dois Vizinhos - PR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações",
+      "Adimplemento, Modalidades de Pagamento e Extinção das Obrigações",
+      "Teoria Geral das Obrigações"
+    ],
+    "enunciado_principal": "Segundo a doutrina, o principal efeito das obrigações é gerar para o credor o direito de exigir do devedor o cumprimento da prestação, e para este o dever de prestar. Nesse sentido, nos termos do Código Civil de 2002, assinale a alternativa CORRETA sobre o adimplemento das obrigações:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É ilícito convencionar o aumento progressivo de prestações sucessivas."
+      },
+      {
+        "letra": "B",
+        "texto": "Se o devedor pagar ao credor, apesar de intimado da penhora feita sobre o crédito, ou da impugnação a ele oposta por terceiros, o pagamento não valerá contra estes, que poderão constranger o devedor a pagar de novo, ficando-lhe ressalvado o regresso contra o credor."
+      },
+      {
+        "letra": "C",
+        "texto": "O pagamento feito de boa-fé ao credor putativo é válido, salvo se provado depois que não era credor."
+      },
+      {
+        "letra": "D",
+        "texto": "O terceiro não interessado, que paga a dívida em seu próprio nome, tem direito a reembolsar-se do que pagar; bem como sub-roga-se nos direitos do credor."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1860268",
+    "metadata": "Ano: 2021 | Banca: CESPE / CEBRASPE | Órgão: PGE-MS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações",
+      "Adimplemento, Modalidades de Pagamento e Extinção das Obrigações"
+    ],
+    "enunciado_principal": "Carlos, Paulo e Jonas são credores solidários de João, da quantia de 30 mil reais. No vencimento da obrigação, João pagou a Carlos a quantia de 5 mil reais, restando não pago o saldo remanescente de 25 mil reais. Considerando essa situação hipotética, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Uma vez efetuado pagamento parcial a Carlos, Paulo e Jonas não poderão demandar a João o pagamento do saldo remanescente."
+      },
+      {
+        "letra": "B",
+        "texto": "Caso Paulo demande individualmente a João em relação ao saldo remanescente e obtenha julgamento contrário, o resultado do julgado atingirá Carlos e Jonas."
+      },
+      {
+        "letra": "C",
+        "texto": "Enquanto Carlos, Paulo ou Jonas não demandarem a João, a qualquer daqueles poderá este pagar o saldo remanescente."
+      },
+      {
+        "letra": "D",
+        "texto": "O pagamento efetuado por João a Carlos, ainda que parcial, extingue por completo a dívida frente a este, cabendo somente a Paulo e Jonas cobrar o saldo remanescente."
+      },
+      {
+        "letra": "E",
+        "texto": "Carlos, apesar de ter recebido pagamento parcial de João, nada responderá a Paulo e Jonas, uma vez que o montante pago sequer alcançou a sua quota do crédito."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1852650",
+    "metadata": "Ano: 2021 | Banca: FGV | Órgão: TJ-SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "Bianca pretende adquirir imóvel que pertence a Carla, mas que está gravado com hipoteca que garante crédito de Daniel contra a proprietária. Diante disso, Bianca faz acordo com Carla para, na compra e venda, pagar preço inferior ao valor de mercado do imóvel, mas, ao mesmo tempo, assumir a dívida de Carla perante Daniel, que é garantida pelo bem. Em seguida, elas notificam Daniel acerca da venda do imóvel com a assunção da dívida. Nesse caso, a assunção da dívida por Bianca:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "só ocorrerá se Daniel aceitar expressamente a substituição da devedora;"
+      },
+      {
+        "letra": "B",
+        "texto": "ocorrerá se Daniel não impugnar em trinta dias a transferência do débito;"
+      },
+      {
+        "letra": "C",
+        "texto": "ocorrerá independentemente da concordância de Daniel, por se tratar de acessório do imóvel;"
+      },
+      {
+        "letra": "D",
+        "texto": "não ocorrerá, pois não é possível a transmissão de débitos garantidos por hipoteca;"
+      },
+      {
+        "letra": "E",
+        "texto": "não ocorrerá, pois o acordo entre Bianca e Carla não é válido."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1827598",
+    "metadata": "Ano: 2021 | Banca: VUNESP | Órgão: Prefeitura de Guarujá - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "Sobre a cessão de crédito, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na cessão por título oneroso, o cedente, desde que expressamente previsto no negócio jurídico, fica responsável ao cessionário pela existência do crédito ao tempo em que lhe cedeu."
+      },
+      {
+        "letra": "B",
+        "texto": "O cedente, responsável ao cessionário pela solvência do devedor, não responde por mais do que daquele recebeu, com os respectivos juros e não tem o dever de ressarcir-lhe as despesas da cessão e as que o cessionário houver feito com a cobrança."
+      },
+      {
+        "letra": "C",
+        "texto": "O cedente responde pela solvência do devedor, salvo se ignorava o estado de insolvência deste no momento da cessão."
+      },
+      {
+        "letra": "D",
+        "texto": "Na cessão a título gratuito, o cedente somente é responsável pela existência do crédito ao tempo da cessão se tiver procedido de má-fé."
+      },
+      {
+        "letra": "E",
+        "texto": "O crédito, uma vez penhorado, poderá ser transferido pelo credor que tiver conhecimento da penhora; mas o devedor que o pagar, não tendo notificação dela, fica exonerado, subsistindo somente contra o credor os direitos de terceiro."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1827352",
+    "metadata": "Ano: 2021 | Banca: FUNDEP (Gestão de Concursos) | Órgão: IPREMU",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "Analise as seguintes afirmativas, referentes às obrigações de Direito Civil. I. Nos termos da lei brasileira, a cessão do crédito não tem eficácia em relação ao devedor, senão quando a este notificada. II. Qualquer das partes pode assinar prazo ao credor para que consinta na assunção da dívida, interpretando-se o seu silêncio como recusa. III. O pagamento feito de boa-fé ao credor putativo é válido, ainda provado depois que não era credor. IV. O pagamento reiteradamente feito em outro local faz presumir renúncia do credor relativamente ao previsto no contrato. Estão corretas as afirmativas",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II, III e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "I, II, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "III e IV, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "II e IV, apenas."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1791343",
+    "metadata": "Ano: 2021 | Banca: CESPE / CEBRASPE | Órgão: MPE-AP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "Se, com o consentimento expresso do credor, terceiro solvente assumir a obrigação do devedor, ficando este exonerado, estará configurada a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "sub-rogação."
+      },
+      {
+        "letra": "B",
+        "texto": "novação."
+      },
+      {
+        "letra": "C",
+        "texto": "remissão."
+      },
+      {
+        "letra": "D",
+        "texto": "assunção de dívida."
+      },
+      {
+        "letra": "E",
+        "texto": "transação."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1749327",
+    "metadata": "Ano: 2021 | Banca: FGV | Órgão: IMBEL",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "A Sociedade X, fabricante de produtos para a construção civil, forneceu materiais para a Sociedade Y. Alguns dias após a entrega dos produtos, mas antes da data acordada para que a Sociedade Y pagasse pelo recebimento, a Sociedade X notificou a Sociedade Y acerca da transmissão do crédito, advindo daquele contrato, para a Sociedade Z. Porém, a Sociedade Y não concorda em pagar o valor da aquisição à Sociedade Z, embora no contrato com a Sociedade X não houvesse previsão de qualquer proibição dessa prática. Sobre a situação, segundo o Código Civil, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A Sociedade X pretende realizar uma novação da obrigação, que não é admitida sem autorização do devedor."
+      },
+      {
+        "letra": "B",
+        "texto": "A Sociedade X realizou uma cessão de crédito à Sociedade Z, admitida, pois não há vedação legal, contratual e a natureza da obrigação a permite."
+      },
+      {
+        "letra": "C",
+        "texto": "A Sociedade X imputou a Sociedade Z no pagamento, o que não pode ser impugnada pela Sociedade Y, ainda que haja cláusula proibitiva."
+      },
+      {
+        "letra": "D",
+        "texto": "Operou-se, entre as Sociedades X e Z, uma compensação de crédito, pelo que a Sociedade Y não possui meios para excepcionar o pagamento."
+      },
+      {
+        "letra": "E",
+        "texto": "A consignação do crédito efetuada pela Sociedade X junto à Sociedade Z, a qual somente pode ser proibida por lei, determina que a Sociedade Y pague a Z."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1289697",
+    "metadata": "Ano: 2019 | Banca: FUNDATEC | Órgão: Prefeitura de Coronel Bicaco - RS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações",
+      "Modalidades de Obrigações"
+    ],
+    "enunciado_principal": "Quando o devedor contrai com o credor nova dívida, com o nítido intuito de extinguir e substituir a anterior, ocorre:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sub-rogação."
+      },
+      {
+        "letra": "B",
+        "texto": "Compensação."
+      },
+      {
+        "letra": "C",
+        "texto": "Novação."
+      },
+      {
+        "letra": "D",
+        "texto": "Dação em pagamento."
+      },
+      {
+        "letra": "E",
+        "texto": "Imputação em pagamento."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1218976",
+    "metadata": "Ano: 2019 | Banca: IESES | Órgão: Prefeitura de São José - SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "Sobre a transmissão das obrigações, responda as questões: I. Salvo estipulação em contrário, o cedente não responde pela solvência do devedor. II. Independentemente do conhecimento da cessão pelo devedor, pode o cessionário exercer os atos conservatórios do direito cedido. III. Salvo disposição em contrário, na cessão de um crédito abrangem-se todos os seus acessórios. Assinale a correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Todas as assertivas são falsas."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas a assertiva II é verdadeira."
+      },
+      {
+        "letra": "C",
+        "texto": "Todas as assertivas são verdadeiras."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas as assertivas I e II são verdadeiras."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1140013",
+    "metadata": "Ano: 2019 | Banca: FUNDEP (Gestão de Concursos) | Órgão: Prefeitura de Contagem - MG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "Analise as afirmativas a seguir, relativas à transmissão das obrigações. I. A assunção de dívida por expromissão é concretizada quando terceiro assume espontaneamente a dívida, não participando o devedor originário da operação. II. Como regra geral, não havendo manifestação expressa, a cessão de crédito dá-se na modalidade pro soluto, isto é, o cedente não responde pela solvência pelo devedor. III. É facultado a terceiro assumir a obrigação do devedor, sem o consentimento expresso do credor, ficando exonerado o devedor primitivo. Está(ão) correta(s) a(s) afirmativa(s)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "I e III, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "II, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "II e III, apenas."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1093752",
+    "metadata": "Ano: 2019 | Banca: VUNESP | Órgão: Prefeitura da Estância Turística de Guaratinguetá",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "Roberto, proprietário de um imóvel no litoral do estado de São Paulo, decidiu vender o apartamento para Maria, informando que atualmente existe um inquilino no imóvel e que o valor mensal do aluguel é de R$ 3.000,00 (três mil reais). Buscando extinguir uma dívida antiga, decide ceder os créditos da venda a Maria para Pedro mediante instrumento particular simples. Diante da situação hipotética, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Considerando não haver nenhuma disposição em contrário, Roberto cede apenas os créditos relativos à venda, não abrangendo os créditos relativos ao valor do aluguel."
+      },
+      {
+        "letra": "B",
+        "texto": "A cessão de créditos realizada entre Roberto e Pedro é eficaz em relação a terceiros."
+      },
+      {
+        "letra": "C",
+        "texto": "Em regra, Roberto responde pela solvência de Maria"
+      },
+      {
+        "letra": "D",
+        "texto": "Se Roberto penhorar o crédito, este pode ser transferido por Pedro, se tiver conhecimento da penhora."
+      },
+      {
+        "letra": "E",
+        "texto": "A cessão do crédito não tem eficácia em relação a Maria, senão quando a esta notificada."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1092895",
+    "metadata": "Ano: 2019 | Banca: VUNESP | Órgão: TJ-RO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "Tício cedeu onerosamente um crédito que tinha contra Mélvio para Caio, constante de um instrumento particular de confissão de dívida. No instrumento de cessão, constou que o cedente não se responsabiliza pela solvência do devedor, mas era omisso acerca da responsabilidade pela existência do crédito. Apesar de notificado da cessão do crédito, Mélvio não se manifestou. No dia do vencimento da dívida, entretanto, Mélvio alegou que o crédito foi obtido mediante coação realizada por Tício. A suposta coação ocorreu há exatamente três anos e um dia. Acerca do caso hipotético, pode-se corretamente afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "caso provada a coação, não responderá Tício a Caio pelo valor devido, tendo em vista que somente se responsabilizaria se houvesse previsão expressa no termo de cessão."
+      },
+      {
+        "letra": "B",
+        "texto": "caso provada a coação, responderá Tício a Caio pelo valor devido, mesmo não havendo previsão expressa no termo de cessão."
+      },
+      {
+        "letra": "C",
+        "texto": "somente seria oponível a Caio a alegação de coação se este soubesse ou devesse saber acerca da existência do vício do consentimento."
+      },
+      {
+        "letra": "D",
+        "texto": "a alegação da ocorrência de coação não é oponível a Caio, tendo em vista que Mélvio deveria ter, imediatamente após tomar conhecimento da cessão do crédito, alegado a existência do vício de consentimento."
+      },
+      {
+        "letra": "E",
+        "texto": "decorreu o prazo decadencial para que Mélvio pudesse pleitear a desconstituição do crédito em razão do vício de consentimento."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1036584",
+    "metadata": "Ano: 2019 | Banca: FCC | Órgão: TJ-AL",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "Por conta de mútuo oneroso, João devia a Teresa a importância de cem mil reais. No intuito de ajudar o amigo em dificuldade, Leopoldo assumiu para si a obrigação de João, para o que houve expressa anuência de Teresa. Nesse caso,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "João ficará exonerado da dívida, salvo se Leopoldo, ao tempo da assunção, fosse insolvente e Teresa ignorasse essa sua condição."
+      },
+      {
+        "letra": "B",
+        "texto": "Leopoldo poderá opor a Teresa as exceções pessoais que competiam a João."
+      },
+      {
+        "letra": "C",
+        "texto": "se a substituição do devedor vier a ser anulada, restaura-se o débito de João, sem nenhuma garantia, independentemente de quem a tenha prestado."
+      },
+      {
+        "letra": "D",
+        "texto": "preservam-se as garantias especiais originariamente dadas a Teresa por João, independentemente do assentimento dele."
+      },
+      {
+        "letra": "E",
+        "texto": "João responderá apenas pela metade da dívida, ainda que Leopoldo não cumpra a obrigação assumida perante Teresa."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "999071",
+    "metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: Prefeitura de Boa Vista - RR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações",
+      "Adimplemento, Modalidades de Pagamento e Extinção das Obrigações"
+    ],
+    "enunciado_principal": "Acerca de responsabilidade civil, de negócio jurídico e de transmissão e extinção de obrigações, julgue o item seguinte.Tanto no caso de assunção de dívida quanto no caso de novação de dívida, enquanto a obrigação original não for totalmente adimplida, o devedor originário manterá sua responsabilidade com o credor e a obrigação permanecerá inalterada.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "963236",
+    "metadata": "Ano: 2019 | Banca: IADES | Órgão: AL-GO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "A respeito da cessão de crédito no direito civil brasileiro, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O direito brasileiro não tolera a cessão de crédito para terceiros."
+      },
+      {
+        "letra": "B",
+        "texto": "Salvo disposição em contrário, na cessão de um crédito não são abrangidos os respectivos acessórios."
+      },
+      {
+        "letra": "C",
+        "texto": "De regra, o cedente responde perante o cessionário pela solvência do devedor."
+      },
+      {
+        "letra": "D",
+        "texto": "O devedor pode opor ao cessionário as exceções que lhe competirem, porém não poderá opor aquelas que, no momento em que veio a ter conhecimento da cessão, tinha contra o cedente (eficácia inter partes da cessão)."
+      },
+      {
+        "letra": "E",
+        "texto": "O devedor que, antes de ter conhecimento da cessão, paga ao credor primitivo fica desobrigado."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2748182",
+    "metadata": "Ano: 2018 | Banca: Instituto Águia | Órgão: CEAGESP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "Sobre a cessão de crédito, é incorreto dizer que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O credor pode ceder o seu crédito, se a isso não se opuser a natureza da obrigação, a lei, ou a convenção com o devedor."
+      },
+      {
+        "letra": "B",
+        "texto": "Não fica desobrigado o devedor que, antes de ter conhecimento da cessão, paga ao credor primitivo, ou que, no caso de mais de uma cessão notificada, paga ao cessionário que lhe apresenta, com o título de cessão, o da obrigação cedida."
+      },
+      {
+        "letra": "C",
+        "texto": "Salvo disposição em contrário, na cessão de um crédito abrangem-se todos os seus acessórios."
+      },
+      {
+        "letra": "D",
+        "texto": "O cessionário de crédito hipotecário tem o direito de fazer averbar a cessão no registro do imóvel."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2031228",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: Prefeitura de Pereira Barreto - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "O direito das obrigações exerce enorme influência na vida econômica da sociedade e permite que a relação obrigacional seja transmitida quer em relação ao sujeito ativo, quer em relação ao sujeito passivo, sem que esse fato atinja a sua individualidade, persistindo o vínculo na sua identidade, apesar das alterações operadas. No campo da transmissão das obrigações, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a cessão do crédito não tem eficácia em relação ao devedor, senão quando a este notificada; mas por notificado se tem o devedor que, em escrito público ou particular, se declarou ciente da cessão feita."
+      },
+      {
+        "letra": "B",
+        "texto": "o credor pode ceder qualquer crédito de que disponha, tendo por não escrito, no instrumento da obrigação, cláusula ou condição que importe em proibição a esta cessão."
+      },
+      {
+        "letra": "C",
+        "texto": "ocorrendo várias cessões do mesmo crédito, prevalece a que se completar por último em relação ao título do crédito cedido."
+      },
+      {
+        "letra": "D",
+        "texto": "é facultado a terceiro assumir a obrigação do devedor, independentemente do consentimento expresso do credor, ficando exonerado o devedor primitivo, salvo se aquele, ao tempo da assunção, era insolvente e o credor o ignorava."
+      },
+      {
+        "letra": "E",
+        "texto": "o adquirente de imóvel hipotecado pode tomar a seu cargo o pagamento do crédito garantido; se o credor, notificado, não impugnar em trinta dias a transferência do débito, entender-se-á negado o assentimento."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1086839",
+    "metadata": "Ano: 2018 | Banca: IBFC | Órgão: Prefeitura de Divinópolis - MG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "No que se refere á transmissão das obrigações, assinale a alternativa incorreta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A cessão do crédito não tem eficácia em relação ao devedor, senão quando a este notificada; mas por notificado se tem o devedor que, em escrito público ou particular, se declarou ciente da cessão feita"
+      },
+      {
+        "letra": "B",
+        "texto": "O crédito, uma vez penhorado, não pode mais ser transferido pelo credor que tiver conhecimento da penhora; mas o devedor que o pagar, não tendo notificação dela, fica exonerado, subsistindo somente contra o credor os direitos de terceiro"
+      },
+      {
+        "letra": "C",
+        "texto": "O cessionário de crédito hipotecário não tem o direito de fazer averbar a cessão no registro do imóvel"
+      },
+      {
+        "letra": "D",
+        "texto": "O devedor pode opor ao cessionário as exceções que lhe competirem, bem como as que, no momento em que veio a ter conhecimento da cessão, tinha contra o cedente"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "980357",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: Câmara de Nova Odessa - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "A transmissão das obrigações pode se dar de duas maneiras: por meio de cessão de crédito ou por meio de assunção de dívida. Sobre os institutos, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a assunção de dívida é a transferência ativa da obrigação que o credor faz a outrem de deus direitos."
+      },
+      {
+        "letra": "B",
+        "texto": "a assunção de dívida necessita de consentimento expresso do credor, sendo o seu silêncio interpretado como recusa."
+      },
+      {
+        "letra": "C",
+        "texto": "em regra, a cessão de crédito corresponde apenas à obrigação principal."
+      },
+      {
+        "letra": "D",
+        "texto": "na cessão de crédito, salvo estipulação em contrário, o cedente responde pela solvência do devedor."
+      },
+      {
+        "letra": "E",
+        "texto": "o novo devedor, na assunção de dívida, pode opor ao credor as exceções pessoais que competiam ao devedor primitivo."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "960403",
+    "metadata": "Ano: 2018 | Banca: Quadrix | Órgão: CODHAB-DF",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "Acerca do direito das obrigações, de contratos e de responsabilidade civil, julgue o item a seguir. A cessão de crédito é modalidade de transmissão de obrigação que importa em alteração objetiva da relação obrigacional.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "946821",
+    "metadata": "Ano: 2018 | Banca: UEM | Órgão: UEM",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Inadimplemento das Obrigações",
+      "Transmissão das Obrigações",
+      "Adimplemento, Modalidades de Pagamento e Extinção das Obrigações"
+    ],
+    "enunciado_principal": "Marque a alternativa incorreta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dá-se a novação: quando o devedor contrai com o credor nova dívida para extinguir e substituir a anterior; quando novo devedor sucede ao antigo, ficando este quite com o credor; quando, em virtude de obrigação nova, outro credor é substituído ao antigo, ficando o devedor quite com este."
+      },
+      {
+        "letra": "B",
+        "texto": "Se duas pessoas forem ao mesmo tempo credor e devedor uma da outra, as duas obrigações extinguem-se, até onde se compensarem. A compensação efetua-se entre dívidas líquidas, vencidas e de coisas fungíveis."
+      },
+      {
+        "letra": "C",
+        "texto": "Não cumprida a obrigação, responde o devedor por perdas e danos, mais juros e atualização monetária segundo índices oficiais regularmente estabelecidos, e honorários de advogado."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente considera-se em mora o devedor que não efetuar o pagamento e o credor que não quiser recebê-lo no tempo, lugar e forma que a lei estabelecer."
+      },
+      {
+        "letra": "E",
+        "texto": "Extingue-se a obrigação, desde que na mesma pessoa se confundam as qualidades de credor e devedor. A confusão pode verificar-se a respeito de toda a dívida, ou só de parte dela."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "946820",
+    "metadata": "Ano: 2018 | Banca: UEM | Órgão: UEM",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Inadimplemento das Obrigações",
+      "Transmissão das Obrigações",
+      "Modalidades de Obrigações"
+    ],
+    "enunciado_principal": "Marque a alternativa incorreta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Incorre na obrigação de indenizar perdas e danos o devedor que recusar a prestação a ele só imposta ou só por ele exequível."
+      },
+      {
+        "letra": "B",
+        "texto": "No caso das obrigações solidárias, a solidariedade não se presume; resulta da lei ou da vontade das partes."
+      },
+      {
+        "letra": "C",
+        "texto": "O credor pode ceder o seu crédito, se a isso não se opuser a natureza da obrigação, a lei, ou a convenção com o devedor; a cláusula proibitiva da cessão não poderá ser oposta ao cessionário de boa-fé, se não constar do instrumento da obrigação."
+      },
+      {
+        "letra": "D",
+        "texto": "É ineficaz, em relação a terceiros, a transmissão de um crédito, se não celebrar-se mediante instrumento público, ou instrumento particular, que deverá ser revestido das solenidades previstas em lei, ou seja, a indicação do lugar onde foi passado, a qualificação do outorgante e do outorgado, a data e o objetivo da outorga com a designação e a extensão dos poderes conferidos."
+      },
+      {
+        "letra": "E",
+        "texto": "Na assunção de dívida, é facultado a terceiro assumir a obrigação do devedor, sem o consentimento expresso do credor, ficando exonerado o devedor primitivo, salvo se aquele, ao tempo da assunção, era insolvente e o credor o ignorava."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "905183",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: FAPESP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "Quanto à cessão de contrato, assinale a resposta correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A não desoneração total do cedente impede a celebração e a validade do contrato de cessão."
+      },
+      {
+        "letra": "B",
+        "texto": "Em regra geral, o cedente não se responsabiliza pelo adimplemento do contrato-base após a cessão."
+      },
+      {
+        "letra": "C",
+        "texto": "O contrato somente pode ser transferido sobre as relações jurídicas ainda não exauridas."
+      },
+      {
+        "letra": "D",
+        "texto": "A cessão de posição contratual, ou simplesmente cessão de contrato, consiste em negócio típico no direito brasileiro."
+      },
+      {
+        "letra": "E",
+        "texto": "A cessão de contrato somente terá consequências jurídicas nos contratos ditos onerosos."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "905176",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: FAPESP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "O credor pode ceder o seu crédito,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "sempre que exista um crédito a ceder."
+      },
+      {
+        "letra": "B",
+        "texto": "mas sua cessão jamais tem eficácia em relação ao devedor."
+      },
+      {
+        "letra": "C",
+        "texto": "sendo eficaz perante terceiros, independentemente de qualquer solenidade."
+      },
+      {
+        "letra": "D",
+        "texto": "porém, a cessão de crédito hipotecário somente terá valor se averbada no registro de imóveis."
+      },
+      {
+        "letra": "E",
+        "texto": "e salvo disposição em contrário, na cessão abrangem-se todos os seus acessórios."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "905173",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: FAPESP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "Determina o art. 292 do Código Civil: “Fica desobrigado o devedor que, antes de ter conhecimento da cessão, paga ao credor primitivo, ou que, no caso de mais de uma cessão notificada, paga ao cessionário que lhe apresenta, com o título de cessão, o da obrigação cedida; quando o crédito constar de escritura pública, prevalecerá a prioridade da notificação.” Nesse caso, a lei aplica",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o princípio do contraditório."
+      },
+      {
+        "letra": "B",
+        "texto": "a teoria do adimplemento substancial."
+      },
+      {
+        "letra": "C",
+        "texto": "a teoria da aparência."
+      },
+      {
+        "letra": "D",
+        "texto": "a aplicação da pena convencional."
+      },
+      {
+        "letra": "E",
+        "texto": "o princípio da conservação dos negócios jurídicos."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "895169",
+    "metadata": "Ano: 2018 | Banca: IESES | Órgão: TJ-AM",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Transmissão das Obrigações"
+    ],
+    "enunciado_principal": "Sobre a transmissão das obrigações, assinale a correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na cessão de crédito o cedente não responde pela solvência do devedor, salvo estipulação em contrário."
+      },
+      {
+        "letra": "B",
+        "texto": "Na cessão de crédito não se abrangem os seus acessórios, salvo disposição em contrário."
+      },
+      {
+        "letra": "C",
+        "texto": "Na assunção de dívida, o novo devedor pode opor ao credor as exceções pessoais que competiam ao devedor primitivo."
+      },
+      {
+        "letra": "D",
+        "texto": "O cessionário somente poderá exercer os atos conservatórios do direito após o conhecimento da cessão de crédito pelo devedor."
+      }
+    ],
+    "gabarito": "A"
+  }
+]

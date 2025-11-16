@@ -1,0 +1,516 @@
+[
+  {
+    "id": "3538756",
+    "metadata": "Ano: 2025 | Banca: FCC | Órgão: TRF - 4ª REGIÃO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Propriedade Resolúvel e Propriedade Fiduciária"
+    ],
+    "enunciado_principal": "A alienação fiduciária regulada pelo Código Civil",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é instrumento de garantia restrito às instituições financeiras."
+      },
+      {
+        "letra": "B",
+        "texto": "confere direito real de aquisição ao fiduciante, seu cessionário ou sucessor."
+      },
+      {
+        "letra": "C",
+        "texto": "pode recair sobre bens imóveis e móveis, fungíveis e infungíveis."
+      },
+      {
+        "letra": "D",
+        "texto": "opera o desdobramento da posse, tornando o credor possuidor direto da coisa."
+      },
+      {
+        "letra": "E",
+        "texto": "autoriza o proprietário fiduciário a ficar com a coisa alienada em garantia se a dívida não for paga no vencimento."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3170838",
+    "metadata": "Ano: 2024 | Banca: FCC | Órgão: TRT - 20ª REGIÃO (SE)",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Propriedade Resolúvel e Propriedade Fiduciária"
+    ],
+    "enunciado_principal": "Da acordo com o Código Civil, a propriedade por ser resolvida",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pelo implemento de condição ou pelo advento de termo."
+      },
+      {
+        "letra": "B",
+        "texto": "somente em relação a bens Imóveis."
+      },
+      {
+        "letra": "C",
+        "texto": "pelo implemento de condição, mas jamais pelo advento de termo."
+      },
+      {
+        "letra": "D",
+        "texto": "pelo advento de termo, mas jamais pelo implemento de condição."
+      },
+      {
+        "letra": "E",
+        "texto": "somente pela usucapião ou pelo perecimento da coisa."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2489717",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: TJ-MS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Propriedade Resolúvel e Propriedade Fiduciária"
+    ],
+    "enunciado_principal": "José Antônio adquiriu um automóvel na concessionária Confiança no Volante S.A. Como não tinha recursos suficientes para quitá-lo integralmente, pegou um empréstimo no Banco É pra Já! Deu, então, o carro em garantia, cedendo a propriedade resolúvel à instituição financeira. Resguardou-se, no entanto, na posse direta do bem. Nesse caso, a operação de garantia envolve:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "penhor;"
+      },
+      {
+        "letra": "B",
+        "texto": "hipoteca;"
+      },
+      {
+        "letra": "C",
+        "texto": "fiança;"
+      },
+      {
+        "letra": "D",
+        "texto": "alienação fiduciária;"
+      },
+      {
+        "letra": "E",
+        "texto": "caução fidejussória."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2414883",
+    "metadata": "Ano: 2024 | Banca: Instituto Consulplan | Órgão: MPE-SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Propriedade Resolúvel e Propriedade Fiduciária"
+    ],
+    "enunciado_principal": "Com base no Contrato de Administração Fiduciária de Garantias, introduzido no Código Civil pela Lei nº 14.711/2023, tem-se que após receber o valor do produto da realização da garantia, o agente de garantia disporá do prazo de cinco dias úteis para efetuar o pagamento aos credores.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2401398",
+    "metadata": "Ano: 2024 | Banca: FEPESE | Órgão: Prefeitura de Brusque - SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Propriedade Resolúvel e Propriedade Fiduciária"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta de acordo com o Código Civil.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A propriedade superveniente, adquirida pelo devedor, torna eficaz, desde o arquivamento, a transferência da propriedade fiduciária."
+      },
+      {
+        "letra": "B",
+        "texto": "A propriedade fiduciária deverá ser celebrada por meio de instrumento público, que lhe servirá de título após o registro no cartório do domicílio do credor."
+      },
+      {
+        "letra": "C",
+        "texto": "Com a constituição da propriedade fiduciária, dá-se o desdobramento da posse, tornando-se o devedor possuidor indireto do bem gravado pela fiducia."
+      },
+      {
+        "letra": "D",
+        "texto": "O terceiro, interessado ou não, que pagar a dívida, se sub-rogará de pleno direito no crédito e na propriedade fiduciária, após o aval do credor."
+      },
+      {
+        "letra": "E",
+        "texto": "Vencida a dívida, o proprietário fiduciário poderá ficar com a coisa alienada em garantia caso haja previsão expressa no contrato fiduciário."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2307550",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: TJ-SE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Propriedade",
+      "Propriedade Resolúvel e Propriedade Fiduciária",
+      "Direitos Reais de Garantia - Penhor, Anticrese e Hipoteca",
+      "Noções Fundamentais de Direitos Reais",
+      "Modos de Perda da Propriedade"
+    ],
+    "enunciado_principal": "Sobre determinado imóvel, pendiam (i) penhora proveniente de execução trabalhista em face de seu proprietário; e (ii) hipoteca bancária. Sucede que, em uma execução cível no juízo estadual, o bem, depois da devida tramitação, foi levado a leilão e arrematado por preço superior às dívidas vinculadas aos gravames. Expedida a carta de arrematação, o Registro de Imóveis se recusa a transferir a propriedade ao arrematante, diante das anotações constantes da matrícula. Nesse caso, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ainda que a arrematação seja forma de aquisição originária da propriedade, seus efeitos são relativos às partes no processo, de modo que o registro da carta só poderá ocorrer com a concordância dos demais credores;"
+      },
+      {
+        "letra": "B",
+        "texto": "a arrematação é forma de aquisição originária da propriedade, de modo que, inexistindo prévia relação entre o arrematante e o antigo proprietário, os gravames anteriores devem ser cancelados, e a carta, registrada, mesmo que, com isso, não concordem os credores;"
+      },
+      {
+        "letra": "C",
+        "texto": "como a arrematação é forma de aquisição derivada da propriedade, seus efeitos são relativos às partes no processo, de modo que o registro da carta só poderá ocorrer com a concordância dos demais credores;"
+      },
+      {
+        "letra": "D",
+        "texto": "embora a aquisição seja forma de aquisição originária da propriedade, o arrematante recebe o bem com seus ônus, notadamente a hipoteca devidamente registrada, da qual só se exonerará após o pagamento;"
+      },
+      {
+        "letra": "E",
+        "texto": "a arrematação é forma de aquisição derivada da propriedade, de modo que, inexistindo prévia relação entre o arrematante e o antigo proprietário, os gravames anteriores devem ser cancelados, e a carta, registrada, mesmo que, com isso, não concordem os credores."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1969742",
+    "metadata": "Ano: 2022 | Banca: FCC | Órgão: TRT - 23ª REGIÃO (MT)",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Propriedade Resolúvel e Propriedade Fiduciária"
+    ],
+    "enunciado_principal": "De acordo com o Código Civil, a constituição da propriedade fiduciária de coisa móvel infungível",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "opera o desdobramento da posse."
+      },
+      {
+        "letra": "B",
+        "texto": "depende de instrumento público.."
+      },
+      {
+        "letra": "C",
+        "texto": "torna o devedor possuidor indireto da coisa."
+      },
+      {
+        "letra": "D",
+        "texto": "independe do registro do contrato."
+      },
+      {
+        "letra": "E",
+        "texto": "não pode ser pactuada com escopo de garantia."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1952880",
+    "metadata": "Ano: 2022 | Banca: FCC | Órgão: TJ-CE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Propriedade Resolúvel e Propriedade Fiduciária"
+    ],
+    "enunciado_principal": "Mário recebeu dinheiro de Liliana a título de empréstimo e, como garantia de restituição, alienou-lhe fiduciariamente um trator. De acordo com o Código Civil,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Mário poderá, independentemente de anuência de Liliana, dar seu direito eventual à coisa em pagamento da dívida, antes ou após o vencimento desta."
+      },
+      {
+        "letra": "B",
+        "texto": "com a constituição da propriedade fiduciária, deu-se o desdobramento da posse, tornando-se Mário possuidor indireto da coisa."
+      },
+      {
+        "letra": "C",
+        "texto": "se a dívida não for paga no prazo, Liliana ficará obrigada a vender o trator a terceiros, e, se o produto não bastar para o pagamento da dívida e das despesas de cobrança, Mário continuará obrigado pelo restante."
+      },
+      {
+        "letra": "D",
+        "texto": "enquanto não vencida a dívida, Mário não poderá usar a coisa, obrigando-se, como depositário, à sua guarda e conservação."
+      },
+      {
+        "letra": "E",
+        "texto": "Mário poderá, no ato da constituição da garantia, autorizar Liliana a ficar com o trator, caso a dívida não seja paga no vencimento."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1951080",
+    "metadata": "Ano: 2022 | Banca: FCC | Órgão: TJ-CE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Propriedade Resolúvel e Propriedade Fiduciária"
+    ],
+    "enunciado_principal": "Fábio adquiriu veículo automotor financiado por Banco Mercante, e, como garantia, alienou-lhe fiduciariamente o bem. De acordo com o disposto no Decreto-Lei nº 911/1969, não paga a dívida no prazo, o Banco Mercante poderá requerer a busca e apreensão do veículo automotor,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "e, contra esta, Fábio poderá apresentar resposta, no prazo de 15 dias, contado da citação."
+      },
+      {
+        "letra": "B",
+        "texto": "a qual será concedida liminarmente, desde que comprovada a mora."
+      },
+      {
+        "letra": "C",
+        "texto": "de cuja sentença caberá apelação, com efeito suspensivo."
+      },
+      {
+        "letra": "D",
+        "texto": "que possui natureza cautelar e deve ser sucedida por ação principal."
+      },
+      {
+        "letra": "E",
+        "texto": "a qual será extinta, sem resolução de mérito, se o veículo automotor não for encontrado ou não se achar na posse do devedor."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1938052",
+    "metadata": "Ano: 2022 | Banca: FCC | Órgão: DPE-CE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Propriedade Resolúvel e Propriedade Fiduciária"
+    ],
+    "enunciado_principal": "A respeito da alienação fiduciária, considere as assertivas a seguir. I. A alienação fiduciária constitui espécie de garantia pessoal de uma dívida ou crédito decorrente do financiamento de um bem móvel ou imóvel. II. O bem alienado fiduciariamente está sob o domínio do credor, enquanto o devedor fica somente com a sua posse. III. Segundo o Superior Tribunal de Justiça, a proteção ao bem de família não se aplica quanto ao inadimplemento de parcelas de um contrato de financiamento de um imóvel dado em alienação fiduciária do utilizado para fins de moradia familiar. IV. De acordo com o entendimento do Superior Tribunal de Justiça, a teoria do adimplemento substancial não é prevista expressamente em lei e decorre de interpretação extensiva de dispositivos do Código Civil, de modo que não pode se sobrepor à lei especial que rege a alienação fiduciária, por violação à regra de que lei especial prevalece sobre lei geral. Está correto o que se afirma em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "II e III, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "I, II, III e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "I, II e III, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "II, III e IV, apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "I e IV, apenas."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1872375",
+    "metadata": "Ano: 2022 | Banca: FAURGS | Órgão: TJ-RS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Propriedade Resolúvel e Propriedade Fiduciária"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta dentre as afirmações abaixo, tendo em consideração as disposições do Código Civil vigente a respeito da propriedade fiduciária.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Se a dívida não for paga no vencimento, o devedor tem a faculdade, como depositário, de entregar a coisa ao credor."
+      },
+      {
+        "letra": "B",
+        "texto": "Impaga a dívida no vencimento, é válida a cláusula contratual que faculta ao proprietário fiduciário, por decisão unilateral, ficar com a coisa alienada em garantia."
+      },
+      {
+        "letra": "C",
+        "texto": "Vencida e não paga a dívida, vendida a coisa alienada pelo credor fiduciário e sendo insuficiente o produto daí resultante para saldar a dívida e as despesas de cobrança, o devedor continuará obrigado pelo restante."
+      },
+      {
+        "letra": "D",
+        "texto": "O devedor pode, com a anuência do credor, dar seu direito eventual à coisa em pagamento da dívida, somente antes do vencimento desta."
+      },
+      {
+        "letra": "E",
+        "texto": "O terceiro interessado que pagar a dívida se sub-rogará de pleno direito no crédito, mas não se sub-rogará na propriedade fiduciária."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1852361",
+    "metadata": "Ano: 2021 | Banca: Instituto Consulplan | Órgão: TJ-MS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Propriedade Resolúvel e Propriedade Fiduciária"
+    ],
+    "enunciado_principal": "O Código Civil trouxe em seu Art. 1.368-B a previsão da forma de aquisição de propriedade na hipótese de alienação fiduciária em garantia. A obrigação do credor fiduciário que adquira a propriedade do bem mediante a consolidação da propriedade, adjudicação, dação ou outra forma pela qual lhe tenha sido transmitida a propriedade plena, pelo pagamento dos tributos sobre a propriedade e a posse, taxas, despesas condominiais e quaisquer outros encargos, tributários ou não, incidentes sobre o bem objeto da garantia inicia-se:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A partir da imissão na posse direta do bem."
+      },
+      {
+        "letra": "B",
+        "texto": "A partir da contratação a que se garante com o bem."
+      },
+      {
+        "letra": "C",
+        "texto": "No prazo de 30 (trinta) dias da consolidação da propriedade."
+      },
+      {
+        "letra": "D",
+        "texto": "A partir da notificação dos credores das obrigações em questão da contratação a que se garante com o bem."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "990741",
+    "metadata": "Ano: 2019 | Banca: VUNESP | Órgão: TJ-RS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Propriedade Resolúvel e Propriedade Fiduciária"
+    ],
+    "enunciado_principal": "A respeito da alienação fiduciária em garantia de bem imóvel, é correto asseverar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "após consolidada a propriedade pelo credor fiduciário, em razão da constituição em mora do devedor, é possível o registro de qualquer negócio jurídico de alienação do imóvel, independentemente de ter sido ou não realizada em público leilão, uma vez que não há o estabelecimento legal de pena para o credor que não realiza os leilões estipulados na Lei nº 9.514/97."
+      },
+      {
+        "letra": "B",
+        "texto": "a propriedade fiduciária constitui um direito real sobre coisa alheia, de modo que uma certidão que responda ao quesito sobre quem seja o proprietário do imóvel deverá informar o nome do devedor fiduciante."
+      },
+      {
+        "letra": "C",
+        "texto": "não pode a nua-propriedade ser alienada fiduciariamente, devendo o seu registro ser negado."
+      },
+      {
+        "letra": "D",
+        "texto": "o domínio útil pode ser alienado fiduciariamente, sendo possível o seu registro."
+      },
+      {
+        "letra": "E",
+        "texto": "não é possível alienar fiduciariamente imóvel locado com cláusula de vigência registrada."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1731025",
+    "metadata": "Ano: 2018 | Banca: FUNDEP (Gestão de Concursos) | Órgão: Prefeitura de Ervália - MG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Enfiteuse e Superfície",
+      "Propriedade Resolúvel e Propriedade Fiduciária",
+      "Direito de Laje"
+    ],
+    "enunciado_principal": "Analise as seguintes afirmativas sobre os direitos reais e assinale com V as verdadeiras e com F as falsas. ( ) As normas previstas no Código Civil sobre direito de superfície não revogam as relativas a direito de superfície constantes do Estatuto da Cidade (Lei nº 10.257/2001) por ser instrumento de política de desenvolvimento urbano. ( ) A destinação diversa dada pelo superficiário ao terreno objeto do direito de superfície é causa de suspensão do contrato por até 90 (noventa) dias, não havendo que se falar em extinção do direito de superfície sem que seja dada a prévia oportunidade ao contratante de regularizar a adequação da área. ( ) O direito de laje, instituído como direito real, somente se caracterizará em construções verticais ascendentes ou descendentes, concedendo ao titular do novo direito a possibilidade de manutenção de unidade autônoma da edificação original. ( ) A propriedade fiduciária gera a imediata transferência da propriedade do fiduciante ao credor fiduciário, como premissa para que o vendedor possa imediatamente receber o preço e se satisfazer. Já na reserva de domínio, a relação jurídica se circunscreve a vendedor e comprador, pois o próprio alienante realiza o financiamento da aquisição em prestações. Assinale a sequência correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "F V V F"
+      },
+      {
+        "letra": "B",
+        "texto": "V V F F"
+      },
+      {
+        "letra": "C",
+        "texto": "V F V V"
+      },
+      {
+        "letra": "D",
+        "texto": "F F F V"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1000601",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: Prefeitura de São Bernardo do Campo - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Propriedade Resolúvel e Propriedade Fiduciária"
+    ],
+    "enunciado_principal": "Considera-se fiduciária a propriedade resolúvel de coisa móvel infungível que o devedor, com escopo de garantia, transfere ao credor. Sobre o assunto, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É válida a cláusula que autoriza o proprietário fiduciário a ficar com a coisa alienada em garantia, se a dívida não for paga no vencimento."
+      },
+      {
+        "letra": "B",
+        "texto": "Após o vencimento da dívida, o devedor, a suas expensas e risco, pode usar a coisa segundo sua destinação, sendo obrigado, como depositário, a empregar na guarda da coisa a diligência exigida por sua natureza."
+      },
+      {
+        "letra": "C",
+        "texto": "A propriedade superveniente, adquirida pelo devedor, torna eficaz, desde o arquivamento, a transferência da propriedade fiduciária."
+      },
+      {
+        "letra": "D",
+        "texto": "Com a constituição da propriedade fiduciária, dá-se o desdobramento da posse, tornando-se o devedor possuidor indireto da coisa."
+      },
+      {
+        "letra": "E",
+        "texto": "A alienação fiduciária em garantia de bem móvel ou imóvel confere direito real de aquisição ao fiduciante, seu cessionário, mas não ao seu sucessor."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "927666",
+    "metadata": "Ano: 2018 | Banca: FGV | Órgão: AL-RO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Propriedade Resolúvel e Propriedade Fiduciária"
+    ],
+    "enunciado_principal": "Considere o seguinte caso hipotético: João deseja comprar um apartamento vendido por uma construtora. Como João possuía apenas 50% do valor necessário para a compra do imóvel, optou por dar uma entrada de 50% e financiar o restante do valor através de uma linha de crédito imobiliário disponibilizado por uma determinada instituição bancária. Nesta modalidade de financiamento, João se compromete a pagar sua dívida em 120 parcelas mensais, definidas a partir de uma certa taxa de juros. Durante o prazo em que perdurar a dívida, o apartamento permanece como propriedade temporária do banco, podendo o banco reavê-lo plenamente, em caso de inadimplência no pagamento das parcelas. Após o pagamento completo da dívida, a propriedade é transferida de maneira plena a João. A situação em questão é um exemplo de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "empréstimo bilateral."
+      },
+      {
+        "letra": "B",
+        "texto": "hipoteca direta."
+      },
+      {
+        "letra": "C",
+        "texto": "locação prestamista."
+      },
+      {
+        "letra": "D",
+        "texto": "alienação fiduciária."
+      },
+      {
+        "letra": "E",
+        "texto": "mútuo discretizado."
+      }
+    ],
+    "gabarito": "D"
+  }
+]

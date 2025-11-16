@@ -1,0 +1,557 @@
+[
+  {
+    "id": "3472137",
+    "metadata": "Ano: 2025 | Banca: VUNESP | Órgão: Prefeitura de Itatiba - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Transação e Compromisso",
+      "Contratos em Geral"
+    ],
+    "enunciado_principal": "Assinale a alternativa que apresenta uma situação hipotética na qual a transação é válida.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Um munícipe propõe ação de indenização por danos morais decorrentes de cobrança indevida de IPTU pelo município de Itatiba."
+      },
+      {
+        "letra": "B",
+        "texto": "Marieta propõe ação de execução de título extrajudicial contra Nelson, que, citado, sugere o término do litígio mediante concessões mútuas por meio de instrumento particular."
+      },
+      {
+        "letra": "C",
+        "texto": "Guilherme e Antônio são proprietários de um cavalo. Em razão de uma dívida pessoal, Guilherme concede a Marcos o cavalo mediante o perdão integral de sua dívida. Antônio, que não interveio na transação, não é por ela prejudicado."
+      },
+      {
+        "letra": "D",
+        "texto": "Carlos devia R$ 50 mil a uma empresa, com garantia dada por seu fiador, Paulo. Para evitar a execução judicial, Carlos e a empresa celebram uma transação: o valor da dívida é reduzido para R$ 35 mil, com novo prazo para pagamento. Paulo continuará obrigado ao pagamento da dívida."
+      },
+      {
+        "letra": "E",
+        "texto": "Diego roubou a bolsa de Mariana, sua vizinha, que, diante do ocorrido registrou boletim de ocorrência. Caso eles venham a transacionar acerca dos prejuízos sofridos por Mariana, a ação penal pública também será extinta."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3159623",
+    "metadata": "Ano: 2025 | Banca: Quadrix | Órgão: CORE-RJ",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Troca ou Permuta, Contrato Estimatório e Doação",
+      "Corretagem, Transporte, Seguro, Constituição de Renda, Jogo e Aposta e Fiança",
+      "Transação e Compromisso"
+    ],
+    "enunciado_principal": "Acerca dos tipos de contrato, assinale a opção que apresenta um tipo de contrato não previsto no Código Civil.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "troca e permuta"
+      },
+      {
+        "letra": "B",
+        "texto": "doação"
+      },
+      {
+        "letra": "C",
+        "texto": "corretagem"
+      },
+      {
+        "letra": "D",
+        "texto": "bancário"
+      },
+      {
+        "letra": "E",
+        "texto": "compromisso"
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2548333",
+    "metadata": "Ano: 2024 | Banca: CESPE / CEBRASPE | Órgão: Prefeitura de Mossoró - RN",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Transação e Compromisso"
+    ],
+    "enunciado_principal": "No que se refere à desconsideração da personalidade jurídica e à transação no direito civil, julgue o item que se segue, de acordo com o Código Civil. A transação é anulável por dolo, coação, erro essencial quanto à pessoa ou coisa controversa ou erro de direito a respeito de questões que tenham sido objeto de controvérsia entre as partes.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2328434",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: TJ-GO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Transação e Compromisso"
+    ],
+    "enunciado_principal": "Jussara atropelou, por acidente, Joelma. Ao verificar as consequências de sua desatenção, prestou a assistência possível e, ao final, ainda pagou todas as despesas hospitalares e as diárias da vítima pelo período em que ficou afastada de seu trabalho como diarista. Joelma, então, assinou quitação com a seguinte redação: “Considerando que Jussara pagou todas as despesas hospitalares e as diárias de meu trabalho, outorgo-lhe, a esse título, a mais ampla e plena quitação, para mais nada reclamar, em juízo ou fora dele”. Um mês depois, eclodiram novas complicações médicas, decorrentes do acidente. Jussara, no entanto, negou-se a tornar a apoiar Joelma, diante da quitação já outorgada. Joelma, em consequência, ajuíza ação indenizatória por danos morais em face de Jussara. Nesse caso, é correto afirmar que a quitação outorgada:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não foi válida, por ter se realizado em âmbito extrajudicial sem a assistência de advogados;"
+      },
+      {
+        "letra": "B",
+        "texto": "abrangia, também, eventuais danos morais, uma vez que era ampla e plena, para mais nada reclamar, em juízo ou fora dele;"
+      },
+      {
+        "letra": "C",
+        "texto": "não contempla as complicações supervenientes, desconhecidas da vítima que acabara de sofrer um grave acidente;"
+      },
+      {
+        "letra": "D",
+        "texto": "pode ser revogada, diante da conduta de má-fé por parte de Jussara que parou de prestar qualquer apoio a Joelma posteriormente;"
+      },
+      {
+        "letra": "E",
+        "texto": "não contém os requisitos do Art. 320 do Código Civil (o valor e a espécie da dívida quitada, o nome do devedor, ou quem por este pagou, o tempo e o lugar do pagamento, com a assinatura do credor, ou do seu representante), de modo que, mesmo sendo possível identificar que foi paga a dívida, não valerá."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2066453",
+    "metadata": "Ano: 2022 | Banca: FEPESE | Órgão: CINCATARINA",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Transação e Compromisso",
+      "Parte Geral",
+      "Teoria das Nulidades: Causas de Nulidade e de Anulabilidade"
+    ],
+    "enunciado_principal": "Analise as afirmativas abaixo a respeito da transação prevista no Código Civil brasileiro. 1. É lícito aos interessados tanto prevenirem quanto terminarem o litígio mediante concessões mútuas. 2. Somente quanto a direitos patrimoniais de caráter privado é permitida a transação. 3. A transação concernente a obrigações resultantes de delito extingue a ação penal pública. 4. A nulidade de alguma das cláusulas da transação não anula a própria transação. Assinale a alternativa que indica todas as afirmativas corretas.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "São corretas apenas as afirmativas 1 e 2."
+      },
+      {
+        "letra": "B",
+        "texto": "São corretas apenas as afirmativas 1 e 4."
+      },
+      {
+        "letra": "C",
+        "texto": "São corretas apenas as afirmativas 1, 2 e 4."
+      },
+      {
+        "letra": "D",
+        "texto": "São corretas apenas as afirmativas 2, 3 e 4."
+      },
+      {
+        "letra": "E",
+        "texto": "São corretas as afirmativas 1, 2, 3 e 4."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1974558",
+    "metadata": "Ano: 2022 | Banca: FGV | Órgão: TJ-PE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Transação e Compromisso"
+    ],
+    "enunciado_principal": "Rosa e Geraldo estavam casados há dez anos, quando Geraldo foi diagnosticado com uma doença terminal. Por não desejarem que eventuais filhos crescessem órfãos, o casal procurou os métodos contraceptivos mais eficazes do mercado, no que encontraram um remédio, produzido em parceria pelos laboratórios XPTO e YZX, que garantia 100% de infalibilidade. Apesar de toda a publicidade e do uso escorreito da medicação, acabaram engravidando. Aos oito meses de gestação, a doença de Geraldo chega a termo e o leva a óbito. Um mês depois, nasce a filha do casal, Bela, o que traz imensa alegria a Rosa, que vê nisto uma perpetuação do amado. Mesmo assim, depois de muita hesitação e um dia antes do implemento do prazo prescricional, Rosa, Bela e o espólio de Geraldo ajuízam demanda indenizatória por danos morais em face de ambos os laboratórios. Nesse caso, é correto afirmar, sob o ponto de vista exclusivamente do Direito Civil, que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não seria possível transação com os réus, porque a lide envolve direitos indisponíveis de menor de idade (Bela), ainda que esteja representada judicialmente por sua mãe;"
+      },
+      {
+        "letra": "B",
+        "texto": "Rosa não sofreu danos morais, caracterizados juridicamente como o sofrimento ou a humilhação decorrente de uma violação de direitos da personalidade, já que o nascimento da filha lhe causou grande alegria;"
+      },
+      {
+        "letra": "C",
+        "texto": "os danos morais constituem lesão personalíssima e, por isso mesmo, o direito à indenização não poderia ser transmitido aos herdeiros, ainda mais porque, no caso, Bela receberia indenização cujo fato gerador seria o próprio nascimento;"
+      },
+      {
+        "letra": "D",
+        "texto": "se os autores firmarem transação com o laboratório XPTO, eventual quitação contemplará, também e salvo expressa disposição em contrário, o laboratório YZX, ainda que este não tenha intervindo no negócio jurídico e nada tenha desembolsado;"
+      },
+      {
+        "letra": "E",
+        "texto": "reconhecidos danos morais deverão ser arbitrados de acordo com o método bifásico, sendo certo que, conforme entendimento mais atual do Superior Tribunal de Justiça para casos congêneres de responsabilidade aquiliana, o juiz deverá ponderar, para reduzir a indenização, o tempo levado pelos autores em buscar a indenização."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1966464",
+    "metadata": "Ano: 2022 | Banca: FCC | Órgão: TRT - 22ª Região (PI)",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Transação e Compromisso"
+    ],
+    "enunciado_principal": "De acordo com o Código Civil, a transação",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "se anula, dentre outras hipóteses, pelo erro de direito a respeito das questões que foram objeto de controvérsia entre as partes."
+      },
+      {
+        "letra": "B",
+        "texto": "não admite pena convencional."
+      },
+      {
+        "letra": "C",
+        "texto": "só se anula por dolo."
+      },
+      {
+        "letra": "D",
+        "texto": "concluída entre credor e devedor principal não desobriga o fiador."
+      },
+      {
+        "letra": "E",
+        "texto": "interpreta-se restritivamente, e por ela não se transmitem, apenas se declaram ou se reconhecem direitos."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1959110",
+    "metadata": "Ano: 2022 | Banca: FCC | Órgão: TRT - 9ª REGIÃO (PR)",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Transação e Compromisso"
+    ],
+    "enunciado_principal": "De acordo com o Código Civil, a transação",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "somente terá validade se firmada por instrumento público, exceto apenas se recair sobre direitos contestados em juízo, caso em que deverá, necessariamente, ser firmada por termo nos autos."
+      },
+      {
+        "letra": "B",
+        "texto": "firmada entre um dos credores solidários e o devedor extingue a obrigação deste para com os outros credores."
+      },
+      {
+        "letra": "C",
+        "texto": "concluída entre credor e devedor só desobrigará o fiador se isso for expressamente convencionado pelas partes."
+      },
+      {
+        "letra": "D",
+        "texto": "concernente a obrigações resultantes de delito extingue a ação penal pública, salvo no caso de tratar-se de ação penal incondicionada à representação da vítima."
+      },
+      {
+        "letra": "E",
+        "texto": "não admite pena convencional, salvo se já existisse no negócio que deu causa ao litígio."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1827592",
+    "metadata": "Ano: 2021 | Banca: VUNESP | Órgão: Prefeitura de Guarujá - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Transação e Compromisso"
+    ],
+    "enunciado_principal": "Acerca da transação, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A transação que versa sobre direitos contestados em juízo será feita por escritura pública, instrumento particular ou por termo nos autos assinado pelos transigentes e homologado pelo juiz."
+      },
+      {
+        "letra": "B",
+        "texto": "Se for concluída entre o credor e o devedor, não desobrigará o fiador; se, entre um dos credores solidários e o devedor, extingue a obrigação deste para com os outros credores."
+      },
+      {
+        "letra": "C",
+        "texto": "Dada a evicção da coisa renunciada por um dos transigentes, ou por ele transferida à outra parte, não revive a obrigação extinta pela transação; mas ao evicto cabe o direito de reclamar perdas e danos."
+      },
+      {
+        "letra": "D",
+        "texto": "Se um dos transigentes adquirir, depois da transação, novo direito sobre a coisa renunciada ou transferida, a transação feita o inibirá de exercê-lo."
+      },
+      {
+        "letra": "E",
+        "texto": "A transação só se anula por dolo, coação, lesão, estado de perigo ou erro essencial quanto à pessoa ou coisa controversa."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1839471",
+    "metadata": "Ano: 2019 | Banca: FEPESE | Órgão: Prefeitura de Campos Novos - SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Transação e Compromisso"
+    ],
+    "enunciado_principal": "É correto afirmar sobre a transação.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A nulidade de uma das cláusulas da transação, somente nesta ficará sem efeito."
+      },
+      {
+        "letra": "B",
+        "texto": "A transação concernente a obrigações resultantes de delito extingue, de plano, a ação penal pública."
+      },
+      {
+        "letra": "C",
+        "texto": "A transação só se anula por dolo, coação, ou erro essencial quanto à pessoa ou coisa controversa."
+      },
+      {
+        "letra": "D",
+        "texto": "A transação sobre diversos direitos contestados, mesmo que independentes entre si, ao todo extinguirá a obrigação."
+      },
+      {
+        "letra": "E",
+        "texto": "A qualquer tempo, poderão as partes interessadas transigirem a fim de prevenirem ou terminarem litígios."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1093868",
+    "metadata": "Ano: 2019 | Banca: VUNESP | Órgão: Câmara de Mauá - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Locação de Coisas",
+      "Corretagem, Transporte, Seguro, Constituição de Renda, Jogo e Aposta e Fiança",
+      "Transação e Compromisso"
+    ],
+    "enunciado_principal": "Sobre os contratos em espécie, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ao contrário da garantia real, a fiança é garantia pessoal, em que o fiador se obriga ao cumprimento da obrigação de terceiro, podendo as partes estipular a solidariedade entre fiador e o afiançado, embora a regra seja a subsidiariedade."
+      },
+      {
+        "letra": "B",
+        "texto": "A locação de imóveis urbanos, incluindo-se locação de bens públicos, estabelecimentos comerciais e shopping center, é regida pela Lei no 8.245/91, ao passo que as disposições do Código Civil se aplicam à locação de bens móveis."
+      },
+      {
+        "letra": "C",
+        "texto": "O locador responde pelos vícios existentes na coisa locada no momento da celebração do contrato e pode o locatário enjeitá-la ou pedir abatimento proporcional do valor do aluguel, desde que comprove sua má-fé."
+      },
+      {
+        "letra": "D",
+        "texto": "Tratando-se de contrato acessório, o contrato de fiança impõe o consentimento do devedor, porque é o devedor quem o indica ao credor."
+      },
+      {
+        "letra": "E",
+        "texto": "O contrato de transação atinge somente direitos patrimoniais, inclusive dos entes municipais, que podem, por exemplo, dispor de seus bens conforme o interesse da administração."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1083603",
+    "metadata": "Ano: 2019 | Banca: FCC | Órgão: TRF - 3ª REGIÃO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Transação e Compromisso"
+    ],
+    "enunciado_principal": "Fernanda e Joaquim celebraram transação a respeito de litígio que já havia sido decidido por sentença passada em julgado. Nesse caso, a transação é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "nula, se algum dos transatores não tinha ciência dessa sentença."
+      },
+      {
+        "letra": "B",
+        "texto": "nula, desde que ambos os transatores não tivessem ciência dessa sentença."
+      },
+      {
+        "letra": "C",
+        "texto": "anulável, no prazo decadencial de quatro anos, por iniciativa de qualquer dos transatores que não tivesse ciência dessa sentença."
+      },
+      {
+        "letra": "D",
+        "texto": "válida, ainda que os transatores não tivessem ciência dessa sentença."
+      },
+      {
+        "letra": "E",
+        "texto": "nula, mesmo que ambos os transatores tivessem ciência dessa sentença."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1057375",
+    "metadata": "Ano: 2019 | Banca: FCC | Órgão: TJ-MA",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Transação e Compromisso"
+    ],
+    "enunciado_principal": "Segundo o Código Civil, a transação",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não admite a pena convencional ao ser celebrada."
+      },
+      {
+        "letra": "B",
+        "texto": "interpreta-se restritivamente e por ela transmitem-se, declaram-se e reconhecem-se direitos."
+      },
+      {
+        "letra": "C",
+        "texto": "permite-se em relação a direitos patrimoniais de caráter público ou privado."
+      },
+      {
+        "letra": "D",
+        "texto": "não aproveita, nem prejudica senão aos que nela intervierem, ainda que diga respeito a coisa indivisível."
+      },
+      {
+        "letra": "E",
+        "texto": "só se anula por dolo ou por erro essencial quanto à pessoa."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "974656",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: Prefeitura de São Bernardo do Campo - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Transação e Compromisso"
+    ],
+    "enunciado_principal": "Sobre o contrato de transação, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Permite-se a transação quanto aos direitos patrimoniais de caráter público ou privado."
+      },
+      {
+        "letra": "B",
+        "texto": "Por meio da transação se transmitem, se declaram ou se reconhecem os direitos patrimoniais."
+      },
+      {
+        "letra": "C",
+        "texto": "A transação não a aproveita, nem prejudica senão aos que nela intervirem, ainda que diga respeito a coisa indivisível."
+      },
+      {
+        "letra": "D",
+        "texto": "Sendo nula uma das cláusulas da transação, aproveitar-se-ão as demais cláusulas que dela não dependam."
+      },
+      {
+        "letra": "E",
+        "texto": "A transação pode ser anulada por erro de direito a respeito das questões que foram objeto de controvérsia entre as partes."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "930633",
+    "metadata": "Ano: 2018 | Banca: FCC | Órgão: MPE-PB",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Transação e Compromisso"
+    ],
+    "enunciado_principal": "A transação, no Código Civil, submete-se a regime",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "contratual, não aproveitando nem prejudicando senão aos que nela intervierem, mesmo que diga respeito a coisa indivisível, não se anulando por erro de direito a respeito das questões que foram objeto de controvérsia entre as partes."
+      },
+      {
+        "letra": "B",
+        "texto": "extracontratual, não aproveitando nem prejudicando senão aos que nela intervierem, salvo se disser respeito a coisa indivisível e, sendo nula alguma de suas cláusulas, prevalecerão as demais cláusulas."
+      },
+      {
+        "letra": "C",
+        "texto": "contratual, interpretando-se sempre ampliativamente, e, por ela, é possível transmitir, declarar e reconhecer direitos."
+      },
+      {
+        "letra": "D",
+        "texto": "extracontratual, sendo apta a terminar litígios, mediante concessões mútuas, mas não para os prevenirem."
+      },
+      {
+        "letra": "E",
+        "texto": "contratual ou extracontratual e é anulável em virtude de lesão, dolo, estado de perigo, erro essencial quanto à pessoa ou coisa controversa e fraude contra credores."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "927844",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: Prefeitura de Sorocaba - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Transação e Compromisso"
+    ],
+    "enunciado_principal": "A nulidade de uma das cláusulas estabelecidas em instrumento de contrato de transação, implica, em regra,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "em perdas e danos, em favor da parte prejudicada"
+      },
+      {
+        "letra": "B",
+        "texto": "na possibilidade de revisão judicial da transação, reestabelecendo-se seu equilíbrio."
+      },
+      {
+        "letra": "C",
+        "texto": "na nulidade da transação como um todo."
+      },
+      {
+        "letra": "D",
+        "texto": "na possibilidade de anulação da transação, no prazo decadencial de 4 (quatro) anos."
+      },
+      {
+        "letra": "E",
+        "texto": "na possibilidade de anulação da transação, no prazo decadencial de 2 (dois) anos."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "918070",
+    "metadata": "Ano: 2018 | Banca: FCC | Órgão: TRT - 2ª REGIÃO (SP)",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Transação e Compromisso"
+    ],
+    "enunciado_principal": "No que concerne à transação, de acordo com o que estabelece o Código Civil, é INCORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É admissível, na transação, a pena convencional."
+      },
+      {
+        "letra": "B",
+        "texto": "A transação é permitida quanto a direitos patrimoniais de caráter privado."
+      },
+      {
+        "letra": "C",
+        "texto": "A transação concluída entre o credor e o devedor não desobrigará o fiador."
+      },
+      {
+        "letra": "D",
+        "texto": "Recaindo sobre direitos contestados em juízo, a transação será feita por escritura pública, ou por termo nos autos, assinado pelos transigentes e homologados pelo juiz."
+      },
+      {
+        "letra": "E",
+        "texto": "A transação entre um dos devedores solidários e seu credor extingue a dívida em relação aos codevedores."
+      }
+    ],
+    "gabarito": "C"
+  }
+]

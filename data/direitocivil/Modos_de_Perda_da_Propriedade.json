@@ -1,0 +1,554 @@
+[
+  {
+    "id": "3231179",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: Prefeitura de Aracaju - SE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Propriedade",
+      "Modos de Perda da Propriedade"
+    ],
+    "enunciado_principal": "A respeito da prescrição no direito civil, dos contratos, da hipoteca, da propriedade e do negócio jurídico, julgue o item subsequente.O imóvel rural que o proprietário abandonar, com a intenção de não mais o conservar em seu patrimônio, e que não se encontrar na posse de outrem poderá ser arrecadado como bem vago e passar, decorrido o prazo legal, à propriedade da União.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3216130",
+    "metadata": "Ano: 2025 | Banca: Instituto Consulplan | Órgão: Câmara de Araraquara - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Responsabilidade civil",
+      "Modos de Perda da Propriedade",
+      "Indenização - Liquidação do Dano"
+    ],
+    "enunciado_principal": "Joaquim adquiriu um imóvel de Vitório por meio de escritura pública, sendo informado por esse que o bem era livre de ônus. Posteriormente, Fátima, alegando ser a verdadeira proprietária do imóvel, ingressou com ação de reintegração de posse em face de Joaquim, a qual foi julgada procedente. Diante da perda do imóvel, Joaquim procurou Vitório para pleitear a indenização pelos danos sofridos. Diante desse caso, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Joaquim não faz jus à indenização, pois não comprovou a má-fé de Vitório na alienação do imóvel."
+      },
+      {
+        "letra": "B",
+        "texto": "Joaquim tem direito à restituição do preço pago, mais perdas e danos, somente se provar a má-fé de Vitório."
+      },
+      {
+        "letra": "C",
+        "texto": "A ação de evicção deve ser proposta por Joaquim diretamente contra Fátima, a verdadeira proprietária do imóvel."
+      },
+      {
+        "letra": "D",
+        "texto": "Joaquim tem direito à restituição do preço pago mais indenização, independentemente da boa ou má-fé de Vitório."
+      },
+      {
+        "letra": "E",
+        "texto": "A responsabilidade de Vitório pela evicção se limita à restituição do preço pago, excluindo-se a indenização por perdas e danos."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3086920",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: TJ-MT",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Direitos Reais de Garantia - Penhor, Anticrese e Hipoteca",
+      "Modos de Perda da Propriedade"
+    ],
+    "enunciado_principal": "Reinoldo toma crédito do Banco Dinheiro Já! para aquisição da casa própria. Como garantia, grava hipoteca sobre o bem adquirido, uma linda fazenda cortada por um aprazível riacho. Imediatamente imitido na posse, constrói uma voluptuária piscina e uma casa para um funcionário que cuidava do jardim, mas nada transcreve à matrícula. A par disso, verifica que seu terreno fora acrescido por aluvião às margens do riacho. Todavia, em 2023, cai em inadimplência, razão pela qual o banco inicia a execução extrajudicial da hipoteca, adjudicando para si o imóvel. Como propusera demanda anulatória contra tal adjudicação, a imissão da instituição financeira na posse ainda demora, de modo que Reinoldo acresce benfeitoria necessária ao imóvel. Nesse caso, é correto afirmar que Reinoldo:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não terá direito de retenção ou indenização sobre nada (piscina, casa, aluvião e benfeitoria necessária);"
+      },
+      {
+        "letra": "B",
+        "texto": "terá direito de retenção sobre a benfeitoria e de indenização pelo acréscimo por aluvião, uma vez que todos os demais melhoramentos estavam abrangidos pela hipoteca;"
+      },
+      {
+        "letra": "C",
+        "texto": "terá direito de retenção exclusivamente sobre a benfeitoria necessária construída após a execução da hipoteca, uma vez que todos os demais melhoramentos e acréscimos estavam abrangidos pela hipoteca;"
+      },
+      {
+        "letra": "D",
+        "texto": "terá direito de indenização apenas pelo acréscimo por aluvião, uma vez que os demais melhoramentos ou estavam abrangidos pela hipoteca ou foram implementados após a execução extrajudicial;"
+      },
+      {
+        "letra": "E",
+        "texto": "terá direito a retenção ou indenização pelos acréscimos e melhoramentos havidos antes da execução, não abrangidos pela hipoteca até por falta de transcrição na matrícula, mas não sobre a benfeitoria necessária após a execução, porque feita de boa-fé na pendência de demanda anulatória."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2367624",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: MPE-GO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Modos de Perda da Propriedade",
+      "Modos de Aquisição da Propriedade Móvel"
+    ],
+    "enunciado_principal": "José Leôncio e João Inocêncio, proprietários de fazendas vizinhas, apenas separadas pelo leito de um rio, sempre mantiveram uma relação pautada pelo respeito e pela cordialidade. No entanto, em 05 de novembro de 2022 ocorreu um forte temporal na região que, entre outras consequências, resultou no desprendimento de porção considerável de terra da fazenda de João Inocêncio, situada à margem direita do rio que faz divisa entre as fazendas, vindo a se juntar de forma natural e súbita, ao terreno de José Leôncio, sito à margem esquerda do rio. Diante do ocorrido, em 08 de novembro de 2023, João Inocêncio ajuizou ação em face de José Leôncio, na qual foi provado, por meio de perícia, que, em razão da tempestade, houve o desprendimento da porção de terra do autor e que essa veio a se juntar à propriedade do réu. Em razão da disputa judicial, cortaram relações. Considerando a situação hipotética narrada, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Em razão da aluvião, José Leôncio adquiriu a propriedade da porção de terra acrescida, não sendo devida qualquer indenização à João Inocêncio."
+      },
+      {
+        "letra": "B",
+        "texto": "Em razão da aluvião, José Leôncio adquiriu a propriedade da porção de terra acrescida, mas deverá indenizar João Inocêncio."
+      },
+      {
+        "letra": "C",
+        "texto": "Em razão da avulsão, José Leôncio adquiriu a propriedade da porção de terra acrescida, não sendo devida qualquer indenização a João Inocêncio."
+      },
+      {
+        "letra": "D",
+        "texto": "Em razão da avulsão, José Leôncio adquiriu a propriedade da porção de terra acrescida, mas deverá indenizar João Inocêncio."
+      },
+      {
+        "letra": "E",
+        "texto": "Em razão da avulsão e da ação judicial tempestiva, José Inocêncio pode exigir que se remova a parte de terra acrescida, mas não tem direito à indenização."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2307552",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: TJ-SE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Propriedade",
+      "Modos de Perda da Propriedade"
+    ],
+    "enunciado_principal": "Doutrinariamente, verifica-se a chamada propriedade ad tempus no(a):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "revogação da doação por ingratidão;"
+      },
+      {
+        "letra": "B",
+        "texto": "exercício de direito de retrato;"
+      },
+      {
+        "letra": "C",
+        "texto": "fideicomisso;"
+      },
+      {
+        "letra": "D",
+        "texto": "alienação fiduciária de bens móveis;"
+      },
+      {
+        "letra": "E",
+        "texto": "venda a contento."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2307550",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: TJ-SE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Propriedade",
+      "Propriedade Resolúvel e Propriedade Fiduciária",
+      "Direitos Reais de Garantia - Penhor, Anticrese e Hipoteca",
+      "Noções Fundamentais de Direitos Reais",
+      "Modos de Perda da Propriedade"
+    ],
+    "enunciado_principal": "Sobre determinado imóvel, pendiam (i) penhora proveniente de execução trabalhista em face de seu proprietário; e (ii) hipoteca bancária. Sucede que, em uma execução cível no juízo estadual, o bem, depois da devida tramitação, foi levado a leilão e arrematado por preço superior às dívidas vinculadas aos gravames. Expedida a carta de arrematação, o Registro de Imóveis se recusa a transferir a propriedade ao arrematante, diante das anotações constantes da matrícula. Nesse caso, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ainda que a arrematação seja forma de aquisição originária da propriedade, seus efeitos são relativos às partes no processo, de modo que o registro da carta só poderá ocorrer com a concordância dos demais credores;"
+      },
+      {
+        "letra": "B",
+        "texto": "a arrematação é forma de aquisição originária da propriedade, de modo que, inexistindo prévia relação entre o arrematante e o antigo proprietário, os gravames anteriores devem ser cancelados, e a carta, registrada, mesmo que, com isso, não concordem os credores;"
+      },
+      {
+        "letra": "C",
+        "texto": "como a arrematação é forma de aquisição derivada da propriedade, seus efeitos são relativos às partes no processo, de modo que o registro da carta só poderá ocorrer com a concordância dos demais credores;"
+      },
+      {
+        "letra": "D",
+        "texto": "embora a aquisição seja forma de aquisição originária da propriedade, o arrematante recebe o bem com seus ônus, notadamente a hipoteca devidamente registrada, da qual só se exonerará após o pagamento;"
+      },
+      {
+        "letra": "E",
+        "texto": "a arrematação é forma de aquisição derivada da propriedade, de modo que, inexistindo prévia relação entre o arrematante e o antigo proprietário, os gravames anteriores devem ser cancelados, e a carta, registrada, mesmo que, com isso, não concordem os credores."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2119323",
+    "metadata": "Ano: 2023 | Banca: INQC | Órgão: COMDEP - RJ",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Posse - Teoria, Classificação e Aquisição",
+      "Modos de Aquisição da Propriedade Imóvel",
+      "Modos de Perda da Propriedade"
+    ],
+    "enunciado_principal": "K é legitimo possuidor de imóvel onde construiu sua casa e mantém sua família. Em determinado dia, é surpreendido pela presença de estranhos em torno do imóvel tentando invadi-lo. Após rápida resistência, obtém êxito na rejeição do ato invasor. O possuidor turbado poderá manter-se por sua própria força, contanto que o faça:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "judicialmente"
+      },
+      {
+        "letra": "B",
+        "texto": "imediatamente"
+      },
+      {
+        "letra": "C",
+        "texto": "através de mediação"
+      },
+      {
+        "letra": "D",
+        "texto": "em vinte e quatro horas"
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2098420",
+    "metadata": "Ano: 2023 | Banca: FCC | Órgão: TRT - 18ª Região (GO)",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Modos de Perda da Propriedade"
+    ],
+    "enunciado_principal": "De acordo com o Código Civil, é possível perder a propriedade, entre outras causas, por",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "renúncia e abandono, mas não por perecimento da coisa."
+      },
+      {
+        "letra": "B",
+        "texto": "renúncia e perecimento da coisa, mas não por abandono."
+      },
+      {
+        "letra": "C",
+        "texto": "abandono e perecimento da coisa, mas não por renúncia."
+      },
+      {
+        "letra": "D",
+        "texto": "renúncia, mas não por abandono ou perecimento da coisa."
+      },
+      {
+        "letra": "E",
+        "texto": "abandono, renúncia e perecimento da coisa."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2069617",
+    "metadata": "Ano: 2023 | Banca: Quadrix | Órgão: Prefeitura de Alto Paraíso de Goiás - GO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Propriedade",
+      "Noções Fundamentais de Direitos Reais",
+      "Modos de Perda da Propriedade"
+    ],
+    "enunciado_principal": "A respeito do direito real de propriedade, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Em situações de perigo público iminente, além das hipóteses de desapropriação, o proprietário também poderá ser privado da coisa nos casos de requisição."
+      },
+      {
+        "letra": "B",
+        "texto": "A propriedade do solo abrange a do espaço aéreo e a do subsolo correspondentes, podendo o proprietário opor-se a atividades que sejam realizadas por terceiros em qualquer altura e profundidade."
+      },
+      {
+        "letra": "C",
+        "texto": "Embora a propriedade do solo não abarque minas e jazidas, o proprietário tem o direito de explorar recursos minerais de emprego imediato na construção civil e de submetê-los à transformação industrial."
+      },
+      {
+        "letra": "D",
+        "texto": "O imóvel urbano abandonado que não se encontrar na posse de outrem poderá ser arrecadado como bem vago e passar à propriedade do município cinco anos depois."
+      },
+      {
+        "letra": "E",
+        "texto": "A desapropriação não é considerada como causa de perda de propriedade imobiliária."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2169026",
+    "metadata": "Ano: 2022 | Banca: IBFC | Órgão: Câmara Municipal de Itatiba - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Propriedade",
+      "Modos de Perda da Propriedade"
+    ],
+    "enunciado_principal": "Segundo expressa disposição do Código Civil Brasileiro, perde-se a propriedade:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "por alienação e por adjunção"
+      },
+      {
+        "letra": "B",
+        "texto": "por abandono e por confusão"
+      },
+      {
+        "letra": "C",
+        "texto": "pelo perecimento da coisa e pela comissão"
+      },
+      {
+        "letra": "D",
+        "texto": "pela renúncia e pela desapropriação"
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1990131",
+    "metadata": "Ano: 2022 | Banca: FGV | Órgão: TCE-TO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Modos de Perda da Propriedade"
+    ],
+    "enunciado_principal": "Marcelo adquiriu há mais de três anos uma casa de veraneio no campo. Entretanto, nunca ocupou ou exerceu quaisquer atos de posse sobre o bem. Até o momento, todavia, ninguém mais veio a apossar-se do bem, estando ainda desocupado. Caso a conduta de Marcelo venha a ser considerada abandono do bem, ele poderá ser arrecadado pelo(a):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "União, caso se trate de imóvel urbano, onde quer que ele se localize;"
+      },
+      {
+        "letra": "B",
+        "texto": "Estado, caso se trate de imóvel urbano e se encontre na respectiva circunscrição;"
+      },
+      {
+        "letra": "C",
+        "texto": "Município ou Distrito Federal, caso se trate de imóvel urbano e se encontre na respectiva circunscrição;"
+      },
+      {
+        "letra": "D",
+        "texto": "Estado, caso se trate de imóvel rural e se encontre na respectiva circunscrição;"
+      },
+      {
+        "letra": "E",
+        "texto": "Município ou Distrito Federal, caso se trate de imóvel rural e se encontre na respectiva circunscrição."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1782468",
+    "metadata": "Ano: 2021 | Banca: FUNDEP (Gestão de Concursos) | Órgão: MPE-MG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Efeitos, Tutela, Transmissão e Perda da Posse",
+      "Modos de Perda da Propriedade"
+    ],
+    "enunciado_principal": "Considerando as assertivas abaixo, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O imóvel urbano que o proprietário abandonar, com a intenção de não mais o conservar em seu patrimônio, e que se não encontrar na posse de outrem, poderá ser arrecadado, como bem vago, e passar, decorrido o prazo legal, à propriedade do Município ou à do Distrito Federal, se se achar nas respectivas circunscrições."
+      },
+      {
+        "letra": "B",
+        "texto": "A propriedade do solo também abrange as jazidas, minas e demais recursos minerais encontrados no subsolo."
+      },
+      {
+        "letra": "C",
+        "texto": "Quem quer que ache coisa alheia perdida há de restituí-la ao dono ou legítimo possuidor. Não conhecendo o dono ou o legítimo possuidor, o descobridor fará por encontrá-lo e, se não o encontrar e tendo feito notícia da descoberta perante a imprensa e inexistindo quem a procure, poderá ficar com a coisa para si diante do fato de não descobrir o real dono ou legítimo possuidor."
+      },
+      {
+        "letra": "D",
+        "texto": "“Aluvião” é o acréscimo paulatino de terras formado, sucessiva e imperceptivelmente, por depósitos e aterros naturais ao longo das margens das correntes, ou pelo desvio das águas destas, e pertence aos donos dos terrenos marginais. A “avulsão” acontece quando, por força natural violenta, uma porção de terra se destacar de um prédio e se juntar a outro, ocasião em que o dono deste adquirirá a propriedade do acréscimo. Em ambos os casos, a aquisição da propriedade imóvel por cessão ensejará dever de indenização pelo novo proprietário."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2070109",
+    "metadata": "Ano: 2019 | Banca: IBFC | Órgão: Prefeitura de Cuiabá - MT",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Propriedade",
+      "Usucapião",
+      "Modos de Aquisição da Propriedade Imóvel",
+      "Modos de Perda da Propriedade",
+      "Modos de Aquisição da Propriedade Móvel"
+    ],
+    "enunciado_principal": "O Código Civil disciplina a aquisição e perda da propriedade móvel, embora apresentando normas concernentes à aquisição do referido domínio, isto porque, se, de um lado, alguém adquire um direito de propriedade, em regra, de outro lado, alguém perde, concomitante, a titularidade desse direito. Considere as hipóteses de aquisição e perda da coisa e assinale a alternativa que apresenta a explicação correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "usucapião: aquele que possuir coisa móvel como sua, contínua e incontestadamente durante 5 anos, com justo título e boa-fé, adquirir-lhe-á a propriedade"
+      },
+      {
+        "letra": "B",
+        "texto": "achado do Tesouro: depósito atual de coisas preciosas, oculto e de cujo dono se tenha a memória. Será dividido por igual entre o proprietário e o que achar o tesouro ocasionalmente"
+      },
+      {
+        "letra": "C",
+        "texto": "tradição: quando o transmitente continua a possuir pelo constituto possessório; quando cede ao adquirente o direito à restituição da coisa, que se encontra em poder de terceiro; ou quando o adquirente já está na posse da coisa, por ocasião do negócio jurídico"
+      },
+      {
+        "letra": "D",
+        "texto": "especificação: aquele que, trabalhando em obra-prima sua, obtiver espécie nova, desta será proprietário, isso se puder restituir à forma anterior"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1729604",
+    "metadata": "Ano: 2019 | Banca: Aprender - SC | Órgão: Prefeitura de Tangará - SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Modos de Perda da Propriedade"
+    ],
+    "enunciado_principal": "Quando tratamos pelo Código Civil, sobre a Perda da Propriedade, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O imóvel urbano que o proprietário abandonar, com a intenção de o conservar em seu patrimônio, e que se encontrar na posse de outrem, poderá ser arrecadado, como bem vago, e passar, três anos depois, à propriedade do Município ou à do Distrito Federal, se se achar nas respectivas circunscrições."
+      },
+      {
+        "letra": "B",
+        "texto": "O imóvel situado na zona rural abandonado, não poderá ser arrecadado, como bem vago, e passar, três anos depois, à propriedade da União, onde quer que ele se localize."
+      },
+      {
+        "letra": "C",
+        "texto": "O imóvel urbano que o proprietário abandonar, com a intenção de não mais o conservar em seu patrimônio, e que se não encontrar na posse de outrem, poderá ser arrecadado, como bem vago, e passar, três anos depois, à propriedade do Município ou à do Distrito Federal, se se achar nas respectivas circunscrições."
+      },
+      {
+        "letra": "D",
+        "texto": "De modo absoluto se não houver cessados os atos de posse, esse não deixar o proprietário de satisfazer os ônus fiscais, poderá ser arrecadado mesmo assim."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1173158",
+    "metadata": "Ano: 2019 | Banca: VUNESP | Órgão: Prefeitura de São José dos Campos - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Propriedade",
+      "Modos de Perda da Propriedade"
+    ],
+    "enunciado_principal": "Considerando a disciplina constante do Direito Positivo brasileiro, pode-se corretamente afirmar que o não cumprimento da função social da propriedade",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não ocasiona qualquer resultado ao proprietário que tem o direito de não fazer qualquer uso de sua propriedade, não podendo ser apenado pelo não cumprimento da função social, tendo em vista que a propriedade abrange os direitos de usar, gozar, dispor e abusar."
+      },
+      {
+        "letra": "B",
+        "texto": "ocasiona a perda da propriedade para o Estado, desde que precedida de justa e prévia indenização em dinheiro, precedida de prévia avaliação judicial, na qual deverão ser indenizados inclusive lucros cessantes pela perda da propriedade."
+      },
+      {
+        "letra": "C",
+        "texto": "pode ocasionar o confisco da propriedade, sem direito a qualquer tipo de indenização, tendo em vista que a propriedade somente é garantida pela Constituição Federal se cumprir a sua função social."
+      },
+      {
+        "letra": "D",
+        "texto": "no caso dos imóveis rurais, pode resultar em desapropriação para fins de reforma agrária, mediante o pagamento do valor da terra nua e das benfeitorias úteis e necessárias em títulos da dívida agrária."
+      },
+      {
+        "letra": "E",
+        "texto": "pode resultar em desapropriação com pagamento mediante títulos da dívida pública, desde que precedida de parcelamento ou edificação compulsórios e imposto sobre a propriedade predial e territorial urbana progressivo no tempo."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1014320",
+    "metadata": "Ano: 2019 | Banca: VUNESP | Órgão: Câmara de Piracicaba - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Usucapião",
+      "Modos de Aquisição da Propriedade Imóvel",
+      "Modos de Perda da Propriedade"
+    ],
+    "enunciado_principal": "Quanto à aquisição e perda da propriedade, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "enquanto não se promover, por meio de ação própria, a decretação de invalidade do registro, e o respectivo cancelamento, o adquirente continua a ser havido como dono do imóvel."
+      },
+      {
+        "letra": "B",
+        "texto": "aquele que, não sendo proprietário de imóvel rural ou urbano, possua como sua, por cinco anos ininterruptos, sem oposição, área de terra em zona rural não superior a duzentos e cinquenta hectares, tornando-a produtiva por seu trabalho ou de sua família, tendo nela sua moradia, adquirirá a propriedade."
+      },
+      {
+        "letra": "C",
+        "texto": "a usucapião especial urbana por abandono do lar corresponde à forma de aquisição derivada da propriedade do bem imóvel em sua totalidade."
+      },
+      {
+        "letra": "D",
+        "texto": "o imóvel urbano abandonado pelo proprietário, com a intenção de não mais o conservar em seu patrimônio, mesmo na posse de outra pessoa, poderá ser arrecadado, como bem vago, e passar, três anos depois, à propriedade do Município ou à do Distrito Federal, caso se encontre nas respectivas circunscrições."
+      },
+      {
+        "letra": "E",
+        "texto": "a propriedade móvel, por ser transmitida pela tradição, não permite sua aquisição pela usucapião."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "990670",
+    "metadata": "Ano: 2019 | Banca: VUNESP | Órgão: TJ-RS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Modos de Perda da Propriedade"
+    ],
+    "enunciado_principal": "Caroline é proprietária de um terreno localizado em área urbana, em zona periférica e muito violenta da cidade. Caroline não consegue alienar o imóvel para terceiros, de modo que o bem apenas lhe traz ônus, tais como despesas para evitar a invasão e tributos imobiliários. Desse modo, não deseja mais preservar o imóvel em seu patrimônio. Nesse cenário, Caroline procurou um advogado que a orientou a renunciar à propriedade. Os efeitos da renúncia à propriedade do terreno estão subordinados",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "à comprovação, por qualquer ato ou documento inequívoco, de que Caroline tentou alienar o imóvel."
+      },
+      {
+        "letra": "B",
+        "texto": "ao registro do ato renunciativo no Cartório de Registro de Imóveis."
+      },
+      {
+        "letra": "C",
+        "texto": "à lavratura do ato renunciativo ao direito de propriedade."
+      },
+      {
+        "letra": "D",
+        "texto": "à apresentação do ato renunciativo perante a municipalidade, em se tratando de imóvel urbano."
+      },
+      {
+        "letra": "E",
+        "texto": "à cessação dos atos de posse, deixando Caroline de satisfazer os ônus fiscais."
+      }
+    ],
+    "gabarito": "B"
+  }
+]

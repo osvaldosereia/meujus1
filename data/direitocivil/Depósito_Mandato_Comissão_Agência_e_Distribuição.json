@@ -1,0 +1,2936 @@
+[
+  {
+    "id": "3469450",
+    "metadata": "Ano: 2025 | Banca: FCC | Órgão: TRT - 1ª REGIÃO (RJ)",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Suponha que uma concessionária seja contratada por uma fabricante de automóveis para promover, com habitualidade, sem vínculo de dependência, mediante remuneração e com exclusividade, as vendas de um carro na ,cidade do Rio de Janeiro. Além disso, a concessionária ficaria com os automóveis para conduzir as vendas e concluir os negócios. Nesse caso, está-se diante de um contrato de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "distribuição."
+      },
+      {
+        "letra": "B",
+        "texto": "mandato."
+      },
+      {
+        "letra": "C",
+        "texto": "compra e venda."
+      },
+      {
+        "letra": "D",
+        "texto": "locaçao."
+      },
+      {
+        "letra": "E",
+        "texto": "comodato."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3349681",
+    "metadata": "Ano: 2025 | Banca: FGV | Órgão: TRT - 24ª REGIÃO (MS)",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Paulo outorgou, por instrumento particular com firma reconhecida, mandato à sua amiga Carla, conferindo-lhe poderes gerais para administrar seus bens enquanto estivesse em viagem internacional de longa duração. A procuração não continha poderes expressos para alienação de bens. Durante esse período, Carla vendeu um automóvel de propriedade de Paulo a um terceiro, João, agindo como sua procuradora. No contrato de compra e venda, Carla assinou expressamente em nome de Paulo, declarando atuar como sua mandatária. Ao retornar ao Brasil, Paulo, inconformado com a alienação, moveu ação para reaver o automóvel, sustentando que Carla não possuía poderes específicos para vender o bem, tornando o ato ineficaz. João, por sua vez, alegou boa-fé e exigiu que Carla fosse responsabilizada por eventuais perdas e danos. Considerando os dispositivos legais aplicáveis ao contrato de mandato e à responsabilidade do mandatário perante terceiros, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Carla não possui qualquer responsabilidade perante João, pois agiu em nome de Paulo, e é este quem responde pelos atos praticados no mandato, ainda que sem os poderes necessários."
+      },
+      {
+        "letra": "B",
+        "texto": "Carla responde pessoalmente perante João, pois agiu além dos poderes conferidos e não cabe ao terceiro verificar o conteúdo da procuração apresentada."
+      },
+      {
+        "letra": "C",
+        "texto": "Carla não responderá pessoalmente a João, pois os atos praticados em nome do mandante, mesmo que extrapolados, obrigam apenas o mandante, sendo o terceiro responsável por sua própria diligência."
+      },
+      {
+        "letra": "D",
+        "texto": "Carla será considerada mera gestora de negócios, uma vez que excedeu os poderes conferidos na procuração e o ato de alienação é ineficaz em relação a Paulo enquanto ele não o ratificar."
+      },
+      {
+        "letra": "E",
+        "texto": "Carla não pode ser responsabilizada, pois a venda de bem móvel não exige poderes especiais do mandatário, sendo suficiente a outorga de poderes gerais de administração."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3307243",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: MPE-CE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Considerando a situação hipotética precedente, julgue o próximo item. O mandato em termos gerais só confere poderes de administração, de maneira que, para alienar, hipotecar, transigir ou praticar outros quaisquer atos que exorbitem da administração ordinária, a procuração deve estabelecer poderes especiais e expressos nesse sentido.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3307242",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: MPE-CE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Considerando a situação hipotética precedente, julgue o próximo item. Considere que Antônio e Vera tenham descoberto a operação de compra e venda no mesmo ano em que tenha sido celebrada a escritura pública, sem terem ratificado o referido negócio. Nesse caso, os atos praticados por Gustavo seriam tidos por ineficazes.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3285664",
+    "metadata": "Ano: 2025 | Banca: Ibest | Órgão: CORE-MA",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Acerca do contrato de agência e distribuição, conforme estabelecido pelo Código Civil Brasileiro, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Salvo disposição em contrário, todas as despesas com a agência ou distribuição correm por conta exclusiva do proponente."
+      },
+      {
+        "letra": "B",
+        "texto": "O agente dispensado por justa causa não terá direito a qualquer remuneração pelos serviços anteriormente prestados, ainda que úteis ao proponente."
+      },
+      {
+        "letra": "C",
+        "texto": "O proponente pode conferir poderes ao agente para representá-lo na conclusão dos contratos objeto da agência."
+      },
+      {
+        "letra": "D",
+        "texto": "Na ausência de cláusula específica, o proponente pode constituir simultaneamente mais de um agente na mesma zona, com idênticas incumbências."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3285611",
+    "metadata": "Ano: 2025 | Banca: Ibest | Órgão: CORE-MA",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Acerca da rescisão do contrato de agência e distribuição, conforme previsto no Código Civil, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O agente dispensado sem culpa não tem direito a qualquer remuneração sobre os negócios pendentes."
+      },
+      {
+        "letra": "B",
+        "texto": "Caso o contrato seja por tempo indeterminado, qualquer das partes pode encerrá-lo sem necessidade de aviso prévio."
+      },
+      {
+        "letra": "C",
+        "texto": "O proponente pode reduzir unilateralmente o volume de propostas enviadas ao agente, sem necessidade de justificativa ou indenização."
+      },
+      {
+        "letra": "D",
+        "texto": "Caso o agente não possa continuar o trabalho por motivo de força maior, ele ainda terá direito à remuneração pelos serviços já realizados."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3285610",
+    "metadata": "Ano: 2025 | Banca: Ibest | Órgão: CORE-MA",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "De acordo com o Código Civil, no que diz respeito ao contrato de agência e distribuição, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O agente, salvo ajuste contrário, tem direito à remuneração mesmo que o negócio seja concluído sem a sua interferência dentro de sua zona de atuação."
+      },
+      {
+        "letra": "B",
+        "texto": "O proponente pode contratar quantos agentes desejar para a mesma zona e com a mesma incumbência, sem qualquer restrição legal."
+      },
+      {
+        "letra": "C",
+        "texto": "O agente pode, por sua livre vontade, representar mais de um proponente no mesmo setor e na mesma zona, sem necessidade de ajuste prévio."
+      },
+      {
+        "letra": "D",
+        "texto": "O agente que não puder continuar o trabalho por qualquer motivo, perde automaticamente o direito a qualquer remuneração pelos serviços já prestados."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3284096",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: EMBRAPA",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "No que se refere ao negócio jurídico e à prescrição, julgue o item seguinte, de acordo com o disposto no Código Civil e o entendimento do STJ. Procuração outorgada por pessoa jurídica aos seus patronos perde a validade com o falecimento do sócio ou do representante legal que assinou o instrumento de mandato.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3208075",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: FUNPRESP-EXE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "À luz do Código Civil, da doutrina civilista e da jurisprudência do STJ, julgue o item a seguir, relativo ao direito contratual. É nula de pleno direito a cláusula de irrevogabilidade presente em contrato de mandato.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3179540",
+    "metadata": "Ano: 2025 | Banca: FGV | Órgão: TRF - 3ª REGIÃO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O mandato não pode ser eficazmente substabelecido, se houver cláusula que o proíba."
+      },
+      {
+        "letra": "B",
+        "texto": "O mandato não pode ser objeto de revogação eficaz, se contiver cláusula que a proíba."
+      },
+      {
+        "letra": "C",
+        "texto": "O mandato se presume gratuito, salvo se houver previsão de que as despesas incorridas pelo mandatário devam ser ressarcidas."
+      },
+      {
+        "letra": "D",
+        "texto": "A cláusula ad judicia inserida em mandato confere ao mandatário, por si só, poderes para transigir, renunciar e celebrar compromisso."
+      },
+      {
+        "letra": "E",
+        "texto": "O mandato em termos gerais implica em poderes de administração, o que inclui a aplicação financeira de valores em espécie da titularidade do mandante."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3177207",
+    "metadata": "Ano: 2025 | Banca: Quadrix | Órgão: CORE-CE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "À luz da Lei nº 10.406/2002, quanto às normas referentes ao contrato de agência e distribuição, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O agente é a parte contratante que confere poderes ao proponente para que este o represente na conclusão dos contratos."
+      },
+      {
+        "letra": "B",
+        "texto": "As despesas com distribuição são, obrigatoriamente, de responsabilidade do proponente e não podem ser repassadas ao distribuidor, pois devem ser arcadas por quem contrata o serviço."
+      },
+      {
+        "letra": "C",
+        "texto": "O agente terá direito à remuneração, exceto quando o negócio não for concluído por sua própria responsabilidade."
+      },
+      {
+        "letra": "D",
+        "texto": "É vedada a celebração de contratos de prazo indeterminado entre o proponente e o agente, sendo tais contratos considerados nulos de pleno direito."
+      },
+      {
+        "letra": "E",
+        "texto": "Em caso de divergência sobre as normas contratuais entre o proponente e o agente, caberá ao Conselho Regional dos Representantes Comerciais determinar, com razoabilidade, o prazo e o valor devidos."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3159574",
+    "metadata": "Ano: 2025 | Banca: Quadrix | Órgão: CORE-RJ",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "À luz da Lei nº 10.406/2002, que trata da agência e da distribuição, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O proponente poderá designar, a seu critério, mais de um agente na mesma área, com atribuições idênticas."
+      },
+      {
+        "letra": "B",
+        "texto": "O agente ou distribuidor terá direito à remuneração referente aos negócios concluídos dentro de sua área de atuação, desde que tenha participado da negociação."
+      },
+      {
+        "letra": "C",
+        "texto": "A dispensa por justa causa do agente resultará na perda de qualquer direito à remuneração pelos serviços úteis que tenha prestado ao proponente."
+      },
+      {
+        "letra": "D",
+        "texto": "O contrato de agência estabelece que uma pessoa se encarrega de promover negócios em favor de outra, em uma área indefinida, sem garantia de remuneração."
+      },
+      {
+        "letra": "E",
+        "texto": "O contrato de agência terá natureza não eventual, sem estabelecer vínculo de dependência entre as partes contratantes."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3230931",
+    "metadata": "Ano: 2024 | Banca: Quadrix | Órgão: CONFERE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Segundo a Lei Federal nº 10.406, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pelo contrato de agência, uma pessoa assume, em caráter não eventual, mas com vínculos de dependência, a obrigação de promover, à conta de outra, mediante retribuição, a realização de certos negócios."
+      },
+      {
+        "letra": "B",
+        "texto": "Aplicam‑se ao contrato de agência e distribuição, no que couber, as regras concernentes ao mandato e à comissão e as regras constantes de lei especial."
+      },
+      {
+        "letra": "C",
+        "texto": "O proponente pode constituir, ao mesmo tempo, mais de um agente, na mesma zona."
+      },
+      {
+        "letra": "D",
+        "texto": "Salvo estipulação diversa, todas as despesas com a agência ou com a distribuição correm a cargo da agência."
+      },
+      {
+        "letra": "E",
+        "texto": "O agente ou distribuidor tem direito à indenização se o proponente, com justa causa, cessar o atendimento das propostas ou reduzi‑lo tanto, que se torna antieconômica a continuação do contrato."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3179926",
+    "metadata": "Ano: 2024 | Banca: Quadrix | Órgão: CORE-MT",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Ainda em relação à Lei nº 10.406/2002, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O contrato de agência possui caráter eventual."
+      },
+      {
+        "letra": "B",
+        "texto": "Pelo contrato de agência, uma pessoa assume a obrigação de promover, à conta de outro, mediante retribuição, a realização de certos negócios."
+      },
+      {
+        "letra": "C",
+        "texto": "O contrato de agência não pressupõe zona determinada."
+      },
+      {
+        "letra": "D",
+        "texto": "A distribuição é caracterizada quando o agente não tiver à sua disposição a coisa a ser negociada."
+      },
+      {
+        "letra": "E",
+        "texto": "É vedado ao proponente conferir poderes ao agente."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3179925",
+    "metadata": "Ano: 2024 | Banca: Quadrix | Órgão: CORE-MT",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Com base na Lei nº 10.406/2002, assinale a alternativa correta",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O agente ou distribuidor terá direito à remuneração correspondente aos negócios concluídos dentro de sua zona, desde que tenha interferência na negociação."
+      },
+      {
+        "letra": "B",
+        "texto": "Todas as despesas com a agência correm por conta desta."
+      },
+      {
+        "letra": "C",
+        "texto": "Não será devida remuneração no caso de não conclusão da negociação, independentemente se por fato imputável ao proponente ou não."
+      },
+      {
+        "letra": "D",
+        "texto": "O agente ou distribuidor tem direito à indenização se o proponente, com justa causa, cessar o atendimento."
+      },
+      {
+        "letra": "E",
+        "texto": "O agente ou distribuidor tem direito à indenização se o proponente reduzi‑lo tanto que se torne antieconômica a continuação do contrato."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3179886",
+    "metadata": "Ano: 2024 | Banca: Quadrix | Órgão: CORE-MT",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "À luz da Lei nº 10.406/2002, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O contrato de agência possui vínculo de dependência."
+      },
+      {
+        "letra": "B",
+        "texto": "É vedada a constituição de mais de um agente na mesma zona."
+      },
+      {
+        "letra": "C",
+        "texto": "A distribuição é caracterizada quando o agente tiver à sua disposição a coisa a ser negociada."
+      },
+      {
+        "letra": "D",
+        "texto": "É permitido ao agente, independentemente de ajuste, assumir o encargo na mesma zona para tratar de negócios do mesmo gênero, à conta de outros proponentes."
+      },
+      {
+        "letra": "E",
+        "texto": "O agente, no desempenho que lhe foi cometido, deve agir com toda diligência, independentemente das instruções recebidas do proponente."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3179687",
+    "metadata": "Ano: 2024 | Banca: Quadrix | Órgão: CORE-MT",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Ainda acerca da Lei nº 10.406/2002, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A remuneração não será devida ao agente quando o negócio deixar de ser realizado por fato imputável ao proponente."
+      },
+      {
+        "letra": "B",
+        "texto": "Terá o agente direito a ser remunerado pelos serviços úteis prestados ao proponente, apenas se for dispensado sem justa causa."
+      },
+      {
+        "letra": "C",
+        "texto": "Se o agente não puder continuar o trabalho por motivo de força maior, terá direito à remuneração correspondente aos serviços realizados, sem direito aos herdeiros no caso de morte."
+      },
+      {
+        "letra": "D",
+        "texto": "Aplicam‑se ao contrato de agência e distribuição, no que couber, as regras concernentes ao mandato e à comissão e as regras constantes de lei especial."
+      },
+      {
+        "letra": "E",
+        "texto": "Se o contrato for por tempo determinado, qualquer das partes poderá resolvê‑lo."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3169953",
+    "metadata": "Ano: 2024 | Banca: FCC | Órgão: TRT - 20ª REGIÃO (SE)",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "De acordo com o Código Civil, no contrato de depósito.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o depositário não responde por força maior, cuja prova lhe cabe."
+      },
+      {
+        "letra": "B",
+        "texto": "o depositário não responde por força maior, cuja prova cabe ao depositante."
+      },
+      {
+        "letra": "C",
+        "texto": "será devida, via de regra, remuneração ao depositário, presumindo-se a onerosidade."
+      },
+      {
+        "letra": "D",
+        "texto": "pode o depositário, independentemente de autorização do depositante, servir-se da coisa depositada,"
+      },
+      {
+        "letra": "E",
+        "texto": "o depositário responde por força maior."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3115642",
+    "metadata": "Ano: 2024 | Banca: Quadrix | Órgão: CORE-SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Quanto à Lei nº 10.406/2002, assinale a alternativa correta, no que se refere ao contrato de agência.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A remuneração será devida ao agente também nos casos em que o negócio não for realizado por motivo imputável ao proponente."
+      },
+      {
+        "letra": "B",
+        "texto": "A dispensa por justa causa ensejará o rompimento do vínculo negocial entre o agente e o proponente, devendo este reter os valores devidos pelos serviços úteis que lhe foram prestados, a título de abatimento de eventuais indenizações por danos sofridos."
+      },
+      {
+        "letra": "C",
+        "texto": "As despesas com a agência ou com a distribuição correm a cargo do distribuidor, independentemente de previsão contratual."
+      },
+      {
+        "letra": "D",
+        "texto": "Independentemente de ajuste prévio, o proponente pode designar, simultaneamente, mais de um agente com a mesma incumbência para atuar na mesma zona."
+      },
+      {
+        "letra": "E",
+        "texto": "Em caso de morte do agente, a remuneração correspondente aos serviços realizados deverá ser creditada em benefício do Conselho Regional da jurisdição na qual esteja registrado."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3110313",
+    "metadata": "Ano: 2024 | Banca: CESPE / CEBRASPE | Órgão: TSE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "No que diz respeito ao conflito das leis no tempo, às pessoas naturais e jurídicas, bem como aos bens e aos contratos, julgue o item a seguir. No mandato, é lícito o estabelecimento de cláusula que obrigue o mandatário a não o renunciar.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3100518",
+    "metadata": "Ano: 2024 | Banca: FAPEC | Órgão: MPE-MS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Quando a cláusula de irrevogabilidade for condição de um negócio bilateral ou tiver sido estipulada no exclusivo interesse do mandatário, a revogação do mandato será ineficaz."
+      },
+      {
+        "letra": "B",
+        "texto": "O distrato faz-se por qualquer forma, não se exigindo que seja a mesma exigida para o contrato."
+      },
+      {
+        "letra": "C",
+        "texto": "O mútuo feito à pessoa menor, com ou sem prévia autorização daquele sob cuja guarda estiver, não pode ser reavido nem do mutuário, mas poderá ser reavido pelos seus fiadores."
+      },
+      {
+        "letra": "D",
+        "texto": "A responsabilidade contratual do transportador por acidente com o passageiro é elidida por culpa de terceiro."
+      },
+      {
+        "letra": "E",
+        "texto": "A sentença que decretar ou homologar a separação judicial do empresário e o ato de reconciliação podem ser opostos a terceiros, antes de arquivados e averbados no Registro Público de Empresas Mercantis."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3093947",
+    "metadata": "Ano: 2024 | Banca: CESPE / CEBRASPE | Órgão: PGE-PR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Maria recebeu de Carla, mediante instrumento público, poderes para praticar, em seu nome, atos em nome de Carla. Em referência a essa situação hipotética, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Por eventuais somas que deva entregar à Carla e não o fizer, Maria pagará juros, contabilizados desde o momento em que constatado o abuso."
+      },
+      {
+        "letra": "B",
+        "texto": "Se Maria, utilizando crédito de Carla, comprar, em nome próprio, algo que deveria comprar para Carla, por assim ter sido expressamente designado no mandato, Carla poderá ajuizar ação para obrigá-la a ressarcir a quantia equivalente ao bem em pecúnia, uma vez que Maria não pode ser obrigada à entrega da coisa comprada"
+      },
+      {
+        "letra": "C",
+        "texto": "É exigido instrumento público para substabelecimento."
+      },
+      {
+        "letra": "D",
+        "texto": "Caso Carla faleça, Maria poderá, mesmo assim, concluir o negócio já começado."
+      },
+      {
+        "letra": "E",
+        "texto": "Maria responderá pelos danos causados por eventual substabelecido, ainda que não tenha agido com culpa na escolha deste ou nas instruções dadas a ele."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3058659",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: ENAM",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Posse - Teoria, Classificação e Aquisição",
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição",
+      "Empréstimo: Comodato e Mútuo"
+    ],
+    "enunciado_principal": "Jeremias resolveu passar suas férias fora da cidade e, em razão disso, emprestou seu automóvel à sua irmã, Lucrécia. Quando retornou, ela se recusou a devolvê-lo no prazo que havia sido combinado. Somente duas semanas depois, graças à mediação da mãe de ambos, Lucrécia devolveu o veículo. Entretanto, ela cobrou de Jeremias as despesas que realizou nas duas últimas semanas: os gastos com gasolina, o conserto de um vazamento de óleo (que estava degradando o automóvel) e a instalação de ar-condicionado. A respeito dessas despesas, Jeremias deve pagar",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "os gastos com gasolina, somente."
+      },
+      {
+        "letra": "B",
+        "texto": "o conserto do vazamento de óleo, somente."
+      },
+      {
+        "letra": "C",
+        "texto": "os gastos com gasolina e o conserto do vazamento de óleo, somente."
+      },
+      {
+        "letra": "D",
+        "texto": "a instalação de ar-condicionado, somente."
+      },
+      {
+        "letra": "E",
+        "texto": "o conserto do vazamento de óleo e a instalação de ar-condicionado, somente."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2564475",
+    "metadata": "Ano: 2024 | Banca: FCC | Órgão: TRF - 3ª REGIÃO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "De acordo com o Código Civil, o mandato",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "presume-se oneroso sempre que as partes não estipularem retribuição."
+      },
+      {
+        "letra": "B",
+        "texto": "outorgado por instrumento público não pode ser substabelecido por instrumento particular, mas o contrário é permitido."
+      },
+      {
+        "letra": "C",
+        "texto": "não poderá ser aceito tacitamente, exceto para evitar ao mandante dano grave."
+      },
+      {
+        "letra": "D",
+        "texto": "pode ser verbal, exceto quando o ato deva ser celebrado por escrito."
+      },
+      {
+        "letra": "E",
+        "texto": "em termos gerais não confere poderes de administração, que dependem de previsão expressa."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2516657",
+    "metadata": "Ano: 2024 | Banca: IDESG | Órgão: COREN-ES",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Pelo contrato de depósito recebe o depositário um objeto móvel, para guardar, até que o depositante o reclame. Sobre o tema, de acordo com o Código Civil é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O contrato de depósito é oneroso, exceto se houver convenção em contrário, se resultante de atividade negocial ou se o depositário o praticar por profissão."
+      },
+      {
+        "letra": "B",
+        "texto": "Se o depositário se tornar incapaz, a pessoa que lhe assumir a administração dos bens diligenciará imediatamente restituir a coisa depositada e, não querendo ou não podendo o depositante recebê-la, consignará em pagamento."
+      },
+      {
+        "letra": "C",
+        "texto": "O depósito de coisas fungíveis, em que o depositário se obrigue a restituir objetos do mesmo gênero, qualidade e quantidade, regular-se-á pelo disposto acerca do mútuo."
+      },
+      {
+        "letra": "D",
+        "texto": "É depósito facultativo o que se efetua por ocasião de alguma calamidade, como o incêndio, a inundação, o naufrágio ou o saque."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2511478",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: Câmara dos Deputados",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Atílio, despachante na pequena cidade de Rio das Flores, foi contratado por Rui, residente na capital, para resolver com urgência uma pendência administrativa que o estava impedindo de alienar terras que detinha naquela região. Pelo contrato, em troca da remuneração de R$ 5.000,00, Atílio deveria comparecer à Prefeitura para levar a documentação comprobatória da inexistência de débitos municipais relativos ao imóvel e assim obter, em até três dias, a esperada certidão negativa que faltava para a alienação do imóvel. Atílio incumbiu seu assistente, Josimar, de executar a tarefa, embora nem o contrato firmado entre Rui e Atílio, nem a procuração dada por aquele a este, fizesse qualquer menção à possibilidade de substabelecimento. Ocorre que Josimar foi assaltado no trajeto para a Prefeitura, tendo-lhe sido roubada a pasta que continha os documentos, o que inviabilizou a obtenção da certidão no prazo pretendido. Diante disso,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Atílio e Josimar serão responsáveis solidariamente perante Rui, pois o substabelecimento, na falta de autorização, deve ser reputado ineficaz."
+      },
+      {
+        "letra": "B",
+        "texto": "Atílio e Josimar serão responsáveis perante Rui, porque o substabelecimento não autorizado os torna responsáveis até mesmo por caso fortuito."
+      },
+      {
+        "letra": "C",
+        "texto": "Josimar será diretamente responsável perante Rui, se houve culpa da sua parte, enquanto Atílio somente seria responsável se tivesse agido com culpa própria na escolha de Josimar ou nas instruções que deu a ele."
+      },
+      {
+        "letra": "D",
+        "texto": "Atílio será responsável perante Rui pelos prejuízos sofridos se Josimar tiver agido com culpa por ocasião do assalto."
+      },
+      {
+        "letra": "E",
+        "texto": "não há responsabilidade de Atílio nem de Josimar, pois o assalto configura força maior e risco da atividade contratada por Rui."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2450732",
+    "metadata": "Ano: 2024 | Banca: IV - UFG | Órgão: TJ-AC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "De acordo com o Código Civil brasileiro, quando o mandato contiver a cláusula de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "irrevogabilidade e o mandante o revogar, pagará perdas e danos."
+      },
+      {
+        "letra": "B",
+        "texto": "revogabilidade e o mandante o revogar, pagará perdas e danos."
+      },
+      {
+        "letra": "C",
+        "texto": "irrevogabilidade e o mandatário o revogar, pagará perdas e danos."
+      },
+      {
+        "letra": "D",
+        "texto": "revogabilidade e o mandatário o revogar, pagará perdas e danos."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2442312",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: TJ-AP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "A concessionária G é contratada para, mediante remuneração previamente pactuada e a conta da montadora X, promover as vendas de um veículo lançado no último verão, no âmbito da cidade de Macapá, com exclusividade. As vendas seriam conduzidas inteiramente pela concessionária, com quem ficariam os automóveis e, também, a quem se permitiria representar a montadora na conclusão dos negócios. Nesse caso, à luz do Código Civil, tem-se um contrato:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "de corretagem;"
+      },
+      {
+        "letra": "B",
+        "texto": "de mandato;"
+      },
+      {
+        "letra": "C",
+        "texto": "de distribuição;"
+      },
+      {
+        "letra": "D",
+        "texto": "de agência;"
+      },
+      {
+        "letra": "E",
+        "texto": "de venda consignada ou estimatório."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2357873",
+    "metadata": "Ano: 2024 | Banca: CESPE / CEBRASPE | Órgão: CAU-BR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Com relação a domicílio e residência, aos negócios jurídicos, a prescrição e decadência, ao contrato de mandato e a obrigações, julgue o próximo item, à luz do Código Civil e da jurisprudência do Superior Tribunal de Justiça (STJ).A renúncia ao mandato é considerada existente com a simples manifestação de vontade do renunciante, no entanto, para ter eficácia e surtir os devidos efeitos, o ato depende do encaminhamento e da recepção pelo mandante.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3105360",
+    "metadata": "Ano: 2023 | Banca: Instituto Consulplan | Órgão: CORE-PA",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição",
+      "Contratos em Geral"
+    ],
+    "enunciado_principal": "O contrato de agência e distribuição é regulamentado pelo código civil brasileiro, que trata dos contratos em geral. Esse tipo de contrato é utilizado quando uma parte, denominada agente ou intermediário, se compromete a promover a comercialização de produtos ou serviços da outra parte, denominada fornecedor. Sobre o referido contrato, analise as afirmativas a seguir. I. O agente, no desempenho que lhe foi cometido, deve agir com toda diligência, atendo-se às instruções recebidas do proponente. II. Se o contrato for por tempo determinado, qualquer das partes poderá resolvê-lo, mediante aviso prévio de noventa dias, desde que transcorrido prazo compatível com a natureza e o vulto do investimento exigido do agente. III. Se o agente puder continuar o trabalho por motivo de força maior, terá direito à remuneração correspondente aos serviços realizados, cabendo tal direito aos herdeiros no caso de morte. IV. Salvo estipulação diversa, todas as despesas com a agência ou distribuição correm a cargo do agente ou distribuidor. Está correto o que se afirma em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II, III e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "I e IV, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "III e IV, apenas."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2550696",
+    "metadata": "Ano: 2023 | Banca: Instituto Consulplan | Órgão: CORE-SE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "João assumiu, com autonomia, a obrigação de promover, habitualmente, à conta da empresa Sucos S/A e, mediante remuneração por ela prestada, a realização de certos negócios, em zona determinada. Levando-se em consideração exclusivamente o disposto na Lei Federal nº 10.406/2002 sobre a agência e distribuição, é correto afirmar que, não havendo estipulação diversa entre as partes,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "se João tiver à sua disposição a coisa a ser negociada, configurar-se-á a distribuição."
+      },
+      {
+        "letra": "B",
+        "texto": "todas as despesas com a agência ou distribuição correm a cargo da empresa Sucos S/A."
+      },
+      {
+        "letra": "C",
+        "texto": "se João for dispensado de seu encargo sem culpa, terá ele direito à remuneração até então devida, excluídos os negócios pendentes e eventual indenização."
+      },
+      {
+        "letra": "D",
+        "texto": "João tem direito à remuneração correspondente aos negócios concluídos dentro de sua zona, desde que comprove sua interferência e intermediação direta para a sua realização."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2397996",
+    "metadata": "Ano: 2023 | Banca: FCC | Órgão: TRT - 21ª Região (RN)",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "De acordo com o Código Civil, o mandato",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "outorgado por instrumento público não poderá ser substabelecido por instrumento particular."
+      },
+      {
+        "letra": "B",
+        "texto": "pode ser aceito de forma tácita."
+      },
+      {
+        "letra": "C",
+        "texto": "pode ser outorgado por instrumento particular, mesmo que a lei exija instrumento público para o ato a ser praticado."
+      },
+      {
+        "letra": "D",
+        "texto": "poderá ser verbal, mesmo quando o ato deva ser celebrado por escrito, se assim for o costume do local."
+      },
+      {
+        "letra": "E",
+        "texto": "confere, em termos gerais, poderes para alienar, hipotecar, transigir ou praticar outros quaisquer atos que exorbitem da administração ordinária."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2328435",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: TJ-GO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Jacqueline celebrou promessa de compra e venda de imóvel de sua propriedade em 2019. Logo, foi diagnosticada com um câncer terminal, razão pela qual outorgou mandato a Elisângela, sua melhor amiga, para todas as medidas tendentes à conclusão do negócio. Em 03/04/2020, o adquirente integraliza o preço, depositando-o na conta de Jacqueline. Em 05/04/2020, Jacqueline falece, sem que tenha sido possível lavrar a escritura definitiva e registrá-la. Nesse caso, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "com a morte de Jacqueline, extinguiu-se automaticamente o mandato, razão pela qual Elisângela não poderá ultimar o negócio;"
+      },
+      {
+        "letra": "B",
+        "texto": "o óbito do mandante não é causa de extinção do mandato com objeto definido, em que apenas a consecução deste escopo faz cessar a representação;"
+      },
+      {
+        "letra": "C",
+        "texto": "com a morte de Jacqueline, extinguiu-se automática e inexoravelmente o mandato, razão pela qual Elisângela só poderá ultimar o negócio na condição de gestora de negócios;"
+      },
+      {
+        "letra": "D",
+        "texto": "o óbito do mandante, via de regra, faz cessar o mandato, no entanto, é possível, à luz das peculiaridades do caso concreto, que Elisângela assine a escritura e ultime a transferência;"
+      },
+      {
+        "letra": "E",
+        "texto": "a morte de Jacqueline fez cessar o mandato, no entanto, após integralizado o preço, o negócio já estava aperfeiçoado, bastando que o adquirente levasse o contrato e a prova da quitação ao Registro Geral de Imóveis para concluir a transferência."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2320005",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: Câmara dos Deputados",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Cássia, receosa com as brigas que acontecem rotineiramente nas assembleias do condomínio em que mora, outorgou a Carlos, segurança da loja em que ela trabalha, procuração por instrumento público para que ele a representasse perante os demais condôminos, mas o orientando em como votar em cada um dos itens da pauta. Carlos votou em sentido contrário em todos os assuntos objeto de deliberação, por discordar das decisões de Cássia, por entender que elas eram prejudiciais a ela. A decisão de Carlos acabou por beneficiá-la. Diante dos fatos hipotéticos narrados e da disciplina jurídica do contrato de mandato, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Carlos, apesar de ter procedido contra os poderes do mandato, não será considerado mero gestor de negócios, pois sua atuação beneficiou Cássia."
+      },
+      {
+        "letra": "B",
+        "texto": "Carlos poderá substabelecer o mandato a ele outorgado por Cássia, desde que observe a mesma forma empregada na procuração."
+      },
+      {
+        "letra": "C",
+        "texto": "Carlos não poderá ser considerado mero gestor de negócios porque, em que pese ter procedido contra os poderes a ele outorgado, não aceitou expressamente o mandato conferido por Cássia."
+      },
+      {
+        "letra": "D",
+        "texto": "Carlos, na qualidade de mandatário em contrato de mandato em termos gerais, poderá realizar todos os atos de representação de Cássia, inclusive transigir, mas não poderá alienar o imóvel."
+      },
+      {
+        "letra": "E",
+        "texto": "Carlos, por ter procedido contra os poderes do mandato, independentemente de sua atuação ter beneficiado Cássia, será considerado mero gestor de negócios, enquanto Cássia não ratificar os atos por ele praticados."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2307911",
+    "metadata": "Ano: 2023 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Valentina, uma respeitada empresária do setor imobiliário, deseja comprar um terreno para expandir seus negócios. Por não ter tempo disponível para cuidar pessoalmente do processo de aquisição do terreno, decide, verbalmente, nomear seu advogado de confiança, André, para ser seu procurador e atuar na negociação e compra do terreno, conferindo, por escrito, poderes expressos e gerais para realizar a transação imobiliária. André aceita tacitamente e realiza a compra do terreno. No entanto, após certo tempo, Valentina descobre que André, abusando dos poderes que lhe foram conferidos, comprou o terreno, mediante escritura pública, em seu próprio nome, aproveitando-se da transação. Diante da situação hipotética, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "André será considerado mero gestor do negócio quando Valentina ratificar os atos praticados."
+      },
+      {
+        "letra": "B",
+        "texto": "Os atos praticados por André são inválidos em relação a Valentina."
+      },
+      {
+        "letra": "C",
+        "texto": "O mandato outorgado não poderia ser verbal."
+      },
+      {
+        "letra": "D",
+        "texto": "A aceitação de André para o mandato deveria ser expressa."
+      },
+      {
+        "letra": "E",
+        "texto": "Por serem os poderes expressos e gerais, a compra realizada por André é válida."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2288177",
+    "metadata": "Ano: 2023 | Banca: Instituto Consulplan | Órgão: CORE-RS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "“Contrato, defeso em lei, em que a pessoa assume, em caráter não eventual e sem vínculos de dependência a obrigação de promover à conta de outra, mediante retribuição, a realização de certos negócios, em zona determinada, caracterizando-se a distribuição quando o negociador tiver à sua disposição a coisa a ser negociada.” Trata-se do contrato",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "fiduciário."
+      },
+      {
+        "letra": "B",
+        "texto": "de agência."
+      },
+      {
+        "letra": "C",
+        "texto": "de promoção e vendas determinadas."
+      },
+      {
+        "letra": "D",
+        "texto": "de prestação de serviços indeterminados."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2285131",
+    "metadata": "Ano: 2023 | Banca: IPEFAE | Órgão: Prefeitura de Campos do Jordão - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "O mandato é o ato onde alguém recebe de outro poder para, em seu nome, praticar atos ou administrar interesses. O instrumento do mandato, é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A Certidão"
+      },
+      {
+        "letra": "B",
+        "texto": "O Atestado"
+      },
+      {
+        "letra": "C",
+        "texto": "A Procuração"
+      },
+      {
+        "letra": "D",
+        "texto": "A Declaração"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2281648",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: TBG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Acerca de contratos, direitos reais e desconsideração da personalidade jurídica, julgue o item a seguir. Como não se exige forma para o mandato, ele poderá ser verbal, ainda que o contrato deva ser celebrado por escrito.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2279504",
+    "metadata": "Ano: 2023 | Banca: IADES | Órgão: CRF-TO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "João, farmacêutico, decidiu deixar Brasília (DF) para residir em Palmas(TO). Em Brasília, João possui um imóvel cuja locação lhe dá sustento. Por causa da mudança de domicílio, João atribuiu a Pedro o poder de administração de seus interesses nessa cidade, mediante instrumento particular. Com base no exposto, é correto afirmar que João celebrou um contrato de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "doação."
+      },
+      {
+        "letra": "B",
+        "texto": "compra e venda."
+      },
+      {
+        "letra": "C",
+        "texto": "mandato."
+      },
+      {
+        "letra": "D",
+        "texto": "locação."
+      },
+      {
+        "letra": "E",
+        "texto": "empréstimo."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2270667",
+    "metadata": "Ano: 2023 | Banca: Instituto Consulplan | Órgão: CORE-ES",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "O contrato de agência e distribuição deve ser elaborado com clareza, definindo as responsabilidades de cada parte, comissões, direitos e deveres. Também é importante considerar questões como exclusividade, território, condições de rescisão e propriedade intelectual. Nos termos da Lei nº 10.406/2002, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O proponente, no desempenho que lhe foi cometido, deve agir com toda diligência, atendo-se às instruções recebidas do agente."
+      },
+      {
+        "letra": "B",
+        "texto": "Ainda que dispensado por justa causa, terá o agente direito a ser remunerado pelos serviços úteis prestados ao proponente, sem embargo de haver perdas e danos pelos prejuízos sofridos."
+      },
+      {
+        "letra": "C",
+        "texto": "O agente ou distribuidor tem direito à indenização se o proponente, com justa causa, cessar o atendimento das propostas ou reduzi-lo tanto que se torna antieconômica a continuação do contrato."
+      },
+      {
+        "letra": "D",
+        "texto": "Salvo ajuste, o proponente pode constituir, ao mesmo tempo, mais de um agente, na mesma zona, com idêntica incumbência; nem pode o agente assumir o encargo de nela tratar de negócios do mesmo gênero, à conta de outros proponentes."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2224552",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: TJ-BA",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Na audiência de conciliação em um dos juizados especiais do Tribunal de Justiça da Bahia, o advogado do réu apresenta sua contestação com as seguintes preliminares: i) irregularidade da representação processual do autor que, embora tenha outorgado procuração por instrumento público ao dr. Oliveira, este substabeleceu, por instrumento particular, ao dr. Andrade, que ora exerce o patrocínio da causa; e ii) incompetência do juízo, porquanto foi ajuizada no local em que se localiza uma de suas filiais, mas não aquela em que foi adquirido o serviço ora tido por defeituoso, de modo que ali não se poderia considerar apenas com os poderes como seu domicílio. Por eventualidade, apresentando procuração apenas com os poderes da cláusula ad judicia e especiais para transigir, o advogado propõe a instauração de arbitragem. Nesse caso, é correto afirmar, à luz do Código Civil, que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "assiste razão ao réu quanto a ambas as preliminares, sendo certo que, se o autor aceitar, poderá ser instaurada a arbitragem;"
+      },
+      {
+        "letra": "B",
+        "texto": "não assiste razão ao réu em qualquer das preliminares, mas, se o autor aceitar, poderá ser instaurada a arbitragem;"
+      },
+      {
+        "letra": "C",
+        "texto": "assiste razão ao réu apenas quanto à segunda preliminar; de todo modo, não será possível instaurar a arbitragem porque o advogado não tem poderes para tanto;"
+      },
+      {
+        "letra": "D",
+        "texto": "assiste razão ao réu apenas quanto à primeira preliminar; de todo modo, não será possível instaurar a arbitragem porque o advogado não tem poderes para tanto;"
+      },
+      {
+        "letra": "E",
+        "texto": "assiste razão ao réu quanto a ambas as preliminares; de todo modo, não será possível instaurar a arbitragem porque o advogado não tem poderes para tanto."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2193808",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: PGM - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição",
+      "Compra e Venda",
+      "Troca ou Permuta, Contrato Estimatório e Doação",
+      "Corretagem, Transporte, Seguro, Constituição de Renda, Jogo e Aposta e Fiança"
+    ],
+    "enunciado_principal": "De acordo com o Código Civil, se uma pessoa entregar bens móveis a terceiro e este, ficando autorizado a vendê-los, pagar àquele o preço ajustado, configura-se",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "comissão."
+      },
+      {
+        "letra": "B",
+        "texto": "corretagem."
+      },
+      {
+        "letra": "C",
+        "texto": "contrato estimatório."
+      },
+      {
+        "letra": "D",
+        "texto": "agência."
+      },
+      {
+        "letra": "E",
+        "texto": "venda a contento."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2182824",
+    "metadata": "Ano: 2023 | Banca: VUNESP | Órgão: Câmara de Marília - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Acerca do contrato de mandato, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O mandato deve ser expresso, podendo ser outorgado de maneira verbal ou por escrito."
+      },
+      {
+        "letra": "B",
+        "texto": "A aceitação do mandato deve ser expressa e resulta do começo da execução."
+      },
+      {
+        "letra": "C",
+        "texto": "O mandato em termos gerais confere poderes para alienar, hipotecar e transigir."
+      },
+      {
+        "letra": "D",
+        "texto": "Ainda quando se outorgue mandato por instrumento público, pode substabelecer-se mediante instrumento particular."
+      },
+      {
+        "letra": "E",
+        "texto": "Os atos praticados por quem não tenha mandato, ou o tenha sem poderes suficientes, são inexistentes em relação àquele em cujo nome foram praticados, salvo se este os ratificar."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2372074",
+    "metadata": "Ano: 2022 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Assinale a alternativa incorreta sobre o contrato de comissão.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O comissário é obrigado a agir com cuidado e diligência, não só para evitar qualquer prejuízo ao comitente, mas também para lhe proporcionar o lucro que razoavelmente se podia esperar do negócio."
+      },
+      {
+        "letra": "B",
+        "texto": "O comissário fica diretamente obrigado para com as pessoas com quem contratar, sem que estas tenham ação contra o comitente, nem este contra elas, salvo se o comissário ceder seus direitos a qualquer das partes."
+      },
+      {
+        "letra": "C",
+        "texto": "Se dele constar cláusula del credere, responderá o comissário solidariamente com as pessoas com que houver tratado em nome do comitente."
+      },
+      {
+        "letra": "D",
+        "texto": "O comissário responde pela insolvência das pessoas com quem tratar."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2025395",
+    "metadata": "Ano: 2022 | Banca: FAU | Órgão: Prefeitura de Ponta Grossa - PR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Nos termos do Código Civil, é CORRETO afirmar que o mandato pode ser cessado:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pela mudança de estado que inabilite o mandante a conferir os poderes, ou o mandatário para os exercer"
+      },
+      {
+        "letra": "B",
+        "texto": "O mandato é sempre irrevogável."
+      },
+      {
+        "letra": "C",
+        "texto": "Pela conclusão do negócio, desde que estejam quitadas todas as obrigações financeiras."
+      },
+      {
+        "letra": "D",
+        "texto": "Se todos os herdeiros concordarem."
+      },
+      {
+        "letra": "E",
+        "texto": "Quando houver anuência da Ordem dos Advogados do Brasil."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1995386",
+    "metadata": "Ano: 2022 | Banca: IBFC | Órgão: TJ-MG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "W. precisa contratar um advogado para defender seus interesses em uma demanda sobre indenização por atos ilícitos. Sobre o mandato previsto no Código Civil, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a procuração deverá ser feita mediante instrumento público ou particular com duas testemunhas, que valerá desde que tenha a assinatura do outorgante"
+      },
+      {
+        "letra": "B",
+        "texto": "considerando que não houve assinatura de contrato de honorários com estipulação da retribuição, mas, apenas, outorga de procuração, presume-se gratuito o mandado"
+      },
+      {
+        "letra": "C",
+        "texto": "o instrumento particular deve conter a indicação do lugar onde foi passado, a qualificação do outorgante e do outorgado, a data e o objetivo da outorga com a designação e a extensão dos poderes conferidos"
+      },
+      {
+        "letra": "D",
+        "texto": "quando o mandato for feito por instrumento público, não pode substabelecer-se mediante instrumento particular"
+      },
+      {
+        "letra": "E",
+        "texto": "o mandatário não tem o direito de reter, do objeto da operação que lhe foi cometida, o valor necessário ao pagamento de tudo que lhe for devido em consequência do mandato"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1990595",
+    "metadata": "Ano: 2022 | Banca: FGV | Órgão: TRT - 16ª REGIÃO (MA)",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Antônio, empresário do setor de alimentos, em razão da necessidade de uma viagem, resolve celebrar um contrato de mandato com Maria, sua afilhada, de 17 anos de idade, a fim de que ela o represente em certas atividades negociais. O contrato de mandato é celebrado nos termos da legislação vigente, com a outorga de poderes gerais devidamente formalizada. Após a viagem de Antônio, Maria se apresenta, como mandatária de Antônio, em importante reunião com Túlio para a formalização da venda de quotas da sociedade empresária de Antônio. Túlio, não obstante a comprovação da sua qualidade de mandatária e da apresentação da outorga de poderes gerais, se recusa a negociar com ela. Ante a situação hipotética narrada, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Túlio agiu corretamente, pois nos termos da legislação vigente, Maria só poderia ser mandatária e representar Antônio se fosse emancipada."
+      },
+      {
+        "letra": "B",
+        "texto": "Túlio agiu corretamente, pois nos termos da legislação vigente, Maria só poderia ser mandatária e representar Antônio se fosse devidamente assistida por seu representante legal."
+      },
+      {
+        "letra": "C",
+        "texto": "Túlio agiu corretamente, pois nos termos da legislação vigente, em razão da sua menoridade, Maria só poderia ser mandatária e representar Antônio para a realização de atos de administração."
+      },
+      {
+        "letra": "D",
+        "texto": "Túlio agiu corretamente, pois nos termos da legislação vigente, em razão da outorga de poderes gerais, Maria só poderia ser mandatária e representar Antônio para a realização de atos de administração."
+      },
+      {
+        "letra": "E",
+        "texto": "Túlio agiu corretamente, pois nos termos da legislação vigente, Maria só poderia ser mandatária e representar Antônio para a realização do ato em questão, se tivesse poderes específicos e fosse emancipada."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1959536",
+    "metadata": "Ano: 2022 | Banca: TRF - 3ª REGIÃO | Órgão: TRF - 3ª REGIÃO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Assinale a assertiva CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O mandato é contrato de acordo com o qual uma pessoa capaz ou incapaz recebe de outrem poderes para, em seu nome, praticar atos ou administrar interesses."
+      },
+      {
+        "letra": "B",
+        "texto": "O mandato é o instrumento da procuração."
+      },
+      {
+        "letra": "C",
+        "texto": "O mandato pode se dar por instrumento particular e deve conter a indicação do lugar no qual foi passado, a qualificação do outorgante, a data e objetivo da outorga com a designação e a extensão dos poderes conferidos."
+      },
+      {
+        "letra": "D",
+        "texto": "O terceiro com quem o mandatário tratar não poderá exigir que a procuração traga a firma reconhecida, por ser formalidade que a lei não exige."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1922939",
+    "metadata": "Ano: 2022 | Banca: FEPESE | Órgão: CASAN-SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta de acordo com o Código Civil.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O mandato é forma de negócio bilateral e, para ter início a sua execução, deve ser expressamente aceito."
+      },
+      {
+        "letra": "B",
+        "texto": "SQUARE É facultado ao mandatário compensar os prejuízos a que deu causa com os proveitos que, por outro lado, tenha granjeado ao seu constituinte."
+      },
+      {
+        "letra": "C",
+        "texto": "É vedada a prática de qualquer ato pelo mandatário quando ciente da morte, interdição ou mudança de estado do mandante."
+      },
+      {
+        "letra": "D",
+        "texto": "As somas adiantadas pelo mandatário, para a execução do mandato, vencem juros desde a data do desembolso."
+      },
+      {
+        "letra": "E",
+        "texto": "Em contrato de mandato, é nula a cláusula de irrevogabilidade."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1911411",
+    "metadata": "Ano: 2022 | Banca: FGV | Órgão: SEFAZ-AM",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "João da Silva, solteiro, plenamente capaz, com o intuito de angariar parceiros comerciais para um novo empreendimento, celebrou contrato de mandato com Mário, solteiro, estudante de 17 anos, outorgando-o poderes para representá-lo na negociação e aquisição de insumos para a sua atividade empresária, junto aos potenciais fornecedores indicados pelo próprio João da Silva. A outorga de poderes foi formalizada por instrumento particular, contendo a indicação do lugar onde foi passado, a qualificação do outorgante e do outorgado, a data e o objetivo da outorga com a designação e a extensão dos poderes conferidos. Fato seguinte, Mário, em conformidade com os poderes a ele conferidos, celebra contrato de fornecimento de determinada mercadoria com a sociedade empresária ABC pelo prazo de 12 meses, informando, imediatamente ao mandante sobre o contrato celebrado. Diante da situação narrada, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O contrato de mandato celebrado entre João da Silva e Mário é inválido, pois Mário é relativamente incapaz."
+      },
+      {
+        "letra": "B",
+        "texto": "O contrato celebrado entre Mário e a sociedade empresária ABC é válido, porém só obrigará João da Silva se comprovado que Mário atuou com a assistência de seu representante legal."
+      },
+      {
+        "letra": "C",
+        "texto": "O contrato de mandato celebrado entre João da Silva e Mário é válido, porém o contrato celebrado entre Mário e a sociedade empresária ABC é inválido, visto a incapacidade relativa de Mário."
+      },
+      {
+        "letra": "D",
+        "texto": "O contrato de mandato celebrado entre João da Silva e Mário não foi aperfeiçoado, pois Mário nunca aceitou expressamente o mandato."
+      },
+      {
+        "letra": "E",
+        "texto": "O contrato celebrado entre Mário e a sociedade empresária ABC é válido e obriga João da Silva nos exatos termos dos poderes conferidos por ele à Mário."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1854254",
+    "metadata": "Ano: 2021 | Banca: VUNESP | Órgão: TJ-GO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "No que se refere aos contratos empresariais, sobre os contratos de colaboração, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "são aplicáveis à comissão, no que couber, as regras sobre agência."
+      },
+      {
+        "letra": "B",
+        "texto": "o crédito do comissário, relativo a comissões e despesas feitas, goza de privilégio especial, no caso de falência do comitente."
+      },
+      {
+        "letra": "C",
+        "texto": "têm por objeto a aquisição ou a venda de bens pelo comissário, em nome do comitente."
+      },
+      {
+        "letra": "D",
+        "texto": "o comissário não responde pela insolvência das pessoas com quem tratar, exceto em caso de culpa ou se do contrato constar cláusula del credere."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1852653",
+    "metadata": "Ano: 2021 | Banca: FGV | Órgão: TJ-SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Isaías celebrou contrato de mandato com José, pelo qual deu procuração a este último, outorgando-lhe poderes especiais para a realização de atos extrajudiciais em seu nome. Entretanto, em razão da progressiva evolução da doença neurológica que o aflige, Isaías veio a ser interditado por um de seus filhos. Diante disso:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o mandato se extingue, e José não pode mais praticar qualquer ato em nome de Isaías;"
+      },
+      {
+        "letra": "B",
+        "texto": "o mandato se extingue, mas José ainda pode concluir negócios iniciados, se houver perigo na demora;"
+      },
+      {
+        "letra": "C",
+        "texto": "José mantém os poderes que lhe foram atribuídos, pois o mandato somente se extinguirá com a morte de Isaías, revogação ou renúncia;"
+      },
+      {
+        "letra": "D",
+        "texto": "os atos praticados por José no exercício do mandato podem ser anulados pelos herdeiros ou pelo curador de Isaías, se desviados de seu interesse e vontade presumíveis;"
+      },
+      {
+        "letra": "E",
+        "texto": "os atos praticados por José no exercício do mandato são eficazes quanto ao mandante, mas o mandatário pode ser responsabilizado se não atender às orientações do curador de Isaías."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1852553",
+    "metadata": "Ano: 2021 | Banca: FGV | Órgão: TJ-SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Em razão de contrato de mandato, Ernesto recebeu procuração de Fernando, firmada em instrumento público, para praticar atos administrativos em seu nome. Apesar da omissão da procuração sobre poderes para substabelecer, Ernesto substabeleceu para seu colega de escritório Guilherme, por instrumento particular. Os atos praticados por Guilherme no exercício dos poderes substabelecidos:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "só vinculam Fernando se ele ratificar expressamente todos os atos praticados por Guilherme;"
+      },
+      {
+        "letra": "B",
+        "texto": "vinculam Fernando, mas ele poderá responsabilizar Ernesto se Guilherme agir culposamente;"
+      },
+      {
+        "letra": "C",
+        "texto": "não vinculam Fernando, pois o substabelecimento também deveria ocorrer por instrumento público;"
+      },
+      {
+        "letra": "D",
+        "texto": "não vinculam Fernando, pois a procuração por ele outorgada não dava poderes para substabelecer;"
+      },
+      {
+        "letra": "E",
+        "texto": "vinculam Fernando, e ele só poderá responsabilizar Ernesto se este agiu culposamente ao escolher Guilherme ou ao lhe dar instruções."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1845116",
+    "metadata": "Ano: 2021 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Assinale a alternativa incorreta sobre representação e contrato de mandato.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É válido o contrato consigo mesmo, se o permitir a lei ou o representado."
+      },
+      {
+        "letra": "B",
+        "texto": "O mandato para venda exige poderes expressos (menção ao tipo negocial) e especiais (menção ao bem a ser alienado)."
+      },
+      {
+        "letra": "C",
+        "texto": "Quando o contrato de mandato contiver cláusula de irrevogabilidade não pode ser revogado pelo mandante, ainda que este responda por perdas e danos."
+      },
+      {
+        "letra": "D",
+        "texto": "A revogação provoca a extinção do mandato e deve ser notificada ao mandatário, mas não pode ser oposta a terceiros que, ignorando-a e de boa-fé, com ele contrataram."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1839529",
+    "metadata": "Ano: 2021 | Banca: MPE-RS | Órgão: MPE-RS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "No contexto de contrato de compra e venda de automóvel, José confere mandato a Pedro contendo a cláusula “em causa própria”. Acerca dos efeitos jurídicos da outorga deste mandato, assinale a alternativa que está de acordo com o Código Civil.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Eventual revogação do mandato será inválida."
+      },
+      {
+        "letra": "B",
+        "texto": "Eventual revogação do mandato será ineficaz."
+      },
+      {
+        "letra": "C",
+        "texto": "Pedro não estará dispensado de prestar contas a José."
+      },
+      {
+        "letra": "D",
+        "texto": "Pedro estará dispensado de prestar contas a José, mas o mandato se extinguirá se uma das partes vier a falecer."
+      },
+      {
+        "letra": "E",
+        "texto": "Eventual revogação do mandato será eficaz, desde que Pedro seja comunicado com antecedência razoável em face das circunstâncias do negócio."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1779566",
+    "metadata": "Ano: 2021 | Banca: VUNESP | Órgão: Prefeitura de Jundiaí - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "O contrato de comissão é um contrato empresarial que tem por objeto a aquisição ou a venda de bens pelo comissário. Assinale a alternativa correta quanto a esse negócio jurídico.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Salvo motivo de força maior, o comissário responderá por qualquer prejuízo que ocasionar ao comitente, seja decorrente de ação ou até mesmo de omissão."
+      },
+      {
+        "letra": "B",
+        "texto": "O comissário responde pela insolvência das pessoas com quem tratar, exclusivamente se do contrato de comissão constar a cláusula del credere."
+      },
+      {
+        "letra": "C",
+        "texto": "O comissário responderá subsidiariamente pelas pessoas com quem houver tratado, em nome do comitente."
+      },
+      {
+        "letra": "D",
+        "texto": "O comissário fica diretamente obrigado para com as pessoas com quem contratar, salvo se agir em estrita conformidade com as ordens e instruções do comitente."
+      },
+      {
+        "letra": "E",
+        "texto": "O crédito do comissário, relativo a comissões e despesas feitas, goza de privilégio especial, no caso de falência."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1766077",
+    "metadata": "Ano: 2021 | Banca: SELECON | Órgão: EMGEPRON",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "De acordo com o Código Civil em vigor, a espécie de contrato no qual a procuração é instrumento corresponde:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "à fiança"
+      },
+      {
+        "letra": "B",
+        "texto": "ao seguro"
+      },
+      {
+        "letra": "C",
+        "texto": "ao mandato"
+      },
+      {
+        "letra": "D",
+        "texto": "ao seguro-garantia"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1744204",
+    "metadata": "Ano: 2021 | Banca: IESES | Órgão: MSGás",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição",
+      "Corretagem, Transporte, Seguro, Constituição de Renda, Jogo e Aposta e Fiança"
+    ],
+    "enunciado_principal": "A respeito dos contratos em espécie previstos no Código Civil, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sendo dois ou mais os mandatários nomeados no mesmo instrumento, qualquer deles poderá exercer os poderes outorgados, se não forem expressamente declarados conjuntos, nem especificamente designados para atos diferentes, ou subordinados a atos sucessivos. Se os mandatários forem declarados conjuntos, não terá eficácia o ato praticado sem interferência de todos, salvo havendo ratificação, que retroagirá à data do ato."
+      },
+      {
+        "letra": "B",
+        "texto": "No contato de mandato, se forem nomeados dois ou mais mandatários no mesmo instrumento sem estarem expressamente declarados como conjuntos, nem especificamente designados para atos diferentes, não terá eficácia o ato praticado sem interferência de todos, salvo havendo ratificação."
+      },
+      {
+        "letra": "C",
+        "texto": "A fiança conjuntamente prestada a um só débito por mais de uma pessoa importa o compromisso de solidariedade entre elas, se declaradamente não se reservarem o benefício de divisão."
+      },
+      {
+        "letra": "D",
+        "texto": "O depósito voluntário pode ser escrito ou verbal."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1714751",
+    "metadata": "Ano: 2021 | Banca: CESPE / CEBRASPE | Órgão: TC-DF",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "A respeito de bens, de negócios jurídicos, de obrigações, e de contratos regulados no Código Civil, julgue o item subsequente. No contrato de distribuição, a remuneração do distribuidor somente será devida se realizada dentro de sua zona e com a sua intervenção.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1699499",
+    "metadata": "Ano: 2021 | Banca: CESPE / CEBRASPE | Órgão: TC-DF",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Considere que Pedro tenha sido designado mandatário em um contrato regulado pelo Código Civil e que, nesse contrato, haja uma cláusula segundo a qual Pedro assume a obrigação de não renunciar ao mandato. Nessa situação, a cláusula que define a obrigação de não renunciar ao mandato é nula.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1616111",
+    "metadata": "Ano: 2020 | Banca: VUNESP | Órgão: Prefeitura de Morro Agudo - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "O mandato é um contrato por meio do qual alguém recebe de outrem poderes para, em seu nome, praticar atos ou administrar interesses. A seu respeito, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o mandato poderá ser outorgado por instrumento público ou particular, mas o substabelecimento será feito necessariamente mediante instrumento público."
+      },
+      {
+        "letra": "B",
+        "texto": "a outorga do mandato está sujeita à forma exigida por lei para o ato a ser praticado, não se admitindo, em nenhuma hipótese, o mandato verbal."
+      },
+      {
+        "letra": "C",
+        "texto": "é necessária outorga de poderes especiais e expressos para se alienar, transigir ou praticar outros atos que exorbitem da administração ordinária."
+      },
+      {
+        "letra": "D",
+        "texto": "os atos praticados por quem não tenha mandato, ou o tenha sem poderes suficientes, são nulos em relação àquele em cujo nome foram praticados."
+      },
+      {
+        "letra": "E",
+        "texto": "o maior de dezesseis e menor de dezoito anos não emancipado não pode ser mandatário."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1134413",
+    "metadata": "Ano: 2020 | Banca: FGV | Órgão: TJ-RS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Vitor foi contratado para representar o senhor Gervásio na realização de determinados atos jurídicos que lhe reverteriam benefício patrimonial. No curso da atuação, entretanto, Vitor toma ciência de que Gervásio veio a falecer. Diante disso, o mandato:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "se extingue, e Vitor não deve mais atuar;"
+      },
+      {
+        "letra": "B",
+        "texto": "se extingue, mas Vitor deve concluir os atos já começados, se houver perigo na demora;"
+      },
+      {
+        "letra": "C",
+        "texto": "se mantém até a abertura de inventário, e Vitor deve continuar atuando;"
+      },
+      {
+        "letra": "D",
+        "texto": "se mantém, mas os atos de Vitor deverão ser ratificados pelo inventariante;"
+      },
+      {
+        "letra": "E",
+        "texto": "se mantém até que Vitor termine todos os atos de que foi incumbido, não podendo o inventariante revogar seus poderes."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1622395",
+    "metadata": "Ano: 2019 | Banca: VUNESP | Órgão: Prefeitura de Dois Córregos - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "A respeito do contrato de mandato, é correto afirmar, com base na legislação brasileira, que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o procurador é o instrumento do mandato."
+      },
+      {
+        "letra": "B",
+        "texto": "ainda quando se outorgue mandato por instrumento público, pode substabelecer-se mediante instrumento particular."
+      },
+      {
+        "letra": "C",
+        "texto": "o mandato deve ser sempre expresso e escrito."
+      },
+      {
+        "letra": "D",
+        "texto": "os atos praticados por quem não tenha mandato são ineficazes, não podendo ser ratificados."
+      },
+      {
+        "letra": "E",
+        "texto": "se a proibição de substabelecer constar da procuração, os atos praticados pelo substabelecido obrigam o mandante e o sub-mandante."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1045510",
+    "metadata": "Ano: 2019 | Banca: VUNESP | Órgão: Prefeitura de Campinas - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Acerca do mandato, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "se admite mandato verbal, mesmo nos casos em que o ato a ser celebrado pelo mandatário deva ser escrito."
+      },
+      {
+        "letra": "B",
+        "texto": "o maior de dezesseis e menor de dezoito anos não emancipado pode ser mandatário."
+      },
+      {
+        "letra": "C",
+        "texto": "a aceitação do mandato deve ser expressa e não se presume pelo começo de execução."
+      },
+      {
+        "letra": "D",
+        "texto": "o mandato, em termos gerais, confere poderes de transigir, mas não de alienar."
+      },
+      {
+        "letra": "E",
+        "texto": "se outorgado mandato por instrumento público, é vedado o substabelecimento por instrumento particular."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1042298",
+    "metadata": "Ano: 2019 | Banca: FCC | Órgão: TJ-MA",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Relativamente ao mandato, considere: I. Todas as pessoas capazes são aptas para dar procuração mediante instrumento particular, que valerá desde que tenha a assinatura do outorgante. II. O mandato deve ser expresso. III. O mandato em termos gerais só confere poderes de administração e para transigir. IV. O mandatário pode compensar os prejuízos a que deu causa com os proveitos que, por outro lado, tenha granjeado ao seu constituinte. V. O maior de dezesseis e menor de dezoito anos não emancipado pode ser mandatário, mas o mandante não tem ação contra ele senão de conformidade com as regras gerais, aplicáveis às obrigações contraídas por menores. Está correto o que consta APENAS em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "II, III e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "I, III e V."
+      },
+      {
+        "letra": "C",
+        "texto": "III, IV e V."
+      },
+      {
+        "letra": "D",
+        "texto": "II e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "I e V."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1013530",
+    "metadata": "Ano: 2019 | Banca: FCC | Órgão: TRF - 4ª REGIÃO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Por meio de escritura pública, André outorgou a Beatriz mandato para que, em seu nome, ela pudesse celebrar contratos. A escritura foi omissa quanto à possibilidade de substabelecer (não a autorizava, nem a vedava expressamente). Ainda assim, por meio de instrumento particular, Beatriz substabeleceu os poderes que a ela tinham sido outorgados a Carlos, que praticou atos em nome de André. Nesse caso,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o substabelecimento é inválido, pois exigia, necessariamente, a mesma forma do mandato (instrumento público); além disso, Beatriz responderá, perante André, pelos atos praticados por Carlos, independentemente de culpa deste."
+      },
+      {
+        "letra": "B",
+        "texto": "o substabelecimento é inválido, pois a possibilidade de substabelecer não foi prevista na escritura pública de mandato; além disso, Beatriz responderá, perante André, por eventuais atos culposos praticados por Carlos."
+      },
+      {
+        "letra": "C",
+        "texto": "o substabelecimento é válido, sendo que Beatriz responderá, perante André, por eventuais atos culposos praticados por Carlos."
+      },
+      {
+        "letra": "D",
+        "texto": "o substabelecimento é válido, sendo que Beatriz não responderá, perante André, por eventuais atos culposos praticados por Carlos."
+      },
+      {
+        "letra": "E",
+        "texto": "o substabelecimento é válido, sendo que Beatriz responderá, perante André, pelos atos praticados por Carlos, independentemente de culpa deste."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1008828",
+    "metadata": "Ano: 2019 | Banca: Instituto Consulplan | Órgão: MPE-SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Nos termos do Código Civil é considerado nulo o mandato em causa própria, quando o mandatário realiza o negócio consigo mesmo.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "998858",
+    "metadata": "Ano: 2019 | Banca: IESES | Órgão: TJ-SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Através do contrato de mandato, uma pessoa atribui poderes a outra para que, em seu nome, sejam praticados atos ou administrados interesses. Dentre os requisitos e peculiaridades do contrato, destacam-se:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na hipótese de poderes outorgados conjuntamente há mais de um mandatário, o ato praticado sem interferência de todos não terá eficácia, a menos que haja posterior ratificação."
+      },
+      {
+        "letra": "B",
+        "texto": "Quando os poderes ao mandatário forem outorgados por instrumento público, o substabelecimento também deverá ser por instrumento público."
+      },
+      {
+        "letra": "C",
+        "texto": "A pluralidade de mandantes outorgando poderes para a realização de negócio que lhes é comum, não implicará solidariedade entre eles perante o mandatário, em relação aos compromissos e efeitos do mandato."
+      },
+      {
+        "letra": "D",
+        "texto": "A aceitação do mandato sempre será expressa."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "998847",
+    "metadata": "Ano: 2019 | Banca: IESES | Órgão: TJ-SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Relativamente ao contrato de mandato: I. O mandato presume-se gratuito quando não houver sido estipulada retribuição, exceto se o seu objeto corresponder ao daqueles que o mandatário trata por ofício ou profissão lucrativa. II. O mandatário deve aplicar toda a sua diligência habitual. III. São inválidos, a respeito dos contratantes de boa-fé, os atos com estes ajustados em nome do mandante pelo mandatário, enquanto este ignorar a morte daquele ou a extinção do mandato, por qualquer outra causa. Considerando as afirmativas acima, aponte a alternativa que corresponda à afirmativa FALSA ou às afirmativas FALSAS:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "III."
+      },
+      {
+        "letra": "B",
+        "texto": "I e III."
+      },
+      {
+        "letra": "C",
+        "texto": "I e II."
+      },
+      {
+        "letra": "D",
+        "texto": "II e III."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "990192",
+    "metadata": "Ano: 2019 | Banca: Instituto Consulplan | Órgão: TJ-CE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Opera-se o mandato quando alguém recebe de outrem poderes para, em seu nome, praticar atos ou administrar interesses. Nos termos do Código Civil brasileiro, quanto ao mandato, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O mandatário deve ser maior de dezoito anos de idade."
+      },
+      {
+        "letra": "B",
+        "texto": "O poder de transigir pressupõe o de firmar compromisso."
+      },
+      {
+        "letra": "C",
+        "texto": "O mandato pode ser expresso ou tácito, verbal ou escrito."
+      },
+      {
+        "letra": "D",
+        "texto": "O mandato, em termos gerais, só confere poderes de alienação."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "987790",
+    "metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Paulo outorgou poderes, por meio de procuração feita por escritura pública, a Marcos, para ser por este representado na venda a terceiros de seu imóvel, que vale cem salários mínimos. Nesse caso, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a descrição do bem a ser alienado deverá constar da lavratura da procuração."
+      },
+      {
+        "letra": "B",
+        "texto": "a outorga do poder de alienar o bem imóvel abrange o poder de hipotecá-lo."
+      },
+      {
+        "letra": "C",
+        "texto": "a referida procuração teria a mesma validade caso fosse celebrada por instrumento particular."
+      },
+      {
+        "letra": "D",
+        "texto": "a natureza da espécie contratual impede que Paulo vede o substabelecimento."
+      },
+      {
+        "letra": "E",
+        "texto": "caso o imóvel seja vendido por valor superior ao esperado por Paulo, Marcos poderá reter a diferença."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "987737",
+    "metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição",
+      "Troca ou Permuta, Contrato Estimatório e Doação",
+      "Corretagem, Transporte, Seguro, Constituição de Renda, Jogo e Aposta e Fiança"
+    ],
+    "enunciado_principal": "Helena obrigou-se, a título gratuito, mediante contrato que exige escritura pública para ter validade, ao pagamento, pelo período determinado de um ano, de uma prestação mensal a Ana. A respeito dessa situação hipotética, assinale a opção que apresenta a denominação do contrato celebrado entre Helena e Ana.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "contrato de constituição de renda"
+      },
+      {
+        "letra": "B",
+        "texto": "contrato de agência e distribuição"
+      },
+      {
+        "letra": "C",
+        "texto": "contrato de depósito necessário"
+      },
+      {
+        "letra": "D",
+        "texto": "contrato de doação"
+      },
+      {
+        "letra": "E",
+        "texto": "contrato estimatório"
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "983972",
+    "metadata": "Ano: 2019 | Banca: FGV | Órgão: DPE-RJ",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Por meio de instrumento particular, Ruth prometeu vender a Juliana imóvel no valor total de R$ 120.000,00 (cento e vinte mil reais). Ajustaram, ainda, que o respectivo instrumento público de compra e venda seria assinado após o pagamento total do preço. Com o recebimento integral do valor ajustado, Ruth, que estava prestes a mudar de cidade, outorga, por instrumento público, poderes para Juliana representá-la, em causa própria, na compra e venda definitiva. Contudo, minutos após entregar o instrumento de procuração a Juliana, Ruth falece em acidente automobilístico. Diante dessa situação, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a compra e venda não pode ser celebrada, ante a invalidade da promessa anterior, que não observou a forma pública;"
+      },
+      {
+        "letra": "B",
+        "texto": "os negócios jurídicos são válidos e eficazes, e Juliana poderá subscrever o instrumento definitivo, representando Ruth;"
+      },
+      {
+        "letra": "C",
+        "texto": "a procuração assinada por Ruth tornou-se ineficaz com o seu falecimento;"
+      },
+      {
+        "letra": "D",
+        "texto": "caso Juliana subscreva a escritura de compra e venda, os herdeiros de Ruth poderão buscar a sua anulabilidade;"
+      },
+      {
+        "letra": "E",
+        "texto": "os poderes conferidos a Juliana são inexistentes, pois o direito brasileiro não admite o denominado “autocontrato”."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "965411",
+    "metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: SEFAZ-RS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Antônio outorgou, por procuração, um mandato para realizar negócios jurídicos de interesse do outorgante, Luciano. Um desses negócios jurídicos deveria ser realizado com a maior brevidade para evitar demora que pudesse gerar perigo. No entanto, pendente de conclusão do negócio jurídico a ele cometido, Luciano faleceu. Nesse caso, de acordo com os dispositivos do Código Civil, os herdeiros de Luciano deverão",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "renunciar ao mandato imediatamente, informando Antônio sobre esse ato."
+      },
+      {
+        "letra": "B",
+        "texto": "revogar o mandato imediatamente, informando Antônio sobre esse ato."
+      },
+      {
+        "letra": "C",
+        "texto": "substabelecer o mandato imediatamente."
+      },
+      {
+        "letra": "D",
+        "texto": "praticar somente medidas conservatórias ou continuar o negócio jurídico pendente por sua urgência."
+      },
+      {
+        "letra": "E",
+        "texto": "substituí-lo até que se executem todas as obrigações advindas da procuração."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2748188",
+    "metadata": "Ano: 2018 | Banca: Instituto Águia | Órgão: CEAGESP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Quando alguém recebe de outrem poderes para, em seu nome, praticar atos ou administrar interesses, opera-se:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Mandado."
+      },
+      {
+        "letra": "B",
+        "texto": "Representação comercial."
+      },
+      {
+        "letra": "C",
+        "texto": "Mandato."
+      },
+      {
+        "letra": "D",
+        "texto": "Representação civil."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2031229",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: Prefeitura de Pereira Barreto - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "O conceito de mandato pode ser encontrado no artigo 653 do vigente Código Civil: “Opera-se o mandato quando alguém recebe de outrem poderes para, em seu nome, praticar atos ou administrar interesses. A procuração é o instrumento do mandato”. Assim, através do mandato, uma pessoa, chamada mandatário, recebe poderes de outra, chamada mandante, para, em nome desta última, praticar atos ou administrar interesses. Diante deste enunciado, em relação ao mandato, pode-se afirmar corretamente:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a outorga do mandato está sujeita à forma exigida por lei para o ato a ser praticado. Admite-se, porém, o mandato verbal ainda quando o ato deva ser celebrado por escrito."
+      },
+      {
+        "letra": "B",
+        "texto": "o mandato não admite aceitação tácita, devendo ser escrito para obrigar o mandante em relação aos atos praticados com aquele a quem o mandatário contratou."
+      },
+      {
+        "letra": "C",
+        "texto": "para alienar, hipotecar, transigir, ou praticar outros quaisquer atos que exorbitem da administração ordinária, o mandato deve conferir poderes em termos gerais."
+      },
+      {
+        "letra": "D",
+        "texto": "o maior de dezesseis e menor de dezoito anos não emancipado pode ser mandatário, devendo aplicar toda sua diligência à execução do mandato, e a indenizar qualquer prejuízo causado por culpa sua, salvo se for descendente do mandante, quando não terá lugar a indenização."
+      },
+      {
+        "letra": "E",
+        "texto": "sempre que o mandatário estipular negócios expressamente em nome do mandante, será este o único responsável; ficará, porém, o mandatário pessoalmente obrigado, se agir no seu próprio nome, ainda que o negócio seja de conta do mandante."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1045955",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: Prefeitura de Guararapes - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "A respeito do mandato, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Se o mandato for outorgado por instrumento público, o substabelecimento deve ser feito pela mesma forma."
+      },
+      {
+        "letra": "B",
+        "texto": "O mandato pode ser expresso ou tácito, verbal ou escrito."
+      },
+      {
+        "letra": "C",
+        "texto": "Admite-se mandato verbal, mesmo quando o ato deva ser celebrado por escrito."
+      },
+      {
+        "letra": "D",
+        "texto": "A aceitação do mandato deve ser expressa."
+      },
+      {
+        "letra": "E",
+        "texto": "O mandato em termos gerais confere poderes para alienar, hipotecar e transigir."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1009715",
+    "metadata": "Ano: 2018 | Banca: FADESP | Órgão: Câmara Municipal de Abaetetuba - PA",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Pessoa Jurídica",
+      "Prescrição e Decadência",
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição",
+      "Parte Geral"
+    ],
+    "enunciado_principal": "É correto afirmar o seguinte:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pelo contrato de depósito, recebe o depositário um objeto móvel, para guardar, até que o depositante o reclame. O depósito necessário, por sua vez, se perfaz apenas em razão do desempenho de obrigação legal."
+      },
+      {
+        "letra": "B",
+        "texto": "a companhia ou sociedade anônima terá o capital dividido em ações, e a responsabilidade dos sócios ou acionistas será limitada ao preço de emissão das ações subscritas ou adquiridas. Pode ser objeto da companhia qualquer empresa sem fim lucrativo, desde que não contrário à lei, à ordem pública e aos bons costumes. Este objeto deve ser mercantil e reger-se-á por leis e usos do comércio."
+      },
+      {
+        "letra": "C",
+        "texto": "em caso de abuso da personalidade jurídica, caracterizado pelo desvio de finalidade ou pela confusão patrimonial, pode o juiz decidir só a pedido formulado pela parte que os efeitos de certas e determinadas relações de obrigações sejam estendidos aos bens particulares dos sócios da pessoa jurídica."
+      },
+      {
+        "letra": "D",
+        "texto": "de acordo com o Código Civil, prescreve em cinco anos a pretensão de cobrança de dívidas líquidas constantes de instrumento público ou particular."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "950355",
+    "metadata": "Ano: 2018 | Banca: FCC | Órgão: MPE-PE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Acerca do contrato de depósito, considere: I. O depósito de coisas infungíveis regula-se pelo disposto acerca do mútuo. II. É depósito voluntário o que se efetua por ocasião de alguma calamidade, como o incêndio, a inundação, o naufrágio ou o saque. III. O depósito necessário não se presume gratuito. IV. O depositário não se escusa da responsabilidade nos casos de força maior, comprove-os ou não. V. Os hospedeiros responderão como depositários, assim como pelos furtos e roubos que perpetrarem as pessoas empregadas ou admitidas nos seus estabelecimentos. Está correto o que se afirma APENAS em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II."
+      },
+      {
+        "letra": "B",
+        "texto": "III e V."
+      },
+      {
+        "letra": "C",
+        "texto": "II e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "I e III."
+      },
+      {
+        "letra": "E",
+        "texto": "IV e V."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "949985",
+    "metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: TCE-MG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição",
+      "Corretagem, Transporte, Seguro, Constituição de Renda, Jogo e Aposta e Fiança"
+    ],
+    "enunciado_principal": "Paulo assumiu a obrigação de, com autonomia, habitualidade e mediante remuneração, promover certos negócios jurídicos à conta de Pedro em zona determinada, sem ter a sua disposição o objeto da negociação. Nessa situação hipotética, de acordo com o Código Civil, configura-se contrato de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "agência."
+      },
+      {
+        "letra": "B",
+        "texto": "corretagem."
+      },
+      {
+        "letra": "C",
+        "texto": "comissão."
+      },
+      {
+        "letra": "D",
+        "texto": "mandato."
+      },
+      {
+        "letra": "E",
+        "texto": "distribuição."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "946822",
+    "metadata": "Ano: 2018 | Banca: UEM | Órgão: UEM",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição",
+      "Troca ou Permuta, Contrato Estimatório e Doação",
+      "Contratos em Geral",
+      "Noções e Princípios do Direito Contratual",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Marque a alternativa incorreta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A liberdade de contratar será exercida em razão e nos limites da função social do contrato. Os contratantes são obrigados a guardar, assim na conclusão do contrato, como em sua execução, os princípios de probidade e boa-fé."
+      },
+      {
+        "letra": "B",
+        "texto": "A coisa recebida em virtude de contrato comutativo pode ser enjeitada por vícios ou defeitos ocultos, que a tornem imprópria ao uso a que é destinada, ou lhe diminuam o valor"
+      },
+      {
+        "letra": "C",
+        "texto": "Considera-se doação o contrato em que uma pessoa, por liberalidade, transfere do seu patrimônio bens ou vantagens para o de outra. A doação em comum a mais de uma pessoa entende-se distribuída entre elas por igual, salvo declaração em contrário."
+      },
+      {
+        "letra": "D",
+        "texto": "Pelo contrato de depósito recebe o depositário um objeto imóvel, para guardar, até que o depositante o reclame."
+      },
+      {
+        "letra": "E",
+        "texto": "É depósito necessário: o que se faz em desempenho de obrigação legal; o que se efetua por ocasião de alguma calamidade, como o incêndio, a inundação, o naufrágio ou o saque."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "941545",
+    "metadata": "Ano: 2018 | Banca: CONSULPLAN | Órgão: TJ-MG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Em relação ao mandato, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Quando o mandato for outorgado por instrumento público, não se poderá substabelecer por instrumento particular."
+      },
+      {
+        "letra": "B",
+        "texto": "A morte do mandante não faz cessar imediatamente o mandato quando o negócio já houver começado e houver perigo na demora."
+      },
+      {
+        "letra": "C",
+        "texto": "O terceiro com quem o mandatário tratar os negócios do mandante não poderá exigir que a procuração traga a firma reconhecida."
+      },
+      {
+        "letra": "D",
+        "texto": "A conclusão do negócio atribuído ao mandatário não é causa determinante para a cessação do mandato, em razão da relação de imputação."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "926779",
+    "metadata": "Ano: 2018 | Banca: FGV | Órgão: AL-RO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Cláudia, 60 anos, decide deixar Porto Velho para residir próximo aos filhos, que se encontram em Brasília. Em Porto Velho, Cláudia possui imóveis, cujas locações lhe dão sustento. Ante a mudança de domicílio, Cláudia atribui a Jane, sua irmã, o poder de administração de seus interesses em Porto Velho (locação de imóveis), o que faz mediante instrumento particular. A partir desta situação, correto afirmar que Cláudia celebrou contrato de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "procuração;"
+      },
+      {
+        "letra": "B",
+        "texto": "corretagem;"
+      },
+      {
+        "letra": "C",
+        "texto": "comissão;"
+      },
+      {
+        "letra": "D",
+        "texto": "agência;"
+      },
+      {
+        "letra": "E",
+        "texto": "mandato."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "926035",
+    "metadata": "Ano: 2018 | Banca: FGV | Órgão: AL-RO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição",
+      "Compra e Venda",
+      "Corretagem, Transporte, Seguro, Constituição de Renda, Jogo e Aposta e Fiança"
+    ],
+    "enunciado_principal": "Com relação ao direito dos contratos, analise as afirmativas a seguir. I. O mandato conferido com a cláusula “em causa própria” é irrevogável e não se extingue pela morte do mandante nem do mandatário. II. É nula a venda de ascendente a descendente, salvo se os outros descendentes e o cônjuge do alienante expressamente houverem consentido. III. Ao transportador incumbe o ônus de provar a excludente do fato de terceiro com vistas a exonerar-se do dever de indenizar o passageiro que sofreu dano no trajeto. Está correto o que se afirma em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, somente."
+      },
+      {
+        "letra": "B",
+        "texto": "I e II, somente."
+      },
+      {
+        "letra": "C",
+        "texto": "I e III, somente."
+      },
+      {
+        "letra": "D",
+        "texto": "II e III, somente."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II e III."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "920312",
+    "metadata": "Ano: 2018 | Banca: FCC | Órgão: TRT - 15ª Região (SP)",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Em relação ao mandato,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a aceitação do mandato deve ser necessariamente expressa, para que se tenha segurança jurídica de sua outorga."
+      },
+      {
+        "letra": "B",
+        "texto": "presume-se oneroso quando não houver sido estipulada retribuição determinada, exceto se o seu objeto disser respeito a alguma atividade não lucrativa."
+      },
+      {
+        "letra": "C",
+        "texto": "pode ser expresso ou tácito, verbal ou escrito; sua outorga está sujeita à forma exigida por lei para o ato a ser praticado, não se admitindo mandato verbal quando o ato deva ser celebrado por escrito."
+      },
+      {
+        "letra": "D",
+        "texto": "em termos gerais só confere poderes de administração e para transigir ou hipotecar, mas não para alienar, o que dependerá de poderes especiais e expressos."
+      },
+      {
+        "letra": "E",
+        "texto": "os atos praticados por quem não tenha mandato, ou o tenha sem poderes suficientes, são nulos em relação àquele em cujo nome foram praticados, salvo se este os ratificar; a ratificação deve ser expressa e valerá de sua concretização em diante."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "917958",
+    "metadata": "Ano: 2018 | Banca: FCC | Órgão: TRT - 2ª REGIÃO (SP)",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Xisto, residente no Canadá, firma com Bruno contrato de mandato outorgando a este a necessária procuração para a administração de alguns negócios da família no Brasil. Outorgada a procuração ao mandatário, e concretizado o mandato, nos termos estabelecidos pelo Código Civil,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ciente o mandatário do falecimento de Xisto, ele não deve concluir o negócio já começado, ainda que haja perigo na demora."
+      },
+      {
+        "letra": "B",
+        "texto": "se Bruno exceder os poderes do mandato será considerado mero gestor de negócios, enquanto o mandante lhe não ratificar os atos."
+      },
+      {
+        "letra": "C",
+        "texto": "o mandatário não tem direito de retenção sobre coisa de que tenha a posse em virtude do mandato no caso de não pagamento, pelo mandante, daquilo que despendeu durante o desempenho do encargo."
+      },
+      {
+        "letra": "D",
+        "texto": "no caso de Bruno contrariar as instruções do mandante Xisto, sem extrapolar os limites do mandato, o mandante não ficará obrigado para com aqueles com quem o seu procurador contratou."
+      },
+      {
+        "letra": "E",
+        "texto": "o mandante é obrigado a pagar ao mandatário a remuneração ajustada e as despesas da execução do mandato, ainda que o negócio não surta o efeito esperado por culpa do mandatário."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "914155",
+    "metadata": "Ano: 2018 | Banca: FGV | Órgão: MPE-AL",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Por meio de mandato, a Cores Ltda. contratou os serviços de João Silva para aquisição, em nome da mandante, de galões de tinta da fabricante Pincel Ltda. Com o intuito de promover economia para Cores Ltda., João Silva procura Demão S/A, também fabricante de tintas, e com ela contrata a compra de galões de tinta a ele solicitados pela mandante. Considerando que Demão S/A tinha conhecimento da extensão do mandato, diz que o negócio da aquisição",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "produz efeitos em relação a Cores Ltda., pois João Silva obteve proveito econômico."
+      },
+      {
+        "letra": "B",
+        "texto": "obriga João Silva a cumprir com os deveres decorrentes da compra e venda."
+      },
+      {
+        "letra": "C",
+        "texto": "não produz efeitos em relação a Cores Ltda. e João Silva, pois Demão S/A assumiu o risco do negócio."
+      },
+      {
+        "letra": "D",
+        "texto": "é inexistente, visto que não houve emissão de vontade válida pelas partes."
+      },
+      {
+        "letra": "E",
+        "texto": "é ineficaz em relação a Demão S/A, ainda que Cores Ltda. venha a ratificá-lo."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "904785",
+    "metadata": "Ano: 2018 | Banca: TRF - 3ª REGIÃO | Órgão: TRF - 3ª REGIÃO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Em relação ao contrato de depósito voluntário, é CORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O depositário poderá deixar de restituir a coisa, dentre outras razões, se houver motivo razoável para suspeitar que a coisa foi dolosamente obtida pelo depositante."
+      },
+      {
+        "letra": "B",
+        "texto": "O depositário poderá furtar-se à restituição da coisa se houver fundamento para alegar compensação, mesmo que essa última não se funde em outro contrato de depósito."
+      },
+      {
+        "letra": "C",
+        "texto": "Sendo dois ou mais depositantes e divisível a coisa depositada, o depositário só entregará a cada um a respectiva parte, ainda que entre eles haja solidariedade."
+      },
+      {
+        "letra": "D",
+        "texto": "A prova da existência do contrato pode ser feita exclusivamente por testemunhas, independentemente do respectivo valor."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "904778",
+    "metadata": "Ano: 2018 | Banca: TRF - 3ª REGIÃO | Órgão: TRF - 3ª REGIÃO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Sobre o mandato, é CORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O substabelecimento deve observar a mesma forma pela qual foi outorgado o mandato."
+      },
+      {
+        "letra": "B",
+        "texto": "Sem prévia e expressa concordância do mandante, é vedado ao mandatário reter, do objeto da operação que lhe foi cometida, valor suficiente para remunerar o que for devido por força do mandato."
+      },
+      {
+        "letra": "C",
+        "texto": "Havendo valores líquidos, o mandatário pode compensar os prejuízos a que deu causa com os proveitos que, por outro lado, tenha granjeado ao seu constituinte."
+      },
+      {
+        "letra": "D",
+        "texto": "É possível estabelecer a irrevogabilidade do mandato quando ela for condição de um negócio bilateral ou quando tiver sido estipulada no exclusivo interesse do mandatário."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "904217",
+    "metadata": "Ano: 2018 | Banca: INSTITUTO AOCP | Órgão: TRT - 1ª REGIÃO (RJ)",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "William, maior e capaz, realizará com Denise um contrato de mandato, fornecendo ainda a esta uma procuração, sendo que ambos os documentos prestar-se-ão para que possa realizar a prática de todos os atos de sua vida civil, podendo representá-lo amplamente. Diante do exposto e de acordo com a legislação civil vigente, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Mesmo diante da inexistência de poderes expressos, poderá Denise realizar a prática de atos de alienação e hipoteca em relação aos bens de William, tendo-se em vista que o mandato e a procuração constam de forma ampla e genérica para a prática dos atos da vida civil."
+      },
+      {
+        "letra": "B",
+        "texto": "Caso seja o mandato oneroso e William não realize o pagamento da contraprestação à Denise, poderá esta reter objetos utilizados na realização dos serviços, o que poderá servir de pagamento daquilo que lhe é devido."
+      },
+      {
+        "letra": "C",
+        "texto": "Caso o contrato de mandato seja omisso em relação ao aspecto oneroso, poderá o contrato ser presumido como gratuito, exceto se o seu objeto corresponder ao daquele que o mandatário trata por ofício ou profissão lucrativa."
+      },
+      {
+        "letra": "D",
+        "texto": "Caso Denise pratique atos que excedam os limites de seu contrato, tais atos serão tratados como ineficazes em relação àquele em cujo nome foram praticados."
+      },
+      {
+        "letra": "E",
+        "texto": "Todas as pessoas capazes são aptas para dar procuração mediante instrumento particular, que valerá desde que tenha a assinatura do outorgante."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "896990",
+    "metadata": "Ano: 2018 | Banca: FEPESE | Órgão: CELESC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "É correto afirmar sobre o mandato:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Quando expresso no instrumento de procuração, o poder de transigir importa, também, o de firmar compromisso."
+      },
+      {
+        "letra": "B",
+        "texto": "O mandatário tem o direito de reter, do objeto da operação que lhe foi cometida, quanto baste para pagamento de tudo que lhe for devido em consequência do mandato."
+      },
+      {
+        "letra": "C",
+        "texto": "A revogação do mandato, notificada somente ao mandatário, extingue de plano os poderes conferidos e opera de pleno direito aos terceiros que com ele tratar."
+      },
+      {
+        "letra": "D",
+        "texto": "O mandato em termos gerais confere poderes para alienar, hipotecar, transigir, ou praticar outros quaisquer atos que não exorbitem da administração ordinária."
+      },
+      {
+        "letra": "E",
+        "texto": "Todas as pessoas capazes são aptas para dar procuração mediante instrumento particular, que valerá desde a manifestação formal da intenção."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "895171",
+    "metadata": "Ano: 2018 | Banca: IESES | Órgão: TJ-AM",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Sobre o contrato de mandato, responda as questões: I. O mandato pode ser conferido com clausula de irrevogabilidade. II. Conferido o mandato com a cláusula \"em causa própria\", a sua revogação não terá eficácia, nem se extinguirá pela morte de qualquer das partes, ficando o mandatário dispensado de prestar contas, e podendo transferir para si os bens móveis ou imóveis objeto do mandato, obedecidas as formalidades legais. III. Se o mandato for outorgado por duas ou mais pessoas, e para negócio comum, cada uma ficará solidariamente responsável ao mandatário por todos os compromissos e efeitos do mandato, salvo direito regressivo, pelas quantias que pagar, contra os outros mandantes. Assinale a correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas a assertiva II é verdadeira."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas as assertivas I e II são verdadeiras."
+      },
+      {
+        "letra": "C",
+        "texto": "Todas as assertivas são verdadeiras."
+      },
+      {
+        "letra": "D",
+        "texto": "Todas as assertivas são falsas."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "893720",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: Prefeitura de Bauru - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Mandato ocorre quando alguém recebe de outrem poderes para, em seu nome, praticar atos ou administrar interesses. A respeito do mandato, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O mandato, por ser um contrato, pode ser verbal ou escrito, mas não tácito."
+      },
+      {
+        "letra": "B",
+        "texto": "O mandato presume-se oneroso, devendo o próprio instrumento prever o valor e a forma de remuneração."
+      },
+      {
+        "letra": "C",
+        "texto": "O mandato pode ser outorgado por instrumento público ou particular. Em ambos os casos, pode substabelecer-se mediante instrumento particular."
+      },
+      {
+        "letra": "D",
+        "texto": "Os atos praticados por quem não tenha o mandato são ineficazes, não sendo possível a ratificação pelo mandante."
+      },
+      {
+        "letra": "E",
+        "texto": "A aceitação do mandato deve ser expressa e por escrito."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "872511",
+    "metadata": "Ano: 2018 | Banca: FGV | Órgão: Câmara de Salvador - BA",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "O agricultor Cardeal celebrou contrato de comissão com o empresário Elisio. No ajuste foi pactuada a cláusula Del Credere. Diante da presença dessa cláusula no contrato, o comissário:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "responderá perante o comitente pelo eventual inadimplemento das pessoas com quem tratar;"
+      },
+      {
+        "letra": "B",
+        "texto": "não responderá perante o comitente pelo eventual inadimplemento das pessoas com quem tratar;"
+      },
+      {
+        "letra": "C",
+        "texto": "responderá perante o comitente apenas pelo inadimplemento doloso das pessoas com quem tratar;"
+      },
+      {
+        "letra": "D",
+        "texto": "não responderá perante o comitente pelo eventual inadimplemento das pessoas com quem tratar, salvo motivo de força maior;"
+      },
+      {
+        "letra": "E",
+        "texto": "responderá perante o comitente, no limite do valor ajustado da comissão, pelo eventual inadimplemento das pessoas com quem tratar."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "871840",
+    "metadata": "Ano: 2018 | Banca: FCC | Órgão: PGE-TO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição"
+    ],
+    "enunciado_principal": "Em razão de fortes chuvas que ocasionaram inundação, os habitantes de certa área ribeirinha tiveram de depositar seus móveis e utensílios nos armazéns e galpões particulares que se situavam em lugares não atingidos pela calamidade. Esse depósito qualifica-se como",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "contrato inominado, por faltar disposição legal sobre ele, podendo ser gratuito ou oneroso."
+      },
+      {
+        "letra": "B",
+        "texto": "voluntário e se presume gratuito, exceto se houver convenção em contrário."
+      },
+      {
+        "letra": "C",
+        "texto": "necessário e se presume gratuito."
+      },
+      {
+        "letra": "D",
+        "texto": "legal e sujeita o depositário que se recusar a devolver os bens, cessados os efeitos da calamidade, à prisão e ao ressarcimento dos prejuízos."
+      },
+      {
+        "letra": "E",
+        "texto": "miserável, mas não se presume gratuito."
+      }
+    ],
+    "gabarito": "E"
+  }
+]

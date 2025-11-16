@@ -1,0 +1,2910 @@
+[
+  {
+    "id": "3627612",
+    "metadata": "Ano: 2025 | Banca: FCC | Órgão: TRT - 2ª REGIÃO (SP)",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Determinado contrato de prestação de serviços foi firmado por escrito contendo cláusula resolutiva expressa para o caso de inadimplemento. De acordo com o Código Civil, referida cláusula",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "só se opera depois de prévia interpelação judicial, mas não depende da concessão de prazo para purgação da mora."
+      },
+      {
+        "letra": "B",
+        "texto": "só se opera depois de prévia interpelação judicial e depende da concessão de prazo para purgação da mora."
+      },
+      {
+        "letra": "C",
+        "texto": "opera de pleno direito, mas depende de interpelação judicial prévia."
+      },
+      {
+        "letra": "D",
+        "texto": "opera de pleno direito, independentemente de interpelação judicial."
+      },
+      {
+        "letra": "E",
+        "texto": "opera de pleno direito, mas depende de interpelação judicial posterior."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3420706",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: SUSEP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Julgue o item subsequente, no que se refere às disposições obrigacionais e suas implicações. Cláusulas resolutivas referentes ao termo do contrato operam de pleno direito quando previstas expressamente ou de forma tácita.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3386995",
+    "metadata": "Ano: 2025 | Banca: FCC | Órgão: DPE-RS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Maria, trabalhadora autonoma e chefe de família de baixa renda, estava em processo de transição profissional para atuar como motorista de aplicativo. Celebrou com João um contrato de compra e venda de um veículo usado no valor de R$ 30.000,00, cujo pagamento foi parcelado em 48 prestações mensais de R$ 625,00, a serem corrigidas e atualizadas por índice específico. O credor ficaria responsável por efetivar a transferência registral do veículo após o adimplemento total da obrigação. No curso do cumprimento a adquirente efetuou regularmente o pagamento de 44 prestações, deixando de adimplir as remanescentes em razão de um problema grave na saúde de seu filho que a impediu de trabalhar por três meses. Nesse caso,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o adimplemento substancial se configura em razão da causa ou do motivo que ensejou a impossibilidade de Maria realizar o pagamento, independentemente do percentual já pago da dívida."
+      },
+      {
+        "letra": "B",
+        "texto": "a configuração do adimplemento substancial da obrigação impede que João pleiteie indenização por perdas e danos no tocante à parte não cumprida do vínculo contratual."
+      },
+      {
+        "letra": "C",
+        "texto": "não se configura adimplemento substancial da obrigação porque, embora inexistente conduta de má-fé de Maria, o fato que ensejou o inadimplemento tem natureza subjetiva e é externo à relação contratual firmada pelas partes."
+      },
+      {
+        "letra": "D",
+        "texto": "a configuração do adimplemento substancial da obrigação impede não apenas a resolução do contrato por Joao, mas também a oposição da exceção do contrato não cumprido por parte do credor."
+      },
+      {
+        "letra": "E",
+        "texto": "não se admite a aplicação do adimplemento substancial por se tratar de contrato de alienação regulado pelo direito civil, em que é afastado o exame da excepcionalidade e da proporcionalidade em razão do direito do credor em não ser obrigado a receber prestação diversa da devida, mesmo na obrigação que tenha como objetivo prestação divisível."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3292308",
+    "metadata": "Ano: 2025 | Banca: FAFIPA | Órgão: Prefeitura de Araucária - PR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Duas empresas privadas celebraram um contrato de compra e venda de materiais de limpeza, com prazo de entrega diferido para três meses. Durante a execução do contrato, a empresa vendedora alegou que, devido a uma alta imprevisível e extraordinária nos custos dos insumos, o cumprimento das obrigações tornou-se excessivamente oneroso. Diante desse cenário e considerando as disposições do Código Civil (Lei Federal nº 10.406/2002) sobre contratos, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A onerosidade excessiva só pode ser alegada em contratos de execução continuada ou diferida, conforme previsto no Código Civil."
+      },
+      {
+        "letra": "B",
+        "texto": "A resolução do contrato por onerosidade excessiva tem efeitos retroativos à data da citação judicial, conforme estabelecido no Código Civil."
+      },
+      {
+        "letra": "C",
+        "texto": "A empresa compradora, ao ser notificada sobre o pedido de resolução, pode propor uma modificação equitativa das condições do contrato para evitar a sua extinção."
+      },
+      {
+        "letra": "D",
+        "texto": "A empresa vendedora pode requerer a resolução do contrato, desde que comprove que a alta nos custos foi resultado de eventos extraordinários e imprevisíveis, e que o desequilíbrio contratual é significativo."
+      },
+      {
+        "letra": "E",
+        "texto": "Mesmo em casos de onerosidade excessiva devidamente comprovada, o Código Civil não autoriza a resolução do contrato, sendo obrigatória a continuidade de sua execução nos termos pactuados."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3278811",
+    "metadata": "Ano: 2025 | Banca: IBADE | Órgão: UNIVESP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Com relação a extinção dos contratos, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A parte lesada pelo inadimplemento pode pedir a resolução do contrato, se não preferir exigir-lhe o cumprimento, não cabendo, nesse último caso, indenização por perdas e danos."
+      },
+      {
+        "letra": "B",
+        "texto": "A extinção do contrato decorrente de cláusula resolutiva expressa e depende de interpelação judicial para que opere seus efeitos."
+      },
+      {
+        "letra": "C",
+        "texto": "Nos contratos de execução instantânea, se a prestação de uma das partes se tornar excessivamente onerosa, com extrema vantagem para a outra, em virtude de acontecimentos extraordinários e imprevisíveis, poderá o devedor pedir a resolução do contrato."
+      },
+      {
+        "letra": "D",
+        "texto": "A resilição unilateral, nos casos em que a lei expressa ou implicitamente o permita, opera mediante denúncia notificada à outra parte."
+      },
+      {
+        "letra": "E",
+        "texto": "Nos contratos bilaterais, o credor pode exigir o cumprimento da obrigação pela outra parte, antes mesmo de cumprida a sua obrigação."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3221707",
+    "metadata": "Ano: 2025 | Banca: FAU | Órgão: Prefeitura de Toledo - PR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Considerando as disposições do Código Civil Brasileiro a respeito da extinção dos contratos, analise as assertivas a seguir e assinale a opção INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A parte lesada pelo inadimplemento pode pedir a resolução do contrato, se não preferir exigir-lhe o cumprimento, cabendo, em qualquer dos casos, indenização por perdas e danos."
+      },
+      {
+        "letra": "B",
+        "texto": "A cláusula resolutiva, expressa ou tácita, opera de pleno direito."
+      },
+      {
+        "letra": "C",
+        "texto": "Nos contratos de execução continuada ou diferida, se a prestação de uma das partes se tornar excessivamente onerosa, com extrema vantagem para a outra, em virtude de acontecimentos extraordinários e imprevisíveis, poderá o devedor pedir a resolução do contrato."
+      },
+      {
+        "letra": "D",
+        "texto": "A resolução por onerosidade excessiva poderá ser evitada, oferecendo-se o réu a modificar equitativamente as condições do contrato."
+      },
+      {
+        "letra": "E",
+        "texto": "Em virtude da exceção do contrato não cumprido, nos contratos bilaterais, nenhum dos contratantes, antes de cumprida a sua obrigação, pode exigir o implemento da do outro."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3208077",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: FUNPRESP-EXE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Noções e Princípios do Direito Contratual",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "À luz do Código Civil, da doutrina civilista e da jurisprudência do STJ, julgue o item a seguir, relativo ao direito contratual. Uma pandemia como a de covid-19 representa, em tese, evento imprevisível e extraordinário capaz de justificar revisão contratual com base na teoria da imprevisão, desde que atendidos os demais requisitos previstos em lei.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3153654",
+    "metadata": "Ano: 2025 | Banca: IDHTEC | Órgão: Câmara de Vertentes - PE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Sobre a extinção dos contratos é incorreto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A resilição unilateral, nos casos em que a lei expressa ou implicitamente o permita, opera mediante denúncia notificada à outra parte."
+      },
+      {
+        "letra": "B",
+        "texto": "A parte lesada pelo inadimplemento pode pedir a resolução do contrato, se não preferir exigir-lhe o cumprimento, não cabendo, neste último caso, indenização por perdas e danos."
+      },
+      {
+        "letra": "C",
+        "texto": "Nos contratos bilaterais, nenhum dos contratantes, antes de cumprida a sua obrigação, pode exigir o implemento da do outro."
+      },
+      {
+        "letra": "D",
+        "texto": "No caso de resolução do contrato por onerosidade excessiva, a resolução poderá ser evitada, se o réu se oferecer a modificar equitativamente as condições do contrato."
+      },
+      {
+        "letra": "E",
+        "texto": "A cláusula resolutiva expressa opera de pleno direito; a tácita depende de interpelação judicial."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3153473",
+    "metadata": "Ano: 2025 | Banca: VUNESP | Órgão: TJ-RJ",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Foi celebrado, entre Tício e Mévio, compromisso de compra e venda de bem imóvel. Tício se obrigou a pagar a Mévio 60 (sessenta) parcelas de R$ 1.000,00 (mil reais) mensais para aquisição do imóvel localizado na Rua X, n° Y. O compromisso de compra e venda previu que o inadimplemento de 3 (três) parcelas consecutivas resultaria na resolução do vínculo contratual, bem como na incidência da cláusula penal fixada em montante único de R$ 3.000,00 (três mil reais). Após 12 (doze) meses da assinatura do compromisso de compra e venda, Tício deixou de pagar a prestação convencionada por mais de três meses. Mévio notificou Tício informando-o de que i) o contrato estava resolvido; ii) poderia Tício levantar os valores pagos, com desconto do valor de R$ 3.000,00 (três mil reais), a título de cláusula penal, bem como com o desconto do valor de R$ 3.600,00 (três mil e seiscentos reais), equivalentes ao valor de R$ 300,00 (trezentos reais), valor locatício do imóvel, a título de indenização pelo tempo de fruição do imóvel. Acerca do caso hipotético, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a indenização relativa ao tempo de fruição do imóvel não guarda relação direta com a rescisão contratual, mas com os benefícios que Tício auferiu pelo uso do bem, razão pela qual não foi incluída no cálculo prévio que prefixou as perdas e os danos na cláusula penal compensatória."
+      },
+      {
+        "letra": "B",
+        "texto": "a cláusula penal fixada em R$ 3.000,00 (três mil reais) tem natureza compensatória e afasta qualquer tipo de indenização complementar, razão pela qual não é devido o valor de R$ 3.600,00 (três mil e seiscentos reais), relativo ao tempo de fruição do imóvel."
+      },
+      {
+        "letra": "C",
+        "texto": "a cláusula penal fixada em R$ 3.000,00 (três mil reais) tem natureza moratória e afasta qualquer tipo de indenização complementar, razão pela qual não é devido o valor de R$ 3.600,00 (três mil e seiscentos reais), relativo ao tempo de fruição do imóvel."
+      },
+      {
+        "letra": "D",
+        "texto": "poderá o credor optar pela cláusula penal fixada em R$ 3.000,00 (três mil reais) ou pela indenização pelo tempo de fruição de imóvel, fixada em R$ 3.600,00 (três mil e seiscentos reais), não podendo cobrar os dois valores de forma cumulativa."
+      },
+      {
+        "letra": "E",
+        "texto": "somente é devido o valor relativo à indenização pelo tempo de fruição de imóvel, fixada em R$ 3.600,00 (três mil e seiscentos reais), sendo nula a cláusula penal fixada em R$ 3.000,00 (três mil reais), pois ocasiona perda dos valores pagos, vedada por lei."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3153252",
+    "metadata": "Ano: 2025 | Banca: FACET Concursos | Órgão: Prefeitura de Pedro Velho - RN",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Sobre os contratos no Direito Civil e as cláusulas de revisão contratual, analise o seguinte caso hipotético: Em razão de uma grave crise econômica que afetou o setor imobiliário, um contrato de locação comercial foi questionado judicialmente por uma das partes, alegando que a superveniência de um evento imprevisível tornou excessivamente onerosa a execução da obrigação. Com base na doutrina, na jurisprudência e na legislação aplicável, avalie as assertivas: I. A aplicação da teoria da onerosidade excessiva, prevista no artigo 478 do Código Civil, pressupõe a comprovação de evento extraordinário e imprevisível, que desequilibre significativamente as prestações contratuais. II. O artigo 421-A do Código Civil, incluído pela Lei da Liberdade Econômica, reforça a autonomia privada nas relações contratuais, limitando a revisão judicial apenas aos casos em que haja violação expressa de normas de ordem pública. III. O Superior Tribunal de Justiça (STJ) já reconheceu, em precedentes específicos, que a pandemia da COVID-19 constitui fato imprevisível e extraordinário, autorizando a revisão ou resolução contratual em situações concretas de desequilíbrio econômico. Assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas a assertiva I está correta."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas as assertivas I e II estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas as assertivas I e III estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Todas as assertivas estão corretas."
+      },
+      {
+        "letra": "E",
+        "texto": "e) Apenas as assertivas II e III estão corretas."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3141039",
+    "metadata": "Ano: 2024 | Banca: Instituto Acesso | Órgão: Câmara de Manaus - AM",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "A revisão de contratos quando são identificados fatos imprevistos que possam alterar a base econômica do contrato e gerar onerosidade excessiva para uma das partes trata-se de uma teoria estabelecida na esfera pública. Assinale a alternativa correspondente.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Teoria da mutabilidade."
+      },
+      {
+        "letra": "B",
+        "texto": "Teoria da imprevisão."
+      },
+      {
+        "letra": "C",
+        "texto": "Teoria da sustentação."
+      },
+      {
+        "letra": "D",
+        "texto": "Teoria da alteração."
+      },
+      {
+        "letra": "E",
+        "texto": "Teoria da sonegação."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3113280",
+    "metadata": "Ano: 2024 | Banca: CESPE / CEBRASPE | Órgão: TC-DF",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Noções e Princípios do Direito Contratual",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "À luz da Lei de Introdução às Normas do Direito Brasileiro, do Código Civil e da jurisprudência dos tribunais superiores, julgue o item que se segue. Em contrato bilateral, caso estipulada a cláusula solve et repete, não poderá o credor se utilizar da exceção do contrato não cumprido.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3100870",
+    "metadata": "Ano: 2024 | Banca: Quadrix | Órgão: CFP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Com base no Código Civil brasileiro, julgue o item seguinte.Em relação à extinção dos contratos, a cláusula resolutiva expressa opera de pleno direito. Por outro lado, a tácita depende de interpelação judicial.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3085864",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: DATAPREV",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "A sociedade Transporte Alpha S.A. celebrou contrato de prestação de serviço com a empresa Beta Serviços Gerais Ltda. Na vigência do contrato, as partes desejam a interrupção do pacto. Com base no tema extinção dos contratos, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a cláusula resolutiva expressa depende de interpelação judicial."
+      },
+      {
+        "letra": "B",
+        "texto": "nos contratos unilaterais, nenhum dos contratantes, antes de cumprida a sua obrigação, pode exigir o implemento da do outro."
+      },
+      {
+        "letra": "C",
+        "texto": "o distrato faz-se pela mesma forma exigida para o contrato."
+      },
+      {
+        "letra": "D",
+        "texto": "nos contratos de execução continuada, a onerosidade excessiva torna nulo de pleno direito o contrato."
+      },
+      {
+        "letra": "E",
+        "texto": "a resilição unilateral depende de interpelação judicial."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3052482",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: Prefeitura de Vitória - ES",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Compra e Venda",
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Lucas e Ana celebraram contrato particular de compra e venda de veículo usado, sendo ajustado o pagamento à vista e a transferência do bem no órgão competente, bem como a tradição para o dia 15 de julho de 2024. As obrigações foram cumpridas por ambas as partes. No entanto, cerca de 10 dias após a compra e a tradição, o veículo apresentou diversos problemas mecânicos que não haviam sido informados por Ana durante as negociações e celebração do contrato que, ao contrário, afirmou que o veículo estava em perfeito estado e que ela havia sido a única proprietária do veículo. Ao levar o carro a um mecânico, foi constatado que o veículo estava com o motor comprometido e precisaria de um reparo de custo muito elevado. Diante disso, Lucas procurou Ana para informar sobre os problemas do carro e informar sua intenção de enjeitar a coisa, requerendo a restituição dos valores pagos. Ana nega qualquer responsabilidade, alegando que o veículo estava em perfeito estado no momento da venda e não tinha conhecimento dos problemas mecânicos. Diante do impasse, Lucas procura assessoria jurídica especializada a fim de conhecer os seus direitos, sendo informado que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ante à constatação dos graves defeitos no veículo, não informados por Ana durante as negociações, Lucas tem o direito de pleitear a rescisão do contrato de compra e venda do veículo com Ana, independentemente do conhecimento da vendedora sobre tais vícios."
+      },
+      {
+        "letra": "B",
+        "texto": "o desconhecimento de Ana sobre a existência dos defeitos do veículo, a isenta de qualquer responsabilidade, recaindo sobre o Lucas todo e qualquer ônus, seja por sua falta de diligência, seja em razão da regra res perit domino."
+      },
+      {
+        "letra": "C",
+        "texto": "Ana será responsabilizada pelos vícios do veículo, se comprovado que ela tinha conhecimento dos problemas e mesmo assim omitiu essa informação no momento da negociação."
+      },
+      {
+        "letra": "D",
+        "texto": "inexistindo cláusula especial de garantia no contrato celebrado entre as partes, Lucas não tem o direito de exigir abatimento no preço ou rescisão do contrato."
+      },
+      {
+        "letra": "E",
+        "texto": "independentemente da comprovação de que Ana conhecia dos defeitos do veículo e os omitiu, será obrigada a restituir os valores recebidos, além de indenizar Lucas por perdas e danos e por todas as despesas do contrato."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3049922",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: Prefeitura de Macaé - RJ",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Inadimplemento das Obrigações",
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Ian Rodrigues, autônomo, adquiriu um apartamento na planta da Construtora Construbem em julho de 2018. O contrato previa a entrega do imóvel em julho de 2020, com uma cláusula de tolerância de seis meses. Após esse prazo, caso o imóvel não fosse entregue, haveria uma multa mensal de 0,5% sobre o valor total do contrato. O apartamento foi entregue apenas em maio de 2021, causando transtornos a Ian Rodrigues, que precisou alugar um imóvel durante o período de atraso, pagando R$2.500,00 mensais. Diante dos fatos, Ian Rodrigues ajuizou uma ação requerendo: (i) o pagamento da multa contratual pela Construbem, conforme estipulado no contrato, e (ii) uma indenização por lucros cessantes, correspondente ao valor do aluguel que ele teve de pagar durante o atraso. Sobre a hipótese narrada, considerando o entendimento do Superior Tribunal de Justiça e a legislação vigente, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ian Rodrigues tem direito tanto à multa contratual de 0,5% por mês de atraso quanto à indenização por lucros cessantes correspondente ao valor do aluguel."
+      },
+      {
+        "letra": "B",
+        "texto": "Ante o inadimplemento absoluto da Construbem, Ian rodrigues poderá optar pela multa prevista no contrato ou pela indenização por lucros cessantes em conformidade com os prejuízos que provar ter suportado."
+      },
+      {
+        "letra": "C",
+        "texto": "Ian Rodrigues não faz jus à multa contratual nem à indenização por lucros cessantes, pois a construtora entregou o imóvel dentro de um prazo razoável e não houve comprovação de má-fé."
+      },
+      {
+        "letra": "D",
+        "texto": "Ian Rodrigues só tem direito à multa contratual prevista no contrato, não podendo exigir o valor do aluguel que pagou durante o atraso, pois as duas indenizações possuem a mesma natureza compensatória e não podem ser cumuladas, salvo previsão expressa no contrato."
+      },
+      {
+        "letra": "E",
+        "texto": "Ante o inadimplemento da Construbem, e sendo silente o contrato sobre a possibilidade de cumulação da multa com a cláusula penal, Ian Rodrigues, a princípio, tem o direito de exigir ambas, podendo ser aplicável pelo juízo, a redução equitativa da multa."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2582617",
+    "metadata": "Ano: 2024 | Banca: INAZ do Pará | Órgão: Prefeitura de Luiz Alves - SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "De acordo com o Código Civil, constituem formas de adimplemento e extinção das obrigações, EXCETO.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A assunção de dívida."
+      },
+      {
+        "letra": "B",
+        "texto": "O pagamento."
+      },
+      {
+        "letra": "C",
+        "texto": "A dação em pagamento."
+      },
+      {
+        "letra": "D",
+        "texto": "A novação."
+      },
+      {
+        "letra": "E",
+        "texto": "A confusão."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2573592",
+    "metadata": "Ano: 2024 | Banca: MARANATHA Assessoria | Órgão: Câmara de Altônia - PR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Noções e Princípios do Direito Contratual",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Pelo que consta do atual Código Civil e das lições da doutrina, quatro são as formas básicas de extinção dos contratos. Nas hipóteses em que os contraentes estipulam que o negócio será extinto, mediante declaração unilateral de vontade, se qualquer um deles se arrepender, trata-se da extinção:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "normal do contrato;"
+      },
+      {
+        "letra": "B",
+        "texto": "por fatos posteriores à celebração;"
+      },
+      {
+        "letra": "C",
+        "texto": "por fatos anteriores à celebração;"
+      },
+      {
+        "letra": "D",
+        "texto": "por morte;"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2550611",
+    "metadata": "Ano: 2024 | Banca: IADES | Órgão: EMATER-DF",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Compra e Venda",
+      "Contratos em Geral",
+      "Noções e Princípios do Direito Contratual",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Em relação ao direito das obrigações e dos contratos, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Regra geral, nas obrigações alternativas, a escolha cabe ao credor, a menos que haja estipulação em contrário."
+      },
+      {
+        "letra": "B",
+        "texto": "Ocorrendo a evicção, se o evicto desconhece o risco, ou se dele for informado, não o assuma, não obstante a cláusula que exclui a garantia contra a evicção, ele tem direito de receber em dobro o preço que tenha pago pela coisa perdida."
+      },
+      {
+        "letra": "C",
+        "texto": "Se um contrato de compra e venda de imóvel não possuir cláusula de arrependimento, e se tiver sido paga determinada quantia como sinal, este deve ser entendido como arras confirmatórias e princípio do pagamento. Logo, o credor as conservará depois de executado o contrato, ao passo que o devedor as deduzirá da prestação quando realizar o pagamento final."
+      },
+      {
+        "letra": "D",
+        "texto": "Na sub-rogação legal, o sub-rogado que pagar a dívida pela qual seja ou possa ser obrigado poderá cobrar o total da dívida, mesmo que o seu desembolso seja menor, visto que se sub-roga nos direitos e nas ações do credor."
+      },
+      {
+        "letra": "E",
+        "texto": "No contrato de fiança, uma pessoa garante satisfazer ao credor uma obrigação assumida pelo devedor, caso este não a cumpra, sendo que esta dar-se-á por escrito e admite interpretação extensiva."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2538405",
+    "metadata": "Ano: 2024 | Banca: FUNDATEC | Órgão: SIMAE - SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "“Originalmente, concebia-se a cláusula penal como uma punição do sujeito que deu causa à inexecução, daí o adjetivo penal. Todavia, o conceito evoluiu e, hoje, pode-se dizer que a principal função da cláusula penal é o reforço do vínculo obrigacional, vez que a confiança entre os sujeitos supostamente aumenta se há uma obrigação acessória que será exigível na hipótese de inexecução. Como função secundária surge a estipulação prévia das perdas e danos” (Donizetti et al., 2023). Assinale a alternativa INCORRETA sobre a cláusula penal, de acordo com o Código Civil.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A cláusula penal estipulada conjuntamente com a obrigação, ou em ato posterior, pode referir-se à inexecução completa da obrigação, à de alguma cláusula especial ou simplesmente à mora."
+      },
+      {
+        "letra": "B",
+        "texto": "Quando se estipular a cláusula penal para o caso de total inadimplemento da obrigação, esta converter-se-á em alternativa a benefício do credor."
+      },
+      {
+        "letra": "C",
+        "texto": "É vedado ao juiz reduzir a penalidade convencionada pelas partes, prevalecendo em todos os casos a autonomia privadas dos contratantes."
+      },
+      {
+        "letra": "D",
+        "texto": "Quando a obrigação for divisível, só incorre na pena o devedor ou o herdeiro do devedor que a infringir, e proporcionalmente à sua parte na obrigação."
+      },
+      {
+        "letra": "E",
+        "texto": "O valor da cominação imposta na cláusula penal não pode exceder o da obrigação principal."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2530995",
+    "metadata": "Ano: 2024 | Banca: Instituto Consulplan | Órgão: Prefeitura de Miracema - RJ",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Pedro e João firmaram um contrato objetivando a aquisição de determinados bens, os quais seriam importados por Pedro e entregues, desembaraçados, após os trâmites alfandegários. Durante as fases intermediárias do cumprimento do contrato, aconteceu um terremoto no sul da China, provocando a falta de um insumo fundamental para a produção dos bens objeto do contrato, gerando o aumento substancial do valor dos bens no mercado internacional, o que tornou o contrato muito oneroso para Pedro. Baseado no que foi narrado, podemos afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pedro pode pedir a resolução do contrato ou a readequação, baseado na teoria da imprevisão, uma vez que este se tornou excessivamente oneroso para uma das partes e vantajoso a outra, devido a fato imprevisível."
+      },
+      {
+        "letra": "B",
+        "texto": "O contrato deve ser cumprido, o princípio do pacta sunt servanda prevalece e, uma vez estabelecidas as condições contratuais, não sendo o contrato de prestação continuada, o cumprimento contratual é obrigação das partes pactuantes."
+      },
+      {
+        "letra": "C",
+        "texto": "O contrato sofre de um vício oculto, o qual não é de conhecimento de quaisquer das partes, no momento da sua execução, qual seja, o desequilíbrio econômico, provocado pelo terremoto. Trata-se de evento oculto, conhecido no direito como vício redibitório e que permite a Pedro, unilateralmente, romper o contrato."
+      },
+      {
+        "letra": "D",
+        "texto": "O contrato, no caso, não pode ser rompido por Pedro, sem a anuência de João. Este é um exemplo clássico de evicção de direitos, onde um acontecimento fortuito altera o contrato para uma das partes, sendo necessário que as partes acordem a melhor forma para o rompimento do contrato, com os ônus recaindo sobre a parte evicta."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2514959",
+    "metadata": "Ano: 2024 | Banca: Quadrix | Órgão: NOVACAP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Considerando as disposições do Código Civil, julgue o item a seguir, acerca das obrigações, dos atos unilaterais e dos contratos.A cláusula resolutiva, expressa ou tácita, opera de pleno direito.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2513270",
+    "metadata": "Ano: 2024 | Banca: Instituto Ágata | Órgão: Prefeitura de Anajás - PA",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Ato Jurídico, Fato Jurídico e Teoria Geral do Negócio Jurídico",
+      "Defeitos do Negócio Jurídico",
+      "Parte Geral",
+      "Contratos em Geral",
+      "Teoria das Nulidades: Causas de Nulidade e de Anulabilidade",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Sobre os negócios jurídicos, de acordo com previsão do Código Civil, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "São nulos os negócios jurídicos, quando as declarações de vontade emanarem de erro substancial que poderia ser percebido por pessoa de diligência normal, em face das circunstâncias do negócio."
+      },
+      {
+        "letra": "B",
+        "texto": "Ocorre a coação quando uma pessoa, sob premente necessidade, ou por inexperiência, se obriga a prestação manifestamente desproporcional ao valor da prestação oposta."
+      },
+      {
+        "letra": "C",
+        "texto": "É anulável o negócio jurídico quando celebrado por pessoa absolutamente incapaz."
+      },
+      {
+        "letra": "D",
+        "texto": "Configura-se o estado de perigo quando alguém, premido da necessidade de salvar-se, ou a pessoa de sua família, de grave dano conhecido pela outra parte, assume obrigação excessivamente onerosa."
+      },
+      {
+        "letra": "E",
+        "texto": "São os negócios jurídicos nulos por dolo, quando este for a sua causa."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2476377",
+    "metadata": "Ano: 2024 | Banca: CESPE / CEBRASPE | Órgão: DPE-AC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Inadimplemento das Obrigações",
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "De acordo com o Código Civil e o entendimento do STJ, a cláusula penal compensatória torna-se exigível desde a data do inadimplemento",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "relativo pelo devedor que, culposamente, deixar de cumprir a obrigação, desde que o vencimento desta não esteja vinculado à prévia notificação da resolução do contrato."
+      },
+      {
+        "letra": "B",
+        "texto": "relativo pelo devedor que, dolosamente, deixar de cumprir a obrigação, ainda que o vencimento desta esteja vinculado à prévia notificação da resolução do contrato."
+      },
+      {
+        "letra": "C",
+        "texto": "absoluto pelo devedor que, culposamente, deixar de cumprir a obrigação, ainda que o vencimento desta esteja vinculado à prévia notificação da resolução do contrato."
+      },
+      {
+        "letra": "D",
+        "texto": "absoluto pelo devedor que, culposamente, deixar de cumprir a obrigação, desde que o vencimento desta não esteja vinculado à prévia notificação da resolução do contrato."
+      },
+      {
+        "letra": "E",
+        "texto": "absoluto pelo devedor que, dolosamente, deixar de cumprir a obrigação, desde que o vencimento desta não esteja vinculado à prévia notificação da resolução do contrato."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3105857",
+    "metadata": "Ano: 2023 | Banca: Instituto Consulplan | Órgão: CORE-PA",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Noções e Princípios do Direito Contratual",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "O contrato de agência é um contrato bilateral em que as partes contratantes se sujeitam aos direitos e obrigações previstos no código civil. De acordo com o código civil, sobre as obrigações do agente, analise as afirmativas a seguir. I. Respeitar a cláusula de exclusividade de agenciamento, salvo ajuste contratual diverso. II. Desenvolver sua atividade de acordo com as instruções do proponente. III. Se o contrato for por tempo indeterminado, o agente poderá resolvê‐lo, mediante aviso prévio de trinta dias. IV. Quando não puder continuar o trabalho por motivo de força maior, terá direito à remuneração correspondente aos serviços realizados. Está correto o que se afirma em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II, III e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "II e III, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "I, II e IV, apenas."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2460885",
+    "metadata": "Ano: 2023 | Banca: Instituto Referência | Órgão: SEROPREVI - RJ",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Considerando o tema: “extinção dos contratos”, marque a opção CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É vedada a Resilição unilateral."
+      },
+      {
+        "letra": "B",
+        "texto": "A Resilição deriva do inadimplemento."
+      },
+      {
+        "letra": "C",
+        "texto": "A Resolução é a extinção do contrato pela execução por um dos contratantes de maneira voluntária."
+      },
+      {
+        "letra": "D",
+        "texto": "A Resolução é a extinção do contrato pela inexecução por um dos contratantes de maneira voluntária, involuntária ou onerosidade excessiva (teoria da imprevisão)."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2429278",
+    "metadata": "Ano: 2023 | Banca: COPS-UEL | Órgão: Londrina Iluminação",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Noções e Princípios do Direito Contratual",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Sobre o inadimplemento obrigacional e a responsabilidade civil contratual, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A mora configura inadimplemento contratual relativo, permitindo o cumprimento da obrigação a despeito de ter-se tornado inútil ao credor."
+      },
+      {
+        "letra": "B",
+        "texto": "A mora, se convertida em inadimplemento absoluto da obrigação por recusa do credor, afasta o dever de reparação das perdas e danos correspondentes."
+      },
+      {
+        "letra": "C",
+        "texto": "A doutrina contemporânea admite existir violação positiva do contrato quando há cumprimento inexato ou defeituoso da obrigação nele prevista."
+      },
+      {
+        "letra": "D",
+        "texto": "O adimplemento substancial do contrato é aferido por critérios quantitativos a partir dos percentuais adimplidos, mas não qualitativos."
+      },
+      {
+        "letra": "E",
+        "texto": "O agir desconforme com a confiança depositada exige a comprovação de culpa para responsabilização civil."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2324603",
+    "metadata": "Ano: 2023 | Banca: MPE-PR | Órgão: MPE-PR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Inadimplemento das Obrigações",
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Sobre a inexecução de obrigações e seus efeitos, assinale a afirmação incorreta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Em contrato bilateral uma parte pode, a qualquer tempo, exercer o direito legal à resolução contratual com base em cláusula resolutiva expressa, cujos efeitos resolutórios independem de provimento jurisdicional."
+      },
+      {
+        "letra": "B",
+        "texto": "As obrigações provenientes de ato ilícito devem ser sujeitas à interpelação prévia para que o devedor seja constituído em mora."
+      },
+      {
+        "letra": "C",
+        "texto": "Caso a parte tenha adimplido parcela substancial de contrato bilateral, poderá obstar a sua resolução com base no princípio da boa-fé e equilíbrio contratual."
+      },
+      {
+        "letra": "D",
+        "texto": "O ato unilateral da parte contratante compatível com renúncia à exceção do contrato não cumprido, como, por exemplo, a entrega da prestação mesmo diante do inadimplemento, não retira da parte o direito de exigir o pagamento do preço perante a parte inadimplente."
+      },
+      {
+        "letra": "E",
+        "texto": "A resolução por inadimplemento provoca a extinção do vínculo contratual, sem, contudo, implicar no efeito liberatório dos contratantes."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2320538",
+    "metadata": "Ano: 2023 | Banca: Instituto Consulplan | Órgão: Prefeitura de Nova Friburgo - RJ",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "A extinção do contrato é o momento em que o contrato chega ao fim (artigos 472 a 480 do Código Civil). São várias as formas que acarretam a extinção do contrato, que poderá ser extinto de maneira natural, ou seja, quando houver o cumprimento da obrigação ou quando cessado o prazo que havia sido estipulado para a sua vigência, mas desde que as obrigações tenham sido cumpridas. Nesse sentido, pode-se verificar uma circunstância prevista pelas partes e tida como razoavelmente esperada. Sobre a sistemática da extinção dos contratos, assinale a afirmativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A resilição bilateral, também chamada de distrato, se aperfeiçoa pela mesma forma exigida para o contrato."
+      },
+      {
+        "letra": "B",
+        "texto": "A “exceção de contrato não cumprido” consiste num meio de defesa, pelo qual a parte demandada pela execução de um contrato pode arguir que deixou de cumpri-lo pelo fato da outra ainda também não ter satisfeito a prestação correspondente."
+      },
+      {
+        "letra": "C",
+        "texto": "A resolução por onerosidade excessiva é uma faculdade do devedor nos contratos de execução continuada ou diferida, na hipótese em que a prestação de uma das partes se torna excessivamente onerosa, com extrema vantagem para a outra, em virtude de acontecimentos extraordinários e imprevisíveis."
+      },
+      {
+        "letra": "D",
+        "texto": "A cláusula resolutória expressa opera de pleno direito, enquanto que a modalidade tácita depende de interpelação judicial. A parte lesada pelo inadimplemento pode pedir a resolução do contrato, se não preferir exigir-lhe o cumprimento, não cabendo, em qualquer dos casos, indenização por perdas e danos."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2319992",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: Câmara dos Deputados",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Responsabilidade civil",
+      "Prestação de Serviços e Empreitada",
+      "Contratos em Geral",
+      "Vícios Redibitórios e Evicção",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido",
+      "Modalidades da Responsabilidade Civil"
+    ],
+    "enunciado_principal": "Sofia Administradora de Imóveis Ltda., após adquirir um lote em condomínio fechado, contratou Joaquim, engenheiro renomado, para que construa uma casa padrão em lote que adquiriu com o intuito de investimento, segundo projeto elaborado pela arquiteta da sociedade empresária. Durante a obra, surgiram vários obstáculos que obrigaram o engenheiro a adaptar o projeto e a execução da obra, o que encareceu o custo. Tudo ocorreu à vista dos prepostos de Sofia Adm. de Imóveis Ltda., mas sem qualquer autorização deles por escrito e, até a entrega da obra, sem qualquer protesto da sociedade empresária. Após a finalização do serviço, Joaquim pediu acréscimo do valor acordado, relativo ao incremento de custo e serviços com as alterações promovidas. Poucas semanas após a entrega da obra, Sofia Adm. de Imóveis Ltda., por meio de sua preposta, percebeu alguns vícios construtivos que não foram notados por ocasião da entrega da casa construída, designadamente: alguns pisos desnivelados, paredes da área de serviço sem acabamento adequado, diferença de tonalidade dos revestimentos, diferença de espessura no rejunte do piso, bem como pilares e vigas com espessura maior do que a parede. Sendo assim, Sofia Adm. de Imóveis Ltda. se recusou a realizar o pagamento da última parcela do preço da empreitada (correspondente a 30% do valor acordado). Três meses depois, Joaquim propõe ação de cobrança da dívida em aberto, incluindo o acréscimo que entende devido. Ao receber a citação, Sofia Adm. de Imóveis Ltda., além de defenderse da cobrança do acréscimo, propõe reconvenção visando, única e exclusivamente, ao abatimento proporcional do preço ajustado, em razão da garantia legal de solidez e segurança da obra. Sofia Adm. de Imóveis Ltda., ofereceu a defesa com reconvenção 120 dias após tomar conhecimento inequívoco dos vícios que apontou. Sobre o fato descrito, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Caso João tenha êxito em sua ação, não poderá nomear à penhora o imóvel em questão, em razão da garantia legal da impenhorabilidade do bem de família."
+      },
+      {
+        "letra": "B",
+        "texto": "João não tem razão ao exigir acréscimo no preço, porque não houve autorização expressa para que houvesse modificação do projeto, que deveria resultar de instruções escritas da dona da obra."
+      },
+      {
+        "letra": "C",
+        "texto": "Sofia Adm. de Imóveis Ltda. arguiu os vícios construtivos dentro do prazo prescricional quinquenal de responsabilidade pela solidez e segurança do imóvel."
+      },
+      {
+        "letra": "D",
+        "texto": "Sofia Adm. de Imóveis Ltda., até poderia suscitar a garantia legal de solidez e segurança, mas assim o fez após o trancurso do prazo decadencial, contado da ciência do vício."
+      },
+      {
+        "letra": "E",
+        "texto": "Sofia Adm. de Imóveis Ltda. não tem razão, porque a garantia legal invocada não protege vícios que estão apenas relacionados com a estética e a funcionalidade do bem, sem atingir a solidez, segurança e habitabilidade do imóvel."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2314169",
+    "metadata": "Ano: 2023 | Banca: IGEDUC | Órgão: Prefeitura de Pombos - PE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "A teoria da imprevisão, prevista no Código Civil Brasileiro, é aplicável apenas aos contratos bilaterais e não alcança os contratos unilaterais, uma vez que nesses não há a necessidade de equilíbrio entre as partes.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2314130",
+    "metadata": "Ano: 2023 | Banca: IGEDUC | Órgão: Prefeitura de Pombos - PE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Inadimplemento das Obrigações",
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "A teoria da imprevisão no inadimplemento das obrigações possibilita a revisão judicial do contrato apenas nos casos de eventos imprevisíveis, excluindo-se aqueles considerados extraordinários.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2281646",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: TBG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Acerca de contratos, direitos reais e desconsideração da personalidade jurídica, julgue o item a seguir. Em contrato de execução continuada, caso a prestação se torne excessivamente onerosa para o contratado, este terá direito à resolução da avença.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2236215",
+    "metadata": "Ano: 2023 | Banca: IBADE | Órgão: RBPREV - AC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Os contratos podem ser extintos de diferentes formas, seja pelo acordo das partes, por previsão contratual, pelo inadimplemento, entre outras. É correto afirmar que os contratos podem ser extintos:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pelo distrato verbal, independentemente da forma exigida para realização do contrato."
+      },
+      {
+        "letra": "B",
+        "texto": "em razão de qualquer inadimplemento, mesmo se cumprido em sua maior parte de seu objeto."
+      },
+      {
+        "letra": "C",
+        "texto": "se torne excessivamente oneroso para uma das partes e vantajoso para a outra, por circunstância acontecimentos extraordinários e imprevisíveis e posteriores à contratação, caso seja de execução continuada."
+      },
+      {
+        "letra": "D",
+        "texto": "pelo esgotamento do prazo de vigência, salvo se manifestado o interesse por uma das partes pela sua continuidade no prazo de 30 (trinta) dias contados do termo final."
+      },
+      {
+        "letra": "E",
+        "texto": "pelo não implemento de condições resolutiva tácita, de pleno direito, independentemente de interpelação judicial."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2231542",
+    "metadata": "Ano: 2023 | Banca: TJ-AP | Órgão: TJ-AP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Após a formação da relação contratual que traga prestações de trato sucessivo, se ocorrerem fatos que independam da vontade das partes, de natureza extraordinária e anormais, de modo que não havia como antevê-los e que tornem a relação contratual desequilibrada, causando uma onerosidade excessiva a uma das partes. Pode a parte prejudicada pela nova realidade em juízo alegar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Estado de perigo"
+      },
+      {
+        "letra": "B",
+        "texto": "Lesão"
+      },
+      {
+        "letra": "C",
+        "texto": "Erro ou fraude"
+      },
+      {
+        "letra": "D",
+        "texto": "Teoria da Imprevisão"
+      },
+      {
+        "letra": "E",
+        "texto": "Simulação"
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2225683",
+    "metadata": "Ano: 2023 | Banca: FUNDATEC | Órgão: IFC-SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "A exceção de contrato não cumprido:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não é admitida no direito brasileiro."
+      },
+      {
+        "letra": "B",
+        "texto": "Pode ser aplicada aos contratos bilaterais."
+      },
+      {
+        "letra": "C",
+        "texto": "Exige o prévio adimplemento de uma das partes para ser exercida."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente pode ser aplicada aos contratos firmados por adesão."
+      },
+      {
+        "letra": "E",
+        "texto": "Não pode ser aplicada aos contratos de consumo."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2221705",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: TRF - 1ª REGIÃO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Responsabilidade civil",
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido",
+      "Direitos Reais de Garantia - Penhor, Anticrese e Hipoteca",
+      "Indenização - Liquidação do Dano"
+    ],
+    "enunciado_principal": "Paulo obteve empréstimo do Banco Dinheiro na Mão S/A. Em garantia, empenhou joias de família cuja avaliação alçava a 50% do valor da dívida. Após ter quitado 45% do saldo devedor, é comunicado de que, em um assalto ao banco, as joias foram roubadas. Nesse caso, à luz exclusivamente do Direito Civil, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "com o perecimento da coisa empenhada, resolve-se o contrato entre as partes, retornando ambas ao status quo ante, de modo que Paulo ficará exonerado da dívida;"
+      },
+      {
+        "letra": "B",
+        "texto": "a instituição financeira deverá indenizar Paulo pelo valor dos bens perdidos, sendo certo que, enquanto não proceder a esse pagamento, será lícito ao devedor suspender o das parcelas do empréstimo, invocando a exceção de contrato não cumprido (exceptio non adimpleti contractus);"
+      },
+      {
+        "letra": "C",
+        "texto": "embora a instituição financeira deva indenizar Paulo pelo valor das joias roubadas, não é possível a compensação entre o valor do empréstimo e o das joias, por expressa vedação legal na hipótese de penhor e pela diferença de origem dos débitos;"
+      },
+      {
+        "letra": "D",
+        "texto": "a instituição financeira deve indenizar Paulo pelo valor das joias roubadas, sendo certo que é possível a compensação entre o valor do empréstimo e o das joias; assim, considerando a quitação de 95% do saldo devedor (45% pelo pagamento das parcelas e 50% pela compensação), Paulo poderá invocar a teoria do adimplemento substancial para dar por cumprida sua obrigação;"
+      },
+      {
+        "letra": "E",
+        "texto": "a instituição financeira não responde pelo caso fortuito/força maior, uma vez que não pode ser responsabilizada por danos decorrentes de atividades criminosas, notadamente roubo à mão armada."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2195254",
+    "metadata": "Ano: 2023 | Banca: IV - UFG | Órgão: TJ-GO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Acerca do instituto da prescrição, Savigny detalha que a primeira condição de uma prescrição possível coincide com a determinação do seu ponto de partida. Nesse sentido, é necessário haver",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "um pacta sunt servanda."
+      },
+      {
+        "letra": "B",
+        "texto": "um lapso de tempo."
+      },
+      {
+        "letra": "C",
+        "texto": "uma bona fides."
+      },
+      {
+        "letra": "D",
+        "texto": "uma inação não interrompida."
+      },
+      {
+        "letra": "E",
+        "texto": "uma actio nata."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2174525",
+    "metadata": "Ano: 2023 | Banca: CESGRANRIO | Órgão: AGERIO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Noções e Princípios do Direito Contratual",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "É fenômeno jurídico que consiste na possibilidade legal de resolver situação de desequilíbrio das prestações contratuais sucessivas ou diferidas, em consequência de acontecimentos ulteriores à formação do contrato, independentemente da vontade das partes, de tal forma extraordinários e anormais que impossível se tornava prevê-los razoável e antecedentemente. São acontecimentos supervenientes que alteram profundamente a economia do contrato, por tal forma perturbando o seu equilíbrio, como inicialmente estava fixado, que se torna certo que as partes jamais contratariam se pudessem ter antevisto esses fatos. Se, em tais circunstâncias, o contrato fosse mantido, redundaria num enriquecimento anormal, em benefício do credor, determinando um empobrecimento da mesma natureza, em relação ao devedor. O fenômeno descrito refere-se a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "lesão"
+      },
+      {
+        "letra": "B",
+        "texto": "imprevisão"
+      },
+      {
+        "letra": "C",
+        "texto": "força maior"
+      },
+      {
+        "letra": "D",
+        "texto": "nulidades"
+      },
+      {
+        "letra": "E",
+        "texto": "caso fortuito"
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2166890",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: PGM - Niterói",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Adriana atua no setor de transporte particular de passageiros. Há algum tempo, ela foi contratada por um escritório de contabilidade para realizar o transporte dos funcionários do escritório de casa para o trabalho em um micro-ônibus. O negócio, celebrado pelo prazo de seis meses, previa que Adriana realizaria o transporte continuamente, todos os dias úteis, e seria remunerada apenas no termo final do contrato, em uma prestação única. Passados os primeiros três meses de cumprimento do contrato, porém, um escândalo envolvendo o escritório de contabilidade foi noticiado pela imprensa. Segundo relataram diversos jornais, o escritório cometera um erro crasso de escrituração de uma grande sociedade para a qual prestava serviços. Ainda de acordo com a imprensa, o escândalo fez com que o escritório perdesse a grande maioria de seus clientes, havendo rumores de que talvez viesse a encerrar suas atividades. Apreensiva por supor que existia um risco real de não receber qualquer remuneração no prazo contratual, Adriana decidiu suspender unilateralmente o transporte até que o escritório pagasse sua contraprestação. Considerando verdadeiras as notícias sobre a crise por que passa o escritório, a conduta de Adriana se configura como:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "inadimplemento contratual, pois a obrigação do escritório de remunerar Adriana ainda não era exigível, não assistindo a ela, assim, alegar exceção de contrato não cumprido;"
+      },
+      {
+        "letra": "B",
+        "texto": "exercício legítimo de exceção de contrato não cumprido, pois o fundado receio de descumprimento da obrigação do escritório gera o seu vencimento antecipado;"
+      },
+      {
+        "letra": "C",
+        "texto": "resilição unilateral nula de pleno direito, porque Adriana não concedeu ao escritório aviso prévio mínimo para compensar os investimentos feitos em prol da execução do contrato;"
+      },
+      {
+        "letra": "D",
+        "texto": "resilição unilateral plenamente válida, por se tratar de alternativa admitida implicitamente em todos os contratos de longa duração ou celebrados por prazo indeterminado;"
+      },
+      {
+        "letra": "E",
+        "texto": "exercício legítimo de exceção, embora o escritório possa compelir Adriana a retomar a execução se oferecer a ela garantia bastante de cumprimento da obrigação vincenda."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2134214",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: AGU",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Contratos em Geral",
+      "Efeitos perante Terceiros: Estipulação em Favor de Terceiros, Contratos com Pessoa a Declarar e Promessa de Fato de Terceiro",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Assinale a opção correta no que tange aos contratos regulados pelo Código Civil, especialmente após as mudanças introduzidas pela Lei da Liberdade Econômica, considerando a jurisprudência do Superior Tribunal de Justiça (STJ).",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As hipóteses de caso fortuito e de força maior sempre incidirão nas resoluções contratuais que se deem de forma culposa"
+      },
+      {
+        "letra": "B",
+        "texto": "A lei prevê expressamente que as partes negociantes deverão estabelecer parâmetros objetivos para a interpretação dos pressupostos de revisão das cláusulas negociais."
+      },
+      {
+        "letra": "C",
+        "texto": "A revisão de contratos de direito civil cujas reações forem paritárias receberá o mesmo tratamento jurisprudencial dado à revisão dos contratos de consumo,"
+      },
+      {
+        "letra": "D",
+        "texto": "Conforme expressa previsão legal , a liberdade contratual se rá exercida em razão e nos limit es da função social do contrato."
+      },
+      {
+        "letra": "E",
+        "texto": "A teoria da imprevisão originada no direito administrativo francês, foi recepcionada pelo direito civil brasileiro, tendo sido expressamente prevista pelo atual Código Civil."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2113526",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: TJ-ES",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Obrigações recíprocas e simultâneas são condições para opor a exceção do contrato não cumprido.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2110675",
+    "metadata": "Ano: 2023 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta sobre os contratos bilaterais.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As perdas e danos não dependem da imputabilidade da causa da resolução por inadimplemento."
+      },
+      {
+        "letra": "B",
+        "texto": "Se a prestação de uma das partes se tornar excessivamente onerosa, na hipótese de execução continuada ou diferida, com extrema vantagem para a outra, em razão de acontecimentos extraordinários e imprevisíveis, poderá o devedor pedir a resolução do contrato. A onerosidade excessiva, no Código Civil, enseja apenas a resolução, não se autorizando que se peça a revisão do contrato."
+      },
+      {
+        "letra": "C",
+        "texto": "Nenhum dos contratantes, antes de cumprida a sua obrigação, pode exigir o implemento da do outro. Não se admite, porém, que o devedor exerça a exceção de contrato não cumprido por antecipação, ou seja, antes do termo da prestação. Vale dizer, não existe, em hipótese alguma, exceção por antecipação."
+      },
+      {
+        "letra": "D",
+        "texto": "A parte lesada pelo inadimplemento pode pedir a resolução do contrato, se não preferir exigir-lhe o cumprimento, cabendo, em qualquer dos casos, indenização por perdas e danos. Apesar da literalidade do Código Civil de 2002, em harmonia com a função social do contrato e em atendimento ao princípio da boa-fé objetiva, a teoria do substancial adimplemento do contrato, quando aplicável, visa a impedir o uso potestativo do direito de resolução por parte do credor."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2110569",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: PGE-ES",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Com relação à cláusula resolutiva tácita prevista no Código Civil, o STJ entende que a parte lesada pode optar pelo",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "cumprimento forçado e pelo rompimento do contrato, podendo ambas as opções ser exercidas simultaneamente."
+      },
+      {
+        "letra": "B",
+        "texto": "cumprimento forçado ou pelo rompimento do contrato, não podendo ambas as opções ser exercidas simultaneamente. Feita a escolha, a parte não pode variar entre elas."
+      },
+      {
+        "letra": "C",
+        "texto": "cumprimento forçado ou pelo rompimento do contrato, não podendo ambas as opções ser exercidas simultaneamente. Feita a escolha, a parte pode variar entre elas, desde que antes da sentença."
+      },
+      {
+        "letra": "D",
+        "texto": "cumprimento forçado do contrato, apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "rompimento do contrato, apenas."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2107166",
+    "metadata": "Ano: 2023 | Banca: FUNDATEC | Órgão: BRDE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Vícios Redibitórios e Evicção",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Em relação aos contratos, sua extinção, resolução por onerosidade excessiva, espécies e vícios redibitórios, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A resilição unilateral, nos casos em que a lei expressa ou implicitamente o permita, opera mediante denúncia notificada à outra parte."
+      },
+      {
+        "letra": "B",
+        "texto": "Se, depois de concluído o contrato, sobrevier a uma das partes contratantes diminuição em seu patrimônio capaz de comprometer ou tornar duvidosa a prestação pela qual se obrigou, pode a outra recusar-se à prestação que lhe incumbe, até que aquela satisfaça a que lhe compete ou dê garantia bastante de satisfazê-la."
+      },
+      {
+        "letra": "C",
+        "texto": "A compra e venda pode ter por objeto coisa atual ou futura. Neste caso, ficará sem efeito o contrato se esta não vier a existir, salvo se a intenção das partes era de concluir contrato aleatório."
+      },
+      {
+        "letra": "D",
+        "texto": "Nos contratos de execução continuada ou diferida, se a prestação de uma das partes se tornar excessivamente onerosa, com extrema vantagem para a outra, em virtude de acontecimentos extraordinários e imprevisíveis, poderá o devedor pedir a resolução do contrato. Os efeitos da sentença que a decretar retroagirão à data do vencimento da obrigação."
+      },
+      {
+        "letra": "E",
+        "texto": "A parte lesada pelo inadimplemento pode pedir a resolução do contrato, se não preferir exigir-lhe o cumprimento, cabendo, em qualquer dos casos, indenização por perdas e danos."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2091472",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: TCE-ES",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Noções e Princípios do Direito Contratual",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Wangô, idoso de pouca instrução, celebra contrato de franquia com Edvardo, pelo qual deveria pagar, mensalmente, a título de contraprestação, 10% da receita bruta havida com a exploração do negócio. Sucede que, diante da crise econômica, os resultados da franquia começam a piorar muito, e Wangô pede para rescindir o contrato. Edvardo, então, propõe que Wangô pague uma multa rescisória de R$ 50.000,00, não prevista no instrumento original que sequer considerava a hipótese de resolução antecipada, além de quitar as parcelas de contraprestação em aberto. Adverte que, se Wangô não aceitar esses termos, terá que continuar tocando a franquia e poderá sofrer a negativação de seu nome ou até a execução judicial do saldo devedor. Wangô, contrariado, adere à proposta, até porque precisava recuperar o capital investido para, secretamente, financiar o tratamento de uma filha havida fora do casamento. Nesse caso, o distrato foi:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "plenamente válido e eficaz;"
+      },
+      {
+        "letra": "B",
+        "texto": "anulável por estado de perigo, diante da necessidade de salvar sua filha;"
+      },
+      {
+        "letra": "C",
+        "texto": "ineficaz na parte em que cria novas obrigações pecuniárias não previstas no contrato original;"
+      },
+      {
+        "letra": "D",
+        "texto": "anulável por coação, haja vista as ameaças feitas por Edvardo, no sentido de prender Wangô a um negócio prejudicial e de executá-lo judicialmente;"
+      },
+      {
+        "letra": "E",
+        "texto": "anulável por lesão, considerada a inexperiência de Wangô e a premente necessidade de sair de um negócio ruinoso, para conservar seu patrimônio."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2075583",
+    "metadata": "Ano: 2023 | Banca: FUMARC | Órgão: AL-MG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Noções e Princípios do Direito Contratual",
+      "Formação dos Contratos",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido",
+      "Constituição da Relação Contratual - sujeitos, forma e objeto",
+      "Classificação dos Contratos"
+    ],
+    "enunciado_principal": "Relativamente às regras contratuais previstas no Código Civil brasileiro vigente, é CORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A coisa recebida em virtude de contrato comutativo não pode ser enjeitada por vícios ou defeitos ocultos."
+      },
+      {
+        "letra": "B",
+        "texto": "A liberdade contratual será exercida nos limites da função social do contrato, sendo que, nas relações contratuais privadas, prevalecerão o princípio da intervenção mínima e a excepcionalidade da revisão contratual."
+      },
+      {
+        "letra": "C",
+        "texto": "Os contratos civis e empresariais não se presumem paritários e simétricos até a presença de elementos concretos que justifiquem o afastamento dessa presunção, ressalvados os regimes jurídicos previstos em leis especiais, garantido também que: as partes negociantes poderão estabelecer parâmetros objetivos para a interpretação das cláusulas negociais e de seus pressupostos de revisão ou de resolução; a alocação de riscos definida pelas partes deve ser respeitada e observada; e a revisão contratual somente ocorrerá de maneira excepcional e limitada."
+      },
+      {
+        "letra": "D",
+        "texto": "Tanto a cláusula resolutiva expressa, quanto a tácita operam de pleno direito, independentemente de interpelação judicial."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2070188",
+    "metadata": "Ano: 2023 | Banca: FEPESE | Órgão: Prefeitura de Balneário Camboriú - SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Parte Geral",
+      "Contratos em Geral",
+      "Teoria das Nulidades: Causas de Nulidade e de Anulabilidade",
+      "Noções e Princípios do Direito Contratual",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido",
+      "Constituição da Relação Contratual - sujeitos, forma e objeto"
+    ],
+    "enunciado_principal": "Assinale alternativa correta de acordo com o Código Civil.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Nas relações contratuais privadas, prevalecerão os princípios da não intervenção e do risco da revisão contratual."
+      },
+      {
+        "letra": "B",
+        "texto": "As cláusulas contratuais ambíguas serão interpretadas de forma mais favorável ao contratado."
+      },
+      {
+        "letra": "C",
+        "texto": "O contrato que tiver por objeto herança de pessoa viva deverá ser averbado junto ao cartório de registro civil, podendo valer como adiantamento de quinhão hereditário."
+      },
+      {
+        "letra": "D",
+        "texto": "A liberdade contratual será exercida nos limites da função social da propriedade."
+      },
+      {
+        "letra": "E",
+        "texto": "Nos contratos de adesão, são nulas as cláusulas que estipulem a renúncia antecipada do aderente a direito resultante da natureza do negócio."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2117507",
+    "metadata": "Ano: 2022 | Banca: RBO | Órgão: Prefeitura de Belo Horizonte - MG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Durante o período pandêmico, especialmente nas fases de lockdown, muitos negócios foram atingidos diretamente. Com estabelecimentos fechados, contratos foram submetidos à revisão perante o Poder Judiciário, e parte destas revisões teve como fundamento a chamada Teoria da Imprevisão. Considerando o disposto no Código Civil, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A teoria da imprevisão não se aplica aos pedidos de revisão contratual, mas apenas para a sua resolução."
+      },
+      {
+        "letra": "B",
+        "texto": "A revisão das prestações em razão da teoria da imprevisão só se mostra possível em contratos de execução imediata, ou seja, pagamento à vista."
+      },
+      {
+        "letra": "C",
+        "texto": "A teoria da imprevisão não possui previsão legal pelo Código Civil brasileiro."
+      },
+      {
+        "letra": "D",
+        "texto": "A mencionada teoria é aplicável nas hipóteses em que, por circunstâncias imprevisíveis, sobrevier manifesta desproporção entre a prestação devida e o momento da execução."
+      },
+      {
+        "letra": "E",
+        "texto": "O Código Civil revogou todos os dispositivos relacionados à teoria da imprevisão, cuja previsão restringe-se ao Código de Defesa do Consumidor."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2104829",
+    "metadata": "Ano: 2022 | Banca: FCC | Órgão: PGE-AM",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "O Estado do Amazonas recebeu em doação da iniciativa privada a execução de um projeto de iluminação em uma ciclovia presente em parque urbano de lazer estadual. A doação possui uma cláusula que a condiciona a uma aprovação futura da agência reguladora federal, sendo a relação regida por comodato até a efetivação do evento futuro e incerto. A cláusula",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "impõe um termo inicial ao contrato de doação."
+      },
+      {
+        "letra": "B",
+        "texto": "traz um encargo para o contrato de doação."
+      },
+      {
+        "letra": "C",
+        "texto": "estabelece uma condição suspensiva no contrato de doação."
+      },
+      {
+        "letra": "D",
+        "texto": "estabelece uma condição resolutiva no contrato de doação."
+      },
+      {
+        "letra": "E",
+        "texto": "é nula."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1992182",
+    "metadata": "Ano: 2022 | Banca: FGV | Órgão: PGE-SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Adimplemento, Modalidades de Pagamento e Extinção das Obrigações",
+      "Contratos em Geral",
+      "Noções e Princípios do Direito Contratual",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Césio celebrou contrato de empreitada com a empresa GL1W. Pela avença, ficou acertado que as medições das obras seriam sempre feitas no dia 5 de cada mês. Subsequentemente, em quinze dias, o pagamento respectivo seria liberado. Nos dois primeiros anos da execução contratual, a empresa não conseguia liberar a medição até o quinto dia, conforme pactuado. Césio, então, por sua mera liberalidade, aceitou, em todas as ocasiões, transferi-las para o dia 10, contando daí o prazo quinzenal para pagamento. A partir do terceiro ano, a situação se normalizou, mas as medições continuaram a ser realizadas no dia 10. Um ano depois, a empresa pede judicialmente as diferenças financeiras pelos atrasos no pagamento, a aplicação de multa moratória sobre cada parcela e de juros de mora, devidos desde o início da execução do contrato. À luz da boa-fé objetiva, Césio poderá alegar, em contestação, a ocorrência de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "tu quoque;"
+      },
+      {
+        "letra": "B",
+        "texto": "surrectio;"
+      },
+      {
+        "letra": "C",
+        "texto": "supressio;"
+      },
+      {
+        "letra": "D",
+        "texto": "dever de mitigar os próprios prejuízos (duty to mitigate the loss);"
+      },
+      {
+        "letra": "E",
+        "texto": "exceptio doli."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1992180",
+    "metadata": "Ano: 2022 | Banca: FGV | Órgão: PGE-SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "A imobiliária WZY contrata a empreiteira YYL para a construção de um arrojado empreendimento multifamiliar, com previsão para se concluir em sete anos. Sucede que, após cinco anos do início da execução, a contratada começa a dar sinais de insolvência, de modo a por em dúvida sua capacidade para levar a termo a obra. Instada a se manifestar, a empresa confessa a dificuldade financeira que atravessa, inclusive cogitando requerer, perante o juízo empresarial competente, sua recuperação judicial. Comprova, contudo, que tem empreendido todos os esforços para se manter em dia com o calendário de obras, porque os pagamentos que recebe mensalmente têm sido sua maior e mais expressiva fonte de receita. Nesse caso, o contratante, duvidando da capacidade de a contraparte cumprir com sua prestação, poderá:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "suspender os pagamentos, invocando a exceção de contrato não cumprido;"
+      },
+      {
+        "letra": "B",
+        "texto": "resolver o contrato, com base na teoria do inadimplemento antecipado (antecipatory breach of contract);"
+      },
+      {
+        "letra": "C",
+        "texto": "suspender os pagamentos ou exigir o reforço das garantias, com base em exceção de inseguridade;"
+      },
+      {
+        "letra": "D",
+        "texto": "postular a revisão do contrato, para reduzi-lo a termos exequíveis no novo contexto financeiro da empreiteira, conforme a teoria da onerosidade excessiva;"
+      },
+      {
+        "letra": "E",
+        "texto": "aguardar o pedido de recuperação judicial ou o decreto de falência para suspender os pagamentos e promover nova licitação."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1964358",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: PC-ES",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Paula celebrou com José contrato de compra e venda de um ponto comercial na Praia do Morro, em Guarapari – ES. No contrato, ficou estabelecido que José pagaria o preço combinado em dez parcelas iguais e a ele seria transferida a posse após o pagamento da 1.ª parcela. Ainda, havia cláusula resolutiva expressa no sentido de que, em caso de inadimplemento, Paula retomaria a posse do ponto, independentemente de decisão judicial. Após 15 dias contados do vencimento da 3.ª parcela, não tendo havido o adimplemento, Paula notificou José para desocupar o imóvel no prazo estabelecido na cláusula expressa no contrato. Nessa situação hipotética, conforme disposto no Código Civil, José",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "deverá desocupar o imóvel no prazo estabelecido no contrato, em decorrência da cláusula resolutiva expressa nesse sentido, sob pena de ser processado por ação de reintegração de posse."
+      },
+      {
+        "letra": "B",
+        "texto": "não poderá ser obrigado a desocupar o imóvel, sendo a execução do contrato pela via da ação de cobrança a única opção para Paula."
+      },
+      {
+        "letra": "C",
+        "texto": "poderá recusar-se a desocupar o imóvel, porquanto abusiva a cláusula contratual prevista nesse sentido, devendo Paula ajuizar ação para a resolução contratual."
+      },
+      {
+        "letra": "D",
+        "texto": "poderá recusar-se a desocupar o imóvel, pois a cláusula resolutiva do contrato, ainda que legal, não pode ser executada sem intervenção judicial."
+      },
+      {
+        "letra": "E",
+        "texto": "deverá desocupar o imóvel no prazo estabelecido no contrato, uma vez que a resolução do contrato constitui efeito automático do inadimplemento."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1937219",
+    "metadata": "Ano: 2022 | Banca: FGV | Órgão: TJ-DFT",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Noções e Princípios do Direito Contratual",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Em 2019, Adriana contratou promessa de compra e venda de uma unidade autônoma residencial em empreendimento imobiliário ainda em construção com a incorporadora Cadência Construções S/A, no valor de R$ 700.000,00, dos quais R$ 200.000,00 seriam pagos em parcelas com recursos próprios pela promitente-compradora e o valor restante seria financiado ao tempo da entrega da obra. A incorporação não seguia o regime de patrimônio de afetação. O contrato previa, ainda, que Adriana deveria pagar um valor específico como comissão de corretagem, devida pela intermediação do negócio, e estabelecia pena convencional, determinando a perda de 80% do montante do preço já quitado por Adriana na hipótese de inadimplemento absoluto de sua parte. Tais cláusulas foram redigidas com destaque, e Adriana prestou anuência específica quanto a tais pontos, assinando ao lado das cláusulas. Passados alguns meses e muito antes da época prevista para a entrega da obra, após pagar à incorporadora o valor da comissão de corretagem e quitar algumas parcelas do preço, Adriana ficou desempregada e concluiu que não conseguiria honrar seu compromisso. Assim, comunicou à incorporadora que desistia da aquisição e requereu a restituição de todos os valores pagos, nos termos da Lei nº 13.786/2018. A respeito do caso, é correto afirmar que Adriana faz jus:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "apenas à restituição de parte das quantias pagas referentes ao preço, devidamente atualizadas, das quais perderá o exato percentual previsto na pena convencional, diante do seu inadimplemento absoluto;"
+      },
+      {
+        "letra": "B",
+        "texto": "à restituição integral das quantias pagas referentes ao preço, devidamente atualizadas, mas não deve reaver a comissão de corretagem, já que esta remunerava um serviço efetivamente prestado;"
+      },
+      {
+        "letra": "C",
+        "texto": "à restituição integral da comissão de corretagem, na medida em que a finalidade última da intermediação não foi atingida, mas não deve reaver as quantias pagas referentes ao preço;"
+      },
+      {
+        "letra": "D",
+        "texto": "à restituição de parte das quantias pagas referentes ao preço da unidade, devidamente atualizadas, das quais perderá percentual inferior ao previsto na pena convencional, mas não deve reaver a comissão de corretagem;"
+      },
+      {
+        "letra": "E",
+        "texto": "à restituição integral das quantias pagas referentes ao preço, devidamente atualizadas, bem como deve reaver a integralidade da comissão de corretagem, sendo totalmente nula a pena convencional estipulada."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1927449",
+    "metadata": "Ano: 2022 | Banca: FGV | Órgão: Prefeitura de Manaus - AM",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Festas de Formatura Ltda. (“Festas”) e Cenografia Ltda. (“Cenografia”) são sociedades empresárias que construíram uma parceria de 10 anos. No início da relação, estabeleceu-se um contrato escrito entre as partes, prevendo, apenas, que Cenografia sempre realizaria orçamento prévio a pedido de Festas. Se aprovado o valor, Festas pagaria e Cenografia executaria o serviço. No início de 2022, Festas passou a investir em outros tipos de evento e notificou Cenografia com objetivo de encerrar a relação contratual. Ao receber a notificação, Cenografia mostrou-se favorável à extinção da avença, requerendo apenas uma indenização no valor de R$ 30.000,00 pelos investimentos realizados para atender sua antiga cliente na primeira temporada de formaturas após o arrefecimento da pandemia. Festas concordou com os termos de negociação propostos por Cenografia e as partes resolveram levar seu acordo a termo.A respeito da extinção do contrato, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a resolução ocorreu por inadimplemento absoluto."
+      },
+      {
+        "letra": "B",
+        "texto": "houve resolução por inadimplemento relativo."
+      },
+      {
+        "letra": "C",
+        "texto": "a hipótese foi de resilição do contrato."
+      },
+      {
+        "letra": "D",
+        "texto": "houve o distrato do contrato entre as partes."
+      },
+      {
+        "letra": "E",
+        "texto": "a rescisão ocorreu em razão de cláusula resolutiva expressa."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1925089",
+    "metadata": "Ano: 2022 | Banca: FGV | Órgão: TJ-MS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "A Papelaria P Ltda. celebrou contrato de fornecimento com Suplex S/A pelo qual esta forneceria determinada quantidade de resmas de papel por mês, em troca do pagamento de quinhentos reais, valor a ser reajustado anualmente com base em índice oficial. As partes optaram, apenas por segurança, por formalizar o contrato por escritura pública e ele restou avençado por prazo indeterminado. As partes investiram significativamente na sua execução, mas depois de alguns meses de execução, a P pretende extinguir o contrato. Sobre essa pretensão, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "eventual distrato por acordo entre as partes deverá ser celebrado por escritura pública, pela regra de atração de forma;"
+      },
+      {
+        "letra": "B",
+        "texto": "em razão do prazo indeterminado, a P pode resilir o contrato unilateralmente mediante denúncia, a qual produzirá efeito assim que comunicada à Suplex;"
+      },
+      {
+        "letra": "C",
+        "texto": "o descumprimento de obrigação prevista em cláusula resolutiva expressa extinguirá o contrato de pleno direito, independentemente de manifestação de vontade do credor;"
+      },
+      {
+        "letra": "D",
+        "texto": "se não houver cláusula resolutiva expressa, a extinção do contrato fundada em inadimplemento do fornecimento das resmas dependerá de interpelação judicial;"
+      },
+      {
+        "letra": "E",
+        "texto": "a resolução do contrato por superveniente acontecimento imprevisível que acarrete onerosidade excessiva retroagirá à data de celebração do negócio."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1902242",
+    "metadata": "Ano: 2022 | Banca: FUNDATEC | Órgão: SPGG - RS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Nos contratos civis, quando a obrigação principal tiver sido cumprida em parte, com benefício para o credor, ou se o montante da penalidade for manifestamente excessivo, tendo em vista a natureza e a finalidade do negócio, a cláusula penal correspondente deverá ser:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Mantida, eis que a obrigação contratada não foi devidamente cumprida."
+      },
+      {
+        "letra": "B",
+        "texto": "Mantida, caso a obrigação não venha a ser integralmente cumprida no prazo de trinta dias após a notificação do devedor."
+      },
+      {
+        "letra": "C",
+        "texto": "Reduzida em um terço de seu valor."
+      },
+      {
+        "letra": "D",
+        "texto": "Reduzida pela metade."
+      },
+      {
+        "letra": "E",
+        "texto": "Reduzida equitativamente."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1998972",
+    "metadata": "Ano: 2021 | Banca: FGV | Órgão: TCE-RO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "A sociedade Alfa firmou contrato de fornecimento com a sociedade Beta pelo prazo de cinco anos. A Beta se comprometeu a fornecer, até o último dia de cada mês, trezentas baterias modelo Cqb914. Em troca, a Alfa se obrigou a pagar o montante de cinquenta mil reais, por meio de transferência bancária para conta-corrente indicada, a serem corrigidos anualmente com base no IPCA, figurando a sociedade Gama como fiadora das obrigações da Alfa. No caso de atraso de qualquer das partes, foi cominada pena de multa de 2% e juros de 1% sobre o valor da prestação pecuniária. Sobre o caso, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "paga uma das prestações da Alfa pela sociedade Gama, no vencimento, poderá esta exigir da Alfa o reembolso do valor despendido, mas não a multa de 2% e juros de 1% previstos no contrato;"
+      },
+      {
+        "letra": "B",
+        "texto": "realizada a transferência para conta distinta daquela estipulada no contrato, para que o pagamento seja considerado eficaz será necessário que a sociedade Alfa comprove que reverteu em proveito da sociedade Gama;"
+      },
+      {
+        "letra": "C",
+        "texto": "dissolvida a sociedade Gama, caso a sociedade Alfa se negue a encontrar outro fiador idôneo quando a sociedade Beta a intimar a fazê-lo, esta poderá cobrar imediatamente as dívidas vincendas;"
+      },
+      {
+        "letra": "D",
+        "texto": "para comprovar o adimplemento será necessário recibo que indique valor e espécie da dívida, nome do devedor, tempo e lugar do pagamento, com a assinatura do credor, ou do seu representante;"
+      },
+      {
+        "letra": "E",
+        "texto": "sem autorização legal prévia, é nula a cláusula que prevê a correção anual das prestações com base no IPCA, pois as dívidas em dinheiro deverão ser pagas no vencimento, em moeda corrente e pelo valor nominal."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1866092",
+    "metadata": "Ano: 2021 | Banca: CESPE / CEBRASPE | Órgão: TC-DF",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Acerca de responsabilidade civil, obrigações, atos unilaterais e contratos, julgue o item a seguir.É anulável contrato em que uma parte atribua à outra parte promessa de transferência de direitos sucessórios, quando vier a ser concretizada a futura sucessão.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1865201",
+    "metadata": "Ano: 2021 | Banca: FCC | Órgão: SEFAZ-SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "De acordo com a disciplina do Código Civil acerca da extinção do contrato, a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "cláusula resolutiva tácita independe de interpelação judicial."
+      },
+      {
+        "letra": "B",
+        "texto": "resilição unilateral exige prévio inadimplemento injustificado da outra parte."
+      },
+      {
+        "letra": "C",
+        "texto": "parte lesada pelo inadimplemento não poderá reclamar indenização por perdas e danos se, em vez de pedir a resolução do contrato, exigir-lhe o cumprimento."
+      },
+      {
+        "letra": "D",
+        "texto": "exceção do contrato não cumprido se aplica aos contratos bilaterais."
+      },
+      {
+        "letra": "E",
+        "texto": "resolução por onerosidade excessiva não poderá ser determinada se não tiver sido prevista, por escrito, no contrato."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1852651",
+    "metadata": "Ano: 2021 | Banca: FGV | Órgão: TJ-SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "X Ltda. e Y Ltda. celebraram contrato pelo qual a primeira se obrigava a fornecer à segunda equipamentos para sua fábrica, bem como a prestar serviços de manutenção e reparo dos referidos equipamentos, mediante remuneração, pelo prazo de cinco anos. O contrato continha ainda cláusula expressa segundo a qual o descumprimento da obrigação de manutenção e reparo das máquinas por X geraria a Y o direito à resolução do contrato. Ocorre que uma das máquinas quebrou e, a despeito das interpelações feitas por Y, X se recusou a fazer o conserto no prazo previsto no contrato sob a alegação de que se encontrava assoberbada de demandas. Diante disso, Y notificou extrajudicialmente X, para informar sua opção pela extinção do contrato e, diante da resistência de X, ajuizou ação judicial, na qual se reconheceu o inadimplemento de X e a resolução do contrato. Nesse caso, o contrato foi extinto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "automaticamente, no momento do inadimplemento de X;"
+      },
+      {
+        "letra": "B",
+        "texto": "por causa da notificação extrajudicial feita por Y a X, sendo a decisão judicial meramente declaratória;"
+      },
+      {
+        "letra": "C",
+        "texto": "por causa da notificação extrajudicial feita por Y a X, sendo a decisão judicial constitutiva;"
+      },
+      {
+        "letra": "D",
+        "texto": "pela decisão judicial, que resolve o vínculo entre as partes;"
+      },
+      {
+        "letra": "E",
+        "texto": "quando transitada em julgado a decisão judicial."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1846300",
+    "metadata": "Ano: 2021 | Banca: VUNESP | Órgão: SES-PB",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Quando as partes cumprem integralmente as prestações contratuais, ocorre a extinção do contrato decorrente de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "conclusão do objeto."
+      },
+      {
+        "letra": "B",
+        "texto": "término de prazo."
+      },
+      {
+        "letra": "C",
+        "texto": "rompimento tempestivo."
+      },
+      {
+        "letra": "D",
+        "texto": "rescisão compulsória."
+      },
+      {
+        "letra": "E",
+        "texto": "anulação formal."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1845115",
+    "metadata": "Ano: 2021 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Assinale a alternativa incorreta sobre a extinção dos contratos.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O distrato deve seguir a mesma forma exigida para o contrato."
+      },
+      {
+        "letra": "B",
+        "texto": "O direito de resolver o contrato por inadimplemento tem natureza de pretensão e se encontra sujeito à prescrição."
+      },
+      {
+        "letra": "C",
+        "texto": "A cláusula resolutiva expressa opera de pleno direito, ou seja, sem a necessidade de intervenção judicial."
+      },
+      {
+        "letra": "D",
+        "texto": "A resolução por inadimplemento nos contratos de execução diferida e prestação fracionada provoca efeitos ex tunc, enquanto nos contratos de execução continuada, ou sucessiva, provoca efeitos ex nunc."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1843998",
+    "metadata": "Ano: 2021 | Banca: FUNDATEC | Órgão: PGE-RS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "A exceção do contrato não cumprido",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "aplica-se aos contratos bilaterais e aos unilaterais."
+      },
+      {
+        "letra": "B",
+        "texto": "é diferente da exceção de inseguridade que se aplica aos unilaterais."
+      },
+      {
+        "letra": "C",
+        "texto": "pode ser exercida apenas nas prestações simultâneas."
+      },
+      {
+        "letra": "D",
+        "texto": "uma vez alegada conduz à resolução do contrato."
+      },
+      {
+        "letra": "E",
+        "texto": "pode ser invocada por contratante que esteja em mora."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1836877",
+    "metadata": "Ano: 2021 | Banca: FCC | Órgão: DPE-RR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Paulo alugou um quiosque em um centro comercial na cidade de Boa Vista-RR, em janeiro de 2018, pelo valor de R$ 2.000,00 (dois mil reais) mensais, além de pagamento de verbas condominiais e outras despesas. Com a pandemia, o centro comercial permaneceu fechado por vários meses, em razão de restrições sanitárias impostas pelas autoridades responsáveis. Durante todo esse tempo, Paulo não pôde explorar comercialmente o ponto e ficou sem qualquer renda que auferia da atividade desenvolvida no local e ficou inadimplente com o valor dos aluguéis e demais despesas. Em tal situação, Paulo",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "deverá alegar a aplicação do princípio da conservação contratual, da obrigatoriedade das disposições contratuais."
+      },
+      {
+        "letra": "B",
+        "texto": "deve se valer das normas protetivas do consumidor, diante de sua hipossuficiência, pois somente desta forma terá proteção contra as circunstâncias imprevistas e a onerosidade excessiva."
+      },
+      {
+        "letra": "C",
+        "texto": "poderá alegar a teoria da imprevisão, situação em que caberá somente o pedido de revisão dos termos contratuais, mas não a resolução do contrato."
+      },
+      {
+        "letra": "D",
+        "texto": "não poderá pleitear a revisão dos termos contratuais, pois não se aplicam ao caso as normas de proteção ao consumidor."
+      },
+      {
+        "letra": "E",
+        "texto": "poderá alegar a onerosidade excessiva, para pleitear a resolução ou revisão dos termos contratuais, mesmo que não seja o caso de aplicação das regras de proteção ao consumidor."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1744995",
+    "metadata": "Ano: 2021 | Banca: CONSULPLAN | Órgão: Prefeitura de Suzano - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Marcondes comprometeu-se, em contrato de compra e venda, a transferir a propriedade de um veículo a André, mediante pagamento a ser realizado em dez prestações. O contrato dispõe que, após o adimplemento da quarta parcela, Marcondes entregaria a posse do bem a André. Dias antes do vencimento da quarta parcela, Marcondes soube que André perdeu grande parte do seu patrimônio em um jogo de azar. Diante da situação hipotética, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Marcondes pode deixar de transferir a posse do veículo a André, apenas após o atraso, de noventa dias, no pagamento da quarta parcela, mediante notificação em cartório."
+      },
+      {
+        "letra": "B",
+        "texto": "A mera suspeita do risco de inadimplência das parcelas vincendas não permite a aplicação da exceção do contrato não cumprido, sendo hipótese de presunção absoluta de boa-fé."
+      },
+      {
+        "letra": "C",
+        "texto": "Marcondes, a princípio, pode deixar de transferir a posse do veículo a André, amparado por norma do Código Civil brasileiro que dispõe sobre a exceção do contrato não cumprido."
+      },
+      {
+        "letra": "D",
+        "texto": "A mera suspeita do risco de inadimplência das parcelas vincendas não permite a aplicação da exceção do contrato não cumprido, sendo hipótese de aplicação da teoria da aparência."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1680592",
+    "metadata": "Ano: 2021 | Banca: CESPE / CEBRASPE | Órgão: TCE-RJ",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "No que concerne a obrigações civis, contratos e prova do fato jurídico, julgue o item que se segue.No regime jurídico concebido pelo Código Civil, a resolução contratual pela onerosidade excessiva depende da demonstração da superveniência de fato imprevisível, ou seja, aquele impossível de ser antevisto pelas partes.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1610861",
+    "metadata": "Ano: 2020 | Banca: FAUEL | Órgão: Câmara de Apucarana - PR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "A respeito dos contratos, com base exclusivamente no Código Civil, assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A cláusula resolutiva expressa opera de pleno direito, mas a tácita depende de interpelação extrajudicial."
+      },
+      {
+        "letra": "B",
+        "texto": "Nas relações contratuais privadas, prevalecerão o princípio da intervenção mínima e a excepcionalidade da revisão contratual."
+      },
+      {
+        "letra": "C",
+        "texto": "Podem as partes, por cláusula expressa, reforçar, diminuir ou excluir a responsabilidade pela evicção."
+      },
+      {
+        "letra": "D",
+        "texto": "O contrato preliminar, exceto quanto à forma, deve conter todos os requisitos essenciais ao contrato a ser celebrado."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1157056",
+    "metadata": "Ano: 2020 | Banca: MPT | Órgão: MPT",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido",
+      "Sociedade, Parceria, Arrendamento Rural, Leasing, Franquia, Facturing e Direitos Autorais"
+    ],
+    "enunciado_principal": "Analise as seguintes proposições: I - De acordo com o Código Civil, os efeitos da sentença que decretar a resolução do contrato de execução continuada ou diferida, por onerosidade excessiva, valerão a partir da data da intimação das partes de sua publicação. II – Os contratos civis e empresariais presumem-se paritários e simétricos até a presença de elementos concretos que justifiquem o afastamento dessa presunção, ressalvados os regimes jurídicos previstos em leis especiais. III – Nos termos da Lei n° 8.245/1991, que dispõe sobre as locações dos imóveis urbanos e procedimentos a elas pertinentes, quando ajustada com prazo inferior a 30 (trinta) meses, findo o prazo estabelecido, a locação prorroga-se automaticamente por prazo indeterminado, podendo, contudo, ser retomado o imóvel em decorrência de extinção do contrato de trabalho, se a ocupação do imóvel pelo locatário estiver relacionada com seu emprego.Assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas a assertiva I está incorreta."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas a assertiva II está incorreta."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas a assertiva III está incorreta."
+      },
+      {
+        "letra": "D",
+        "texto": "Todas as assertivas estão corretas."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1134182",
+    "metadata": "Ano: 2020 | Banca: IBFC | Órgão: EBSERH",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "A teoria das obrigações contratuais tem por escopo caracterizar o contrato, abrangendo nesse conceito, todos os negócios jurídicos resultantes de acordo de vontades, de modo a uniformizar sua feição e excluir, assim, quaisquer controvérsias, seja qual for o tipo de contrato, desde que tenha acordo bilateral ou plurilateral de vontades. Sobre as formas de extinção dos contratos, assinale a alternativa que contém causa de dissolução do contrato anteriores ou contemporâneas à sua formação.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Resolução por inexecução voluntária do contrato"
+      },
+      {
+        "letra": "B",
+        "texto": "Resilição Unilateral"
+      },
+      {
+        "letra": "C",
+        "texto": "Resilição bilateral ou distrato"
+      },
+      {
+        "letra": "D",
+        "texto": "Direito de arrependimento"
+      },
+      {
+        "letra": "E",
+        "texto": "Morte de um dos contraentes em todos os tipos de contratos"
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1364554",
+    "metadata": "Ano: 2019 | Banca: TJ-PR | Órgão: TJ-PR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Corretagem, Transporte, Seguro, Constituição de Renda, Jogo e Aposta e Fiança",
+      "Contratos em Geral",
+      "Vícios Redibitórios e Evicção",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Assinale a assertiva CORRETA de acordo com o Código Civil:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O contrato de seguro prova-se exclusivamente com a exibição da apólice ou do bilhete do seguro."
+      },
+      {
+        "letra": "B",
+        "texto": "Aos contratos de transporte, em geral, são aplicáveis, mesmo que contrariem as regras previstas Código Civil, os preceitos constantes da legislação especial e de tratados e convenções internacionais."
+      },
+      {
+        "letra": "C",
+        "texto": "Em relação aos vícios redibitórios, a responsabilidade do alienante subsiste ainda que a coisa pereça em poder do alienatário, se perecer por vício oculto, já existente ao tempo da tradição."
+      },
+      {
+        "letra": "D",
+        "texto": "A resilição unilateral poderá sempre ser feita, em qualquer contrato, sem exigência de forma."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1243508",
+    "metadata": "Ano: 2019 | Banca: MetroCapital Soluções | Órgão: Prefeitura de Conchas - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "No que tange à extinção dos contratos (Direito Civil), analise os itens a seguir e, ao final, assinale a alternativa correta: I – A resolução do contrato poderá ser evitada se o réu oferecer modificação equitativa nas condições do contrato. II – O distrato formaliza-se pela mesma forma exigida pelo contrato. III – A resilição unilateral de um contrato pode operar-se independentemente de denúncia notificada à outra parte, mas somente nas hipóteses em que a lei expressamente permita tal forma de extinção dos contratos.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas o item I é verdadeiro."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas o item II é verdadeiro."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas o item III é verdadeiro."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas os itens I e II são verdadeiros."
+      },
+      {
+        "letra": "E",
+        "texto": "Apenas os itens II e III são verdadeiros."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1243498",
+    "metadata": "Ano: 2019 | Banca: MetroCapital Soluções | Órgão: Prefeitura de Conchas - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "No que se refere à extinção dos contratos (Direito Civil), analise os itens a seguir e, ao final, assinale a alternativa correta: I – Em se tratando de um contrato em que houve investimentos consideráveis por uma das partes, a denúncia unilateral só produzirá efeitos após o transcurso de prazo compatível com a natureza e valor dos investimentos. II – Para os casos de distrato, não há que se falar em atendimento ao princípio do paralelismo entre as formas. III – Tanto a cláusula resolutiva tácita quanto a expressa dependem de interpretação judicial.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas o item I é verdadeiro."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas o item II é verdadeiro."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas o item III é verdadeiro."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas os itens II e III são verdadeiros."
+      },
+      {
+        "letra": "E",
+        "texto": "Todos os itens são verdadeiros."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1156761",
+    "metadata": "Ano: 2019 | Banca: Quadrix | Órgão: CREA-TO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Acerca do direito civil, julgue o item.A teoria da imprevisão, ao contrário do que ocorre com a teoria da base objetiva dos negócios jurídicos, é aplicada nas hipóteses de fatos previsíveis ou imprevisíveis, desde que haja mudanças nas condições fáticas estabelecidas na avença que dificultem ou impeçam o cumprimento da prestação nos contratos de execução continuada ou diferida.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1154107",
+    "metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: TJ-BA",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Para a execução de um contrato, Rui realizou significativos investimentos, enquanto Leandro optou pela resilição unilateral desse negócio jurídico após determinado período de tempo. Conforme o Código Civil, a denúncia unilateral do contrato",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "produz efeitos imediatamente, em respeito à autonomia da vontade da parte."
+      },
+      {
+        "letra": "B",
+        "texto": "não produz efeitos, uma vez que tal modalidade é nula."
+      },
+      {
+        "letra": "C",
+        "texto": "não produz efeitos, já que Rui realizou significativos investimentos."
+      },
+      {
+        "letra": "D",
+        "texto": "produz efeitos depois de transcorrido tempo compatível com a natureza e o volume dos investimentos."
+      },
+      {
+        "letra": "E",
+        "texto": "produz efeitos somente para a parte que realizar a denúncia."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1140014",
+    "metadata": "Ano: 2019 | Banca: FUNDEP (Gestão de Concursos) | Órgão: Prefeitura de Contagem - MG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Sobre a extinção dos contratos, assinale com V as afirmativas verdadeiras e com F as falsas. ( ) O Código Civil brasileiro adotou a teoria da onerosidade excessiva e prevê para a sua configuração a existência de extrema vantagem para uma das partes. ( ) Os casos de impossibilidade de cumprimento da prestação em decorrência de caso fortuito ou força maior são solucionados pela aplicação dos dispositivos referentes à resolução por onerosidade excessiva.( ) Nas hipóteses de adimplemento substancial de um contrato, afasta-se a possibilidade de resolução, sem que isto prejudique eventuais pleitos indenizatórios. ( ) Se, dada a natureza do contrato, uma das partes houver feito investimentos consideráveis para a sua execução, a denúncia unilateral só produzirá efeito depois de transcorrido prazo compatível com a natureza e o vulto dos investimentos. Assinale a sequência correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "F V F V"
+      },
+      {
+        "letra": "B",
+        "texto": "V F V V"
+      },
+      {
+        "letra": "C",
+        "texto": "V F F F"
+      },
+      {
+        "letra": "D",
+        "texto": "F V V F"
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1092894",
+    "metadata": "Ano: 2019 | Banca: VUNESP | Órgão: TJ-RO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Noções e Princípios do Direito Contratual",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Uma loja de eletrodomésticos assinou um contrato, mediante instrumento particular, com um posto de combustível para que este fornecesse, todo mês, por prazo indeterminado, uma quantidade mínima de 50 litros de combustível para abastecer os veículos de entrega de mercadorias. Em razão do aumento do preço dos combustíveis, a loja de eletrodomésticos contratou entregadores de bicicleta para as entregas de menor porte e começou a diminuir as compras de combustível do posto. Por mais de dois anos, o fornecimento de combustível se deu em quantidades menores que as mínimas estabelecidas no contrato, sem qualquer ressalva ou reclamação por parte do posto de combustível. Então, o representante da loja de eletrodomésticos procurou o representante do posto de combustível e eles, verbalmente, declararam que o contrato estaria desfeito. Entretanto, um ano após o distrato verbal, o posto de combustível ajuizou uma demanda contra a loja de eletrodomésticos, exigindo-lhe o ressarcimento dos valores proporcionais ao não cumprimento de metas mínimas de aquisição de combustível, bem como do período após o distrato verbal, sob o argumento de que o desfazimento do contrato somente poderia ser realizado por escrito. Acerca do caso hipotético, pode-se corretamente afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "como o contrato foi celebrado por escrito, somente poderia ser alterado ou desfeito pela mesma forma, razão pela qual seriam devidos todos os valores, tendo em vista o descumprimento do contrato por parte da loja de eletrodomésticos."
+      },
+      {
+        "letra": "B",
+        "texto": "somente são devidos os valores posteriores ao distrato verbal que não é válido por não atender à mesma forma do contrato; em relação ao período em que houve fornecimento de combustível abaixo do previsto no contrato, configurou-se o denominado tu quoque."
+      },
+      {
+        "letra": "C",
+        "texto": "não há que se falar na aplicação da supressio em razão da incidência do princípio do pacta sunt servanta. Entretanto, aplicável no caso a surrectio."
+      },
+      {
+        "letra": "D",
+        "texto": "somente são devidos os valores do período de aquisição abaixo dos mínimos previstos no contrato, mas não os posteriores ao distrato verbal."
+      },
+      {
+        "letra": "E",
+        "texto": "nenhum valor é devido, tendo em vista que incidiu a supressio em razão da concordância tácita do posto em fornecer combustível em valores abaixo dos contratualmente previstos, bem como ocorreu um distrato verbal válido."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1062806",
+    "metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: TCE-RO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Compra e Venda",
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "A empresa GB Perfumes Ltda. fabrica e vende um perfume mundialmente premiado. A empresa K Perfumes, grande rede de lojas de cosméticos e perfumarias, comprou doze lotes do perfume da GB Perfumes para revendê-lo em suas lojas. O valor do contrato de compra e venda foi de R$ 1.200.000, devendo ser pago em doze parcelas de R$ 100.000, todo dia 7 do mês seguinte ao da entrega de cada lote feita pela fabricante; o primeiro lote foi entregue em janeiro de 2017. A GB Perfumes Ltda. entregou dez lotes à K Perfumes, embora esta tenha pagado somente as duas primeiras parcelas, o que ensejou a resolução da relação contratual entre as partes por inadimplemento, ocorrida em julho de 2018. A K Perfumes ajuizou ação de reparação de danos materiais e morais contra a GB Perfumes Ltda., com o objetivo de obter a reparação dos prejuízos causados em razão da resolução do contrato de compra e venda que celebraram, alegando onerosidade excessiva do valor de cada lote de perfume, o que configura culpa concorrente da vendedora para o inadimplemento contratual. Alegou também que o contrato tinha cláusulas abusivas, que resultaram em uma dívida vultosa e impossível de ser solvida, e que tinha como finalidade impor a resolução da relação contratual. A compradora, mesmo intimada para tanto, não trouxe nenhuma outra prova, sob o fundamento da onerosidade excessiva.Nessa situação hipotética,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a alegação de onerosidade excessiva feita pela K Perfumes deverá ser aceita mediante a comprovação apenas da imprevisibilidade de acontecimento extraordinário."
+      },
+      {
+        "letra": "B",
+        "texto": "o contrato de compra e venda celebrado é bilateral, razão por que a K Perfumes não poderia ter reclamado a prestação contratual antes de ter cumprido a sua prestação."
+      },
+      {
+        "letra": "C",
+        "texto": "os riscos ordinários assumidos nas relações negociais no exercício da autonomia privada das partes contratantes configuram onerosidade excessiva."
+      },
+      {
+        "letra": "D",
+        "texto": "o comportamento da GB Perfumes Ltda. configura suppressio, haja vista que, mesmo após o inadimplemento das parcelas, continuou entregando os lotes de perfumes à K Perfumes."
+      },
+      {
+        "letra": "E",
+        "texto": "a demanda judicial que pretende a declaração de onerosidade excessiva poderia ter sido ajuizada tanto antes quanto após o inadimplemento da parte que postula tal pretensão."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1062129",
+    "metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: TJ-AM",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Julgue o item que se segue, a respeito da disciplina jurídica dos contratos no direito civil.De acordo com o Código Civil, a extinção de um contrato em razão da ocorrência de situação prevista em cláusula resolutiva expressa depende de pronunciamento judicial para que possa produzir seus regulares efeitos jurídicos.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1060370",
+    "metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: TJ-AM",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Julgue o item que se seguem, a respeito da disciplina jurídica dos contratos no direito civil.De acordo com o Código Civil, a extinção de um contrato em razão da ocorrência de situação prevista em cláusula resolutiva expressa depende de pronunciamento judicial para que possa produzir seus regulares efeitos jurídicos.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1031317",
+    "metadata": "Ano: 2019 | Banca: Quadrix | Órgão: CREA-GO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Com relação ao direito civil, julgue o item.Suponha‐se que, em um contrato de aluguel, tenha‐se verificado que a prestação devida pelo locatário passou a ser excessivamente onerosa, diante da sua demissão do emprego. Nesse caso, pela onerosidade excessiva, o locatário fará jus à revisão judicial do contrato.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "988346",
+    "metadata": "Ano: 2019 | Banca: NC-UFPR | Órgão: Prefeitura de Curitiba - PR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Formação dos Contratos",
+      "Vícios Redibitórios e Evicção",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Acerca dos contratos, é INCORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A parte lesada pelo inadimplemento pode pedir a resolução do contrato, se não preferir exigir-lhe o cumprimento, cabendo, em qualquer dos casos, indenização por perdas e danos."
+      },
+      {
+        "letra": "B",
+        "texto": "A proposta de contrato obriga o proponente, se o contrário não resultar dos termos dela, da natureza do negócio, ou das circunstâncias do caso. No entanto, deixará de ser obrigatória se, feita sem prazo a pessoa presente, não foi imediatamente aceita."
+      },
+      {
+        "letra": "C",
+        "texto": "Nos contratos onerosos, o alienante responde pela evicção, salvo se a aquisição tenha se realizado em hasta pública."
+      },
+      {
+        "letra": "D",
+        "texto": "O contrato preliminar, exceto quanto à forma, deve conter todos os requisitos essenciais ao contrato a ser celebrado."
+      },
+      {
+        "letra": "E",
+        "texto": "A cláusula resolutiva expressa opera de pleno direito; a tácita depende de interpelação judicial."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "981380",
+    "metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: PGE-PE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Com base nas disposições do Código Civil acerca de contratos, julgue o item subsequente. Se, na execução do contrato, uma das partes houver realizado elevado investimento em razão da natureza do contrato, o distrato unilateral, exercido pela outra parte, produzirá efeitos somente após o decurso de período condizente com a importância investida.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1274445",
+    "metadata": "Ano: 2018 | Banca: FUNDATEC | Órgão: Prefeitura de Santa Rosa - RS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "A exceção de contrato não cumprido, no Direito Civil:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Embora sem base legal, é admitida pela doutrina e jurisprudência brasileira."
+      },
+      {
+        "letra": "B",
+        "texto": "Pode ocorrer nos contratos bilaterais e unilaterais, com exceção dos contratos por adesão."
+      },
+      {
+        "letra": "C",
+        "texto": "Pode ocorrer somente nos contratos bilaterais."
+      },
+      {
+        "letra": "D",
+        "texto": "Tem caráter impositivo, não podendo ser disposta pelas partes."
+      },
+      {
+        "letra": "E",
+        "texto": "Não é admitida no sistema jurídico nacional."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1086840",
+    "metadata": "Ano: 2018 | Banca: IBFC | Órgão: Prefeitura de Divinópolis - MG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Relativamente aos contratos disciplinados pelo Código Civil Brasileiro, deixa de ser obrigatória a proposta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "se, feita a pessoa ausente, tiver sido expedida a resposta dentro do prazo dado"
+      },
+      {
+        "letra": "B",
+        "texto": "se, feita sem prazo a pessoa ausente, tiver decorrido tempo suficiente para chegar a resposta ao conhecimento do proponente"
+      },
+      {
+        "letra": "C",
+        "texto": "se, feita sem prazo a pessoa presente, tenha sido imediatamente aceita"
+      },
+      {
+        "letra": "D",
+        "texto": "se, após dela, chegar ao conhecimento da outra parte a retratação do proponente"
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1000581",
+    "metadata": "Ano: 2018 | Banca: FEPESE | Órgão: Companhia Águas de Joinville",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Formação dos Contratos",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta acerca da formação dos contratos.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O contrato reputa-se celebrado no lugar em que houve a sua aceitação."
+      },
+      {
+        "letra": "B",
+        "texto": "Uma vez ofertada a proposta ao público, ela se tornará irrevogável e irretratável."
+      },
+      {
+        "letra": "C",
+        "texto": "A proposta de contrato com aceitação fora do prazo, com adições, restrições, ou modificações, importará nova proposta."
+      },
+      {
+        "letra": "D",
+        "texto": "A proposta de contrato entre ausentes deixará de ser obrigatória ao proponente, caso ela não seja imediatamente aceita pelo destinatário."
+      },
+      {
+        "letra": "E",
+        "texto": "A proposta de contrato não obriga o proponente a manutenção dos seus termos, porquanto deve ser interpretada como atos preliminares do negócio jurídico."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "993013",
+    "metadata": "Ano: 2018 | Banca: Crescer Concursos | Órgão: Prefeitura de Uruçuí - PI",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Sobre a Extinção dos Contratos, assinale a alternativa incorreta, nos termos do Código Civil Brasileiro:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dada a natureza do contrato, se uma das partes houver feito investimentos consideráveis para a sua execução, a denúncia unilateral só produzirá efeito depois de transcorrido prazo compatível com a natureza e o vulto dos investimentos"
+      },
+      {
+        "letra": "B",
+        "texto": "A cláusula resolutiva expressa opera de pleno direito; a tácita depende de interpelação judicial"
+      },
+      {
+        "letra": "C",
+        "texto": "Se no contrato as obrigações couberem a apenas uma das partes, poderá ela pleitear que a sua prestação seja reduzida, ou alterado o modo de executá-la, a fim de evitar a onerosidade excessiva"
+      },
+      {
+        "letra": "D",
+        "texto": "Nos contratos bilaterais, poderão os contratantes exigir o implemento da obrigação do outro, ainda que não cumprida a sua obrigação"
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "946822",
+    "metadata": "Ano: 2018 | Banca: UEM | Órgão: UEM",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Depósito, Mandato, Comissão, Agência e Distribuição",
+      "Troca ou Permuta, Contrato Estimatório e Doação",
+      "Contratos em Geral",
+      "Noções e Princípios do Direito Contratual",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Marque a alternativa incorreta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A liberdade de contratar será exercida em razão e nos limites da função social do contrato. Os contratantes são obrigados a guardar, assim na conclusão do contrato, como em sua execução, os princípios de probidade e boa-fé."
+      },
+      {
+        "letra": "B",
+        "texto": "A coisa recebida em virtude de contrato comutativo pode ser enjeitada por vícios ou defeitos ocultos, que a tornem imprópria ao uso a que é destinada, ou lhe diminuam o valor"
+      },
+      {
+        "letra": "C",
+        "texto": "Considera-se doação o contrato em que uma pessoa, por liberalidade, transfere do seu patrimônio bens ou vantagens para o de outra. A doação em comum a mais de uma pessoa entende-se distribuída entre elas por igual, salvo declaração em contrário."
+      },
+      {
+        "letra": "D",
+        "texto": "Pelo contrato de depósito recebe o depositário um objeto imóvel, para guardar, até que o depositante o reclame."
+      },
+      {
+        "letra": "E",
+        "texto": "É depósito necessário: o que se faz em desempenho de obrigação legal; o que se efetua por ocasião de alguma calamidade, como o incêndio, a inundação, o naufrágio ou o saque."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "927217",
+    "metadata": "Ano: 2018 | Banca: CONSULPLAN | Órgão: TJ-MG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Efeitos perante Terceiros: Estipulação em Favor de Terceiros, Contratos com Pessoa a Declarar e Promessa de Fato de Terceiro",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Quanto aos contratos, segundo o Código Civil, analise as afirmativas a seguir. I. A parte lesada pelo inadimplemento pode pedir a resolução do contrato, se não preferir exigir-lhe o cumprimento, cabendo, em qualquer dos casos, indenização por perdas e danos. II. Aquele que tiver prometido fato de terceiro responderá por perdas e danos, quando este o não executar, exceto se o terceiro for o cônjuge do promitente, dependendo da sua anuência o ato a ser praticado, e desde que, pelo regime do casamento, a indenização, de algum modo, venha a recair sobre os seus bens. III. É anulável a venda de ascendente a descendente, salvo se os outros descendentes e o cônjuge do alienante, independente do regime de bens, expressamente houverem consentido. IV. O vendedor pode executar a cláusula de reserva de domínio em razão do não pagamento integral do valor devido, independente de constituir o comprador em mora pelo protesto do título ou interpelação judicial. Estão corretas as afirmativas",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II, III e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "III e IV, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "I, II e III, apenas."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "905186",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: FAPESP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "A simples propositura da ação de revisão de contrato",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não inibe a caracterização da mora do autor."
+      },
+      {
+        "letra": "B",
+        "texto": "determina prazo para a purga da mora."
+      },
+      {
+        "letra": "C",
+        "texto": "faz com que responda pela impossibilidade da prestação."
+      },
+      {
+        "letra": "D",
+        "texto": "acarretará no pagamento de perdas e danos."
+      },
+      {
+        "letra": "E",
+        "texto": "torna a prestação inútil ao credor."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "904781",
+    "metadata": "Ano: 2018 | Banca: TRF - 3ª REGIÃO | Órgão: TRF - 3ª REGIÃO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Em matéria de extinção dos contratos é CORRETO afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Considerando os postulados da boa-fé objetiva e da função social do contrato, é eventualmente possível, mesmo diante do inadimplemento, recusar-se a resolução do contrato pela invocação da teoria do substancial adimplemento."
+      },
+      {
+        "letra": "B",
+        "texto": "Na resolução do contrato por onerosidade excessiva, segundo a lei, os efeitos da sentença que a decretar retroagirão ao momento da ocorrência dos acontecimentos tidos por extraordinários e imprevisíveis."
+      },
+      {
+        "letra": "C",
+        "texto": "A resilição unilateral é vedada e deve ser juridicamente qualificada como violação do contrato a justificar sua resolução por justa causa."
+      },
+      {
+        "letra": "D",
+        "texto": "Não havendo no contrato expressa cláusula resolutiva, não há como presumir que exista disposição tácita de tal natureza."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "893719",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: Prefeitura de Bauru - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Sobre a extinção dos contratos, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Para os casos de distrato, não há que se falar em atendimento ao princípio do paralelismo entre as formas."
+      },
+      {
+        "letra": "B",
+        "texto": "No caso de um contrato em que houve investimentos consideráveis por uma das partes, a denúncia unilateral só produzirá efeitos após o transcurso de prazo compatível com a natureza e valor dos investimentos."
+      },
+      {
+        "letra": "C",
+        "texto": "Tanto a cláusula resolutiva tácita quanto a expressa dependem de interpelação judicial."
+      },
+      {
+        "letra": "D",
+        "texto": "Nos contratos bilaterais, não é permitida a alegação de exceptio non adimpleti contractus caso um dos contratantes, antes de cumprida a sua obrigação, exija o implemento da obrigação do outro."
+      },
+      {
+        "letra": "E",
+        "texto": "Nos contratos por execução continuada, a resolução por onerosidade excessiva só poderá ser alegada em casos de extrema vantagem para uma das partes, decorrentes de eventos previsíveis."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "893717",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: Prefeitura de Bauru - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Prescrição e Decadência",
+      "Parte Geral",
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "Para salvar a vida de seu marido, Marta assumiu, perante Pedro, obrigação excessivamente onerosa em outubro de 2013. Em janeiro de 2018, Marta decide processar Pedro para reaver o valor pago. Nesse caso,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Marta decaiu do direito de reaver o valor pago e Pedro não pode renunciar à decadência, devendo o juiz reconhecer de ofício."
+      },
+      {
+        "letra": "B",
+        "texto": "Marta decaiu do direito de reaver o valor pago, mas Pedro pode renunciar à decadência."
+      },
+      {
+        "letra": "C",
+        "texto": "Marta decaiu do direito de reaver o valor pago, mas por ser um direito potestativo, o juiz não pode declarar a decadência de ofício."
+      },
+      {
+        "letra": "D",
+        "texto": "o direito de Marta cobrar o valor pago excessivamente em razão do vício da vontade conhecido como estado de perigo está prescrito."
+      },
+      {
+        "letra": "E",
+        "texto": "o direito de Marta cobrar o valor pago excessivamente não está prescrito, considerando o prazo geral de dez anos previsto no código civil."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "873613",
+    "metadata": "Ano: 2018 | Banca: FCC | Órgão: DPE-AM",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Geral",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido"
+    ],
+    "enunciado_principal": "No Código Civil, para que se dê a resolução contratual por onerosidade excessiva, será preciso o preenchimento dos requisitos seguintes:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "os contratos devem ser de parcelas sucessivas, ou diferidos no tempo, exigindo-se a onerosidade excessiva à parte prejudicada e vantagem extrema à outra, mas não a imprevisibilidade dos acontecimentos."
+      },
+      {
+        "letra": "B",
+        "texto": "a natureza dos contratos é irrelevante, bem como a vantagem a uma das partes, bastando a onerosidade excessiva à parte prejudicada e os acontecimentos extraordinários e imprevisíveis."
+      },
+      {
+        "letra": "C",
+        "texto": "os contratos devem ser bilaterais e as prestações sucessivas, bastando a onerosidade excessiva a uma das partes, sem se cogitar de vantagem à outra parte mas exigindo-se a imprevisibilidade dos acontecimentos."
+      },
+      {
+        "letra": "D",
+        "texto": "na atual sistemática civil, basta a onerosidade excessiva, não se cogitando seja de vantagem à outra parte, seja da imprevisibilidade dos eventos."
+      },
+      {
+        "letra": "E",
+        "texto": "os contratos devem ser de execução continuada ou diferida; e à onerosidade excessiva a uma das partes deve corresponder a extrema vantagem à outra, em virtude de acontecimentos extraordinários e imprevisíveis."
+      }
+    ],
+    "gabarito": "E"
+  }
+]

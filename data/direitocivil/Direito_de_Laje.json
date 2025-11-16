@@ -1,0 +1,756 @@
+[
+  {
+    "id": "3386994",
+    "metadata": "Ano: 2025 | Banca: FCC | Órgão: DPE-RS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Direito de Laje"
+    ],
+    "enunciado_principal": "Sobre o direito de laje:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os titulares do direito real de laje poderão dela usar, gozar e dispor, exceto por ato inter vivos, uma vez que se formalizou no ordenamento jurídico formal realidade que caracteriza as favelas verticalizadas de grandes centros urbanos, vedada a especulação imobiliária."
+      },
+      {
+        "letra": "B",
+        "texto": "Os titulares do direito real de laje prescindem de matrícula própria."
+      },
+      {
+        "letra": "C",
+        "texto": "Configura-se quando houver projeção de parte ideal do mesmo imóvel, como o terraço de cobertura, acessão ou benfeitoria sem desdobramento da propriedade, não se tratando de unidade autônoma e funcionalmente independente."
+      },
+      {
+        "letra": "D",
+        "texto": "Configurando-se o condomínio edilício, o direito real de laje implica a atribuição de fração ideal do terreno ao titular da laje."
+      },
+      {
+        "letra": "E",
+        "texto": "Configura-se quando o proprietário de uma construção-base cede a superfície superior ou inferior de sua construção a fim de que o titular da laje mantenha unidade autônoma e funcionalmente distinta daquela originalmente construída sobre o solo."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2522209",
+    "metadata": "Ano: 2024 | Banca: FUNDATEC | Órgão: DPE-PR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Posse - Teoria, Classificação e Aquisição",
+      "Enfiteuse e Superfície",
+      "Usufruto",
+      "Direito de Laje"
+    ],
+    "enunciado_principal": "São direitos reais os seguintes, EXCETO:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Usufruto."
+      },
+      {
+        "letra": "B",
+        "texto": "Laje."
+      },
+      {
+        "letra": "C",
+        "texto": "Superfície."
+      },
+      {
+        "letra": "D",
+        "texto": "Concessão de uso especial para qualquer fim."
+      },
+      {
+        "letra": "E",
+        "texto": "Os direitos oriundos da imissão provisória na posse, quando concedida à União, aos Estados, ao Distrito Federal, aos Municípios ou às suas entidades delegadas e a respectiva cessão e promessa de cessão."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2449075",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: TJ-AP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Direito de Laje"
+    ],
+    "enunciado_principal": "Geilda morava em uma mansão em Macapá. Quando sua filha Geruza casou, permitiu que ela construísse, sobre a superfície superior, um segundo andar que passou a ser moradia do casal, inclusive com matrícula própria no Registro Geral de Imóveis. O caso descrito caracteriza:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "benfeitoria útil;"
+      },
+      {
+        "letra": "B",
+        "texto": "multipropriedade;"
+      },
+      {
+        "letra": "C",
+        "texto": "direito real de laje;"
+      },
+      {
+        "letra": "D",
+        "texto": "condomínio edilício;"
+      },
+      {
+        "letra": "E",
+        "texto": "direito de superfície."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2414891",
+    "metadata": "Ano: 2024 | Banca: Instituto Consulplan | Órgão: MPE-SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Direito de Laje"
+    ],
+    "enunciado_principal": "Nos termos da Lei nº 10.406/2002, que institui o Código Civil, e da jurisprudência do STJ, julgue o item a seguir. Acerca do direito real de laje, em caso de alienação de qualquer das unidades sobrepostas, terão direito de preferência, em igualdade de condições com terceiros, os titulares da construção-base e da laje, nessa ordem, que serão cientificados por escrito para que se manifestem no prazo de trinta dias, salvo se o contrato dispuser de modo diverso.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2397768",
+    "metadata": "Ano: 2023 | Banca: FCC | Órgão: TRT - 12ª Região (SC)",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Propriedade",
+      "Enfiteuse e Superfície",
+      "Direito de Laje"
+    ],
+    "enunciado_principal": "De acordo com o disposto no Código Civil, são direitos reais:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a hipoteca, os contratos em geral e a anticrese."
+      },
+      {
+        "letra": "B",
+        "texto": "a posse, as servidões e o uso."
+      },
+      {
+        "letra": "C",
+        "texto": "a habitação, os direitos de vizinhança e o penhor."
+      },
+      {
+        "letra": "D",
+        "texto": "a propriedade, a superfície e a laje."
+      },
+      {
+        "letra": "E",
+        "texto": "a concessão de uso especial para fins de moradia, os direitos da personalidade e o usufruto."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2384445",
+    "metadata": "Ano: 2023 | Banca: FCC | Órgão: TRT - 12ª Região (SC)",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Direito de Laje"
+    ],
+    "enunciado_principal": "O direito de laje, previsto no artigo 1.510-A do Código Civil, constitui direito",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "real, em que a unidade imobiliária autônoma é constituída em matrícula própria e na qual o titular pode dela usar, gozar e dispor."
+      },
+      {
+        "letra": "B",
+        "texto": "obrigacional, em que, por ajuste verbal ou escrito, o proprietário de uma construção-base cede a superfície superior ou inferior de sua construção, a fim de que o titular da laje possa ali edificar."
+      },
+      {
+        "letra": "C",
+        "texto": "contratual decorrente do comodato, o qual tem por principais características a gratuidade e a limitação temporal do ajuste."
+      },
+      {
+        "letra": "D",
+        "texto": "obrigacional, no qual é permitida a cessão da superfície superior e vedada a cessão da área inferior da construção-base."
+      },
+      {
+        "letra": "E",
+        "texto": "real, em que a instituição da laje implica em atribuição de fração ideal do terreno ao titular da laje."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2144037",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: TJ-MS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Direito de Laje"
+    ],
+    "enunciado_principal": "Quanto ao direito de laje, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a matrícula do imóvel, objeto do direito de laje, será a mesma do imóvel já existente, quando da sua instituição;"
+      },
+      {
+        "letra": "B",
+        "texto": "não há direito de preferência entre os titulares do direito de laje, em caso de alienação;"
+      },
+      {
+        "letra": "C",
+        "texto": "apenas a superfície superior do imóvel pode ser cedida, como o nome faz supor;"
+      },
+      {
+        "letra": "D",
+        "texto": "a constituição do direito de laje implica a concessão de fração ideal do terreno onde está localizado;"
+      },
+      {
+        "letra": "E",
+        "texto": "é negócio bifronte."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2094592",
+    "metadata": "Ano: 2023 | Banca: FEPESE | Órgão: Prefeitura de Balneário Camboriú - SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Direito de Laje"
+    ],
+    "enunciado_principal": "A respeito do direito real de laje, assinale a alternativa correta com fundamento na legislação brasileira.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A ruína da construção-base não implica extinção do direito real de laje se este tiver sido instituído sobre o subsolo."
+      },
+      {
+        "letra": "B",
+        "texto": "O direito real de laje contempla o espaço aéreo ou o subsolo de terrenos privados, não se aplicando a terrenos públicos."
+      },
+      {
+        "letra": "C",
+        "texto": "Os titulares da laje, unidade imobiliária autônoma constituída em matrícula própria, poderão dela usar e gozar, mas não poderão dela dispor."
+      },
+      {
+        "letra": "D",
+        "texto": "Em caso de alienação de unidades sobrepostas, terão direito de preferência, em igualdade de condições com terceiros, os titulares da laje e da construção-base, nessa ordem."
+      },
+      {
+        "letra": "E",
+        "texto": "Se a construção-base for reconstruída no prazo de 10 anos não implica extinção do direito real de laje."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1919113",
+    "metadata": "Ano: 2022 | Banca: IBFC | Órgão: DETRAN-AM",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Direito de Laje"
+    ],
+    "enunciado_principal": "A Lei nº 13.465/2017 incluiu no Código Civil o Direito Real de Laje. Sobre este instituto, assinale a alternativa incorreta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O proprietário de uma construção-base poderá ceder a superfície superior ou inferior de sua construção a fim de que o titular da laje mantenha unidade distinta daquela originalmente construída sobre o solo"
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas o proprietário da construção-base terá a matrícula do imóvel, sendo que os titulares das lajes equiparam-se a possuidores"
+      },
+      {
+        "letra": "C",
+        "texto": "O titular do direito real de laje responderá pelos encargos e tributos que incidirem sobre a sua unidade"
+      },
+      {
+        "letra": "D",
+        "texto": "O direito real de laje contempla o espaço aéreo ou o subsolo de terrenos públicos ou privados, tomados em projeção vertical, como unidade imobiliária autônoma, não contemplando as demais áreas edificadas ou não pertencentes ao proprietário da construção-base"
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1914747",
+    "metadata": "Ano: 2022 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Direito de Laje"
+    ],
+    "enunciado_principal": "É correto dizer, sobre o direito de laje, que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o titular do direito de laje não pode ceder a superfície de sua construção para a instituição de um novo direito real de laje."
+      },
+      {
+        "letra": "B",
+        "texto": "o titular do direito real de laje somente pode dispor de sua unidade com autorização do titular da construção-base."
+      },
+      {
+        "letra": "C",
+        "texto": "o direito real de laje pode ter como objeto tanto a superfície superior como a superfície inferior de uma construção."
+      },
+      {
+        "letra": "D",
+        "texto": "a instituição do direito real de laje implica a atribuição de fração ideal de terreno ao titular da laje."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1873026",
+    "metadata": "Ano: 2021 | Banca: VUNESP | Órgão: Prefeitura de Santos - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Direito de Laje"
+    ],
+    "enunciado_principal": "Em relação ao direito de laje, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O direito real de laje constitui unidade imobiliária autônoma que não se confunde com as demais áreas edificadas pertencentes ou não ao proprietário da construção-base."
+      },
+      {
+        "letra": "B",
+        "texto": "Ainstituição do direito real de laje implica a atribuição ao seu titular de uma fração ideal do terreno, em proporção às áreas edificadas."
+      },
+      {
+        "letra": "C",
+        "texto": "Cabe ao titular do direito real de laje suportar os encargos relativos à sua unidade imobiliária autônoma, devendo o proprietário da construção-base suportar as despesas relativas à conservação das partes que servem ao prédio todo, como alicerces, colunas, pilares, paredes e telhados."
+      },
+      {
+        "letra": "D",
+        "texto": "Ao titular do direito real de laje é assegurado o direito de ceder a superfície de sua construção para a instituição de um sucessivo direito de laje, desde que respeitadas as posturas edilícias e urbanísticas."
+      },
+      {
+        "letra": "E",
+        "texto": "É nula de pleno direito a alienação do direito real de laje, se não for dada oportunidade ao proprietário da construção-base para exercer seu direito de preferência."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1869901",
+    "metadata": "Ano: 2021 | Banca: IESES | Órgão: TJ-RO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Direito de Laje"
+    ],
+    "enunciado_principal": "O proprietário de uma construção-base poderá ceder a superfície de sua construção a fim de que o titular da laje mantenha unidade distinta daquela originalmente construída sobre o solo. Essa superfície poderá ser:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas superior de sua construção"
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas inferior de sua construção."
+      },
+      {
+        "letra": "C",
+        "texto": "Não há previsão legal do direito real de laje no direito brasileiro."
+      },
+      {
+        "letra": "D",
+        "texto": "Superior ou inferior de sua construção."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1868304",
+    "metadata": "Ano: 2021 | Banca: IESES | Órgão: TJ-RO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Direito de Laje"
+    ],
+    "enunciado_principal": "Sobre o direito de laje, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os Estados, Municípios e o Distrito Federal não poderão dispor sobre posturas edilícias e urbanísticas associadas ao direito real de laje."
+      },
+      {
+        "letra": "B",
+        "texto": "A instituição do direito real de laje implica a atribuição de fração ideal de terreno ao titular da laje ou a participação proporcional em áreas já edificadas."
+      },
+      {
+        "letra": "C",
+        "texto": "O direito de laje é semelhante ao condomínio edilício e ao condomínio tradicional."
+      },
+      {
+        "letra": "D",
+        "texto": "O direito real de laje contempla o espaço aéreo ou o subsolo de terrenos públicos ou privados, tomados em projeção vertical, como unidade imobiliária autônoma, não contemplando as demais áreas edificadas ou não pertencentes ao proprietário da construção-base."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1836897",
+    "metadata": "Ano: 2021 | Banca: FCC | Órgão: DPE-RR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Posse - Teoria, Classificação e Aquisição",
+      "Uso e Habitação",
+      "Direito de Laje",
+      "Multipropriedade Imobiliária"
+    ],
+    "enunciado_principal": "No âmbito do direito urbanístico, considere os itens a seguir: I. O direito real de laje contempla o espaço aéreo ou o subsolo de terrenos públicos ou privados, tomados em projeção vertical, como unidade imobiliária autônoma, não contemplando as demais áreas edificadas ou não pertencentes ao proprietário da construção-base. II. A legitimação de posse constitui forma originária de aquisição do direito real de propriedade conferido por ato do poder público, exclusivamente no âmbito da Reurb, àquele que detiver em área pública ou possuir em área privada, como sua, unidade imobiliária com destinação urbana, integrante de núcleo urbano informal consolidado existente em 22 de dezembro de 2016. III. Multipropriedade é o regime de condomínio em que cada um dos proprietários de um mesmo imóvel é titular de uma fração de tempo, à qual corresponde a faculdade de uso e gozo, com exclusividade, da totalidade do imóvel, a ser exercida pelos proprietários de forma alternada. IV. Aquele que, até 22 de dezembro de 2016, possuiu como seu, por cinco anos, ininterruptamente e sem oposição, até duzentos e cinquenta metros quadrados de imóvel público situado em área com características e finalidade urbanas, e que o utilize para sua moradia ou de sua família, tem o direito real de uso para fins de moradia em relação ao bem objeto da posse, desde que não seja proprietário ou concessionário, a qualquer título, de outro imóvel urbano ou rural. Está correto o que se afirma APENAS em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "III e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "I, II e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "I e II."
+      },
+      {
+        "letra": "D",
+        "texto": "I e III."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II e III."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1785385",
+    "metadata": "Ano: 2021 | Banca: FCC | Órgão: DPE-BA",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Direito de Laje"
+    ],
+    "enunciado_principal": "A respeito do direito de sobrelevação, avalie as seguintes asserções e a relação proposta entre elas: I. Caso o proprietário do solo e o superficiário não sejam a mesma pessoa, para que este conceda o direito de laje em segundo grau é indispensável o consentimento do dono do solo. PORQUE II. O contrato deve prever de maneira específica o direito de laje em segundo grau, presumindo-se a vedação no caso de silêncio. A respeito dessas asserções:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As asserções I e II são proposições falsas."
+      },
+      {
+        "letra": "B",
+        "texto": "A asserção I é uma proposição verdadeira e a II é uma proposição falsa."
+      },
+      {
+        "letra": "C",
+        "texto": "As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I."
+      },
+      {
+        "letra": "D",
+        "texto": "As asserções I e II são proposições verdadeiras e a II é uma justificativa correta da I."
+      },
+      {
+        "letra": "E",
+        "texto": "A asserção I é uma proposição falsa e a II é uma proposição verdadeira."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1721485",
+    "metadata": "Ano: 2020 | Banca: VUNESP | Órgão: Câmara Municipal de Pindorama - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Direito de Laje"
+    ],
+    "enunciado_principal": "Sobre o direito de laje, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o titular do direito real de laje não responde pelos encargos e tributos que incidem sobre a sua unidade."
+      },
+      {
+        "letra": "B",
+        "texto": "a instituição do direito real de laje implica na atribuição de uma fração ideal de terreno ao titular da laje e a participação proporcional em áreas já edificadas."
+      },
+      {
+        "letra": "C",
+        "texto": "o titular da laje poderá ceder a superfície de sua construção para a instituição de um sucessivo direito real de laje, desde que haja autorização expressa dos titulares da construção-base e das demais lajes, respeitadas as posturas edilícias e urbanísticas vigentes."
+      },
+      {
+        "letra": "D",
+        "texto": "compete apenas à União dispor sobre as posturas edilícias e urbanísticas associadas ao direito real de laje."
+      },
+      {
+        "letra": "E",
+        "texto": "o direito real de laje contempla o espaço aéreo ou o subsolo de terrenos públicos ou privados, tomados em projeção vertical, como unidade imobiliária autônoma, contemplando as demais áreas edificadas ou não pertencentes ao proprietário da construção-base."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1146353",
+    "metadata": "Ano: 2019 | Banca: VUNESP | Órgão: DAEM",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Direito de Laje"
+    ],
+    "enunciado_principal": "A respeito do direito de laje, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A instituição do direito real de laje implica na atribuição de fração ideal de terreno ao titular da laje."
+      },
+      {
+        "letra": "B",
+        "texto": "Se houver mais de uma laje, em caso de alienação, terá preferência para a aquisição, sucessivamente, o titular das lajes descendentes e o titular das lajes ascendentes, não assegurada a prioridade para a laje mais próxima."
+      },
+      {
+        "letra": "C",
+        "texto": "A ruína da construção-base implica extinção do direito real de laje, mesmo se este tiver sido instituído sobre o subsolo."
+      },
+      {
+        "letra": "D",
+        "texto": "A ruína da construção-base não implica extinção do direito real de laje se esta for reconstruída no prazo de cinco anos."
+      },
+      {
+        "letra": "E",
+        "texto": "A laje não gera a abertura de matrícula autônoma, sendo registrada mediante averbação na matrícula da construção-base."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1013831",
+    "metadata": "Ano: 2019 | Banca: FUNDEP (Gestão de Concursos) | Órgão: CAU-MG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Direito de Laje"
+    ],
+    "enunciado_principal": "De acordo com a doutrina civilista e as disposições próprias do Código Civil quanto ao direito de laje, assinale a alternativa incorreta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Lajeário é aquele que titulariza o direito de laje, seja da laje em sobrelevação ou da laje em infrapartição, derivado tal direito de uma propriedade ou de uma laje."
+      },
+      {
+        "letra": "B",
+        "texto": "A laje pode ser constituída tanto de forma ascendente quanto descendente em relação à construção original, não importando se trata-se de construção sobre o solo ou construção que já se fez em laje."
+      },
+      {
+        "letra": "C",
+        "texto": "A laje deve ser objeto de valoração própria, dada sua extensão, qualidade, localização etc., e não há previsão legal acerca de qualquer percentual fixo derivado do imóvel original."
+      },
+      {
+        "letra": "D",
+        "texto": "A lei civil veda que um terreno que contenha apenas uma estrutura de laje superior, não envelopada ou sem qualquer outra forma de acabamento, tenha constituído no espaço que lhe seja subjacente, um direito de laje."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "994247",
+    "metadata": "Ano: 2019 | Banca: FUNDEP (Gestão de Concursos) | Órgão: DPE-MG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Direito de Laje"
+    ],
+    "enunciado_principal": "Analise as afirmativas a seguir sobre o direito real de laje e a relação proposta entre elas. I. O direito real de laje contempla o espaço aéreo ou o subsolo de terrenos públicos ou privados, QUANDO II. as unidades imobiliárias autônomas possuam isolamento funcional e acesso independente. A respeito dessas afirmativas, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ambas as afirmativas são verdadeiras, e a afirmativa II justifica a afirmativa I."
+      },
+      {
+        "letra": "B",
+        "texto": "Ambas as afirmativas são verdadeiras, e a afirmativa II é um pressuposto para a afirmativa I."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas a afirmativa I é verdadeira."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas a afirmativa II é verdadeira."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "990774",
+    "metadata": "Ano: 2019 | Banca: VUNESP | Órgão: TJ-RS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Direito de Laje"
+    ],
+    "enunciado_principal": "Acerca do Direito real de Laje, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O titular da construção-base ou da laje a quem não se der conhecimento da alienação poderá, mediante depósito do respectivo preço, haver para si a parte alienada a terceiros, se o requerer no prazo decadencial de um ano, contado da data de alienação."
+      },
+      {
+        "letra": "B",
+        "texto": "Em caso de alienação de qualquer das unidades sobrepostas, terão direito de preferência, em igualdade de condições com terceiros, os titulares da construção-base e da laje, nessa ordem, e havendo mais de uma laje, terá preferência, sucessivamente, o titular das lajes descendentes e o titular das lajes ascendentes, assegurada a prioridade para a laje mais próxima à unidade sobreposta a ser alienada."
+      },
+      {
+        "letra": "C",
+        "texto": "O Direito de Laje contempla o espaço aéreo ou o subsolo de terrenos públicos ou privados, tomados em projeção vertical; a ruína da construção-base não implica extinção do direito real de laje, se reconstruída no prazo de cinco anos."
+      },
+      {
+        "letra": "D",
+        "texto": "Os titulares da laje, unidade imobiliária autônoma constituída em matrícula própria, não têm direito à fração ideal de terreno onde está inserida a construção base, tendo, entretanto, direito à participação proporcional das áreas anteriormente edificadas."
+      },
+      {
+        "letra": "E",
+        "texto": "O titular da laje poderá ceder a superfície de sua construção para a instituição de um sucessivo direito real de laje, desde que haja autorização expressa ou tácita dos titulares da construção-base e das demais lajes, respeitadas as posturas edilícias e urbanísticas vigentes."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1731025",
+    "metadata": "Ano: 2018 | Banca: FUNDEP (Gestão de Concursos) | Órgão: Prefeitura de Ervália - MG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Enfiteuse e Superfície",
+      "Propriedade Resolúvel e Propriedade Fiduciária",
+      "Direito de Laje"
+    ],
+    "enunciado_principal": "Analise as seguintes afirmativas sobre os direitos reais e assinale com V as verdadeiras e com F as falsas. ( ) As normas previstas no Código Civil sobre direito de superfície não revogam as relativas a direito de superfície constantes do Estatuto da Cidade (Lei nº 10.257/2001) por ser instrumento de política de desenvolvimento urbano. ( ) A destinação diversa dada pelo superficiário ao terreno objeto do direito de superfície é causa de suspensão do contrato por até 90 (noventa) dias, não havendo que se falar em extinção do direito de superfície sem que seja dada a prévia oportunidade ao contratante de regularizar a adequação da área. ( ) O direito de laje, instituído como direito real, somente se caracterizará em construções verticais ascendentes ou descendentes, concedendo ao titular do novo direito a possibilidade de manutenção de unidade autônoma da edificação original. ( ) A propriedade fiduciária gera a imediata transferência da propriedade do fiduciante ao credor fiduciário, como premissa para que o vendedor possa imediatamente receber o preço e se satisfazer. Já na reserva de domínio, a relação jurídica se circunscreve a vendedor e comprador, pois o próprio alienante realiza o financiamento da aquisição em prestações. Assinale a sequência correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "F V V F"
+      },
+      {
+        "letra": "B",
+        "texto": "V V F F"
+      },
+      {
+        "letra": "C",
+        "texto": "V F V V"
+      },
+      {
+        "letra": "D",
+        "texto": "F F F V"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "927219",
+    "metadata": "Ano: 2018 | Banca: CONSULPLAN | Órgão: TJ-MG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Direito de Laje"
+    ],
+    "enunciado_principal": "Quanto ao direito de laje, assinale a afirmativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os titulares da laje, unidade imobiliária autônoma constituída em matrícula própria, poderão dela usar, gozar e dispor."
+      },
+      {
+        "letra": "B",
+        "texto": "No caso de alienação de qualquer das unidades sobrepostas, terão direito de preferência, em igualdade de condições com terceiros, os titulares da construção-base e da laje, nessa ordem."
+      },
+      {
+        "letra": "C",
+        "texto": "A instituição do direito real de laje implica a atribuição de fração ideal de terreno ao titular da laje ou a participação proporcional em áreas já edificadas."
+      },
+      {
+        "letra": "D",
+        "texto": "O seu titular poderá ceder a superfície de sua construção para a instituição de um sucessivo direito real de laje, desde que haja autorização expressa dostitulares da construção-base e das demais lajes, e que sejam respeitadas as posturas edilícias e urbanísticas vigentes."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "904630",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: PGE-SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Direito de Laje"
+    ],
+    "enunciado_principal": "Sobre o direito real de laje, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pressupõe a coexistência de unidades imobiliárias, autônomas ou não, de titularidades distintas e situadas na mesma área, de modo a permitir que o proprietário ceda a superfície de sua construção a outrem para que ali construa unidade distinta daquela originalmente construída sobre o solo."
+      },
+      {
+        "letra": "B",
+        "texto": "a ruína da construção-base não implica extinção do direito real de laje se houver sua reconstrução no prazo de 10 anos."
+      },
+      {
+        "letra": "C",
+        "texto": "as unidades autônomas constituídas em matrícula própria poderão ser alienadas por seu titular sem necessidade de prévia anuência do proprietário da construção-base."
+      },
+      {
+        "letra": "D",
+        "texto": "confere ao seu titular o direito de sobrelevações sucessivas, mediante autorização expressa ou tácita do proprietário da construção-base, desde que observadas as posturas edilícias e urbanísticas vigentes."
+      },
+      {
+        "letra": "E",
+        "texto": "contempla espaço aéreo e subsolo, tomados em projeção vertical, atribuindo ao seu titular fração ideal de terreno que comporte construção."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "896312",
+    "metadata": "Ano: 2018 | Banca: IESES | Órgão: TJ-CE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Direito de Laje"
+    ],
+    "enunciado_principal": "Acerca do registro de Laje, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A instituição do direito real de laje implica em atribuição de fração ideal de terreno ao titular da laje ou a participação proporcional em áreas já edificadas."
+      },
+      {
+        "letra": "B",
+        "texto": "Em caso de alienação de qualquer das unidades sobrepostas, terão direito de preferência, em igualdade de condições com terceiros, os titulares da construção-base e da laje, nessa ordem, que serão cientificados por escrito para que se manifestem no prazo de trinta dias, salvo se o contrato dispuser de modo diverso."
+      },
+      {
+        "letra": "C",
+        "texto": "A ruína da construção-base implica extinção do direito real de laje e afasta o direito a eventual reparação civil contra o culpado."
+      },
+      {
+        "letra": "D",
+        "texto": "Se houver mais de uma laje, terá preferência, sucessivamente, o titular das lajes descendentes e o titular das lajes ascendentes, assegurada a prioridade para a laje mais próxima à unidade sobreposta a ser alienada."
+      }
+    ],
+    "gabarito": "B"
+  }
+]

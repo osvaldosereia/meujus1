@@ -1,0 +1,1520 @@
+[
+  {
+    "id": "3235950",
+    "metadata": "Ano: 2025 | Banca: IDESG | Órgão: Prefeitura de Cariacica - ES",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Prestação de Serviços e Empreitada"
+    ],
+    "enunciado_principal": "Os contratos em espécie regulam diversas relações contratuais no Direito Civil. Qual das alternativas abaixo está correta sobre um dos contratos em espécie previstos no Código Civil Brasileiro?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O contrato de doação é caracterizado por ser sempre oneroso, independentemente da situação de gratuidade envolvida."
+      },
+      {
+        "letra": "B",
+        "texto": "O contrato de compra e venda exige sempre que o comprador pague o preço no momento da celebração do contrato, não sendo possível parcelamento."
+      },
+      {
+        "letra": "C",
+        "texto": "O contrato de prestação de serviços pode ser ajustado para que o pagamento ocorra após a realização do serviço, desde que as partes assim acordem."
+      },
+      {
+        "letra": "D",
+        "texto": "O contrato de locação exige a entrega do bem, mas não exige que o pagamento do aluguel seja feito de acordo com os critérios acordados entre as partes."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3231178",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: Prefeitura de Aracaju - SE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Prestação de Serviços e Empreitada"
+    ],
+    "enunciado_principal": "A respeito da prescrição no direito civil, dos contratos, da hipoteca, da propriedade e do negócio jurídico, julgue o item subsequente.Nas empreitadas, caso o empreiteiro tenha fornecido apenas mão de obra, os riscos correrão, independentemente de culpa, por conta do dono da obra.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3179539",
+    "metadata": "Ano: 2025 | Banca: FGV | Órgão: TRF - 3ª REGIÃO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Prestação de Serviços e Empreitada"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Para promover a responsabilidade do construtor por vício, o adquirente do imóvel deve observar o prazo decadencial de cinco anos, além do prazo prescricional de cinco anos."
+      },
+      {
+        "letra": "B",
+        "texto": "Ao construtor é imposto um prazo legal de garantia pela solidez e segurança da construção. Ainda pode responder por vícios, no prazo prescricional de dez anos."
+      },
+      {
+        "letra": "C",
+        "texto": "Durante cinco anos, o construtor responde por vícios da construção, ficando liberado quanto aos vícios que se manifestem após esse prazo."
+      },
+      {
+        "letra": "D",
+        "texto": "O adquirente, sendo consumidor, deve reclamar por vícios aparentes ou não aparentes no prazo de cinco anos, contados da entrega da obra."
+      },
+      {
+        "letra": "E",
+        "texto": "Se o contrato for escrito, o construtor responderá por vícios, observada a prescrição trienal."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3169949",
+    "metadata": "Ano: 2024 | Banca: FCC | Órgão: TRT - 20ª REGIÃO (SE)",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Princípios Gerais de Direito Civil",
+      "Lei de Introdução às Normas do Direito Brasileiro (LINDB)",
+      "Contratos em Espécie",
+      "Prestação de Serviços e Empreitada"
+    ],
+    "enunciado_principal": "De acordo com a Lei de Introdução às Normas do Direito Brasileiro, a lei nova, diante de um contrato de prestações sucessivas,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não produzirá nenhum efeito, ainda que não atinja o ato jurídico perfeito, o direito adquirido e a coisa julgada."
+      },
+      {
+        "letra": "B",
+        "texto": "atinge o negócio em todas suas disposições, incluindo o direito adquirido, tendo em vista que possui efeito imediato."
+      },
+      {
+        "letra": "C",
+        "texto": "terá efeito imediato, mas deve respeitar o ato jurídico perfeito, o direito adquirido e a coisa julgada."
+      },
+      {
+        "letra": "D",
+        "texto": "atinge o negócio em todas suas disposições, incluindo o ato jurídico perfeito, tendo em vista que possui efeito retroativo."
+      },
+      {
+        "letra": "E",
+        "texto": "terá efeito imediato, mas deve respeitar o ato jurídico perfeito, o direito adquirido e a coisa julgada, salvo se a lei nova tratar de norma de ordem pública,"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3157916",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: Prefeitura de Cuiabá - MT",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Prestação de Serviços e Empreitada"
+    ],
+    "enunciado_principal": "Paulo, empresário, firmou contrato com a empresa Construtora Novo Horizonte Ltda. para a construção de um galpão industrial, com previsão de entrega em 30 de março de 2022. O contrato especifica que o galpão deve atender a determinadas normas técnicas e possuir equipamentos específicos para a atividade industrial. Contudo, a Construtora Novo Horizonte não entregou o galpão na data prevista, e, após sucessivas prorrogações, a obra foi concluída apenas em 30 de agosto de 2022. Além do atraso, Paulo identificou falhas no projeto, pois a construtora não seguiu integralmente as especificações contratuais e alguns dos equipamentos previstos estavam ausentes, notificando, imediatamente a Construtora sobre tais observações. Diante da situação hipotética narrada e de acordo com o Código Civil, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Paulo pode exigir que a Construtora Novo Horizonte Ltda. realize as reparações necessárias e forneça os equipamentos faltantes, além de poder pleitear perdas e danos em razão do descumprimento do prazo contratual e das especificações."
+      },
+      {
+        "letra": "B",
+        "texto": "como o galpão foi entregue, ainda que com atraso, Paulo não tem direito a qualquer tipo de compensação, pois resta presumido o adimplemento satisfatório e substancial da obrigação, excluindo eventual direito a perdas e danos."
+      },
+      {
+        "letra": "C",
+        "texto": "diante do atraso na entrega e das falhas de execução, Paulo pode imediatamente rescindir o contrato e exigir indenização, independentemente de notificação prévia à construtora."
+      },
+      {
+        "letra": "D",
+        "texto": "Paulo pode exigir perdas e danos apenas em relação ao atraso na entrega, mas não em relação aos equipamentos e falhas na execução, pois estes itens foram aceitos ao receber o galpão."
+      },
+      {
+        "letra": "E",
+        "texto": "Paulo, por ser empresário e presumidamente experiente e não ter expressamente recusado o bem, perdeu o direito de exigir reparação pelos defeitos, pois restou configurada a aceitação tácita"
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3056824",
+    "metadata": "Ano: 2024 | Banca: FEPESE | Órgão: Prefeitura de Mafra - SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Prestação de Serviços e Empreitada"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta a respeito dos contratos típicos, com base na legislação civil brasileira.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "No mandato, o negócio entabulado poderá ser expresso ou tácito, mas será sempre escrito."
+      },
+      {
+        "letra": "B",
+        "texto": "Na doação, o doador não poderá estipular que os bens doados retornem ao seu patrimônio, na hipótese de sobreviver ao donatário"
+      },
+      {
+        "letra": "C",
+        "texto": "Na locação, o locatário é obrigado a garantir ao locador, durante o tempo do contrato, o uso pacífico da coisa."
+      },
+      {
+        "letra": "D",
+        "texto": "No comodato, tem-se o ajuste de um empréstimo gratuito de coisas fungíveis, que se perfaz com a tradição do objeto."
+      },
+      {
+        "letra": "E",
+        "texto": "Na empreitada, o empreiteiro é obrigado a pagar pelos materiais que recebeu, quando por imperícia ou negligência os inutilizar."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3049339",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: TJ-SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Prestação de Serviços e Empreitada"
+    ],
+    "enunciado_principal": "Eis o disposto no Art. 608 do Código Civil: “Art. 608. Aquele que aliciar pessoas obrigadas em contrato escrito a prestar serviço a outrem pagará a este a importância que ao prestador de serviço, pelo ajuste desfeito, houvesse de caber durante dois anos”. A norma incorpora, ao regime da prestação de serviços civis, a seguinte teoria:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "inadimplemento eficiente;"
+      },
+      {
+        "letra": "B",
+        "texto": "violação positiva do contrato;"
+      },
+      {
+        "letra": "C",
+        "texto": "tutela externa do crédito;"
+      },
+      {
+        "letra": "D",
+        "texto": "lucro da intervenção;"
+      },
+      {
+        "letra": "E",
+        "texto": "tu quoque."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2564473",
+    "metadata": "Ano: 2024 | Banca: FCC | Órgão: TRF - 3ª REGIÃO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Prestação de Serviços e Empreitada"
+    ],
+    "enunciado_principal": "De acordo com as disposições do Código Civil acerca do contrato de empreitada, o contrato para elaboração de um projeto",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "importa a obrigação de executá-lo, mas não de fiscalizar a sua execução, mesmo que esta seja cometida a terceiro."
+      },
+      {
+        "letra": "B",
+        "texto": "importa a obrigação de fiscalizar a sua execução, mas não de executá-lo."
+      },
+      {
+        "letra": "C",
+        "texto": "não importa a obrigação de executá-lo nem de fiscalizar a sua execução."
+      },
+      {
+        "letra": "D",
+        "texto": "importa a obrigação de executá-lo e de fiscalizar a sua execução por qualquer pessoa que para ela concorra."
+      },
+      {
+        "letra": "E",
+        "texto": "importa a obrigação de executá-lo ou de fiscalizar a sua execução, se esta tiver sido cometida a terceiro."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2530325",
+    "metadata": "Ano: 2024 | Banca: FUNDATEC | Órgão: Prefeitura de Monte Castelo - SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Prestação de Serviços e Empreitada"
+    ],
+    "enunciado_principal": "Conforme o Código Civil, em relação à prestação de serviço, analise as seguintes assertivas: I. Toda espécie de serviço ou trabalho, desde que seja material, pode ser contratada mediante retribuição. II. No contrato de prestação de serviço, quando ambas as partes não souberem ler, nem escrever, o instrumento poderá ser assinado a rogo e subscrito por duas testemunhas. III. Não se tendo estipulado, nem chegado a acordo entre as partes, fixar-se-á por arbitramento a retribuição, segundo o costume do lugar, o tempo de serviço e sua qualidade. Quais estão corretas?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas I."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas II."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas III."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas I e II."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II e III."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2511477",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: Câmara dos Deputados",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Prestação de Serviços e Empreitada"
+    ],
+    "enunciado_principal": "A Siderúrgica Aço Forte S.A., maior siderúrgica da Região Sudeste, contratou a VIP Construções e Perfurações S.A. para a perfuração e construção de cinco poços artesianos de cem metros de profundidade cada um, em um terreno de sua propriedade, para viabilizar a sua atividade empresarial. Pelo contrato, a VIP Construções S.A. deveria executar toda a obra e fornecer os materiais necessários, mediante remuneração de R$ 150.000,00, com prazo de entrega de 5 meses, a contar da data da celebração do contrato. Considerando a situação hipotética narrada, analise as assertivas a seguir. I. O preço global convencionado poderá ser revisto, a pedido do dono da obra, para que se lhe assegure a diferença apurada, independentemente de cláusula de reajustamento, de modo a assegurar o reequilíbrio contratual, contanto que reste comprovada diminuição no preço do material ou da mão de obra superior a um décimo do seu valor causada por fato extraordinário e imprevisível. II. A Siderúrgica Aço Forte S.A. pode introduzir modificações no projeto por ela aprovado, sem anuência de seu autor, se o fizer por motivos supervenientes ou razões de ordem técnica, uma vez comprovada a inconveniência ou a excessiva onerosidade de execução do projeto em sua forma originária. III. Se a Siderúrgica Aço Forte S.A. exigir modificações vultosas e desproporcionais ao projeto aprovado, a VIP Construções e Perfurações S.A. poderá suspender a obra, salvo se a Siderúrgica Aço Forte S.A. se dispuser a arcar com o acréscimo de preço. Está correto o que se afirma em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "II, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "III, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "I e III, apenas."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2488661",
+    "metadata": "Ano: 2024 | Banca: IBADE | Órgão: Prefeitura de Jaru - RO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Prestação de Serviços e Empreitada"
+    ],
+    "enunciado_principal": "O contrato de prestação de serviços está regulamentado no Código Civil brasileiro, no Capítulo II do Título VII, que trata dos contratos em geral. Sobre isso, é CORRETO afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "todo tipo de prestação de serviço reger-se-á pelas disposições do Código Civil;"
+      },
+      {
+        "letra": "B",
+        "texto": "toda a espécie de serviço ou trabalho lícito, desde que material, pode ser contratada mediante retribuição;"
+      },
+      {
+        "letra": "C",
+        "texto": "no contrato de prestação de serviço, quando qualquer das partes não souber ler, nem escrever, o instrumento poderá ser assinado a rogo e subscrito por duas testemunhas;"
+      },
+      {
+        "letra": "D",
+        "texto": "a retribuição pagar-se-á sempre antes de prestado o serviço;"
+      },
+      {
+        "letra": "E",
+        "texto": "a prestação de serviço poderá ser convencionada por mais de quatro anos."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2443862",
+    "metadata": "Ano: 2024 | Banca: FUNDATEC | Órgão: Prefeitura de Criciúma - SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Prestação de Serviços e Empreitada"
+    ],
+    "enunciado_principal": "Sobre o contrato de empreitada, conforme o Código Civil, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O contrato para elaboração de um projeto implica a obrigação de fiscalizar-lhe a execução."
+      },
+      {
+        "letra": "B",
+        "texto": "Nos contratos de empreitada de edifícios ou outras construções consideráveis, o empreiteiro de materiais e execução responderá, durante o prazo irredutível de três anos, pela solidez e segurança do trabalho, assim em razão dos materiais, como do solo."
+      },
+      {
+        "letra": "C",
+        "texto": "O que se mediu presume-se verificado se, em trinta dias, a contar da medição, não forem denunciados os vícios ou defeitos pelo dono da obra ou por quem estiver incumbido da sua fiscalização."
+      },
+      {
+        "letra": "D",
+        "texto": "Salvo estipulação em contrário, o empreiteiro que se incumbir de executar uma obra, segundo plano aceito por quem a encomendou, terá direito a exigir acréscimo no preço, ainda que sejam introduzidas modificações no projeto, a não ser que estas resultem de instruções escritas do dono da obra."
+      },
+      {
+        "letra": "E",
+        "texto": "O contrato de empreitada se extingue pela morte de qualquer das partes."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2443861",
+    "metadata": "Ano: 2024 | Banca: FUNDATEC | Órgão: Prefeitura de Criciúma - SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Prestação de Serviços e Empreitada"
+    ],
+    "enunciado_principal": "Em relação ao contrato de prestação de serviços, de acordo com o Código Civil, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "No contrato de prestação de serviço, quando qualquer das partes não souber ler nem escrever, o instrumento deverá, obrigatoriamente, ser assinado por escritura pública."
+      },
+      {
+        "letra": "B",
+        "texto": "Não se tendo estipulado, nem chegado a acordo as partes, fixar-se-á por arbitramento a retribuição, segundo o costume do lugar, o tempo de serviço e sua qualidade."
+      },
+      {
+        "letra": "C",
+        "texto": "A retribuição pagar-se-á depois de prestado o serviço, se, por convenção, ou costume, não houver de ser adiantada, ou paga em prestações."
+      },
+      {
+        "letra": "D",
+        "texto": "A prestação de serviço não se poderá convencionar por mais de quatro anos, embora o contrato tenha por causa o pagamento de dívida de quem o presta, ou se destine à execução de certa e determinada obra. Neste caso, decorridos quatro anos, dar-se-á por findo o contrato, ainda que não concluída a obra."
+      },
+      {
+        "letra": "E",
+        "texto": "Não havendo prazo estipulado, nem se podendo inferir da natureza do contrato, ou do costume do lugar, qualquer das partes, a seu arbítrio, mediante prévio aviso, pode resolver o contrato."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2407717",
+    "metadata": "Ano: 2024 | Banca: CESPE / CEBRASPE | Órgão: APEX Brasil",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Prestação de Serviços e Empreitada"
+    ],
+    "enunciado_principal": "O contrato de prestação de serviços, previsto no Código Civil, deve ser identificado, de acordo com as diversas formas de classificação utilizadas pela doutrina, como",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "aleatório e informal."
+      },
+      {
+        "letra": "B",
+        "texto": "aleatório e solene."
+      },
+      {
+        "letra": "C",
+        "texto": "comutativo e informal."
+      },
+      {
+        "letra": "D",
+        "texto": "comutativo e solene."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2375283",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: TJ-RJ",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Prestação de Serviços e Empreitada"
+    ],
+    "enunciado_principal": "O Condomínio Aurora Boreal contratou com a empresa Serviços Islandeses Rápidos e Gerais Ltda. os serviços de portaria, limpeza e segurança, incluindo controle de acesso e acompanhamento visual ou por meio de Sistema de \"CFTV\" de entrada e saída de pessoas e veículos da empresa, cujo pagamento deverá ser feito mensalmente. O contrato foi celebrado por escrito sem prazo determinado. Nos últimos meses diversos problemas aconteceram no condomínio em razão de falhas graves praticadas pelos empregados da empresa, entre eles, o furto de duas unidades condominiais. Registra-se que todos os problemas foram relatados oportunamente à prestadora de serviço, que permaneceu inerte. Diante da situação hipotética narrada, com base no Código Civil brasileiro, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O contrato de prestação de serviço somente se extingue pela morte de qualquer das partes ou pelo escoamento do prazo."
+      },
+      {
+        "letra": "B",
+        "texto": "A ausência de prazo determinado torna o contrato de prestação de serviço pelo prazo de três anos prorrogável por igual período."
+      },
+      {
+        "letra": "C",
+        "texto": "Como não há prazo estipulado, qualquer das partes poderá resolver o contrato desde que haja aviso prévio de trinta dias."
+      },
+      {
+        "letra": "D",
+        "texto": "Caso o Condomínio pretenda o rompimento do contrato, deverá pagar o valor integral das prestações vincendas."
+      },
+      {
+        "letra": "E",
+        "texto": "As falhas graves praticadas pelos empregados da empresa prestadora de serviço permitem a rescisão do contrato por justa causa."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2319992",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: Câmara dos Deputados",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Responsabilidade civil",
+      "Prestação de Serviços e Empreitada",
+      "Contratos em Geral",
+      "Vícios Redibitórios e Evicção",
+      "Extinção: cláusula resolutiva, onerosidade excessiva e exceção de contrato não cumprido",
+      "Modalidades da Responsabilidade Civil"
+    ],
+    "enunciado_principal": "Sofia Administradora de Imóveis Ltda., após adquirir um lote em condomínio fechado, contratou Joaquim, engenheiro renomado, para que construa uma casa padrão em lote que adquiriu com o intuito de investimento, segundo projeto elaborado pela arquiteta da sociedade empresária. Durante a obra, surgiram vários obstáculos que obrigaram o engenheiro a adaptar o projeto e a execução da obra, o que encareceu o custo. Tudo ocorreu à vista dos prepostos de Sofia Adm. de Imóveis Ltda., mas sem qualquer autorização deles por escrito e, até a entrega da obra, sem qualquer protesto da sociedade empresária. Após a finalização do serviço, Joaquim pediu acréscimo do valor acordado, relativo ao incremento de custo e serviços com as alterações promovidas. Poucas semanas após a entrega da obra, Sofia Adm. de Imóveis Ltda., por meio de sua preposta, percebeu alguns vícios construtivos que não foram notados por ocasião da entrega da casa construída, designadamente: alguns pisos desnivelados, paredes da área de serviço sem acabamento adequado, diferença de tonalidade dos revestimentos, diferença de espessura no rejunte do piso, bem como pilares e vigas com espessura maior do que a parede. Sendo assim, Sofia Adm. de Imóveis Ltda. se recusou a realizar o pagamento da última parcela do preço da empreitada (correspondente a 30% do valor acordado). Três meses depois, Joaquim propõe ação de cobrança da dívida em aberto, incluindo o acréscimo que entende devido. Ao receber a citação, Sofia Adm. de Imóveis Ltda., além de defenderse da cobrança do acréscimo, propõe reconvenção visando, única e exclusivamente, ao abatimento proporcional do preço ajustado, em razão da garantia legal de solidez e segurança da obra. Sofia Adm. de Imóveis Ltda., ofereceu a defesa com reconvenção 120 dias após tomar conhecimento inequívoco dos vícios que apontou. Sobre o fato descrito, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Caso João tenha êxito em sua ação, não poderá nomear à penhora o imóvel em questão, em razão da garantia legal da impenhorabilidade do bem de família."
+      },
+      {
+        "letra": "B",
+        "texto": "João não tem razão ao exigir acréscimo no preço, porque não houve autorização expressa para que houvesse modificação do projeto, que deveria resultar de instruções escritas da dona da obra."
+      },
+      {
+        "letra": "C",
+        "texto": "Sofia Adm. de Imóveis Ltda. arguiu os vícios construtivos dentro do prazo prescricional quinquenal de responsabilidade pela solidez e segurança do imóvel."
+      },
+      {
+        "letra": "D",
+        "texto": "Sofia Adm. de Imóveis Ltda., até poderia suscitar a garantia legal de solidez e segurança, mas assim o fez após o trancurso do prazo decadencial, contado da ciência do vício."
+      },
+      {
+        "letra": "E",
+        "texto": "Sofia Adm. de Imóveis Ltda. não tem razão, porque a garantia legal invocada não protege vícios que estão apenas relacionados com a estética e a funcionalidade do bem, sem atingir a solidez, segurança e habitabilidade do imóvel."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2319989",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: Câmara dos Deputados",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Empréstimo: Comodato e Mútuo",
+      "Prestação de Serviços e Empreitada",
+      "Contratos em Geral"
+    ],
+    "enunciado_principal": "Abel, advogado, firmou contrato com sua cliente, Edna, por meio do qual se obrigou a prestar serviços de consultoria e representação judicial e extrajudicial, por prazo indeterminado. Na minuta assinada por ambas as partes, ajustou-se que o pagamento dos honorários contratuais estaria vinculado à venda de um dos bens imóveis de Edna, considerando que ela o colocara à venda, na proporção de 10% sobre o seu valor. Após 3 (três) anos de prestação de serviço, com diversas consultorias prestadas, atuando na defesa processual de Edna em diversas ações, Edna diz a Abel que desistiu de vender o imóvel anunciado, por questões de foro íntimo. Diante dos fatos, Abel solicitou uma reunião para repactuar sua remuneração, mas Edna decidiu revogar o mandato, informando que nada lhe é devido porque decidiu não vender o bem durante esse tempo. Sobre o fato apresentado, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A cláusula de pagamento dos honorários revela condição suspensiva de eficácia da obrigação, razão pela qual não pode ser considerada verificada, porque não houve a venda do bem."
+      },
+      {
+        "letra": "B",
+        "texto": "É defesa a cláusula de pagamento que estipulou a condição suspensiva atrelada à venda do imóvel, porque se revelou puramente potestativa."
+      },
+      {
+        "letra": "C",
+        "texto": "O ato de revogação do mandato, realizado por Edna, é direito subjetivo do mandante, obrigando a parte contrária (mandatário) a sujeitar-se aos seus efeitos, ainda que se possa discutir a remuneração pelo período de vigência do mandato."
+      },
+      {
+        "letra": "D",
+        "texto": "O contrato firmado entre as partes tem natureza de negócio jurídico bilateral que, na classificação da teoria dos fatos jurídicos, é espécie de ato jurídico em sentido estrito."
+      },
+      {
+        "letra": "E",
+        "texto": "O negócio pode ser anulado por lesão, na medida em que é possível verificar que, desde o início, Edna teve a intenção manifesta de prejudicar Abel, aproveitando-se de seus serviços, para causar-lhe dano futuro."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2283316",
+    "metadata": "Ano: 2023 | Banca: VUNESP | Órgão: Câmara de Aparecida - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Prestação de Serviços e Empreitada"
+    ],
+    "enunciado_principal": "O contrato de empreitada se caracteriza pela presença da figura do empreiteiro e do dono da obra. Assinale a opção correta a respeito dessa importante modalidade contratual tipicamente regulada pelo Código Civil de 2002.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Se ocorrer diminuição no preço do material, mas não de mão de obra superior, independentemente do preço global convencionado, poderá este ser revisto, a pedido do dono da obra, para que se lhe assegure a diferença apurada."
+      },
+      {
+        "letra": "B",
+        "texto": "Concluída a obra de acordo com o ajuste, ou o costume do lugar, o dono é obrigado a recebê-la, ainda que o empreiteiro tenha se afastado das instruções recebidas e dos planos dados, ou das regras técnicas em trabalhos de tal natureza."
+      },
+      {
+        "letra": "C",
+        "texto": "Se o empreiteiro forneceu mão-de-obra e materiais, todos os riscos pelos quais não tiver culpa correrão por conta do dono da obra."
+      },
+      {
+        "letra": "D",
+        "texto": "Nesse tipo contratual, a obrigação de fornecer os materiais se presume."
+      },
+      {
+        "letra": "E",
+        "texto": "Poderá o empreiteiro suspender a obra, se as modificações exigidas pelo dono da obra, por seu vulto e natureza, forem desproporcionais ao projeto aprovado, ainda que o dono se disponha a arcar com o acréscimo de preço."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2228141",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: SEFIN de Fortaleza - CE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Prestação de Serviços e Empreitada"
+    ],
+    "enunciado_principal": "Marcelo, como profissional liberal, prestou serviços a Fernanda por valor certo a ser pago ao final da prestação do serviço. Realizado o objeto do contrato, Fernanda não cumpriu a sua obrigação de adimplir o valor acordado. Considerando a situação hipotética precedente, julgue o item a seguir, à luz do Código Civil. Como regra, a retribuição pelo serviço deve ser paga antes de este ser prestado, de modo que é necessário estabelecer em contrato o pagamento apenas após a execução do serviço.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2219068",
+    "metadata": "Ano: 2023 | Banca: Quadrix | Órgão: CREFITO-7ª Região(BA e SE)",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Prestação de Serviços e Empreitada"
+    ],
+    "enunciado_principal": "Com base no Código Civil, julgue o item a respeito de obrigações e contratos.Caso o prestador de serviço seja despedido sem justa causa, a outra parte será obrigada a pagar dois terços do que lhe tocaria até o termo legal do contrato.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2176434",
+    "metadata": "Ano: 2023 | Banca: FUNDATEC | Órgão: GHC-RS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Prestação de Serviços e Empreitada"
+    ],
+    "enunciado_principal": "Acerca da regência dos contratos, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A contratação da empreitada se encerra com a morte do empreiteiro em qualquer hipótese."
+      },
+      {
+        "letra": "B",
+        "texto": "É nula a venda de ascendente a descendente, ainda que os outros descendentes e o cônjuge do alienante tenham consentido."
+      },
+      {
+        "letra": "C",
+        "texto": "O empreiteiro poderá suspender as obras se as modificações exigidas pelo dono da obra, por seu vulto e natureza, forem desproporcionais ao projeto aprovado, desde que o dono não se disponha a arcar com o acréscimo de preço."
+      },
+      {
+        "letra": "D",
+        "texto": "As partes negociantes deverão estabelecer parâmetros objetivos para a interpretação das cláusulas negociais e de seus pressupostos de revisão ou de resolução."
+      },
+      {
+        "letra": "E",
+        "texto": "Nulo é o contrato de compra e venda, quando se deixa ao arbítrio exclusivo de uma das partes a fixação do preço."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2082778",
+    "metadata": "Ano: 2023 | Banca: Avança SP | Órgão: Prefeitura de Americana - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Compra e Venda",
+      "Locação de Coisas",
+      "Prestação de Serviços e Empreitada"
+    ],
+    "enunciado_principal": "Acerca dos contratos típicos dispostos no Código Civil de 2002, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É impossível que a compra e venda tenha por objeto coisa atual ou futura;"
+      },
+      {
+        "letra": "B",
+        "texto": "A locação por tempo determinado cessa de pleno direito findo o prazo estipulado, independentemente de notificação ou aviso;"
+      },
+      {
+        "letra": "C",
+        "texto": "Opera-se o mandato quando alguém recebe de outrem poderes para, em seu nome, praticar atos ou administrar interesses, sendo vedado, em regra, que o mandatário celebre negócios consigo mesmo;"
+      },
+      {
+        "letra": "D",
+        "texto": "O empreiteiro de uma obra pode contribuir para ela só com seu trabalho ou com ele e os materiais e a obrigação de fornecer os materiais se presume da contratação;"
+      },
+      {
+        "letra": "E",
+        "texto": "Nenhuma das assertivas anteriores está correta."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1984016",
+    "metadata": "Ano: 2022 | Banca: MPT | Órgão: MPT",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Pessoa Jurídica",
+      "Defeitos do Negócio Jurídico",
+      "Contratos em Espécie",
+      "Parte Geral",
+      "Prestação de Serviços e Empreitada"
+    ],
+    "enunciado_principal": "Analise as seguintes assertivas: I - Os valores devidos pelos empregadores aos empregados e os montantes das contas individuais do Fundo de Garantia do Tempo de Serviço e do Fundo de Participação PISPASEP, não recebidos em vida pelos respectivos titulares, serão pagos, em quotas iguais, aos sucessores previstos na lei civil, indicados em alvará judicial, independentemente de inventário ou arrolamento. II - É anulável o negócio jurídico por vício resultante de erro, dolo, simulação, coação, estado de perigo, lesão ou fraude contra credores. III - A expansão ou a alteração da finalidade original da atividade econômica específica da pessoa jurídica constitui desvio de finalidade para fins de desconsideração da sua personalidade jurídica. IV - A prestação de serviço não poderá ser convencionada por mais de quatro anos, salvo se o contrato se destinar à execução de obra certa e determinada. Assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas as assertivas I e II estão incorretas."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas as assertivas III e IV estão incorretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas as assertivas I, III e IV estão incorretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Todas as assertivas estão incorretas."
+      },
+      {
+        "letra": "E",
+        "texto": "Não respondida."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1979156",
+    "metadata": "Ano: 2022 | Banca: FCC | Órgão: TRT - 22ª Região (PI)",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Prestação de Serviços e Empreitada"
+    ],
+    "enunciado_principal": "De acordo com o Código Civil, na empreitada,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "os riscos correm sempre por conta do dono."
+      },
+      {
+        "letra": "B",
+        "texto": "a obrigação de fornecer os materiais, em regra, se presume."
+      },
+      {
+        "letra": "C",
+        "texto": "o empreiteiro goza do prazo legal de carência de 180 dias para entrega da obra."
+      },
+      {
+        "letra": "D",
+        "texto": "o contrato não se extingue pela morte de qualquer das partes, salvo se houver sido celebrado em caráter personalíssimo."
+      },
+      {
+        "letra": "E",
+        "texto": "o empreiteiro só responde pela inutilização dos materiais se esta decorrer de dolo ou culpa grave."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1977658",
+    "metadata": "Ano: 2022 | Banca: FUNDATEC | Órgão: Prefeitura de Porto Alegre - RS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Prestação de Serviços e Empreitada"
+    ],
+    "enunciado_principal": "Sobre o contrato de empreitada, considerando o regime de Direito Civil, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A empreitada se diferencia do contrato de prestação de serviços pela circunstância de a empreitada resultar, necessariamente, em uma obra de construção civil."
+      },
+      {
+        "letra": "B",
+        "texto": "Na chamada empreitada “mista”, os riscos dos bens empregados na obra correm por conta do dono da obra, desde o início dela, salvo disposição contratual em contrário."
+      },
+      {
+        "letra": "C",
+        "texto": "Em toda e qualquer empreitada que resulte em uma construção civil, a responsabilidade pela solidez e segurança da obra é do empreiteiro pelo período máximo de cinco anos, contados da conclusão da obra, salvo disposição contratual em contrário."
+      },
+      {
+        "letra": "D",
+        "texto": "A suspensão da obra pelo empreiteiro só é juridicamente aceita nas empreitadas “de lavor”, porque, nesses casos, ninguém pode ser coagido a executar fato."
+      },
+      {
+        "letra": "E",
+        "texto": "Se o empreiteiro concluir a obra em conformidade com o ajuste feito com o dono da obra, o não recebimento da obra por este gerará mora do credor."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1951294",
+    "metadata": "Ano: 2022 | Banca: FGV | Órgão: TJ-GO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Prestação de Serviços e Empreitada",
+      "Atos Unilaterais: Pagamento Indevido e Enriquecimento sem Causa"
+    ],
+    "enunciado_principal": "A empreiteira Soerguimento S/A e a fábrica de tintas Cores Mil Ltda. são parceiras comerciais de longa data e mantêm diversas relações contratuais entre si. Certa vez, a empreiteira transferiu a propriedade de um imóvel comercial para a fábrica, a título de dação em pagamento, visando a extinguir uma obrigação oriunda de um contrato de fornecimento firmado entre as duas. A fábrica prontamente consentiu. A empreiteira, porém, não atentou para o fato de que a obrigação em relação à qual a dação em pagamento foi realizada já havia sido extinta meses antes, por força de uma transação pactuada entre as partes. Assim, uma vez identificado o equívoco e pretendendo reaver o imóvel dado em pagamento, a empreiteira procurou imediatamente a fábrica; esta, porém, respondeu que nada podia ser feito, pois já havia vendido e transferido o imóvel para outra pessoa jurídica, um escritório de arquitetura. Considerando que a empreiteira possa comprovar que deu o imóvel em pagamento para a fábrica porque se enganara quanto à subsistência da dívida, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a empreiteira pode reivindicar o imóvel em face do escritório de arquitetura ainda que este o tenha adquirido de boa-fé;"
+      },
+      {
+        "letra": "B",
+        "texto": "a empreiteira nada pode cobrar da fábrica, se restar apurado que esta última recebeu o imóvel e o vendeu de boa-fé;"
+      },
+      {
+        "letra": "C",
+        "texto": "a fábrica pode ser compelida a transferir à empreiteira o preço da venda do imóvel, ainda que tenha agido de boa-fé;"
+      },
+      {
+        "letra": "D",
+        "texto": "a fábrica responde por perdas e danos à empreiteira, mas não tem o dever de lhe repassar o preço da venda do imóvel;"
+      },
+      {
+        "letra": "E",
+        "texto": "a empreiteira não pode reivindicar o bem, ainda que a fábrica e o escritório de arquitetura tenham ambos agido de má-fé."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1877560",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: Telebras",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Prestação de Serviços e Empreitada"
+    ],
+    "enunciado_principal": "O contrato de empreitada celebrado entre o dono da obra pessoa física com um empreiteiro não gera responsabilidade solidária ou subsidiária das obrigações trabalhistas contraídas pelo empreiteiro.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1862990",
+    "metadata": "Ano: 2022 | Banca: FGV | Órgão: MPE-GO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Contratos em Espécie",
+      "Inadimplemento das Obrigações",
+      "Prestação de Serviços e Empreitada"
+    ],
+    "enunciado_principal": "A Robustez Ltda. foi contratada pelo condomínio do edifício Rosas para prestar serviços de segurança e vigilância por um ano, em troca do pagamento mensal de R$ 10.000,00, a ser efetivado até o dia 05 de cada mês. Findo um ano, o contrato não foi renovado porque o condomínio ficou inadimplente das três últimas prestações, e agora a Robustez Ltda. pleiteia o pagamento do total devido. Sobre cada prestação atrasada, incidirão:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "atualização monetária e juros a partir do vencimento de cada prestação;"
+      },
+      {
+        "letra": "B",
+        "texto": "atualização monetária a partir do ajuizamento da ação e juros a partir da citação;"
+      },
+      {
+        "letra": "C",
+        "texto": "atualização monetária a partir do vencimento de cada prestação e juros a partir da citação;"
+      },
+      {
+        "letra": "D",
+        "texto": "atualização monetária a partir da sentença que quantificou o valor devido e juros a partir do vencimento de cada prestação;"
+      },
+      {
+        "letra": "E",
+        "texto": "atualização monetária e juros a partir da sentença que quantificou o valor devido."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2011470",
+    "metadata": "Ano: 2021 | Banca: IADES | Órgão: CFQ",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Prestação de Serviços e Empreitada",
+      "Contratos em Geral"
+    ],
+    "enunciado_principal": "O contrato civil de prestação de serviços é um dos mais utilizados pelas empresas e pelas pessoas. Acerca de suas características no direito brasileiro, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É lícita a contratação de prestação de serviços materiais, bem como imateriais."
+      },
+      {
+        "letra": "B",
+        "texto": "Diante da morte do prestador antes de concluído o serviço contratado, os respectivos herdeiros assumem automaticamente a sua posição contratual, respondendo pela execução."
+      },
+      {
+        "letra": "C",
+        "texto": "Pessoas analfabetas não são capazes civilmente de contratar prestação de serviços."
+      },
+      {
+        "letra": "D",
+        "texto": "É ilegal a contratação de prestação de serviços por prazo indeterminado."
+      },
+      {
+        "letra": "E",
+        "texto": "A competência para dirimir um conflito derivado da execução do contrato de prestação de serviços é, de regra, do juízo trabalhista."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1846025",
+    "metadata": "Ano: 2021 | Banca: IADES | Órgão: CAU - MS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Prestação de Serviços e Empreitada"
+    ],
+    "enunciado_principal": "Com base no contrato de prestação de serviços, regulado pelo Código Civil, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não haverá remuneração ao prestador, se o serviço for prestado por quem não possua título de habilitação, ou não satisfaça requisitos outros estabelecidos em lei, ainda que o trabalho executado resulte em benefício para o tomador."
+      },
+      {
+        "letra": "B",
+        "texto": "A prestação de serviços ocasionais de natureza civil regula-se precipuamente pela Consolidação das Leis do Trabalho (CLT), diante da formação de vínculo empregatício."
+      },
+      {
+        "letra": "C",
+        "texto": "Quando omisso o contrato acerca da remuneração do prestador, presume-se gratuita a contratação, de forma que nada será devido ao prestador."
+      },
+      {
+        "letra": "D",
+        "texto": "É lícito ao prestador de serviços, independentemente da concordância do tomador, transferir a outrem a responsabilidade pela sua execução."
+      },
+      {
+        "letra": "E",
+        "texto": "Toda a espécie de serviço ou trabalho lícito, material ou imaterial, pode ser contratada mediante retribuição."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1100191",
+    "metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: TJ-PA",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Prestação de Serviços e Empreitada"
+    ],
+    "enunciado_principal": "Diogo contratou Pedroza para a prestação de serviços de advocacia. No decurso da execução do contrato, com diversas atividades já realizadas por Pedroza, Diogo tomou conhecimento de que ele não era advogado e não possuía, portanto, licença para exercer a referida profissão. Diante dessa situação hipotética, assinale a opção correta, nos termos do Código Civil.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pedroza terá direito a receber a contraprestação financeira pela prestação de serviço já realizada, de forma equiparada a um advogado, desde que seja comprovado que as atividades foram cumpridas de maneira escorreita e que ele desconhecia a necessidade de especial habilitação para exercer serviços de advocacia."
+      },
+      {
+        "letra": "B",
+        "texto": "Pedroza terá direito a receber a contraprestação financeira pela prestação de serviço já realizada, de forma equiparada a um advogado, desde que seja comprovado que as atividades foram cumpridas de maneira escorreita, sendo irrelevante, no que se refere ao direito à contraprestação, o fato de ele desconhecer a necessidade de especial habilitação para exercer serviços de advocacia."
+      },
+      {
+        "letra": "C",
+        "texto": "Pedroza terá direito a receber uma compensação financeira pela prestação de serviço já realizada, mas não de forma equiparada a um advogado, se comprovar que as atividades foram cumpridas de maneira escorreita e que desconhecia a necessidade de especial habilitação para exercer serviços de advocacia."
+      },
+      {
+        "letra": "D",
+        "texto": "Pedroza terá direito a receber uma compensação financeira pela prestação de serviço já realizada, mas não de forma equiparada a um advogado, se comprovar que as atividades foram cumpridas de maneira escorreita, sendo irrelevante, para fins de direito à compensação, o fato de ele desconhecer a necessidade de especial habilitação para exercer serviços de advocacia."
+      },
+      {
+        "letra": "E",
+        "texto": "Pedroza não terá direito a receber contraprestação ou compensação financeira pela prestação do serviço de advocacia, independentemente de as atividades terem sido cumpridas de maneira escorreita e de ele ter conhecimento da necessidade de especial habilitação para o exercício de serviços de advocacia."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1093934",
+    "metadata": "Ano: 2019 | Banca: VUNESP | Órgão: ESEF - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Prestação de Serviços e Empreitada"
+    ],
+    "enunciado_principal": "A prestação de serviço, que não estiver sujeita às leis trabalhistas ou à lei especial, reger-se-á pelas disposições contidas no Código Civil. A respeito do tema, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não se tendo estipulado nem chegado a acordo as partes, fixar-se-á a retribuição, tendo por média o valor do salário mínimo nacional."
+      },
+      {
+        "letra": "B",
+        "texto": "em regra, a retribuição será paga em prestações, podendo, em casos excepcionais, ser paga antes de prestado o serviço."
+      },
+      {
+        "letra": "C",
+        "texto": "a prestação de serviço não se poderá convencionar por mais de dois anos."
+      },
+      {
+        "letra": "D",
+        "texto": "o contrato de prestação de serviço acaba com a morte de qualquer das partes."
+      },
+      {
+        "letra": "E",
+        "texto": "se o salário se houver fixado por tempo de um mês ou mais e não havendo prazo estipulado, qualquer das partes, mediante prévio aviso com antecedência de sete dias, pode resolver o contrato."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1093865",
+    "metadata": "Ano: 2019 | Banca: VUNESP | Órgão: Câmara de Mauá - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Prestação de Serviços e Empreitada"
+    ],
+    "enunciado_principal": "O condomínio Z pretende ingressar com ação contra a construtora, em razão de vícios construtivos nas áreas comuns. Nesse caso, o condomínio tem o prazo de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "cinco anos para ingressar com ação, contados do recebimento da obra, hipótese em que poderá postular a indenização."
+      },
+      {
+        "letra": "B",
+        "texto": "três anos para ingressar com ação, contados do recebimento da obra, hipótese em que poderá postular a redibição, tratando-se de prazo de garantia quanto à solidez e segurança da obra."
+      },
+      {
+        "letra": "C",
+        "texto": "três anos para ingressar com ação de indenização, contados da ciência dos danos, aplicando-se o Código de Defesa do Consumidor."
+      },
+      {
+        "letra": "D",
+        "texto": "cinco anos para ingressar com ação, contados do recebimento da obra, hipótese em que poderá postular a redibição, tratando-se de prazo de garantia quanto à solidez e segurança da obra. Poderá ainda, no prazo de cinco anos, contados da data do conhecimento do dano, ingressar com ação de reparação dos danos."
+      },
+      {
+        "letra": "E",
+        "texto": "cinco anos para ingressar com ação, contados do recebimento da obra, hipótese em que poderá postular a redibição, tratando-se de prazo de garantia quanto à solidez e segurança da obra. Decorrido esse prazo, poderá ainda, no prazo de três anos, ingressar com ação de reparação dos danos."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1065168",
+    "metadata": "Ano: 2019 | Banca: FCC | Órgão: Câmara de Fortaleza - CE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Prestação de Serviços e Empreitada"
+    ],
+    "enunciado_principal": "Segundo o Código Civil, o contrato de prestação de serviço",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "deverá ser celebrado por instrumento público, se qualquer das partes contratantes for pessoa analfabeta, sendo vedada a assinatura a rogo."
+      },
+      {
+        "letra": "B",
+        "texto": "acaba com o falecimento do prestador do serviço, mas não do tomador."
+      },
+      {
+        "letra": "C",
+        "texto": "não obriga o tomador do serviço ao pagamento de nenhuma retribuição, se o prestador não possuir título de habilitação para realizá-lo, ainda que do serviço lhe resulte benefício."
+      },
+      {
+        "letra": "D",
+        "texto": "será inválido e ineficaz se não houver estipulado a remuneração do prestador do serviço."
+      },
+      {
+        "letra": "E",
+        "texto": "não poderá ter prazo superior a quatro anos, embora tenha por causa o pagamento de dívida de quem o presta, ou se destine à execução de certa e determinada obra."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "989814",
+    "metadata": "Ano: 2019 | Banca: IADES | Órgão: CRN - 3ª Região (SP e MS)",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Prestação de Serviços e Empreitada"
+    ],
+    "enunciado_principal": "O Conselho Regional de Nutrição (CRN) local firmou contrato de empreitada com determinada empresa de construção, a fim de edificar a nova sede do conselho. O referido contrato foi encaminhado ao Departamento Jurídico do CRN para análise. Considerando a situação hipotética apresentada e as várias espécies de contrato previstas no Código Civil, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Operam-se, de pleno direito, a cláusula resolutiva expressa e a tácita."
+      },
+      {
+        "letra": "B",
+        "texto": "Nos contratos de empreitada de edifícios ou outras construções consideráveis, o empreiteiro de materiais e execução responderá, durante o prazo irredutível de 10 anos, pela solidez e segurança do trabalho, assim em razão dos materiais, como do solo."
+      },
+      {
+        "letra": "C",
+        "texto": "Sempre se extingue o contrato de empreitada pela morte de qualquer das partes."
+      },
+      {
+        "letra": "D",
+        "texto": "Independentemente de o empreiteiro só fornecer mão de obra, todos os riscos correrão por conta dele."
+      },
+      {
+        "letra": "E",
+        "texto": "O empreiteiro que se incumbir de executar uma obra, segundo plano aceito por quem a encomendou, salvo estipulação em contrário, não terá direito a exigir acréscimo no preço, ainda que sejam introduzidas modificações no projeto, a não ser que estas resultem de instruções escritas do dono da obra."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "968721",
+    "metadata": "Ano: 2019 | Banca: FCC | Órgão: AFAP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Prestação de Serviços e Empreitada"
+    ],
+    "enunciado_principal": "Em relação à prestação de serviços,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "toda a espécie de serviço ou trabalho lícito, desde que material, pode ser contratada mediante remuneração."
+      },
+      {
+        "letra": "B",
+        "texto": "pode seu contrato ser estipulado por qualquer prazo, mesmo que se destine à execução de obra certa e determinada."
+      },
+      {
+        "letra": "C",
+        "texto": "não havendo prazo estipulado, nem se podendo inferir da natureza do contrato, ou do costume do lugar, qualquer das partes pode resolver o contrato, a seu arbítrio, independentemente de prévio aviso."
+      },
+      {
+        "letra": "D",
+        "texto": "a retribuição pagar-se-á depois de prestado o serviço se, por convenção ou costume, não houver de ser adiantada, ou paga em prestações."
+      },
+      {
+        "letra": "E",
+        "texto": "se o prestador de serviço for despedido sem justa causa, quem o despediu deverá pagar-lhe por inteiro tanto a remuneração vencida como a que venceria até o termo legal do contrato."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "963245",
+    "metadata": "Ano: 2019 | Banca: IADES | Órgão: AL-GO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Troca ou Permuta, Contrato Estimatório e Doação",
+      "Empréstimo: Comodato e Mútuo",
+      "Corretagem, Transporte, Seguro, Constituição de Renda, Jogo e Aposta e Fiança",
+      "Prestação de Serviços e Empreitada"
+    ],
+    "enunciado_principal": "Em relação ao direito contratual brasileiro, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O empréstimo gratuito de bens infungíveis é denominado mútuo."
+      },
+      {
+        "letra": "B",
+        "texto": "A doação pode ser revogada por ingratidão do donatário, ou por inexecução do encargo."
+      },
+      {
+        "letra": "C",
+        "texto": "No contrato de empreitada, a obrigação do empreiteiro de fornecer os materiais é presumida."
+      },
+      {
+        "letra": "D",
+        "texto": "O mandato não pode ser tácito."
+      },
+      {
+        "letra": "E",
+        "texto": "No transporte de pessoas, a responsabilidade contratual do transportador por acidente com o passageiro é elidida pela demonstração de culpa de terceiro."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1841422",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: Câmara de Tanabi - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Prestação de Serviços e Empreitada"
+    ],
+    "enunciado_principal": "O Código Civil prevê o contrato de prestação de serviço. Sobre esse contrato típico, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O contrato de prestação de serviço pode ter como objeto serviço sujeito às leis trabalhistas, desde que tenha cláusula expressa nesse sentido."
+      },
+      {
+        "letra": "B",
+        "texto": "Toda a espécie de serviço ou trabalho lícito, material ou imaterial, pode ser contratada mediante retribuição."
+      },
+      {
+        "letra": "C",
+        "texto": "A prestação de serviço não poderá se convencionar por mais de 2 (dois) anos, embora o contrato tenha como causa o pagamento de dívida de quem o presta."
+      },
+      {
+        "letra": "D",
+        "texto": "A qualquer das partes é permitido resolver o contrato mediante aviso prévio de 30 (trinta) dias, se o salário se houver fixado por tempo de 1 (um) mês."
+      },
+      {
+        "letra": "E",
+        "texto": "Conta-se no prazo do contrato o tempo em que o prestador de serviço, por culpa sua, deixou de servir."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1031130",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: Prefeitura de Buritizal - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Prestação de Serviços e Empreitada"
+    ],
+    "enunciado_principal": "José firmou com Maria o contrato de prestação de serviços jurídicos com a previsão de correção monetária anual. Sucede que, durante os seis anos de validade do contrato, José não buscou reajustar os valores, o que só foi perseguido mediante ação de cobrança após a rescisão contratual. Diante desta questão, podemos afirmar corretamente que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é devida a pretensão de José, na forma em que foi pactuada, por ser cláusula expressa contratual."
+      },
+      {
+        "letra": "B",
+        "texto": "é devida a pretensão de José, uma vez que não houve renúncia expressa de seu direito e Maria estaria agindo contra o princípio da boa-fé."
+      },
+      {
+        "letra": "C",
+        "texto": "é devida a pretensão de José, por ter criado a si próprio onerosidade efetiva."
+      },
+      {
+        "letra": "D",
+        "texto": "não é devida a pretensão de José, porque esta modalidade contratual exige notificação da parte contrária da mudança das cláusulas contratuais pactuadas na confiança."
+      },
+      {
+        "letra": "E",
+        "texto": "não é devida a pretensão de José, porque ele criou para Maria a legítima expectativa de ter havido a renúncia àquela prerrogativa."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1023137",
+    "metadata": "Ano: 2018 | Banca: FCC | Órgão: ALESE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Prestação de Serviços e Empreitada",
+      "Contratos em Geral",
+      "Vícios Redibitórios e Evicção"
+    ],
+    "enunciado_principal": "Sobre a participação dos intervenientes em serviços e obras de engenharia e arquitetura é prerrogativa do proprietário exigir do executante a correção dos defeitos do empreendimento, desde que acusados, pormenorizadamente, de maneira formal, por escrito, no prazo previsto no Código Civil; ou outro prazo, quando prévia e explicitamente for acordado com o executante. Os defeitos e o prazo previsto no Código Civil para saná-los são, respectivamente,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ocultos (vícios redibitórios) e dezoito meses."
+      },
+      {
+        "letra": "B",
+        "texto": "ocultos (vícios redibitórios) e um ano."
+      },
+      {
+        "letra": "C",
+        "texto": "não ocultos (vícios não redibitórios) e dois anos."
+      },
+      {
+        "letra": "D",
+        "texto": "não ocultos (vícios não redibitórios) e oito meses."
+      },
+      {
+        "letra": "E",
+        "texto": "ocultos (vícios redibitórios) e seis meses."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "940396",
+    "metadata": "Ano: 2018 | Banca: COSEAC | Órgão: Prefeitura de Maricá - RJ",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Prestação de Serviços e Empreitada"
+    ],
+    "enunciado_principal": "De acordo com o Código Civil, o empreiteiro de materiais e execução responde pela solidez e segurança do trabalho, assim em razão dos materiais, como do solo, pelo prazo irredutível de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "cinco anos."
+      },
+      {
+        "letra": "B",
+        "texto": "um ano."
+      },
+      {
+        "letra": "C",
+        "texto": "dez anos."
+      },
+      {
+        "letra": "D",
+        "texto": "três anos."
+      },
+      {
+        "letra": "E",
+        "texto": "dois anos"
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "927593",
+    "metadata": "Ano: 2018 | Banca: FCC | Órgão: PGE-AP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Prestação de Serviços e Empreitada"
+    ],
+    "enunciado_principal": "Em contrato de empreitada, aplicam-se as seguintes regras: I. Tudo o que se pagou presume-se verificado. II. Se de edifícios ou outras construções consideráveis, o empreiteiro de materiais e execução responderá durante o prazo de três anos, prorrogável até cinco anos, pela solidez e segurança do trabalho, assim em razão dos materiais, como do solo. III. O que se mediu presume-se verificado se, em trinta dias, a contar da medição, não forem denunciados os vícios ou defeitos pelo dono da obra ou por quem estiver incumbido da sua fiscalização. IV. Se ocorrer diminuição no preço do material ou da obra, salvo disposição contratual em contrário, o dono da obra não poderá pedir revisão do preço geral para se lhe assegurar a diferença apurada. V. Sem anuência de seu autor, não pode o proprietário da obra introduzir modificações no projeto por ele aprovado, ainda que a execução seja confiada a terceiros, a não ser que, por motivos supervenientes ou razões de ordem técnica, fique comprovada a inconveniência ou a excessiva onerosidade da execução do projeto em sua forma originária. Está correto o que se afirma APENAS em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "II, IV e V."
+      },
+      {
+        "letra": "B",
+        "texto": "I, II e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "I, III e V."
+      },
+      {
+        "letra": "D",
+        "texto": "I, IV e V."
+      },
+      {
+        "letra": "E",
+        "texto": "II, IV e V"
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "920311",
+    "metadata": "Ano: 2018 | Banca: FCC | Órgão: TRT - 15ª Região (SP)",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Prestação de Serviços e Empreitada"
+    ],
+    "enunciado_principal": "Em relação ao contrato de prestação de serviço, considere: I. Toda a espécie de serviço ou trabalho lícito, desde que material, pode ser contratada mediante retribuição. II. Não se tendo estipulado, nem chegado a acordo as partes, fixar-se-á por arbitramento a retribuição, segundo o costume do lugar, o tempo de serviço e sua qualidade. III. A retribuição pagar-se-á no início da prestação do serviço, se, por convenção ou costume, não houver de ser paga ao final de sua prestação. IV. Se o prestador de serviço for despedido sem justa causa, a outra parte será obrigada a pagar-lhe por inteiro a retribuição vencida, e por metade a que lhe tocaria de então ao termo legal do contrato. V. Findo o contrato, o prestador de serviço tem direito a exigir da outra parte a declaração de que o contrato está findo. Igual direito lhe cabe, se for despedido sem justa causa, ou se tiver havido motivo justo para deixar o serviço. Está correto o que consta APENAS de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "II, III e V."
+      },
+      {
+        "letra": "B",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "C",
+        "texto": "I, IV e V."
+      },
+      {
+        "letra": "D",
+        "texto": "II, IV e V."
+      },
+      {
+        "letra": "E",
+        "texto": "III, IV e V."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "917959",
+    "metadata": "Ano: 2018 | Banca: FCC | Órgão: TRT - 2ª REGIÃO (SP)",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Prestação de Serviços e Empreitada"
+    ],
+    "enunciado_principal": "Josué, proprietário de um terreno na cidade de Itaquaquecetuba/SP, firmou contrato de empreitada com o empreiteiro Manoel, envolvendo trabalho e materiais, para construção de um imóvel comercial no local. No curso da obra o arquiteto contratado pelo dono da obra Josué, com a anuência deste, apresenta diversas modificações substanciais, desproporcionais ao projeto originalmente aprovado para o contrato celebrado entre as partes. Neste caso, se Josué exigir que as modificações sejam realizadas pelo empreiteiro Manoel, nos termos estabelecidos pelo Código Civil,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Manoel somente poderá suspender a obra caso notifique previamente Josué com antecedência mínima de 90 dias."
+      },
+      {
+        "letra": "B",
+        "texto": "Manoel poderá suspender a obra apenas no caso de Josué não arcar com o acréscimo do preço."
+      },
+      {
+        "letra": "C",
+        "texto": "estará extinto automaticamente o contrato de empreitada, independentemente da manifestação das partes, diante da alteração do projeto por iniciativa exclusiva de Josué."
+      },
+      {
+        "letra": "D",
+        "texto": "Manoel não poderá suspender a obra e nem exigir acréscimo no preço."
+      },
+      {
+        "letra": "E",
+        "texto": "Manoel poderá suspender a obra ainda que Josué arque com o acréscimo do preço."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "904625",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: PGE-SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Prestação de Serviços e Empreitada"
+    ],
+    "enunciado_principal": "O Estado de São Paulo celebra com a empresa Alfa contrato que tem por objeto a construção de hospital público. Quatro anos após o recebimento definitivo da obra, constatou-se desconformidade de vigas de sustentação de um dos pavimentos do prédio, com comprometimento à segurança, decorrente de má execução. Notificada para eliminar a desconformidade, a empresa Alfa silenciou. Nesse caso, a Administração deverá buscar ressarcimento das perdas e danos junto ao empreiteiro no prazo de até",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "180 dias, prescricional, contado da comunicação do defeito ao empreiteiro."
+      },
+      {
+        "letra": "B",
+        "texto": "5 anos, decadencial, contados da comunicação do defeito ao empreiteiro."
+      },
+      {
+        "letra": "C",
+        "texto": "5 anos, prescricional, contados da constatação do defeito."
+      },
+      {
+        "letra": "D",
+        "texto": "a qualquer momento, por se tratar de pretensão imprescritível."
+      },
+      {
+        "letra": "E",
+        "texto": "180 dias, decadencial, contados da constatação do defeito."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "904276",
+    "metadata": "Ano: 2018 | Banca: INSTITUTO AOCP | Órgão: TRT - 1ª REGIÃO (RJ)",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Prestação de Serviços e Empreitada"
+    ],
+    "enunciado_principal": "Tício, empreiteiro, realizou contrato de prestação de serviços com Mévio. O instrumento contratual dispunha a obrigação de Tício em construir um muro, no prazo de 5 (cinco) dias, em volta de todo o terreno onde se encontra construída a casa de Mévio. O contrato previa que a contraprestação pelo serviço realizado seria o pagamento, em dinheiro, de Mévio para Tício, no valor R$ 10.000,00 (dez mil reais) no prazo de 10 (dez) dias após concluída toda a construção, sob pena de 10% de multa sobre o valor do serviço. Restou acordado, ainda, que Mévio forneceria os materiais necessários para a conclusão da obra. Diante das situações hipotéticas a seguir, assinale a alternativa que condiz com o disposto na legislação civil.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Caso Mévio não cumpra com sua obrigação, os ônus do não cumprimento incluem: multa contratual, correção/atualização monetária e juros remuneratórios."
+      },
+      {
+        "letra": "B",
+        "texto": "Se Tício não cumprir com sua obrigação no prazo contratual e a prestação se tornar inútil a Mévio em razão de contratação de outro profissional para tanto, poderá Mévio rejeitar a prestação e cancelar o contrato, o que lhe impedirá de requerer que as perdas e danos que eventualmente tenha sofrido sejam satisfeitas."
+      },
+      {
+        "letra": "C",
+        "texto": "Caso Mévio pratique ato que impeça Tício de realizar os serviços no prazo estipulado, este não incorrerá em mora e poderá, ainda, requisitar em juízo o que eventualmente possa ter efetivamente deixado de lucrar."
+      },
+      {
+        "letra": "D",
+        "texto": "Em caso de a obrigação pelo fornecimento dos materiais não constar estipulada no contrato, a obrigação será sempre do empreiteiro, por assim decorrer do disposto na legislação civil sobre o contrato de empreitada."
+      },
+      {
+        "letra": "E",
+        "texto": "Em razão da vinculação pessoal e especificidade da produção técnica, apenas o empreiteiro que elabora o projeto pode executá-lo, evitando assim divergências interpretativas, sendo que, em caso de necessidade de execução por outro profissional empreiteiro, outro projeto deve ser elaborado."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "871834",
+    "metadata": "Ano: 2018 | Banca: FCC | Órgão: PGE-TO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Prestação de Serviços e Empreitada"
+    ],
+    "enunciado_principal": "Nos contratos de empreitada de edifício, o empreiteiro de materiais e execução responderá, durante o prazo",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "irredutível de 3 anos pela solidez e segurança do trabalho, assim em razão dos materiais, como do solo, mas o dono da obra decairá desse direito que lhe é assegurado, se não propuser a ação contra o empreiteiro, nos 180 dias seguintes ao aparecimento do vício ou do defeito."
+      },
+      {
+        "letra": "B",
+        "texto": "irredutível de 5 anos pela solidez e segurança do trabalho, assim em razão dos materiais, como do solo, mas o dono da obra decairá desse direito que lhe é assegurado, se não propuser a ação contra o empreiteiro, nos 180 dias seguintes ao aparecimento do vício ou do defeito."
+      },
+      {
+        "letra": "C",
+        "texto": "de 5 anos, prorrogável ou redutível por acordo entre as partes, pela solidez e segurança do trabalho, assim em razão dos materiais, como do solo, mas o dono da obra decairá desse direito que lhe é assegurado, se não propuser a ação contra o empreiteiro, nos 180 dias seguintes ao aparecimento do vício ou do defeito."
+      },
+      {
+        "letra": "D",
+        "texto": "prescricional de 10 anos pela solidez e segurança do trabalho, assim em razão dos materiais, como do solo, mas o dono da obra decairá desse direito que lhe é assegurado, se não propuser a ação contra o empreiteiro, nos 180 dias seguintes ao aparecimento do vício ou do defeito."
+      },
+      {
+        "letra": "E",
+        "texto": "de garantia de 5 anos, pela solidez e segurança do trabalho, assim em razão dos materiais, como do solo, desde que comprovada sua culpa."
+      }
+    ],
+    "gabarito": "B"
+  }
+]

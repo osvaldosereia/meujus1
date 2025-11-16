@@ -1,0 +1,404 @@
+[
+  {
+    "id": "3407503",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: STM",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Preferências e Privilégios Creditórios"
+    ],
+    "enunciado_principal": "Julgue o item a seguir, acerca da responsabilidade civil, das preferências e privilégios creditórios e da proteção de dados pessoais.Em caso de insolvência do devedor, o crédito pelos impostos devidos à fazenda pública no ano anterior goza de privilégio especial.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3258232",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: TRT - 10ª REGIÃO (DF e TO)",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Preferências e Privilégios Creditórios"
+    ],
+    "enunciado_principal": "Com relação ao contrato de compra e venda, ao empresário e aos privilégios e preferências creditórios, julgue o item seguinte. Na hipótese em que dois ou mais credores da mesma classe, especialmente privilegiados, concorram aos mesmos bens, e por título igual, será dada preferência ao credor cujo crédito tenha maior valor, sem necessidade de rateio.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3258230",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: TRT - 10ª REGIÃO (DF e TO)",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Preferências e Privilégios Creditórios"
+    ],
+    "enunciado_principal": "Com relação ao contrato de compra e venda, ao empresário e aos privilégios e preferências creditórios, julgue o item seguinte. Permite-se ao empresário casado, sem necessidade de outorga conjugal, alienar os bens imóveis que integrem o patrimônio de sua empresa, independentemente do regime de bens adotado",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3028425",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: TRF - 1ª REGIÃO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Preferências e Privilégios Creditórios"
+    ],
+    "enunciado_principal": "Em determinada ação judicial, promoveu-se o leilão de um imóvel de Timóteo. Habilitaram-se, então, sobre o saldo de R$ 300.000,00, credores na seguinte ordem cronológica: 1. Anselmo, possuidor de má-fé, para indenizar-se sobre as benfeitorias úteis (no valor de R$ 50.000,00) e necessárias (também de R$ 50.000,00) que havia realizado no imóvel alienado; 2. Bernardo, que havia adiantado R$ 100.000,00 a Timóteo para custear seu tratamento médico nos meses finais de luta contra a doença que, ao final, ceifou sua vida; e 3. Caixa Financeira, instituição bancária, que tinha hipoteca sobre o imóvel alienado, pelo valor de R$ 200.000,00. Nesse caso, exclusivamente à luz do Código Civil, como o saldo do leilão é insuficiente para pagar todos os credores, será observado(a):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o rateio em partes iguais (R$ 200.000,00 para cada);"
+      },
+      {
+        "letra": "B",
+        "texto": "a ordem cronológica de habilitação até consumir todo o valor disponível, isto é, Anselmo, em primeiro lugar, e Bernardo, em segundo, receberão a integralidade de seus créditos (R$ 100.000,00 cada); a Caixa Financeira, por último, só receberá a metade (também R$ 100.000,00);"
+      },
+      {
+        "letra": "C",
+        "texto": "a ordem de privilégios creditórios, ou seja, a Caixa Financeira, em primeiro lugar, e Anselmo, em segundo, receberão a integralidade de seus créditos (respectivamente, R$ 200.000,00 e R$ 100.000,00), ao passo que Bernardo nada receberá;"
+      },
+      {
+        "letra": "D",
+        "texto": "a ordem de privilégios creditórios, ou seja, Anselmo receberá o crédito relativo a benfeitorias necessárias (R$ 50.000,00) e depois a Caixa Financeira receberá a integralidade de seu crédito (R$ 200.000,00), ao passo que Bernardo receberá, por último, parte do valor emprestado para as despesas médicas de Timóteo (R$ 50.000,00);"
+      },
+      {
+        "letra": "E",
+        "texto": "a ordem de privilégios creditórios, ou seja, primeiramente, a Caixa Financeira receberá a integralidade de seu crédito (R$ 200.000,00); depois, Anselmo receberá a integralidade do crédito com benfeitorias necessárias (R$ 50.000,00), ao passo que, por último, Bernardo receberá parte do seu crédito pelo empréstimo para custear as despesas médicas de Timóteo (R$ 50.000,00)."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2107167",
+    "metadata": "Ano: 2023 | Banca: FUNDATEC | Órgão: BRDE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Preferências e Privilégios Creditórios"
+    ],
+    "enunciado_principal": "Matéria de extrema relevância para a atividade bancária é o conhecimento das preferências e privilégios creditórios. Considerando o disposto no Código Civil, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os títulos legais de preferência são os privilégios e os direitos pessoais."
+      },
+      {
+        "letra": "B",
+        "texto": "O crédito real prefere ao pessoal de qualquer espécie; o crédito pessoal privilegiado, ao simples; e o privilégio geral, ao especial."
+      },
+      {
+        "letra": "C",
+        "texto": "Tem privilégio especial, sobre a coisa beneficiada, o credor por benfeitorias necessárias, úteis ou voluptuárias."
+      },
+      {
+        "letra": "D",
+        "texto": "Goza de privilégio geral, sobre os bens do devedor, o crédito pelos salários dos empregados do serviço doméstico do devedor, nos seus derradeiros doze meses de vida."
+      },
+      {
+        "letra": "E",
+        "texto": "Conservam seus respectivos direitos os credores, hipotecários ou privilegiados sobre o valor da indenização, se a coisa obrigada a hipoteca ou privilégio for desapropriada."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2109314",
+    "metadata": "Ano: 2022 | Banca: FCC | Órgão: TRT - 9ª REGIÃO (PR)",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Preferências e Privilégios Creditórios"
+    ],
+    "enunciado_principal": "Leandro teve a insolvência civil declarada em razão de suas dívidas excederem à importância dos seus bens. Entre os seus credores, figuravam titulares de créditos garantidos por hipoteca, créditos com privilégio especial, créditos com privilégio geral e créditos quirografários. Nesse caso, de acordo com o Código Civil,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "quando concorrerem aos mesmos bens, e por título igual, dois ou mais credores da mesma classe especialmente privilegiados, será pago com prioridade o credor da dívida mais antiga, se o produto não bastar para o pagamento integral de todos."
+      },
+      {
+        "letra": "B",
+        "texto": "extinguem-se os direitos dos credores hipotecários ou privilegiados sobre bens particulares do patrimônio do devedor, ressalvada a preferência sobre o produto de eventual alienação ocorrida anteriormente à declaração da insolvência."
+      },
+      {
+        "letra": "C",
+        "texto": "todos os credores terão igual direito sobre os bens do devedor comum, independentemente de título legal de preferência."
+      },
+      {
+        "letra": "D",
+        "texto": "o privilégio especial só compreende os bens sujeitos, por expressa disposição de lei, ao pagamento do crédito que ele favorece."
+      },
+      {
+        "letra": "E",
+        "texto": "os títulos legais de preferência, sejam privilégios ou direitos reais, são inoponíveis aos créditos dos empregados do serviço doméstico do devedor, que gozam de preferência absoluta sobre todos os demais créditos."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1985443",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: TRT - 8ª Região (PA e AP)",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Preferências e Privilégios Creditórios"
+    ],
+    "enunciado_principal": "No que concerne às preferências e aos privilégios creditórios, conforme o regramento do Código Civil, possui privilégio especial o crédito",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "do advogado, referente aos honorários de sucumbência, sobre o bem penhorado em execução de sentença, inclusive em relação ao valor principal devido à parte representada."
+      },
+      {
+        "letra": "B",
+        "texto": "da fazenda pública por impostos referentes ao ano corrente e aos quatro anteriores."
+      },
+      {
+        "letra": "C",
+        "texto": "do trabalhador agrícola, quanto à dívida de seu salário, sobre o produto da colheita para a qual houver concorrido com o seu trabalho."
+      },
+      {
+        "letra": "D",
+        "texto": "de sociedade empresária funerária por despesas com o enterro, considerado o custo médio local com despesas funerárias."
+      },
+      {
+        "letra": "E",
+        "texto": "decorrente de gastos para a sobrevivência da família do falecido nos seis meses posteriores ao óbito."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1984354",
+    "metadata": "Ano: 2022 | Banca: FGV | Órgão: Senado Federal",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Preferências e Privilégios Creditórios"
+    ],
+    "enunciado_principal": "Em concurso singular de credores, é correto dizer que o ordenamento civil brasileiro posiciona a preferência material do crédito garantido por hipoteca",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "abaixo do crédito com privilégio especial."
+      },
+      {
+        "letra": "B",
+        "texto": "acima do crédito condominial."
+      },
+      {
+        "letra": "C",
+        "texto": "abaixo do crédito condominial."
+      },
+      {
+        "letra": "D",
+        "texto": "acima do crédito tributário de IPTU."
+      },
+      {
+        "letra": "E",
+        "texto": "abaixo do crédito com privilégio geral."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1939519",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: PG-DF",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Preferências e Privilégios Creditórios"
+    ],
+    "enunciado_principal": "O item a seguir, é apresentada uma situação hipotética seguida de uma assertiva a ser julgada a respeito de preferências, privilégios creditórios e atos unilaterais.Maria é devedora de obrigações decorrentes de garantia hipotecária pactuada com Roberto e de honorários advocatícios devidos a Francisco. Nessa situação, havendo o concurso de credores, o crédito de Roberto terá preferência sobre o crédito de Francisco.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1779560",
+    "metadata": "Ano: 2021 | Banca: VUNESP | Órgão: Prefeitura de Jundiaí - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Preferências e Privilégios Creditórios"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta sobre as preferências e privilégios creditórios.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Quando concorrerem aos mesmos bens, e por título igual, porém com valores diferentes, dois ou mais credores da mesma classe especialmente privilegiados, haverá, entre eles, rateio em igual valor, se o produto não bastar para o pagamento integral de todos."
+      },
+      {
+        "letra": "B",
+        "texto": "O privilégio geral só compreende os bens sujeitos, por expressa disposição de lei, ao pagamento do crédito que ele favorece e o privilégio real de todos os bens não sujeitos a crédito real nem a privilégio especial."
+      },
+      {
+        "letra": "C",
+        "texto": "Tem privilégio geral sobre a coisa arrecadada e liquidada o credor de custas e despesas judiciais feitas com a arrecadação e liquidação."
+      },
+      {
+        "letra": "D",
+        "texto": "O crédito pelos impostos devidos à Fazenda Pública, no ano corrente e no anterior, tem privilégio sobre o crédito pelos salários dos empregados do serviço doméstico do devedor, nos seus derradeiros seis meses de vida."
+      },
+      {
+        "letra": "E",
+        "texto": "Tem privilégio especial sobre o produto da colheita, para a qual houver concorrido com o seu trabalho, e precipuamente a quaisquer outros créditos, salvo os reais, o trabalhador agrícola, quanto à dívida dos seus salários."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1036592",
+    "metadata": "Ano: 2019 | Banca: FCC | Órgão: TJ-AL",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Preferências e Privilégios Creditórios"
+    ],
+    "enunciado_principal": "Acerca das preferências e privilégios creditórios, segundo o Código Civil, considere as seguintes proposições: I. O credor por benfeitorias necessárias tem privilégio geral sobre a coisa beneficiada. II. O crédito real prefere ao crédito pessoal privilegiado. III. O crédito por despesas com a doença de que faleceu o devedor goza de privilégio especial. IV. Os credores hipotecários conservam seu direito sobre o valor da indenização mesmo se a coisa hipotecada for desapropriada. V. Direitos reais não são títulos legais de preferência, embora confiram prioridade sobre o produto da alienação. É correto o que se afirma APENAS em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II."
+      },
+      {
+        "letra": "B",
+        "texto": "I e III."
+      },
+      {
+        "letra": "C",
+        "texto": "II e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "III e V."
+      },
+      {
+        "letra": "E",
+        "texto": "IV e V."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1706447",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: Prefeitura de São José dos Campos - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Preferências e Privilégios Creditórios"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta sobre as preferências e privilégios creditórios, de acordo com as disposições do Código Civil de 2002.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O crédito pessoal privilegiado prefere ao crédito real."
+      },
+      {
+        "letra": "B",
+        "texto": "Goza de privilégio especial o crédito pelos impostos devidos à Fazenda Pública, no ano corrente e no anterior."
+      },
+      {
+        "letra": "C",
+        "texto": "Em caso de desapropriação de um bem hipotecado, os credores hipotecários perdem os benefícios de sua garantia em relação ao valor da indenização."
+      },
+      {
+        "letra": "D",
+        "texto": "Quando concorrerem ao mesmo bem, e por igual título, dois credores com privilégio especial, terá preferência aquele cujo crédito tiver vencimento anterior."
+      },
+      {
+        "letra": "E",
+        "texto": "O privilégio especial só compreende os bens sujeitos, por expressa disposição de lei, ao pagamento do crédito que ele favorece."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "948926",
+    "metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: PGM - João Pessoa - PB",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Preferências e Privilégios Creditórios"
+    ],
+    "enunciado_principal": "Considere que, após declarada a insolvência do devedor, este tenha falecido. De acordo com a legislação pertinente, nesse caso, o crédito que primariamente goza de privilégio geral é o de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "impostos devidos à fazenda pública."
+      },
+      {
+        "letra": "B",
+        "texto": "salários de empregados domésticos."
+      },
+      {
+        "letra": "C",
+        "texto": "despesas de funeral."
+      },
+      {
+        "letra": "D",
+        "texto": "gastos necessários à mantença da família do devedor."
+      },
+      {
+        "letra": "E",
+        "texto": "despesas com o luto do cônjuge sobrevivo, caso exista."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "898639",
+    "metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: PGM - Manaus - AM",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Obrigações",
+      "Preferências e Privilégios Creditórios"
+    ],
+    "enunciado_principal": "A respeito da propriedade, da posse e das preferências e privilégios creditórios, julgue o item subsequente.De acordo com o Código Civil, na hipótese de insolvência de devedor pessoa natural, o crédito referente a custas judiciais gozará de privilégio especial.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  }
+]

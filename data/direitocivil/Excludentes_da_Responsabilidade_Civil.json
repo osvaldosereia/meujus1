@@ -1,0 +1,759 @@
+[
+  {
+    "id": "3204416",
+    "metadata": "Ano: 2025 | Banca: UECE-CEV | Órgão: PGE-CE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Responsabilidade civil",
+      "Excludentes da Responsabilidade Civil",
+      "Indenização - Liquidação do Dano"
+    ],
+    "enunciado_principal": "Considerando a responsabilidade civil, assinale a afirmação verdadeira.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A responsabilidade civil é independente da criminal, não se podendo questionar mais sobre a existência do fato, ou sobre quem seja o seu autor, quando estas questões se acharem decididas no juízo criminal."
+      },
+      {
+        "letra": "B",
+        "texto": "No caso de lesão à saúde, o ofensor indenizará o ofendido das despesas do tratamento e dos lucros cessantes pelo prazo de cento e vinte dias, prorrogável uma única vez por igual período."
+      },
+      {
+        "letra": "C",
+        "texto": "O incapaz não responde pelos prejuízos econômicos ou patrimoniais que causar a terceiros se as pessoas por ele responsáveis não tiverem obrigação de fazê-lo ou não dispuserem de meios suficientes."
+      },
+      {
+        "letra": "D",
+        "texto": "Quando a atividade desenvolvida pelo autor do dano implicar, por sua natureza, risco para os direitos de outrem, só haverá obrigação de reparar o dano se ficar devidamente comprovado o dolo."
+      },
+      {
+        "letra": "E",
+        "texto": "Se a vítima tiver concorrido dolosamente para o evento danoso, a sua indenização será fixada tendo-se em conta a gravidade de seu ato em confronto com a do autor do dano."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3153253",
+    "metadata": "Ano: 2025 | Banca: FACET Concursos | Órgão: Prefeitura de Pedro Velho - RN",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Responsabilidade civil",
+      "Excludentes da Responsabilidade Civil"
+    ],
+    "enunciado_principal": "Sobre a responsabilidade civil no Direito Brasileiro e suas hipóteses de exclusão, analise o seguinte cenário: Uma empresa foi condenada por danos ambientais causados por vazamento de substâncias químicas. Em sua defesa, alegou que o acidente decorreu de fenômeno natural extremo, imprevisível e inevitável. O caso foi levado ao STF, que analisou a aplicação da teoria do risco integral. Considere as assertivas: I. A teoria do risco integral, aplicada em matéria ambiental, exclui as hipóteses de caso fortuito e força maior como excludentes de responsabilidade, conforme disposto no artigo 14, §1º, da Lei nº 6.938/1981. II. A responsabilidade civil ambiental tem natureza objetiva, sendo suficiente a comprovação do dano e do nexo causal, independentemente da demonstração de culpa ou dolo do agente. III. O Supremo Tribunal Federal reconhece que a teoria do risco integral não se aplica indiscriminadamente, sendo limitada às hipóteses previstas em lei, como nos casos de danos ambientais e acidentes nucleares. ]]Assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas a assertiva I está correta."
+      },
+      {
+        "letra": "B",
+        "texto": "penas as assertivas I e II estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas as assertivas II e III estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Todas as assertivas estão corretas."
+      },
+      {
+        "letra": "E",
+        "texto": "Apenas as assertivas I e III estão corretas."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3298493",
+    "metadata": "Ano: 2024 | Banca: IDCAP | Órgão: Prefeitura de Piúma - ES",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Responsabilidade civil",
+      "Corretagem, Transporte, Seguro, Constituição de Renda, Jogo e Aposta e Fiança",
+      "Excludentes da Responsabilidade Civil"
+    ],
+    "enunciado_principal": "De acordo com o Código Civil, pelo contrato de transporte alguém se obriga, mediante retribuição, a transportar, de um lugar para outro, pessoas ou coisas. Sobre o assunto, julgue as seguintes afirmações como verdadeiras (V) ou falsas (F): (__)No transporte de pessoas, o transportador responde pelos danos causados às pessoas transportadas e suas bagagens, salvo motivo de força maior, sendo nula qualquer cláusula excludente da responsabilidade. (__)No transporte de pessoas, não se considera gratuito o transporte quando, embora feito sem remuneração, o transportador auferir vantagens indiretas. (__)No transporte de pessoas, não é lícito ao transportador exigir a declaração do valor da bagagem a fim de fixar o limite da indenização. Assinale a alternativa cuja respectiva ordem de julgamento esteja correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "F − F − V."
+      },
+      {
+        "letra": "B",
+        "texto": "V − V − F."
+      },
+      {
+        "letra": "C",
+        "texto": "V − F − F."
+      },
+      {
+        "letra": "D",
+        "texto": "V − V − V."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3115054",
+    "metadata": "Ano: 2024 | Banca: FEPESE | Órgão: Prefeitura de Palhoça - SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Responsabilidade civil",
+      "Excludentes da Responsabilidade Civil"
+    ],
+    "enunciado_principal": "De acordo com o Código Civil, é correto afirmar, sobre a responsabilidade civil:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ninguém poderá ser responsabilizado civilmente pela prática de dano exclusivamente moral."
+      },
+      {
+        "letra": "B",
+        "texto": "Quem está no exercício do seu direito, jamais cometerá um ato ilícito."
+      },
+      {
+        "letra": "C",
+        "texto": "Cometerá ato ilícito o agente que não anunciar ao terceiro que está agindo em legítima defesa."
+      },
+      {
+        "letra": "D",
+        "texto": "A distribuição de coisa alheia a fim de remover um perigo iminente não é considerada ato ilícito."
+      },
+      {
+        "letra": "E",
+        "texto": "A prática de um ato ilícito pressupõe obrigatoriamente uma ação positiva do agente causador do dano."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3024779",
+    "metadata": "Ano: 2024 | Banca: OBJETIVA | Órgão: Prefeitura de Conceição da Aparecida - MG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Responsabilidade civil",
+      "Excludentes da Responsabilidade Civil"
+    ],
+    "enunciado_principal": "F. teve seu cartão de crédito furtado. Junto ao cartão, havia um papel que constava a senha, a fim de não esquecê-la. Aproveitando-se da situação, o ladrão realizou diversas compras — presenciais e online. F. ajuizou ação de indenização contra as lojas e as empresas onde foram realizadas as compras, alegando que elas deveriam ter adotado procedimentos de segurança para evitar a fraude, exigindo a identidade do comprador para comparar com a titular do cartão. De acordo com o atual entendimento do STJ, assinalar a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As empresas e lojas têm responsabilidade civil pelas compras indevidas neste caso."
+      },
+      {
+        "letra": "B",
+        "texto": "Comete ato ilícito o estabelecimento comercial que deixa de exigir documento de identidade no momento do pagamento mediante cartão com uso de senha, considerando a existência de lei federal nesse sentido."
+      },
+      {
+        "letra": "C",
+        "texto": "A tese de F. dever· ser acolhida, tendo em vista que há excludente de nexo causal."
+      },
+      {
+        "letra": "D",
+        "texto": "Não há como imputar responsabilidade à empresa ou à loja em que foi utilizado cartão de crédito extraviado, furtado ou fraudado, especialmente diante do caso em tela."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2561521",
+    "metadata": "Ano: 2024 | Banca: FUNDATEC | Órgão: IF Sul - MG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Responsabilidade civil",
+      "Excludentes da Responsabilidade Civil"
+    ],
+    "enunciado_principal": "De acordo com Cavalieri Filho (2023), “[...] causa de exclusão do próprio nexo causal, porque o agente, aparente causador direto do dano, é mero instrumento do acidente. Assim, se ‘A’, num gesto tresloucado, atira-se sob as rodas do veículo dirigido por ‘B’, não se poderá falar em liame de causalidade entre o ato deste e o prejuízo por aquele experimentado. O veículo atropelador, a toda evidência, foi simples instrumento do acidente, erigindo-se a conduta da vítima em causa única e adequada do evento, afastando o próprio nexo causal em relação ao motorista, e não apenas a sua culpa, como querem alguns [...]. O problema, como se viu, desloca-se para o terreno do nexo causal, e não da culpa. O Direito Italiano fala em relevância do comportamento da vítima para os fins do nexo de causalidade material. Para os fins de interrupção do nexo causal, basta que o comportamento da vítima represente o fato decisivo do evento”. O trecho supracitado refere-se ao(à):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Fundamentação da responsabilidade civil objetiva."
+      },
+      {
+        "letra": "B",
+        "texto": "Função precaucional da responsabilidade civil."
+      },
+      {
+        "letra": "C",
+        "texto": "Princípio da prevenção da responsabilidade civil."
+      },
+      {
+        "letra": "D",
+        "texto": "Abuso de direito como elemento da responsabilidade civil subjetiva."
+      },
+      {
+        "letra": "E",
+        "texto": "Excludente da responsabilidade civil: fato exclusivo da vítima."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2173510",
+    "metadata": "Ano: 2023 | Banca: FCC | Órgão: MPE-PB",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Responsabilidade civil",
+      "Responsabilidade Civil - Teorias, Espécies e Pressupostos.",
+      "Modalidades da Responsabilidade Civil",
+      "Excludentes da Responsabilidade Civil"
+    ],
+    "enunciado_principal": "Em relação à responsabilidade civil:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O empregador ou comitente responde por ato de seus empregados, mesmo fora de horário de trabalho e se não for em razão deste."
+      },
+      {
+        "letra": "B",
+        "texto": "O direito de exigir reparação e a obrigação de prestá-la não se transmitem com a herança."
+      },
+      {
+        "letra": "C",
+        "texto": "Depende diretamente da responsabilidade penal, pois é no juízo criminal que se decidirá sobre a existência do fato, ou sobre quem seja o seu autor."
+      },
+      {
+        "letra": "D",
+        "texto": "Se a ofensa ou violação de direitos for praticada por mais de uma pessoa, todas respondem civilmente, porém em modalidade não solidária."
+      },
+      {
+        "letra": "E",
+        "texto": "O incapaz responde pelos prejuízos que causar, se as pessoas por ele responsáveis não tiverem obrigação de fazê-lo ou não dispuserem de meios suficientes."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2166886",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: PGM - Niterói",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Responsabilidade civil",
+      "Excludentes da Responsabilidade Civil",
+      "Elementos Essenciais – Conduta, Nexo Causal, Culpa e Dano"
+    ],
+    "enunciado_principal": "Vinícius, médico endocrinologista, ao receber a paciente Suzana em seu consultório particular com o relato de determinados sintomas, prescreveu para ela o uso contínuo de um medicamento, esclarecendo de forma minuciosa a dose e a frequência com que o fármaco deveria ser ministrado. Alguns meses depois, Vinícius tomou conhecimento de que Suzana fora internada às pressas no hospital, com seus rins gravemente comprometidos. Após um difícil tratamento, Suzana recebeu alta, mas com um déficit permanente de 50% da sua função renal. Ato contínuo, ajuizou ação indenizatória em face de Vinícius, postulando reparação por danos morais decorrentes da lesão à sua saúde, causada, segundo ela afirmou, pela medicação que o médico prescreveu. Realizada perícia no curso da instrução processual, apurou-se que o medicamento prescrito por Vinícius não servia, absolutamente, ao tratamento dos sintomas que Suzana relatara em seu consultório, sendo recomendado para casos totalmente diversos. A perícia detectou, ainda, que, embora a dosagem prescrita por Vinícius fosse totalmente inofensiva, a falha na atividade renal da paciente somente ocorreu porque, conforme ela mesma relatou ao perito, Suzana passou meses tomando o triplo da dose receitada, aconselhada por uma amiga que lhe disse que isso aceleraria seu tratamento. Considerando que os resultados apurados pela perícia estão corretos, é adequado afirmar que o médico:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não deve indenizar Suzana pelo dano moral alegado, pois, nesse caso, ocorreu fato exclusivo da vítima;"
+      },
+      {
+        "letra": "B",
+        "texto": "não deve indenizar Suzana pelo dano moral alegado, pois Vinícius não agiu com culpa nem dolo;"
+      },
+      {
+        "letra": "C",
+        "texto": "deve indenizar Suzana em parte pelo dano moral alegado, pois, nesse caso, ocorreu fato concorrente da vítima;"
+      },
+      {
+        "letra": "D",
+        "texto": "deve indenizar Suzana integralmente pelo dano moral alegado, pois a responsabilidade civil de Vinícius é objetiva;"
+      },
+      {
+        "letra": "E",
+        "texto": "deve indenizar Suzana integralmente pelo dano moral alegado, pois Vinícius agiu com imperícia ao medicá-la."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2164523",
+    "metadata": "Ano: 2023 | Banca: FUNDATEC | Órgão: Prefeitura de Campo Bom - RS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Responsabilidade civil",
+      "Excludentes da Responsabilidade Civil"
+    ],
+    "enunciado_principal": "No âmbito da responsabilidade civil, a prática de conduta em estado de necessidade é considerada como:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Lícita, mas não afasta do dever de indenizar."
+      },
+      {
+        "letra": "B",
+        "texto": "Lícita, afastando o dever de indenizar."
+      },
+      {
+        "letra": "C",
+        "texto": "Ilícita, ensejando o dever de indenizar."
+      },
+      {
+        "letra": "D",
+        "texto": "Ilícita, mas afastando o dever de indenizar."
+      },
+      {
+        "letra": "E",
+        "texto": "Causa especial de exclusão de responsabilidade."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2110683",
+    "metadata": "Ano: 2023 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Responsabilidade civil",
+      "Obrigação Alimentar no Direito Civil",
+      "Responsabilidade Civil - Teorias, Espécies e Pressupostos.",
+      "Excludentes da Responsabilidade Civil",
+      "Elementos Essenciais – Conduta, Nexo Causal, Culpa e Dano"
+    ],
+    "enunciado_principal": "Sobre a responsabilidade civil, segundo o entendimento dominante e atual do Superior Tribunal de Justiça, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A vítima, ainda que se trate de família de baixa renda, deve provar a dependência econômica para ter direito à pensão por ato ilícito. Não há que se falar nesse caso em presunção relativa de necessidade."
+      },
+      {
+        "letra": "B",
+        "texto": "A indenização é medida pela extensão do dano, mas havendo excessiva desproporção entre a gravidade da culpa e o prejuízo causado, pode haver a redução equitativa do montante indenizatório. Em outras palavras, a redução equitativa da indenização prevista no Código Civil tem caráter excepcional e somente será realizada quando a amplitude do dano extrapolar os efeitos razoavelmente imputáveis à conduta do agente."
+      },
+      {
+        "letra": "C",
+        "texto": "A prisão civil decretada por descumprimento de obrigação alimentar decorrente de ato ilícito é legal, pois a exceção prevista na Constituição Federal sobre o tema não exige obrigação de pagar alimentos decorrente do Direito de Família."
+      },
+      {
+        "letra": "D",
+        "texto": "A responsabilidade civil do dono ou detentor de animal é objetiva, não se admitindo a excludente do fato exclusivo de terceiro."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1870397",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: MPE-TO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Responsabilidade civil",
+      "Excludentes da Responsabilidade Civil",
+      "Elementos Essenciais – Conduta, Nexo Causal, Culpa e Dano"
+    ],
+    "enunciado_principal": "No ano de 2017, Marcos levou as vacas de sua propriedade para pastarem às margens de uma rodovia estadual movimentada. Uma das vacas invadiu a pista e acabou atropelada pelo carro de Fernando, que passava no local naquele momento. Em razão da colisão, Fernando veio a óbito. Em 2020, Marcos foi absolvido em processo criminal pela acusação de homicídio culposo, por falta de provas, tendo a sentença transitado em julgado. Tendo como referência essa situação hipotética, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A responsabilidade civil de Marcos independe da demonstração de sua culpa pelo dano causado pelo animal de sua propriedade, podendo ele ser isento de responsabilização se conseguir comprovar culpa da vítima ou força maior."
+      },
+      {
+        "letra": "B",
+        "texto": "Como o acidente ocorreu em rodovia estadual, a responsabilidade civil pela morte de Fernando é exclusiva do Estado."
+      },
+      {
+        "letra": "C",
+        "texto": "Prescreveu o prazo da pretensão de reparação na esfera cível pelos herdeiros de Fernando, haja vista o transcurso de três anos desde o fato."
+      },
+      {
+        "letra": "D",
+        "texto": "Marcos não poderá ser responsabilizado civilmente pelo acidente, pois já foi absolvido em sentença transitada em julgado."
+      },
+      {
+        "letra": "E",
+        "texto": "Marcos poderá ser responsabilizado civilmente apenas se demonstrada a sua culpa, pois é subjetiva a responsabilidade civil pelos danos causados por animal de sua propriedade."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1871013",
+    "metadata": "Ano: 2021 | Banca: FGV | Órgão: Prefeitura de Paulínia - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Responsabilidade civil",
+      "Modalidades da Responsabilidade Civil",
+      "Excludentes da Responsabilidade Civil"
+    ],
+    "enunciado_principal": "Augusto trafegava com seu automóvel em baixa velocidade por sua vizinhança quando foi surpreendido por Lúcia, que atravessava a rua naquele momento. Não conseguindo frear a tempo, Augusto atingiu Lúcia com o veículo, causando lesões em seu corpo e o perecimento de seu aparelho de telefonia celular. Após muitos meses em recuperação, Lúcia, que não permaneceu com nenhuma sequela física, ingressou com ação indenizatória por danos materiais (perda do celular) e morais em face de Augusto. Este, porém, pretende alegar, em sua defesa, que Lúcia atravessou a via pública falando distraidamente ao celular e desrespeitando uma placa que expressamente proibia a travessia de pedestres no local. À luz do caso narrado, é correto afirmar que as alegações deduzidas por Augusto em defesa, se comprovadas,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "evidenciariam a responsabilidade integral por parte de Augusto, ante a sua condição motorista."
+      },
+      {
+        "letra": "B",
+        "texto": "demonstrariam que Augusto agiu no exercício regular de seu direito."
+      },
+      {
+        "letra": "C",
+        "texto": "afetariam a análise do nexo causal, levando ao afastamento do dever de indenizar ou à redução da indenização."
+      },
+      {
+        "letra": "D",
+        "texto": "permitiriam concluir que Lúcia não sofreu dano moral."
+      },
+      {
+        "letra": "E",
+        "texto": "afastaria o dever de indenizar o aparelho de telefonia celular."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1866715",
+    "metadata": "Ano: 2021 | Banca: CESPE / CEBRASPE | Órgão: PGE-CE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Responsabilidade civil",
+      "Excludentes da Responsabilidade Civil"
+    ],
+    "enunciado_principal": "Para escapar do ataque de um cachorro de rua, Joaquim pulou sobre o carro de Valério, causando danos no capô do veículo. O fato aconteceu no ano de 2015. Acreditando se tratar de dano intencional em razão de rixa anterior entre os dois, Valério deu notícia do crime à delegacia de polícia. Processado criminalmente, Joaquim foi absolvido por falta de provas, tendo a sentença transitado em julgado em 2019. Com relação a essa situação hipotética, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O ataque do animal não descaracteriza o ato ilícito, sendo Joaquim responsável civilmente pelos danos causados ao carro de Valério."
+      },
+      {
+        "letra": "B",
+        "texto": "A pretensão de Valério de indenização por dano cível está prescrita, tendo em vista que transcorreram três anos do fato danoso."
+      },
+      {
+        "letra": "C",
+        "texto": "Joaquim não praticou ato ilícito, pois danificou o veículo de Valério a fim de remover perigo iminente."
+      },
+      {
+        "letra": "D",
+        "texto": "Ainda que fosse caracterizado o excesso por parte de Joaquim na remoção do perigo, não seria possível a sua responsabilização pelos danos."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1759308",
+    "metadata": "Ano: 2021 | Banca: FGV | Órgão: DPE-RJ",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Responsabilidade civil",
+      "Excludentes da Responsabilidade Civil"
+    ],
+    "enunciado_principal": "Henrique, motorista cauteloso, conduzindo seu veículo automotor dentro do limite de velocidade e devidamente habilitado, para evitar o atropelamento de João, que atravessava a rua fora da faixa de pedestres, desvia de João e colide com Maria. Maria tem danos materiais e estéticos em razão do acidente. Nesse contexto, é correto afirmar que Henrique:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não praticou ato ilícito, considerando ter atuado em estado de necessidade e, portanto, não deverá indenizar Maria;"
+      },
+      {
+        "letra": "B",
+        "texto": "responde objetivamente pelos danos a que der causa, ressarcindo integralmente Maria dos danos estéticos, morais e materiais;"
+      },
+      {
+        "letra": "C",
+        "texto": "cometeu ato ilícito, causando dano material, moral e estético a Maria e, portanto, deve regularmente indenizá-la em razão do princípio da reparação integral;"
+      },
+      {
+        "letra": "D",
+        "texto": "não responde pelos danos a que der causa por ter praticado ato lícito na forma do exercício regular do direito, estando habilitado e dentro do limite de velocidade permitido na via;"
+      },
+      {
+        "letra": "E",
+        "texto": "não praticou ato ilícito, considerando ter atuado em estado de necessidade, mas, ainda que não tenha cometido ato ilícito, assistirá direito a Maria de ser indenizada por Henrique."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1744076",
+    "metadata": "Ano: 2021 | Banca: FGV | Órgão: DPE-RJ",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Responsabilidade civil",
+      "Excludentes da Responsabilidade Civil",
+      "Elementos Essenciais – Conduta, Nexo Causal, Culpa e Dano"
+    ],
+    "enunciado_principal": "No que tange à responsabilidade civil, podemos afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não se mostra possível a responsabilização do incapaz, de forma direta ou subsidiária, pelos danos por ele provocados."
+      },
+      {
+        "letra": "B",
+        "texto": "Não é admitida atualmente a cumulação de pedido de indenização por dano moral e estético."
+      },
+      {
+        "letra": "C",
+        "texto": "Os atos praticados em estado de necessidade não são considerados ilícitos civis, porém não afastam o dever de indenizar, assegurado ao autor do dano ação de regresso contra o terceiro que agiu culposa ou dolosamente na situação de perigo."
+      },
+      {
+        "letra": "D",
+        "texto": "Em se tratando de responsabilidade objetiva, exige-se apenas o ato comissivo ou omisso do autor do fato e o dano à vítima, dispensando-se a comprovação do nexo de causalidade, já que se aplica a teoria do risco."
+      },
+      {
+        "letra": "E",
+        "texto": "A responsabilidade civil é independente da criminal, permitindo-se que se possa questionar a existência do fato ou sua autoria, ainda que decididas pelo juízo criminal."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2070112",
+    "metadata": "Ano: 2019 | Banca: IBFC | Órgão: Prefeitura de Cuiabá - MT",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Responsabilidade civil",
+      "Responsabilidade Civil - Teorias, Espécies e Pressupostos.",
+      "Modalidades da Responsabilidade Civil",
+      "Excludentes da Responsabilidade Civil",
+      "Indenização - Liquidação do Dano",
+      "Elementos Essenciais – Conduta, Nexo Causal, Culpa e Dano"
+    ],
+    "enunciado_principal": "O Código Civil dispõe que “haverá obrigação de reparar o dano, independentemente de culpa, nos casos especificados em lei, ou quando a atividade normalmente desenvolvida pelo autor do dano implicar, por sua natureza, risco para os direitos de outrem”. Considere o dispositivo legal e assinale a alternativa correta acerca do tipo de responsabilidade que ela representa.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Responsabilidade civil subjetiva"
+      },
+      {
+        "letra": "B",
+        "texto": "Responsabilidade civil pelo risco"
+      },
+      {
+        "letra": "C",
+        "texto": "Responsabilidade civil por culpa"
+      },
+      {
+        "letra": "D",
+        "texto": "Responsabilidade civil por dolo e culpa"
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1185387",
+    "metadata": "Ano: 2019 | Banca: VUNESP | Órgão: Prefeitura de Ibaté - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Responsabilidade civil",
+      "Responsabilidade Civil - Teorias, Espécies e Pressupostos.",
+      "Excludentes da Responsabilidade Civil",
+      "Elementos Essenciais – Conduta, Nexo Causal, Culpa e Dano"
+    ],
+    "enunciado_principal": "João iria vender um imóvel de sua propriedade a Antônio e já estavam conversando a respeito, porém João desistiu de formalizar o negócio. Considerando a responsabilidade civil de indenizar de João a Antônio, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Sempre que houver um rompimento pré-contratual, atingindo a boa-fé objetiva, faz surgir o dever de indenizar."
+      },
+      {
+        "letra": "B",
+        "texto": "No caso, tratando-se de responsabilidade contratual, não importa a fase negocial, impondo-se o dever de conduta às partes e o dever de indenizar."
+      },
+      {
+        "letra": "C",
+        "texto": "Se alguém se propôs a vender um bem, pode simplesmente recusar a venda a alguém sem nenhum motivo justificado."
+      },
+      {
+        "letra": "D",
+        "texto": "O Direito brasileiro não reconhece nenhum direito relativo à fase pré-contratual, podendo a parte desistir do negócio a qualquer tempo até formalizar algum compromisso."
+      },
+      {
+        "letra": "E",
+        "texto": "Não é o rompimento de qualquer negociação, mas daquela que já tinha provocado na parte a expectativa razoável de contratação que gera a possível indenização."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1156764",
+    "metadata": "Ano: 2019 | Banca: Quadrix | Órgão: CREA-TO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Responsabilidade civil",
+      "Aspectos Gerais do Direito das Sucessões – Momento, Espécies, Lugar, Herança e Representação",
+      "Excludentes da Responsabilidade Civil"
+    ],
+    "enunciado_principal": "Acerca do direito civil, julgue o item.Suponha‐se que João tenha causado dano patrimonial à Maria e, antes de ingressar com a ação de ressarcimento, tenha falecido. Nesse caso, a responsabilidade civil de João, diante do seu falecimento, não será transmitida aos herdeiros.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "972021",
+    "metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: TJ-PR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Responsabilidade civil",
+      "Responsabilidade Civil - Teorias, Espécies e Pressupostos.",
+      "Excludentes da Responsabilidade Civil"
+    ],
+    "enunciado_principal": "Uma empresa contratou uma transportadora para a prestação de serviço de transporte de carga altamente valiosa. A transportadora, por sua vez, não contratou seguro contra perdas e danos que poderiam ser causados à carga transportada, embora o contrato firmado pela transportadora tivesse estipulado a obrigatoriedade de seguro com tal cobertura. A carga era transportada em trajeto conhecido e em horário com intenso tráfego, quando o veículo que a transportava foi interceptado por assaltantes à mão armada, que roubaram toda a carga. Em decorrência desse fato, a empresa contratante ajuizou ação de reparação de danos em desfavor da transportadora. À luz do entendimento jurisprudencial, nessa situação hipotética,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não há responsabilidade civil da transportadora, pois o roubo à mão armada constitui motivo de força maior."
+      },
+      {
+        "letra": "B",
+        "texto": "há responsabilidade civil da transportadora, desde que seja demonstrado que ela não adotou medidas razoáveis de cautela, como a contratação do referido seguro."
+      },
+      {
+        "letra": "C",
+        "texto": "não há responsabilidade civil da transportadora, pois, ao ter realizado o transporte em trajeto conhecido e em horário com intenso tráfego, adotou medidas razoáveis de cautela."
+      },
+      {
+        "letra": "D",
+        "texto": "há responsabilidade civil da transportadora, sendo suficiente para sua configuração a previsibilidade abstrata de risco de roubo da carga transportada."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "926034",
+    "metadata": "Ano: 2018 | Banca: FGV | Órgão: AL-RO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Responsabilidade civil",
+      "Excludentes da Responsabilidade Civil",
+      "Indenização - Liquidação do Dano",
+      "Elementos Essenciais – Conduta, Nexo Causal, Culpa e Dano"
+    ],
+    "enunciado_principal": "Antônio, ao transitar com seu veículo automotor na correta faixa de direção do meio, entre três pistas, sofre uma fechada de Bento, o que o obriga a invadir a pista ao lado. Em razão disso, o carro de Antônio colide com o veículo dirigido por Carlos, que trafegava tranquilamente na pista de direção invadida, causando-lhe danos materiais, morais e estéticos. Diante da dinâmica do evento apresentada, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A vítima Carlos somente poderá demandar do causador mediato Bento, pois a dinâmica do evento deixa claro que Antônio agiu em estado de necessidade."
+      },
+      {
+        "letra": "B",
+        "texto": "A questão envolve responsabilidade civil subjetiva na qual há que se buscar no caso concreto quem efetivamente agiu culposamente, sendo este o único a responder pelo dano."
+      },
+      {
+        "letra": "C",
+        "texto": "Independentemente da prova de culpa, a vítima pode pedir indenização por danos materiais cumulado com moral e estético de Antônio, sendo legítimo a este regredir em face de Bento."
+      },
+      {
+        "letra": "D",
+        "texto": "A vítima pode demandar pedido indenizatório integral em face de ambos com fundamento na teoria do risco criado."
+      },
+      {
+        "letra": "E",
+        "texto": "Antônio e Bento concorreram culposamente para o evento danoso, logo a indenização integral deve ser fixada tendo-se em conta a gravidade da culpa de cada um dos causadores."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "890552",
+    "metadata": "Ano: 2018 | Banca: FCC | Órgão: TRT - 6ª Região (PE)",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Responsabilidade civil",
+      "Responsabilidade Civil - Teorias, Espécies e Pressupostos.",
+      "Modalidades da Responsabilidade Civil",
+      "Excludentes da Responsabilidade Civil",
+      "Indenização - Liquidação do Dano",
+      "Elementos Essenciais – Conduta, Nexo Causal, Culpa e Dano"
+    ],
+    "enunciado_principal": "Em relação à responsabilidade civil, considere as afirmações a seguir. I. Os bens do responsável pela ofensa ou violação do direito de outrem ficam sujeitos à reparação do dano causado; e, se a ofensa tiver mais de um autor, todos responderão subsidiariamente pela reparação. II. O credor que demandar o devedor antes de vencida a dívida, fora dos casos em que a lei o permita, ficará obrigado a esperar o tempo que faltava para o vencimento, a descontar os juros correspondentes, embora estipulados, e a pagar as custas em dobro. III. A responsabilidade civil é independente da criminal, não se podendo questionar mais sobre a existência do fato, ou sobre quem seja o seu autor, quando estas questões se acharem decididas no juízo criminal. IV. Aquele que ressarcir o dano causado por outrem pode reaver o que houver pago daquele por quem pagou, salvo se o causador do dano for descendente seu, absoluta ou relativamente incapaz. V. Aquele que demandar por dívida já paga, no todo ou parcialmente, sem ressalvar as quantias do que for devido, ficará no primeiro caso obrigado a devolver o equivalente do que exigiu do devedor e, no segundo caso, a pagar-lhe o dobro do que foi cobrado, em qualquer circunstância. Está correto o que se afirma APENAS em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "II, III e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "I, III e V."
+      },
+      {
+        "letra": "C",
+        "texto": "I e II."
+      },
+      {
+        "letra": "D",
+        "texto": "III e V."
+      },
+      {
+        "letra": "E",
+        "texto": "II, IV e V."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "886405",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: PC-BA",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Responsabilidade civil",
+      "Responsabilidade Civil - Teorias, Espécies e Pressupostos.",
+      "Modalidades da Responsabilidade Civil",
+      "Excludentes da Responsabilidade Civil",
+      "Indenização - Liquidação do Dano",
+      "Elementos Essenciais – Conduta, Nexo Causal, Culpa e Dano"
+    ],
+    "enunciado_principal": "A respeito da responsabilidade civil, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A indenização mede-se pela extensão do dano, não podendo ser reduzida pelo juiz, mesmo na existência de excessiva desproporção entre a gravidade da culpa e o dano; se a vítima tiver concorrido culposamente para o evento danoso, a sua indenização será fixada tendo-se em conta a gravidade de sua culpa em confronto com a do autor do dano."
+      },
+      {
+        "letra": "B",
+        "texto": "A indenização por ofensa à liberdade pessoal consistirá no pagamento das perdas e danos que sobrevierem ao ofendido; se o ofendido não puder provar prejuízo material, caberá ao juiz fixar, equitativamente, o valor da indenização, na conformidade das circunstâncias do caso; considera-se ofensiva da liberdade pessoal a denúncia falsa e de má-fé."
+      },
+      {
+        "letra": "C",
+        "texto": "No caso de homicídio, a indenização consiste, sem excluir outras reparações, no pagamento das despesas com o tratamento da vítima, seu funeral e o luto da família e na prestação de alimentos às pessoas a quem o morto os devia, levando-se em conta a duração provável da vida do alimentado."
+      },
+      {
+        "letra": "D",
+        "texto": "No caso de lesão ou outra ofensa à saúde, o ofensor indenizará o ofendido das despesas do tratamento e dos danos emergentes, além de algum outro prejuízo que o ofendido prove haver sofrido, não sendo devidos lucros cessantes."
+      },
+      {
+        "letra": "E",
+        "texto": "Se da ofensa resultar defeito pelo qual o ofendido não possa exercer o seu ofício ou profissão, a indenização, além das despesas do tratamento e lucros cessantes até ao fim da convalescença, incluirá pensão correspondente à importância do trabalho para que se inabilitou, não podendo a indenização ser arbitrada e paga de uma só vez."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "873712",
+    "metadata": "Ano: 2018 | Banca: FCC | Órgão: DPE-AP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Responsabilidade civil",
+      "Responsabilidade Civil - Teorias, Espécies e Pressupostos.",
+      "Modalidades da Responsabilidade Civil",
+      "Excludentes da Responsabilidade Civil"
+    ],
+    "enunciado_principal": "Sobre responsabilidade civil, considere as assertivas a seguir: I. O incapaz que venha a causar dano tem responsabilidade subsidiária e condicional para a reparação. II. A atualização monetária do valor da indenização por danos materiais deve incidir a partir da data do ajuizamento da ação. III. A simples devolução indevida de cheque caracteriza dano moral, independentemente de prova do prejuízo sofrido pela vítima. IV. O sujeito que, em estado de necessidade, causa prejuízo a terceiro, é isento de responsabilidade pelo dano, em virtude da excludente de ilicitude. Diante da legislação em vigor e do entendimento predominante no Superior Tribunal de Justiça, está correto o que se afirma APENAS em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "II e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "I e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "D",
+        "texto": "I e III."
+      },
+      {
+        "letra": "E",
+        "texto": "III e IV."
+      }
+    ],
+    "gabarito": "D"
+  }
+]

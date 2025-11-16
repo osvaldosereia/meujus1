@@ -1,0 +1,405 @@
+[
+  {
+    "id": "3562103",
+    "metadata": "Ano: 2025 | Banca: Ibest | Órgão: CORECON - PE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Parte Geral",
+      "Aspectos Introdutórios"
+    ],
+    "enunciado_principal": "De acordo com o Código Civil de 2002, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Se ambas as partes procederem com dolo, aquela que primeiro identificar pode alegá-lo para anular o negócio, ou reivindicar indenização."
+      },
+      {
+        "letra": "B",
+        "texto": "O erro prejudica a validade do negócio jurídico mesmo que a pessoa, a quem a manifestação de vontade se dirige, se oferecer para executá-la na conformidade da vontade real do manifestante."
+      },
+      {
+        "letra": "C",
+        "texto": "O falso motivo só vicia a declaração de vontade quando expresso como razão determinante."
+      },
+      {
+        "letra": "D",
+        "texto": "Considera-se coação a ameaça do exercício normal de um direito, nem o simples temor reverencial."
+      },
+      {
+        "letra": "E",
+        "texto": "É vedada a anulação de negócio jurídico por dolo de terceiro."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3087114",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: TJ-RR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Princípios Gerais de Direito Civil",
+      "Lei de Introdução às Normas do Direito Brasileiro (LINDB)",
+      "Parte Geral",
+      "Aspectos Introdutórios"
+    ],
+    "enunciado_principal": "No âmbito do controle da atividade administrativa, tendo em vista as disposições constantes do Decreto-Lei nº 4.657/1942 (Lei de Introdução às Normas do Direito Brasileiro) acerca da segurança jurídica e da eficiência na criação e na aplicação do Direito Público e as peculiaridades atinentes ao controle administrativo e o controle judicial, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "apenas em sede de controle de administrativo é necessário que sejam indicadas as consequências jurídicas e administrativas na hipótese de invalidação de ato administrativo."
+      },
+      {
+        "letra": "B",
+        "texto": "a norma que estabelece que não se decidirá com base em valores jurídicos abstratos sem que sejam consideradas as consequências práticas da decisão, também é aplicável na esfera judicial."
+      },
+      {
+        "letra": "C",
+        "texto": "as decisões judiciais que estabeleçam interpretação ou nova orientação sobre norma administrativa de conteúdo indeterminado devem retroagir, ainda que importe em invalidação de situações plenamente constituídas."
+      },
+      {
+        "letra": "D",
+        "texto": "a decisão do processo, na esfera administrativa, não poderá impor compensação por benefícios indevidos ou prejuízos anormais ou injustos resultantes do processo ou da conduta dos envolvidos."
+      },
+      {
+        "letra": "E",
+        "texto": "a exigência de motivação para demonstrar a necessidade e a adequação da medida imposta ou da invalidação de ato, contrato, ajuste, processo ou norma administrativa, inclusive em face das possíveis alternativas, é aplicável somente no controle jurisdicional."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2292665",
+    "metadata": "Ano: 2023 | Banca: OBJETIVA | Órgão: Prefeitura de Poço das Antas - RS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Parte Geral",
+      "Aspectos Introdutórios"
+    ],
+    "enunciado_principal": "No Brasil, os cidadãos têm diferentes estados civis registrados de acordo com suas situações legais. A legislação brasileira identifica cinco tipos diferentes de estado civil, entre os quais NÃO está:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Solteiro."
+      },
+      {
+        "letra": "B",
+        "texto": "Casado."
+      },
+      {
+        "letra": "C",
+        "texto": "Divorciado."
+      },
+      {
+        "letra": "D",
+        "texto": "Noivo."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2134213",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: AGU",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Parte Geral",
+      "Aspectos Introdutórios"
+    ],
+    "enunciado_principal": "Assinale a opção que indica corretamente o conjunto de teorias com o qual o conceito de distinção sistemática se relaciona.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "teoria da imprevisão, teoria da onerosidade excessiva, teoria da base do negócio"
+      },
+      {
+        "letra": "B",
+        "texto": "teoria da equivalência, teoria da causalidade, teoria da imputação e teoria da probabilidade"
+      },
+      {
+        "letra": "C",
+        "texto": "teoria da segurança jurídica, teoria do direito e desenvolvimento e teoria da ponderação"
+      },
+      {
+        "letra": "D",
+        "texto": "teoria da diferença, teoria do patrimônio e teoria da realidade"
+      },
+      {
+        "letra": "E",
+        "texto": "teoria da competência, teoria da ordenação, teoria da tradição e teoria do interesse"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2080140",
+    "metadata": "Ano: 2023 | Banca: FUNDEP (Gestão de Concursos) | Órgão: Prefeitura de Lavras - MG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Personalidade, Pessoa Natural e Capacidade",
+      "Parte Geral",
+      "Aspectos Introdutórios"
+    ],
+    "enunciado_principal": "Sobre as normas constantes no Código Civil Brasileiro, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Se dois indivíduos falecerem na mesma ocasião, não sendo possível averiguar se algum dos comorientes precedeu ao outro, presumir-se-ão simultaneamente mortos."
+      },
+      {
+        "letra": "B",
+        "texto": "O pseudônimo adotado para atividades lícitas não goza da proteção que se dá ao nome."
+      },
+      {
+        "letra": "C",
+        "texto": "São absolutamente incapazes de exercer pessoalmente os atos da vida civil os que, por enfermidade ou deficiência mental, não tiverem o necessário discernimento para a prática desses atos."
+      },
+      {
+        "letra": "D",
+        "texto": "A retirada de órgãos do paciente falecido pode ter por finalidade o atendimento de fins econômicos e de pesquisa, desde que comprovado o caráter científico."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2068872",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Parte Geral",
+      "Aspectos Introdutórios"
+    ],
+    "enunciado_principal": "De acordo com o artigo 5.º da Lei de Introdução às Normas do Direito Brasileiro, “Na aplicação da lei, o juiz atenderá aos fins sociais a que ela se dirige e às exigências do bem comum”. Esse preceito legal faz menção ao método hermenêutico denominado",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "sistemático."
+      },
+      {
+        "letra": "B",
+        "texto": "teleológico."
+      },
+      {
+        "letra": "C",
+        "texto": "histórico."
+      },
+      {
+        "letra": "D",
+        "texto": "lógico."
+      },
+      {
+        "letra": "E",
+        "texto": "sociológico."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2109311",
+    "metadata": "Ano: 2022 | Banca: FCC | Órgão: TRT - 9ª REGIÃO (PR)",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Personalidade, Pessoa Natural e Capacidade",
+      "Parte Geral",
+      "Aspectos Introdutórios"
+    ],
+    "enunciado_principal": "Letícia tem 17 anos de idade e sofre de enfermidade mental que a impossibilita, de modo permanente, de exprimir sua vontade. Fernando, por sua vez, possui 21 anos de idade e, por conta de deficiência mental, tem o discernimento reduzido. De acordo com a atual redação do Código Civil,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Letícia é relativamente incapaz, ao passo que Fernando não incorre em hipótese de incapacidade, absoluta ou relativa."
+      },
+      {
+        "letra": "B",
+        "texto": "Letícia e Fernando são relativamente incapazes."
+      },
+      {
+        "letra": "C",
+        "texto": "Letícia e Fernando são absolutamente incapazes."
+      },
+      {
+        "letra": "D",
+        "texto": "nem Letícia, nem Fernando incorrem em hipótese de incapacidade, absoluta ou relativa."
+      },
+      {
+        "letra": "E",
+        "texto": "Letícia é relativamente incapaz, mas deixará de sê-lo ao completar 18 anos, ao passo que Fernando é absolutamente incapaz."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1879095",
+    "metadata": "Ano: 2022 | Banca: FGV | Órgão: TJ-MG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Parte Geral",
+      "Aspectos Introdutórios"
+    ],
+    "enunciado_principal": "“Boa fé objetiva” e “autonomia privada” são importantes conceitos no Direito Civil contemporâneo. Sobre eles, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A “boa-fé objetiva” é a observância de critérios rígidos de conduta, estabelecidos na legislação para as variadas relações jurídicas."
+      },
+      {
+        "letra": "B",
+        "texto": "“Autonomia privada” sendo uma acepção mais ampla do que “autonomia da vontade”, ao Poder Judiciário é vedado rever cláusulas de contratos civis e empresariais."
+      },
+      {
+        "letra": "C",
+        "texto": "O exame da “boa-fé objetiva” limita-se às fases de preparação e celebração do contrato, não sendo mais possível, como ocorria antes do Código Civil Brasileiro de 2002, sua avaliação na fase da execução do ajuste."
+      },
+      {
+        "letra": "D",
+        "texto": "A “autonomia privada” não exclui a “função social do contrato”."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1825514",
+    "metadata": "Ano: 2021 | Banca: NC-UFPR | Órgão: PC-PR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Parte Geral",
+      "Aspectos Introdutórios"
+    ],
+    "enunciado_principal": "A palavra fato quer dizer acontecido, feito, ocorrido, operado, realizado, sendo o particípio passado do verbo fazer, do verbo latino factio, is, feci, factum, ere. Fato é, assim, todo acontecimento, que pode ser natural, jurídico ou humano, encontrando nesse posicionamento suas três espécies. (AZEVEDO, Álvaro Villaça. Teoria Geral dos Contratos Típicos e Atípicos, 2009, p. 03.)A respeito do assunto, considere as seguintes afirmativas: 1. O fato natural provém da natureza, dispensa a vontade humana e nunca produz efeitos jurídicos, tal como um maremoto em alto mar, na própria natureza, sendo irrelevante para o Direito. 2. Um tsunami que traz danos a uma cidade é um exemplo de um fato natural, não jurídico. 3. O fato jurídico não depende da vontade humana, mas produz efeitos no ordenamento jurídico, como se dá com um fato natural que adentra na órbita de direitos de uma pessoa produzindo um dano. 4. O fato humano é o único que sempre exigirá a manifestação de vontade do sujeito e, por tratar-se de verdadeiro ato jurídico, uma de suas formas manifestar-se-á na realização pura e simples da vontade humana. Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente a afirmativa 1 é verdadeira."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente as afirmativas 2 e 3 são verdadeiras."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as afirmativas 2 e 4 são verdadeiras."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente as afirmativas 1, 3 e 4 são verdadeiras."
+      },
+      {
+        "letra": "E",
+        "texto": "As afirmativas 1, 2, 3 e 4 são verdadeiras."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1302797",
+    "metadata": "Ano: 2020 | Banca: FCC | Órgão: AL-AP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Princípios Gerais de Direito Civil",
+      "Lei de Introdução às Normas do Direito Brasileiro (LINDB)",
+      "Parte Geral",
+      "Aspectos Introdutórios"
+    ],
+    "enunciado_principal": "Sobre direito subjetivo, é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "“O direito considerado na vida real, envolvendo e penetrando por todos os lados nosso ser, nos aparece como um poder do indivíduo. Nos limites desse poder, reina a vontade do indivíduo, e reina com o consentimento de todos.” (SAVIGNY. In: Sistemas del Derecho Romano Actual, § IV, 1° volume, p. 25 apud MONTORO, André Franco. Introdução à Ciência do Direito. 25.ed., São Paulo: RT, p. 437)."
+      },
+      {
+        "letra": "B",
+        "texto": "A expressão direito subjetivo pode ser utilizada como sinônimo de ordenamento jurídico."
+      },
+      {
+        "letra": "C",
+        "texto": "Quando se afirma que todos têm direito à proteção das relações de consumo se está a referir ao direito subjetivo."
+      },
+      {
+        "letra": "D",
+        "texto": "O direito subjetivo garante os direitos objetivos e pode ser denominado facultas agendi ou como right em oposição a law."
+      },
+      {
+        "letra": "E",
+        "texto": "O direito subjetivo é garantido pelos direitos objetivos e pode ser denominado como norma agendi ou como law em oposição a right."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1611682",
+    "metadata": "Ano: 2019 | Banca: Método Soluções Educacionais | Órgão: Prefeitura de Planalto da Serra - MT",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Parte Geral",
+      "Aspectos Introdutórios"
+    ],
+    "enunciado_principal": "Acerca das cláusulas gerais e de conceitos legais indeterminados, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Cláusulas gerais são normas com diretrizes indeterminadas, que trazem expressamente uma solução jurídica (consequência)."
+      },
+      {
+        "letra": "B",
+        "texto": "Cláusulas gerais são normas com diretrizes determinadas, que não trazem expressamente uma solução jurídica (consequência)."
+      },
+      {
+        "letra": "C",
+        "texto": "Conceitos legais indeterminados são normas com diretrizes indeterminadas, que não trazem expressamente uma solução jurídica (consequência)."
+      },
+      {
+        "letra": "D",
+        "texto": "Conceitos legais indeterminados são normas com diretrizes indeterminadas, que trazem expressamente uma solução jurídica (consequência)."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1174496",
+    "metadata": "Ano: 2019 | Banca: GUALIMP | Órgão: Prefeitura de Porciúncula - RJ",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Parte Geral",
+      "Aspectos Introdutórios"
+    ],
+    "enunciado_principal": "O Código Civil, estabelecido pela Lei Nº 10.406, de 10 de janeiro de 2002, é norteado por alguns Princípios básicos, dentre eles, o Princípio da Socialidade. Dentre as alternativas abaixo, marca aquele que demonstra a caraterística marcante do referido princípio.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Respeito à dignidade humana, dando prioridade à boa-fé subjetiva e objetiva, à probidade e à equidade."
+      },
+      {
+        "letra": "B",
+        "texto": "A prevalência dos valores coletivos sobre os individuais, sem perda, porém, do valor fundamental da pessoa humana."
+      },
+      {
+        "letra": "C",
+        "texto": "Autonomia do julgador, para que, em busca de solução mais justa, a norma, que, contendo cláusulas gerais ou conceitos indeterminados, possa, na análise de caso por caso, ser efetivamente aplicada, com base na valoração objetiva, vigente na sociedade atual."
+      },
+      {
+        "letra": "D",
+        "texto": "Adequar a regra ao caso concreto, recorrendo aos critérios da igualdade e da proporcionalidade, de modo a realizar não a justiça do caso concreto, mas o direito do caso concreto."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "898632",
+    "metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: PGM - Manaus - AM",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Parte Geral",
+      "Aspectos Introdutórios"
+    ],
+    "enunciado_principal": "À luz das disposições do direito civil pertinentes ao processo de integração das leis, aos negócios jurídicos, à prescrição e às obrigações e contratos, julgue o item a seguir.O conflito de normas que pode ser resolvido com a simples aplicação do critério hierárquico é classificado como antinomia aparente de primeiro grau.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  }
+]

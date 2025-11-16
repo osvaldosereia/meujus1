@@ -1,0 +1,482 @@
+[
+  {
+    "id": "3056827",
+    "metadata": "Ano: 2024 | Banca: FEPESE | Órgão: Prefeitura de Mafra - SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Multipropriedade Imobiliária"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta a respeito da multipropriedade imobiliária.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O imóvel objeto da multipropriedade é divisível e se sujeita à ação de divisão."
+      },
+      {
+        "letra": "B",
+        "texto": "A multipropriedade se extinguirá automaticamente quando todas as frações de tempo estiverem reunidas no mesmo multiproprietário."
+      },
+      {
+        "letra": "C",
+        "texto": "O imóvel objeto da multipropriedade não inclui as instalações, os equipamentos e o mobiliário destinados a seu uso e gozo."
+      },
+      {
+        "letra": "D",
+        "texto": "A multipropriedade reger-se-á, de forma supletiva e subsidiária, pelas disposições do Código de Defesa do Consumidor."
+      },
+      {
+        "letra": "E",
+        "texto": "Institui-se a multipropriedade por ato entre vivos, registrado no competente cartório de registro de imóveis, sendo vedada a instituição mediante testamento."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2551240",
+    "metadata": "Ano: 2024 | Banca: FEPESE | Órgão: CINCATARINA",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Multipropriedade Imobiliária"
+    ],
+    "enunciado_principal": "Com fundamento na legislação civil, assinale a alternativa correta sobre a multipropriedade imobiliária.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É vedado ao multiproprietário ceder a fração de tempo em locação ou comodato."
+      },
+      {
+        "letra": "B",
+        "texto": "Extingue-se automaticamente a multipropriedade se todas as frações de tempo forem do mesmo multiproprietário."
+      },
+      {
+        "letra": "C",
+        "texto": "O imóvel objeto da multipropriedade não inclui as instalações, os equipamentos e o mobiliário destinados a seu uso e gozo."
+      },
+      {
+        "letra": "D",
+        "texto": "Institui-se a multipropriedade por ato entre vivos, registrado no competente cartório de registro de imóveis, vedando-se a instituição por disposição em testamento."
+      },
+      {
+        "letra": "E",
+        "texto": "A responsabilidade por despesas referentes a reparos no imóvel, bem como suas instalações, equipamentos e mobiliário, será do multiproprietário responsável pelo uso anormal, sem prejuízo de multa, quando decorrentes de uso anormal."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2522212",
+    "metadata": "Ano: 2024 | Banca: FUNDATEC | Órgão: DPE-PR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Condomínio Edilício",
+      "Multipropriedade Imobiliária"
+    ],
+    "enunciado_principal": "Sobre condomínio edilício e multipropriedade, assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É possível a mudança da destinação do edifício ou unidade imobiliária com aprovação da maioria simples dos condôminos presentes."
+      },
+      {
+        "letra": "B",
+        "texto": "Quando a deliberação exigir quórum especial previsto em lei ou em convenção e ele não for atingido, a assembleia poderá, por decisão da maioria dos presentes, autorizar o presidente a converter a reunião em sessão permanente, podendo a sessão permanente ser prorrogada tantas vezes quantas necessárias, desde que a assembleia seja concluída no prazo total de 90 dias, contados da data de sua abertura inicial."
+      },
+      {
+        "letra": "C",
+        "texto": "A assembleia eletrônica deverá obedecer aos preceitos de instalação, de funcionamento e de encerramento previstos no edital de convocação e poderá ser realizada de forma híbrida, com a presença física e virtual de condôminos concomitantemente no mesmo ato."
+      },
+      {
+        "letra": "D",
+        "texto": "Multipropriedade é o regime de condomínio em que cada um dos proprietários de um mesmo imóvel é titular de uma fração de tempo, à qual corresponde a faculdade de uso e gozo, com exclusividade, da totalidade do imóvel, a ser exercida pelos proprietários de forma alternada, sendo que o período correspondente a cada fração de tempo será de, no mínimo, 7 dias, seguidos ou intercalados."
+      },
+      {
+        "letra": "E",
+        "texto": "O condomínio edilício em que tenha sido instituído o regime de multipropriedade em parte ou na totalidade de suas unidades autônomas terá necessariamente um administrador profissional, sendo que este poderá modificar o regimento interno quanto aos aspectos estritamente operacionais da gestão da multipropriedade no condomínio edilício."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2471071",
+    "metadata": "Ano: 2024 | Banca: Instituto Consulplan | Órgão: Câmara de Belo Horizonte - MG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Multipropriedade Imobiliária"
+    ],
+    "enunciado_principal": "A multipropriedade foi incluída em nosso Código Civil pela Lei nº 13.777/2018. Sobre ela, analise as afirmativas a seguir. I. Cada fração de tempo é indivisível, sendo de, no mínimo, sete dias, seguidos ou intercalados, e poderá ser fixo e determinado, no mesmo período de cada ano; flutuante, caso em que a determinação do período será realizada de forma periódica, mediante procedimento objetivo que respeite, em relação a todos os multiproprietários, o princípio da isonomia, devendo ser previamente divulgado; ou misto, combinando os sistemas fixo e flutuante. II. Todos os multiproprietários terão direito a uma mesma quantidade mínima de dias seguidos durante o ano, podendo haver a aquisição de frações maiores que a mínima, com o correspondente direito ao uso por períodos também maiores. III. Haverá direito de preferência na alienação de fração de tempo em favor dos demais multiproprietários ou do instituidor do condomínio em multipropriedade. IV. O imóvel objeto da multipropriedade é divisível, sujeitando-se a ação de divisão ou de extinção de condomínio. De acordo com o disposto em nosso Código Civil, está correto o que se afirma em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II, III e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "II e IV, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "II, III e IV, apenas."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3619031",
+    "metadata": "Ano: 2023 | Banca: FEPESE | Órgão: Prefeitura de Videira - SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Multipropriedade Imobiliária"
+    ],
+    "enunciado_principal": "Nos termos da legislação civil brasileira, é correto afirmar sobre a multipropriedade:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O imóvel objeto da multipropriedade é divisível, sujeitando-se à ação de divisão ou de extinção de condomínio"
+      },
+      {
+        "letra": "B",
+        "texto": "A multipropriedade se extinguirá automaticamente quando todas as frações de tempo forem do mesmo multiproprietário."
+      },
+      {
+        "letra": "C",
+        "texto": "Institui-se a multipropriedade somente por ato entre vivos, sendo vedada a disposição por testamento."
+      },
+      {
+        "letra": "D",
+        "texto": "Constitui direito do multiproprietário ceder a fração de tempo em locação ou comodato."
+      },
+      {
+        "letra": "E",
+        "texto": "A transferência do direito de multipropriedade dar-se-á na forma da lei civil e dependerá da anuência ou cientificação dos demais multiproprietários."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2372068",
+    "metadata": "Ano: 2022 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Multipropriedade Imobiliária"
+    ],
+    "enunciado_principal": "Sobre a multipropriedade regida pelo Código Civil, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A multipropriedade se extinguirá automaticamente se todas as frações de tempo forem do mesmo multiproprietário."
+      },
+      {
+        "letra": "B",
+        "texto": "O período correspondente a cada fração de tempo será de, no mínimo, 7 (sete) dias, seguidos ou intercalados."
+      },
+      {
+        "letra": "C",
+        "texto": "A maioria absoluta dos multiproprietários tem legitimidade para ajuizar ação de extinção de condomínio do bem objeto da multipropriedade."
+      },
+      {
+        "letra": "D",
+        "texto": "É vedada ao multiproprietário a cessão da fração de tempo que lhe cabe por meio de locação ou comodato."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1971717",
+    "metadata": "Ano: 2022 | Banca: FUNDEP (Gestão de Concursos) | Órgão: MPE-MG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Modos de Aquisição da Propriedade Imóvel",
+      "Multipropriedade Imobiliária"
+    ],
+    "enunciado_principal": "Considere as assertivas a seguir: I. Multipropriedade é o regime de condomínio em que cada um dos proprietários de um mesmo imóvel é titular de uma fração de tempo, à qual corresponde a faculdade de uso e gozo, com exclusividade, da totalidade do imóvel, a ser exercida pelos proprietários de forma alternada e não se extingue automaticamente se todas as frações de tempo forem do mesmo multiproprietário. II. Haverá direito de preferência na alienação de fração de tempo, ainda que não estabelecido no instrumento de instituição ou na convenção do condomínio em multipropriedade em favor dos demais multiproprietários ou do instituidor do condomínio em multipropriedade. III. O atraso, por parte de instituição financeira, na baixa de gravame de alienação fiduciária no registro de veículo não caracteriza, por si só, dano moral in re ipsa. IV. O reconhecimento da usucapião extraordinária, mediante o preenchimento dos requisitos específicos, não pode ser obstado em razão de a área usucapienda ser inferior ao módulo estabelecido em lei municipal. Assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas as assertivas II e IV são verdadeiras."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas as assertivas I, II e III são verdadeiras."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas as assertivas I, III e IV são verdadeiras."
+      },
+      {
+        "letra": "D",
+        "texto": "As assertivas I, II, III e IV são verdadeiras."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1961064",
+    "metadata": "Ano: 2022 | Banca: IBFC | Órgão: Câmara de Franca - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Multipropriedade Imobiliária"
+    ],
+    "enunciado_principal": "Em 2018 a Lei nº 13.777/2018 incluiu no Código Civil disposições sobre a Multipropriedade (ou time-sharing). Sobre o assunto, assinale a alternativa que apresenta a definição de Multipropriedade.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Regime de condomínio em que cada um dos proprietários de um mesmo imóvel é titular de uma fração de tempo, à qual corresponde a faculdade de uso e gozo, com exclusividade, da totalidade do imóvel, a ser exercida pelos proprietários de forma alternada"
+      },
+      {
+        "letra": "B",
+        "texto": "É a ocorrência, em terrenos, de partes designadas de lotes que são propriedade exclusiva e partes que são propriedade comum dos condôminos"
+      },
+      {
+        "letra": "C",
+        "texto": "É a ocorrência, em edificações, de partes que são propriedade exclusiva e partes que são propriedade comum dos condôminos"
+      },
+      {
+        "letra": "D",
+        "texto": "Ocorre quando o proprietário de uma construção-base ceder a superfície superior ou inferior de sua construção a fim de que o titular da multipropriedade mantenha unidade distinta daquela originalmente construída sobre o solo"
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1865567",
+    "metadata": "Ano: 2021 | Banca: IV - UFG | Órgão: TJ-GO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Multipropriedade Imobiliária"
+    ],
+    "enunciado_principal": "A multipropriedade é um instituto trazido em nosso ordenamento jurídico pela lei n. 13.777/2018, de forma supletiva e subsidiária ao Código Civil brasileiro. É um regime de condôminos em que cada titular é proprietário de um imóvel por uma fração de tempo predefinida, de forma alternada. Aos proprietários é facultado o uso e gozo, exclusivo, da propriedade em sua totalidade. Quanto ao instituto, sabe-se que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pela natureza da faculdade do uso poderá haver extinção se todas as frações de tempo forem do mesmo proprietário."
+      },
+      {
+        "letra": "B",
+        "texto": "pela natureza indivisível não cabe a mesma aplicação ao mobiliário, equipamentos ou instalações."
+      },
+      {
+        "letra": "C",
+        "texto": "pela natureza da faculdade do uso não há estipulação mínima ou máxima da fração de tempo."
+      },
+      {
+        "letra": "D",
+        "texto": "pela natureza indivisível aos proprietários não cabe a extinção do condomínio ou ação de divisão."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1839530",
+    "metadata": "Ano: 2021 | Banca: MPE-RS | Órgão: MPE-RS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Multipropriedade Imobiliária"
+    ],
+    "enunciado_principal": "No que toca ao regime legal da multipropriedade, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a multipropriedade se extinguirá automaticamente se todas as frações de tempo se consolidarem no mesmo proprietário."
+      },
+      {
+        "letra": "B",
+        "texto": "a transferência do direito de multipropriedade e a sua eficácia perante terceiros, de acordo com a regra geral, não dependerão da anuência ou da cientificação dos demais multiproprietários."
+      },
+      {
+        "letra": "C",
+        "texto": "o multiproprietário poderá alterar o mobiliário e os equipamentos do imóvel."
+      },
+      {
+        "letra": "D",
+        "texto": "o imóvel objeto da multipropriedade é indivisível, não se sujeita à ação de divisão, mas é compatível com a ação de extinção de condomínio."
+      },
+      {
+        "letra": "E",
+        "texto": "cada fração de tempo será de, no mínimo, sete dias e poderá ser dividida."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1836897",
+    "metadata": "Ano: 2021 | Banca: FCC | Órgão: DPE-RR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Posse - Teoria, Classificação e Aquisição",
+      "Uso e Habitação",
+      "Direito de Laje",
+      "Multipropriedade Imobiliária"
+    ],
+    "enunciado_principal": "No âmbito do direito urbanístico, considere os itens a seguir: I. O direito real de laje contempla o espaço aéreo ou o subsolo de terrenos públicos ou privados, tomados em projeção vertical, como unidade imobiliária autônoma, não contemplando as demais áreas edificadas ou não pertencentes ao proprietário da construção-base. II. A legitimação de posse constitui forma originária de aquisição do direito real de propriedade conferido por ato do poder público, exclusivamente no âmbito da Reurb, àquele que detiver em área pública ou possuir em área privada, como sua, unidade imobiliária com destinação urbana, integrante de núcleo urbano informal consolidado existente em 22 de dezembro de 2016. III. Multipropriedade é o regime de condomínio em que cada um dos proprietários de um mesmo imóvel é titular de uma fração de tempo, à qual corresponde a faculdade de uso e gozo, com exclusividade, da totalidade do imóvel, a ser exercida pelos proprietários de forma alternada. IV. Aquele que, até 22 de dezembro de 2016, possuiu como seu, por cinco anos, ininterruptamente e sem oposição, até duzentos e cinquenta metros quadrados de imóvel público situado em área com características e finalidade urbanas, e que o utilize para sua moradia ou de sua família, tem o direito real de uso para fins de moradia em relação ao bem objeto da posse, desde que não seja proprietário ou concessionário, a qualquer título, de outro imóvel urbano ou rural. Está correto o que se afirma APENAS em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "III e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "I, II e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "I e II."
+      },
+      {
+        "letra": "D",
+        "texto": "I e III."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II e III."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1711985",
+    "metadata": "Ano: 2021 | Banca: Unoesc | Órgão: Prefeitura de Maravilha - SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Propriedade",
+      "Usucapião",
+      "Servidões",
+      "Multipropriedade Imobiliária"
+    ],
+    "enunciado_principal": "No que concerne ao direito de propriedade e seus desdobramentos, analise as assertivas seguintes. I. Escritura e registro são figuras jurídicas diversas. Escritura pública é uma forma de título translativo entre vivos, assim como contratos particulares, sentenças ou termos administrativos, quando admitidos em lei. Assim, é possível dizer que por vezes, quando admitido por lei, alguém pode ser proprietário de um bem por conta de um registro que não decorreu de uma escritura pública. II. No condomínio geral, os proprietários possuem fração ideal do todo, não determinada ou localizada, devendo oferecer aos condôminos a respectiva parte, antes de vendê-la a estranhos. No condomínio edilício, contudo, há partes exclusivas de cada proprietário e outras partes comuns, compartilhadas com os demais condôminos, sem direito de preferência em caso de alienação. III. A usucapião é uma forma de aquisição de propriedade que independe de registro para se concretizar, servindo este tão somente para lhe dar publicidade. IV. A passagem forçada pressupõe que um imóvel esteja sem acesso suficientemente adequado à via pública, ou seja, encravado. Gera direito de indenização ao proprietário que terá que conceder a passagem, ao mesmo tempo que é um dever seu concedê-la, já que nenhum imóvel pode ser privado de acesso às vias públicas. V. O direito de servidão não é passível de ser adquirido por usucapião. Estão corretos os itens:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II, III, IV e V."
+      },
+      {
+        "letra": "B",
+        "texto": "I, II, III e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "II, III e V."
+      },
+      {
+        "letra": "D",
+        "texto": "I, IV e V."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1677393",
+    "metadata": "Ano: 2019 | Banca: VUNESP | Órgão: TJ-AL",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Multipropriedade Imobiliária"
+    ],
+    "enunciado_principal": "Com relação ao condomínio em multiproprledade. é correto afirmar:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a muitipropriadade não pode ser instituída por testamento."
+      },
+      {
+        "letra": "B",
+        "texto": "o multiproprietário não poderá ceder sua fração de tempo em comodato."
+      },
+      {
+        "letra": "C",
+        "texto": "o período correspondente a cada fração de tempo será de, no mínimo, sete dias."
+      },
+      {
+        "letra": "D",
+        "texto": "em nenhuma hipótese, haverá direito de preferência na alienação da fração de tempo na multipropriedade."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1176611",
+    "metadata": "Ano: 2019 | Banca: IBFC | Órgão: FSA-SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Multipropriedade Imobiliária"
+    ],
+    "enunciado_principal": "Recentemente foi introduzido no Código Civil de 2002 as disposições sobre o Condomínio em Multipropriedade. Sobre esse assunto, analise as afirmativas abaixo e assinale a alternativa correta. I. A Multipropriedade é o regime de condomínio em que cada um dos proprietários de um mesmo imóvel é titular de uma fração de tempo, à qual corresponde a faculdade de uso e gozo, com exclusividade, da totalidade do imóvel, a ser exercida pelos proprietários de forma alternada. II. A Multipropriedade não se extinguirá automaticamente se todas as frações de tempo forem do mesmo multiproprietário. III. O imóvel objeto de Multipropriedade poderá ser dividido em tantas frações quantos forem os multiproprietários, através de ação de divisão.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas as afirmativas I e II estão corretas"
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas a afirmativa III está correta"
+      },
+      {
+        "letra": "C",
+        "texto": "As afirmativas I, II e III estão corretas"
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas as afirmativas I e III estão corretas"
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1006870",
+    "metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: DPE-DF",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Multipropriedade Imobiliária"
+    ],
+    "enunciado_principal": "A respeito de condomínio em multipropriedade, julgue o item subsequente. A multipropriedade somente poderá ser instituída por ato entre vivos registrado em cartório de registro de imóveis, com a necessária indicação da duração dos períodos de cada fração de tempo.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1006869",
+    "metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: DPE-DF",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Multipropriedade Imobiliária"
+    ],
+    "enunciado_principal": "A respeito de condomínio em multipropriedade, julgue o item subsequente. O regime da multipropriedade poderá ser adotado por condomínio edilício na totalidade de suas unidades autônomas, por meio da deliberação da maioria absoluta dos condôminos.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  }
+]

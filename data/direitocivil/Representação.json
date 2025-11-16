@@ -1,0 +1,255 @@
+[
+  {
+    "id": "3049329",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: TJ-SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Ato Jurídico, Fato Jurídico e Teoria Geral do Negócio Jurídico",
+      "Representação",
+      "Parte Geral"
+    ],
+    "enunciado_principal": "Leonardo contratou Vanessa para que ela encontrasse um inquilino para alugar seu apartamento, dando-lhe poderes para representá-lo no contrato de locação na posição de locadora. Como ninguém se apresentou interessado em alugar o imóvel, Vanessa alugou o apartamento para si própria, figurando no contrato também como locatária, em nome próprio. Diante da ausência de permissão legal ou de Leonardo, segundo o Código Civil de 2002, o contrato de locação celebrado por Vanessa consigo própria é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "inexistente;"
+      },
+      {
+        "letra": "B",
+        "texto": "nulo;"
+      },
+      {
+        "letra": "C",
+        "texto": "ineficaz;"
+      },
+      {
+        "letra": "D",
+        "texto": "válido;"
+      },
+      {
+        "letra": "E",
+        "texto": "anulável."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2415125",
+    "metadata": "Ano: 2024 | Banca: IGEDUC | Órgão: Câmara de Olinda - PE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Ato Jurídico, Fato Jurídico e Teoria Geral do Negócio Jurídico",
+      "Representação",
+      "Parte Geral"
+    ],
+    "enunciado_principal": "Julgue o item que se segue.Um representante, para validar um negócio jurídico em nome do representado, deve provar sua qualidade e a extensão de seus poderes, sob pena de responsabilidade pelos atos que excederem esses poderes, como estipula o artigo 118 do Código Civil.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2314190",
+    "metadata": "Ano: 2023 | Banca: IGEDUC | Órgão: Prefeitura de Pombos - PE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Representação",
+      "Parte Geral"
+    ],
+    "enunciado_principal": "A aceitação de uma proposta de contrato por parte de um representante legal, sem a devida outorga de poderes, configura um ato jurídico lícito, desde que a representação não ultrapasse os limites dos interesses do representado.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2281644",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: TBG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Representação",
+      "Parte Geral"
+    ],
+    "enunciado_principal": "A respeito da analogia, dos atos e negócios jurídicos, das obrigações e da prescrição, julgue o item subsecutivo. A conclusão de negócio jurídico pelo representante em conflito com interesse do representado gerará a nulidade do ato dentro do prazo de prescrição previsto em lei.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2099009",
+    "metadata": "Ano: 2023 | Banca: INSTITUTO AOCP | Órgão: MPE-RR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Ato Jurídico, Fato Jurídico e Teoria Geral do Negócio Jurídico",
+      "Personalidade, Pessoa Natural e Capacidade",
+      "Representação",
+      "Parte Geral"
+    ],
+    "enunciado_principal": "A manifestação de vontade da pessoa natural é pressuposto para existência, validade e eficácia do negócio jurídico. Em assim sendo,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "para a validade do negócio jurídico, o Código Civil de 2002 exige que a manifestação de vontade seja realizada por pessoa plenamente capaz."
+      },
+      {
+        "letra": "B",
+        "texto": "o silêncio será interpretado como manifestação de vontade quando a pessoa for plenamente capaz."
+      },
+      {
+        "letra": "C",
+        "texto": "para a validade do ato jurídico, o menor, a partir dos 16 anos de idade, deverá manifestar a sua vontade assistido por seu representante legal."
+      },
+      {
+        "letra": "D",
+        "texto": "a manifestação de vontade da pessoa há de ser interpretada com ênfase maior à intenção nela consubstanciada do que ao sentido literal da linguagem."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1939514",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: PG-DF",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Representação",
+      "Parte Geral"
+    ],
+    "enunciado_principal": "À luz do Código Civil e do Código de Processo Civil, e considerando a jurisprudência do STJ naquilo a que ela for pertinente, julgue o item que se segue. A procuração em causa própria opera, ela própria, a cessão ou transmissão do direito de propriedade, direito de posse ou direito de crédito objeto do negócio jurídico.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1825512",
+    "metadata": "Ano: 2021 | Banca: NC-UFPR | Órgão: PC-PR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Personalidade, Pessoa Natural e Capacidade",
+      "Tutela e Curatela",
+      "Representação",
+      "Parte Geral"
+    ],
+    "enunciado_principal": "D.M., menor com dezesseis anos de idade, ficou órfã perdendo seu pai e sua mãe por conta da pandemia do novo coronavírus. Agora, após ser recentemente aprovada no vestibular de medicina, ela precisa manterse economicamente sozinha, tendo apenas um tio como tutor, que administra os bens e negócios deixados pelos seus pais, os quais empregam uma grande quantidade de trabalhadores. Considerando as informações apresentadas, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A morte dos pais de D.M. é suficiente para lhe garantir plena capacidade para os atos da vida civil, ante a situação excepcional de crise sanitária mundial, dispensando a oitiva de seu tutor."
+      },
+      {
+        "letra": "B",
+        "texto": "Uma das formas de D.M. adquirir a emancipação, tendo em vista possuir apenas dezesseis anos completos, se deu com a sua aprovação para curso superior."
+      },
+      {
+        "letra": "C",
+        "texto": "D.M. poderá ser emancipada somente por decisão judicial, após ouvido seu tutor, tendo em vista o falecimento de ambos os seus genitores."
+      },
+      {
+        "letra": "D",
+        "texto": "D.M. só poderá exercer os atos da vida civil após dezoito anos completos, nos termos da lei civil, quando adquirirá sua maioridade e consequente capacidade de direito."
+      },
+      {
+        "letra": "E",
+        "texto": "D.M. ficou imediatamente responsável pelos negócios de seus pais, o que acarretou sua emancipação automática por conta da presunção de economia própria, ainda que existente o tutor."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1153963",
+    "metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: TJ-BA",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Ato Jurídico, Fato Jurídico e Teoria Geral do Negócio Jurídico",
+      "Representação",
+      "Parte Geral"
+    ],
+    "enunciado_principal": "A manifestação de vontade pelo representante em relação ao representado",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "produz efeitos e valida negócio jurídico celebrado pelo representante, mesmo em conflito de interesses com o representado."
+      },
+      {
+        "letra": "B",
+        "texto": "produz efeitos, mesmo em circunstâncias que extrapolem os limites de seus poderes."
+      },
+      {
+        "letra": "C",
+        "texto": "não produz nenhum efeito."
+      },
+      {
+        "letra": "D",
+        "texto": "produz efeitos, nos limites de seus poderes."
+      },
+      {
+        "letra": "E",
+        "texto": "não produz efeitos, já que só se admite manifestação do representado."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "905185",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: FAPESP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Representação",
+      "Parte Geral"
+    ],
+    "enunciado_principal": "A relação jurídica pela qual certa pessoa se obriga diretamente perante terceiro, por meio de ato praticado em seu nome, produzindo efeitos jurídicos, denomina-se",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "encargo."
+      },
+      {
+        "letra": "B",
+        "texto": "cessão de débito."
+      },
+      {
+        "letra": "C",
+        "texto": "cessão de direitos."
+      },
+      {
+        "letra": "D",
+        "texto": "corretagem."
+      },
+      {
+        "letra": "E",
+        "texto": "representação."
+      }
+    ],
+    "gabarito": "E"
+  }
+]

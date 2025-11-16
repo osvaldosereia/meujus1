@@ -1,0 +1,1337 @@
+[
+  {
+    "id": "3616294",
+    "metadata": "Ano: 2025 | Banca: VUNESP | Órgão: MPE-SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Inventário e Partilha"
+    ],
+    "enunciado_principal": "Júlio faleceu, e, durante o inventário de seus bens, o credor Antônio apresentou pedido de pagamento de dívida vencida e exigível no valor de R$ 60 mil, juntando documento assinado pelo falecido. Todas as partes concordaram com o pedido. Como o espólio não possuía dinheiro em conta bancária, o juiz determinou a separação de um imóvel de valor compatível para garantir o pagamento. No andamento do processo, Antônio requereu que, em vez da alienação judicial do imóvel, o bem fosse adjudicado diretamente a ele, para quitação do valor devido. Diante da situação hipotética, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O pedido de Antônio deve ser remetido às vias ordinárias, pois o juiz não pode decidir sobre adjudicação no inventário."
+      },
+      {
+        "letra": "B",
+        "texto": "O juiz poderá deferir a adjudicação do bem, desde que todas as partes concordem com o pedido."
+      },
+      {
+        "letra": "C",
+        "texto": "A adjudicação do bem a Antônio só pode ser deferida se o espólio não tiver bens móveis disponíveis."
+      },
+      {
+        "letra": "D",
+        "texto": "A adjudicação é cabível apenas se o valor do bem for idêntico ao valor da dívida."
+      },
+      {
+        "letra": "E",
+        "texto": "O juiz deve negar o pedido de adjudicação e determinar a alienação do bem como regra geral, independentemente da vontade das partes."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3345932",
+    "metadata": "Ano: 2025 | Banca: FGV | Órgão: TJ-GO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Inventário e Partilha"
+    ],
+    "enunciado_principal": "Bernardo Santos faleceu deixando dois filhos vivos, Túlio e Ana, e dois netos, Lucas e Mariana, filhos de Pedro, que faleceu alguns dias antes do pai. Pedro deixou dívidas consideráveis. No momento do falecimento, Bernardo era viúvo, não mantinha união estável e possuía um patrimônio líquido de R$ 900.000,00. Durante o processo de inventário, dois credores de Bernardo se habilitaram para satisfazer dívidas que, juntas, somam R$ 200.000,00. Diante desse cenário, considerando as normas do Direito Sucessório previstas no Código Civil, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Lucas e Mariana, como netos de Bernardo, herdariam a cota de Pedro por direito de representação, mas serão substituídos pelos credores do pai, desde que se habilitem antes da partilha, independentemente do valor das dívidas."
+      },
+      {
+        "letra": "B",
+        "texto": "Como Pedro faleceu antes de Bernardo, seus filhos, Lucas e Mariana, não possuem direito à herança, pois a sucessão cabe exclusivamente aos herdeiros de primeira classe, ou seja, aos filhos vivos de Bernardo."
+      },
+      {
+        "letra": "C",
+        "texto": "O patrimônio de Bernardo será dividido em três partes iguais: uma para Túlio, uma para Ana e uma para os netos Lucas e Mariana, que dividirão a cota de Pedro. No entanto, as dívidas deixadas por Bernardo deverão ser quitadas antes da partilha."
+      },
+      {
+        "letra": "D",
+        "texto": "A herança de Bernardo será dividida igualmente entre seus filhos vivos, Túlio e Ana, e os netos Lucas e Mariana, cabendo um quarto da herança para cada um."
+      },
+      {
+        "letra": "E",
+        "texto": "Como Pedro possuía dívidas, sua cota na herança será automaticamente transferida aos credores, impedindo que seus filhos, Lucas e Mariana, recebam qualquer valor."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3296674",
+    "metadata": "Ano: 2025 | Banca: ADM&TEC | Órgão: Prefeitura de João Alfredo - PE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Direito das Sucessões",
+      "Regime de Bens e Outros Direitos Patrimoniais nas Relações Familiares",
+      "Aspectos Gerais do Direito das Sucessões – Momento, Espécies, Lugar, Herança e Representação",
+      "Inventário e Partilha"
+    ],
+    "enunciado_principal": "O direito de família e sucessões se entrelaça com as atividades do orientador social, sobretudo em questões relativas a divisões de bens ou heranças que geram conflitos na dinâmica familiar. Que ação pode minimizar o agravamento desse cenário?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Incentivar partilhas informais que contrariem leis, visando soluções rápidas a qualquer custo."
+      },
+      {
+        "letra": "B",
+        "texto": "Sugerir processos de mediação familiar, difundindo informações sobre direitos sucessórios e favorecendo acordos pautados em critérios de igualdade, respeitando o recurso ao Judiciário quando indispensável."
+      },
+      {
+        "letra": "C",
+        "texto": "Abster-se completamente, pois o campo do direito de família mantém mínima conexão com o âmbito assistencial."
+      },
+      {
+        "letra": "D",
+        "texto": "Optar pela neutralidade absoluta e recusar qualquer orientação, atribuindo ao advogado da família a responsabilidade pela condução integral do caso."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3253598",
+    "metadata": "Ano: 2024 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Inventário e Partilha"
+    ],
+    "enunciado_principal": "Ulisses, viúvo, faleceu deixando como um único bem um apartamento no valor de R$ 300.000,00 (trezentos mil reais). Seus dois filhos, Caio e Thiago, são os únicos herdeiros. Durante o inventário, antes de realizada a partilha, foi constatada uma dívida de R$ 1.000.000,00 (um milhão de reais) em nome de Ulisses, referente a um empréstimo bancário por ele realizado pouco antes de sua morte. Considerando a situação hipotética, na qual ainda não foi realizada a partilha, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Como ainda não foi realizada a partilha, o credor deverá aguardar a partilha dos bens para aí então executar Caio e Thiago, na proporção que couber a cada um."
+      },
+      {
+        "letra": "B",
+        "texto": "Só respondem Caio e Thiago, cada qual em proporção da parte que na herança lhe couber."
+      },
+      {
+        "letra": "C",
+        "texto": "Se for requerido o pagamento da dívida no inventário e não houver impugnação, o juiz mandará reservar, em poder do inventariante, bens suficientes para solução do débito, sobre os quais venha a recair oportunamente a execução."
+      },
+      {
+        "letra": "D",
+        "texto": "O juiz não poderá mandar reservar bens suficientes para a solução do débito, ficando tal conduta a critério do inventariante."
+      },
+      {
+        "letra": "E",
+        "texto": "Caso o juiz reserve, em poder do inventariante, bens suficientes para solução do débito, o credor será obrigado a iniciar a ação de cobrança no prazo de trinta dias, sob pena de se tornar sem nenhum efeito a providência indicada."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3151542",
+    "metadata": "Ano: 2024 | Banca: CESPE / CEBRASPE | Órgão: TJ-PE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Inventário e Partilha"
+    ],
+    "enunciado_principal": "Decretado o divórcio sem a realização da partilha dos bens comuns, subsiste um acervo patrimonial indiviso. De acordo com entendimento do STJ, o direito à partilha",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "prescreve em dez anos a contar da separação de fato do casal."
+      },
+      {
+        "letra": "B",
+        "texto": "decai em quatro anos a contar da separação de fato do casal."
+      },
+      {
+        "letra": "C",
+        "texto": "prescreve em dez anos a contar do trânsito em julgado da ação de divórcio."
+      },
+      {
+        "letra": "D",
+        "texto": "decai em quatro anos a contar do trânsito em julgado da ação de divórcio."
+      },
+      {
+        "letra": "E",
+        "texto": "não se sujeita a prazos extintivos de prescrição ou decadência."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3139448",
+    "metadata": "Ano: 2024 | Banca: Instituto Acesso | Órgão: Câmara de Manaus - AM",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Inventário e Partilha"
+    ],
+    "enunciado_principal": "A apuração e regularização da sucessão de bens deixados por um determinado ente falecido é uma questão a ser inventariada. Assinale a alternativa correspondente ao tipo de inventário utilizado neste quesito.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Inventário processual e burocrático."
+      },
+      {
+        "letra": "B",
+        "texto": "Inventário judicial e final."
+      },
+      {
+        "letra": "C",
+        "texto": "Inventário judicial e extrajudicial."
+      },
+      {
+        "letra": "D",
+        "texto": "Inventário extrajudicial e florestal."
+      },
+      {
+        "letra": "E",
+        "texto": "Inventário florestal e burocrático."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3030476",
+    "metadata": "Ano: 2024 | Banca: IGEDUC | Órgão: MPE-PE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aspectos Gerais do Direito das Sucessões – Momento, Espécies, Lugar, Herança e Representação",
+      "Sucessão Legítima – Ordem de Vocação Hereditária",
+      "Inventário e Partilha"
+    ],
+    "enunciado_principal": "João faleceu deixando esposa, dois filhos e um pai vivo. Ele não deixou testamento. Como será distribuída a herança de João, de acordo com o Código Civil?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A esposa receberá metade da herança, e os filhos dividirão a outra metade."
+      },
+      {
+        "letra": "B",
+        "texto": "A herança será dividida em partes iguais, entre a esposa, os filhos e o pai."
+      },
+      {
+        "letra": "C",
+        "texto": "Será distribuída aos descendentes, em concorrência com o cônjuge sobrevivente, salvo se casado este com o falecido no regime da comunhão universal, ou no da separação obrigatória de bens (Art. 1.640, parágrafo único); ou se, no regime da comunhão parcial, o autor da herança não houver deixado bens particulares."
+      },
+      {
+        "letra": "D",
+        "texto": "Os filhos receberão a totalidade da herança, excluindo a esposa e o pai."
+      },
+      {
+        "letra": "E",
+        "texto": "A herança será dividida igualmente entre os filhos e o pai, excluindo a esposa."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2553383",
+    "metadata": "Ano: 2024 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Inventário e Partilha"
+    ],
+    "enunciado_principal": "A colação, segundo Maria Helena Diniz, é a “conferência dos bens da herança com outros transferidos pelo de cujus, em vida, aos seus descendentes, promovendo o retorno ao monte das liberalidades feitas pelo autor da herança antes de finar, para uma equitativa apuração das cotas hereditárias dos sucessores legitimários” (Diniz, Maria Helena. Curso de direito civil brasileiro. São Paulo: Saraiva, 1983. p. 277). Como os artigos 2.005 e 2.006 do Código Civil facultam ao doador a dispensa da colação, é possível afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a colação das doações de bens que saiam da parte disponível não pode ser dispensada porque as liberalidades afetam diretamente o elemento igualdade da partilha da legítima, pois constituem seu adiantamento. A igualdade é o princípio fundamental."
+      },
+      {
+        "letra": "B",
+        "texto": "embora possam ser sujeitas à redução, se inoficiosas, as doações declaradas como saídas da metade disponível não se confundem com a legítima. A colação tem o escopo de igualar as legítimas, ao passo que a redução visa a conter as liberalidades praticadas nos limites da parte disponível."
+      },
+      {
+        "letra": "C",
+        "texto": "a colação das doações realizadas como adiantamento da legítima se equipara à circunstância que emerge do reconhecimento da inoficiosidade da doação."
+      },
+      {
+        "letra": "D",
+        "texto": "a recomposição da legítima, pelo reconhecimento de hipotética inoficiosidade, transforma em adiantamento os bens restituídos à legítima, sem tornar ineficaz a doação realizada."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2449965",
+    "metadata": "Ano: 2024 | Banca: Instituto Consulplan | Órgão: Prefeitura de Santa Maria de Jetibá - ES",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Inventário e Partilha"
+    ],
+    "enunciado_principal": "No contexto do direito sucessório, a colação refere-se a um princípio que busca equalizar as quotas hereditárias dos herdeiros, considerando as doações feitas em vida pelo autor da herança. Esse princípio está presente em alguns sistemas jurídicos, como o brasileiro, com base no Código Civil. Tendo em vista que a colação tem como objetivo garantir que, ao calcular a parte da herança de cada herdeiro, seja levado em consideração o valor dos bens que foram doados pelo de cujus ainda em vida, marque V para as afirmativas verdadeiras e F para as falsas. ( ) São dispensadas da colação as doações que o doador determinar saiam da parte disponível, contanto que não a excedam, computado o seu valor ao tempo da doação. ( ) A dispensa da colação só pode ser outorgada pelo doador em testamento. ( ) O valor de colação dos bens doados será aquele, certo ou estimativo, que lhes atribuir o ato de liberalidade. ( ) Quando os netos, representando os seus pais, sucederem aos avós, serão obrigados a trazer à colação, ainda que não o hajam herdado, o que os pais teriam de conferir. A sequência está correta em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V, V, F, F."
+      },
+      {
+        "letra": "B",
+        "texto": "F, V, V, V."
+      },
+      {
+        "letra": "C",
+        "texto": "F, F, V, F."
+      },
+      {
+        "letra": "D",
+        "texto": "V, F, V, V."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2414888",
+    "metadata": "Ano: 2024 | Banca: Instituto Consulplan | Órgão: MPE-SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Inventário e Partilha"
+    ],
+    "enunciado_principal": "Nos termos da Lei nº 10.406/2002, que institui o Código Civil, e da jurisprudência do STJ, julgue o item a seguir. Subsistindo o condomínio sobre determinado bem imóvel após a partilha, por ato voluntário dos coerdeiros que aceitaram a herança, os sucessores coproprietários do imóvel respondem solidariamente pelas respectivas despesas condominiais, independentemente da expedição do formal de partilha, resguardado o direito de regresso.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2384449",
+    "metadata": "Ano: 2023 | Banca: FCC | Órgão: TRT - 12ª Região (SC)",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Inventário e Partilha"
+    ],
+    "enunciado_principal": "Aline e Carlos são filhos de Amanda, falecida em 2020, e netos de Bruno, o qual é viúvo e pai de Amanda (falecida), Miriam (viva), Caio (vivo) e Kaique (vivo). No ano de 2023, Bruno faleceu e não deixou testamento. Na partilha de seus bens, Aline e Carlos",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "serão herdeiros por direito de representação e cada um deles terá direito a 12,5% da herança."
+      },
+      {
+        "letra": "B",
+        "texto": "herdarão por cabeça e cada um deles terá direito a 20% da herança."
+      },
+      {
+        "letra": "C",
+        "texto": "serão herdeiros por direito de representação e cada um deles terá direito a 20% da herança."
+      },
+      {
+        "letra": "D",
+        "texto": "herdarão por cabeça e cada um deles terá direito a 16,66% da herança."
+      },
+      {
+        "letra": "E",
+        "texto": "não terão direito à herança, porque eram apenas netos de Bruno."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2319987",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: Câmara dos Deputados",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Inventário e Partilha"
+    ],
+    "enunciado_principal": "Fernando, viúvo, faleceu em Brasília, seu último domicílio, deixando três filhos: Ana, a primogênita, tem domicílio em Natal; Jorge, o filho do meio, tem domicílio em Aracaju; e Luís, o caçula e indicado pelos irmãos para exercer a inventariança do pai, tem domicílio no Rio de Janeiro. Segundo a legislação vigente, para a elaboração do inventário e partilha extrajudiciais, aos filhos de Jorge é facultado celebrar o ato",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "em Brasília."
+      },
+      {
+        "letra": "B",
+        "texto": "no Rio de Janeiro."
+      },
+      {
+        "letra": "C",
+        "texto": "em Natal."
+      },
+      {
+        "letra": "D",
+        "texto": "em Aracaju."
+      },
+      {
+        "letra": "E",
+        "texto": "em qualquer lugar do país."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2307554",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: TJ-SE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Inventário e Partilha"
+    ],
+    "enunciado_principal": "O inventário dos bens deixados por Evandro termina com a homologação da partilha que contempla saldo bancário e um imóvel situado em Aracaju. Anos depois, vem à tona a questão relativa aos aluguéis recebidos pela inventariante, decorrentes de contrato de locação que fora autorizado pelo juízo orfanológico, em relação aos quais nunca houve a devida prestação de contas. Os herdeiros pretendem, então, a sobrepartilha desses valores. É correto afirmar que a sobrepartilha:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não é cabível;"
+      },
+      {
+        "letra": "B",
+        "texto": "poderá abranger todos os aluguéis recebidos;"
+      },
+      {
+        "letra": "C",
+        "texto": "só poderá abranger os aluguéis vencidos após a apresentação do esboço de partilha;"
+      },
+      {
+        "letra": "D",
+        "texto": "só poderá abranger os aluguéis vencidos após a partilha, observada a prescrição trienal a partir do vencimento de cada parcela;"
+      },
+      {
+        "letra": "E",
+        "texto": "só poderá abranger os aluguéis vencidos após a partilha, observada a prescrição decenal a partir do trânsito em julgado da sentença homologatória."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2307553",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: TJ-SE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Contratos em Espécie",
+      "Troca ou Permuta, Contrato Estimatório e Doação",
+      "Contratos em Geral",
+      "Noções e Princípios do Direito Contratual",
+      "Inventário e Partilha"
+    ],
+    "enunciado_principal": "Donato e sua esposa Milena fazem lavrar escritura pública transmitindo a seus filhos, em proporções iguais, a integralidade de seu patrimônio, com efeitos imediatos, dispensando os beneficiários do dever de colação. Reservam para si apenas o usufruto dos bens. Nesse caso, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "se verifica uma espécie de pacta corvina, a versar herança de pessoa viva, o que é vedado pelo ordenamento (Art. 426 do Código Civil);"
+      },
+      {
+        "letra": "B",
+        "texto": "o negócio jurídico é espécie de doação de bens, a desdobrar o indisponível dever de colação, pelos herdeiros, dos bens transmitidos;"
+      },
+      {
+        "letra": "C",
+        "texto": "embora válido o negócio jurídico, se verificado algum prejuízo à legítima, será necessário, para corrigi-lo, a realização de inventário, a fim de equacionar corretamente a partilha;"
+      },
+      {
+        "letra": "D",
+        "texto": "para a validade do negócio jurídico, é necessária a concordância de todos os herdeiros;"
+      },
+      {
+        "letra": "E",
+        "texto": "a invalidade que acomete o negócio jurídico pode ser expurgada pela redução das disposições para que abranja apenas a parte disponível da herança."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2254949",
+    "metadata": "Ano: 2023 | Banca: VUNESP | Órgão: TJ-RJ",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Inventário e Partilha"
+    ],
+    "enunciado_principal": "Tício faleceu, deixando dois filhos maiores de idade e capazes e testamento. Não há controvérsia entre os filhos de Tício acerca da forma de partilha dos bens, e eles concordam com o cumprimento do testamento. Os filhos de Tício pretendem fazer um inventário extrajudicial e, para isso, contratam um advogado e comparecem perante um tabelião de notas competente. Acerca do caso hipotético, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O inventário extrajudicial somente poderá ser realizado se houver expressa previsão no testamento de dispensa de homologação judicial deste."
+      },
+      {
+        "letra": "B",
+        "texto": "Mostra-se possível o inventário extrajudicial, desde que o testamento tenha sido previamente registrado judicialmente ou haja a expressa autorização do juízo competente."
+      },
+      {
+        "letra": "C",
+        "texto": "Pode haver o inventário extrajudicial, desde que o legatário beneficiário do testamento expressamente se manifeste extrajudicialmente, por meio de escritura pública, renunciando ao cumprimento do inventário perante o juiz."
+      },
+      {
+        "letra": "D",
+        "texto": "O cumprimento do testamento deve ser realizado previamente, de forma extrajudicial e, após, poderá ser feito o inventário extrajudicial."
+      },
+      {
+        "letra": "E",
+        "texto": "Em razão da existência de testamento, não é possível a realização de inventário extrajudicial."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2247751",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: TJ-ES",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aspectos Gerais do Direito das Sucessões – Momento, Espécies, Lugar, Herança e Representação",
+      "Inventário e Partilha"
+    ],
+    "enunciado_principal": "Valentina, ao completar 27 anos, descobre que sua madrasta, Fátima, havia sonegado, quando do inventário de seu pai, que falecera antes mesmo de seu nascimento, bens que deveriam ser trazidos à colação. Ajuíza, então, ação de sonegados, postulando a pena de perdimento desses bens ocultados. Sobre o tema, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Valentina não tem legitimidade para o pleito, porque não era nascida quando do inventário nem quando da abertura da sucessão;"
+      },
+      {
+        "letra": "B",
+        "texto": "a demanda está há muito prescrita, considerando o trânsito em julgado da sentença que homologou a partilha em 2004;"
+      },
+      {
+        "letra": "C",
+        "texto": "Fátima, viúva, que, no inventário, só teve direito à meação, não está sujeita à pena de sonegados, mesmo que tenha realmente ocultado bens;"
+      },
+      {
+        "letra": "D",
+        "texto": "a mera ocultação de bens traz ínsita a presunção de dolo, de modo que será necessária anterior interpelação ou alguma comprovação específica;"
+      },
+      {
+        "letra": "E",
+        "texto": "somente se algum herdeiro trouxe à tona a matéria no curso do inventário terá cabimento a ação de sonegados, caso contrário, já precluiu a oportunidade de trazer os bens à colação."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2110432",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: MPE-SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aspectos Gerais do Direito das Sucessões – Momento, Espécies, Lugar, Herança e Representação",
+      "Inventário e Partilha"
+    ],
+    "enunciado_principal": "João, nascido em Brasília – DF, viveu toda a sua vida em Penha – SC e morreu em Florianópolis – SC. Quando ele morreu, Ana, sua esposa, estava grávida. Considerando essa situação hipotética e o disposto no Código Civil sobre o direito das sucessões, julgue o item subsequente. Enquanto não for concluída a partilha dos bens de João, o direito dos seus co-herdeiros, quanto à propriedade e à posse da herança, será regulado pelas normas relativas ao condomínio.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2110254",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: PGM - Niterói",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aspectos Gerais do Direito das Sucessões – Momento, Espécies, Lugar, Herança e Representação",
+      "Inventário e Partilha"
+    ],
+    "enunciado_principal": "Lacerda falece aos 22/10/2022. Deixa três filhos, uma ainda na barriga de sua companheira. Nascida a temporã Cláudia, aos 22/12/2022, vem a requerer, no inventário dos bens deixados por seu pai, que seus irmãos tragam à colação um imóvel doado um ano antes da morte e, a par disto, o valor correspondente ao uso e à ocupação de outra propriedade onde viviam gratuitamente seus irmãos. Argumenta, para tanto, que a doação de um imóvel e o comodato de outro representam adiantamento de legítima. Nesse caso, é correto afirmar que Cláudia:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "que não era nascida ao tempo do óbito, não tem sequer capacidade sucessória e não pode, portanto, exigir a colação pretendida;"
+      },
+      {
+        "letra": "B",
+        "texto": "tem capacidade sucessória, apesar de ainda não nascida quando do óbito, e pode exigir a colação tanto do imóvel quanto do valor pelo uso e ocupação que deixaram de ser pagos;"
+      },
+      {
+        "letra": "C",
+        "texto": "tem capacidade sucessória, apesar de ainda não nascida quando do óbito, e pode exigir a colação apenas do imóvel doado, mas não do valor de uso e ocupação;"
+      },
+      {
+        "letra": "D",
+        "texto": "tem capacidade sucessória, apesar de ainda não nascida quando do óbito, e pode exigir apenas a colação do valor por uso e ocupação;"
+      },
+      {
+        "letra": "E",
+        "texto": "tem capacidade sucessória, mas não tem direito à colação do imóvel doado nem do valor por uso e ocupação."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2048187",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: MPE-PA",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Inventário e Partilha"
+    ],
+    "enunciado_principal": "A respeito da partilha dos bens deixados por pessoa falecida, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Por meio de instrumento público, o testador poderá proibir o herdeiro de requerer a partilha."
+      },
+      {
+        "letra": "B",
+        "texto": "É vedado ao testador indicar os bens e os valores que devem compor os quinhões hereditários."
+      },
+      {
+        "letra": "C",
+        "texto": "Sendo capazes os herdeiros, a partilha amigável pode ser efetuada por escrito particular."
+      },
+      {
+        "letra": "D",
+        "texto": "É nula a partilha feita por ascendente por ato de última vontade."
+      },
+      {
+        "letra": "E",
+        "texto": "Se os bens forem insuscetíveis de divisão cômoda, a alienação deverá ser realizada mediante autorização judicial."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2006467",
+    "metadata": "Ano: 2022 | Banca: INSTITUTO AOCP | Órgão: MPE-MS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Inventário e Partilha"
+    ],
+    "enunciado_principal": "Assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É possível reconhecer a responsabilidade civil do companheiro que, com seu comportamento de risco, transmite o vírus HIV à parceira conjugal quando presentes os pressupostos da conduta (ação ou omissão) do agente: dolo ou culpa, dano e nexo de causalidade."
+      },
+      {
+        "letra": "B",
+        "texto": "A alienação de imóveis pertencentes a menores sob tutela, inclusive a permuta, só pode ocorrer quando trouxer manifesta vantagem econômica para o menor e mediante prévia avaliação judicial e aprovação do juiz."
+      },
+      {
+        "letra": "C",
+        "texto": "É possível a concessão de divórcio sem que haja prévia partilha de bens."
+      },
+      {
+        "letra": "D",
+        "texto": "A prática de ato de alienação parental pode ter por consequência a alteração da guarda para guarda compartilhada ou sua inversão, sem prejuízo da decorrente responsabilidade civil."
+      },
+      {
+        "letra": "E",
+        "texto": "Os coerdeiros não são reciprocamente obrigados a se indenizar no caso de evicção de bens aquinhoados na partilha."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1969790",
+    "metadata": "Ano: 2022 | Banca: Quadrix | Órgão: CRO - RS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Inventário e Partilha"
+    ],
+    "enunciado_principal": "De acordo com o Código Civil, incluem-se no regime da comunhão parcial de bens",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "os bens sub-rogados no lugar dos que cada cônjuge já possuía ao casar, recebidos por sucessão."
+      },
+      {
+        "letra": "B",
+        "texto": "os proventos do trabalho pessoal de cada cônjuge."
+      },
+      {
+        "letra": "C",
+        "texto": "as obrigações anteriores ao casamento."
+      },
+      {
+        "letra": "D",
+        "texto": "as benfeitorias em bens particulares de cada cônjuge."
+      },
+      {
+        "letra": "E",
+        "texto": "as pensões, os meios-soldos, os montepios e outras rendas semelhantes."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1947794",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: MPE-SE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Inventário e Partilha"
+    ],
+    "enunciado_principal": "O herdeiro que não descrever no inventário bens do falecido que estejam em seu poder",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "será considerado indigno."
+      },
+      {
+        "letra": "B",
+        "texto": "pagará multa a ser arbitrada pelo juiz."
+      },
+      {
+        "letra": "C",
+        "texto": "perderá a posse dos bens."
+      },
+      {
+        "letra": "D",
+        "texto": "perderá o direito que lhe cabia sobre os referidos bens."
+      },
+      {
+        "letra": "E",
+        "texto": "pagará multa no percentual legal aos demais herdeiros."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1854202",
+    "metadata": "Ano: 2021 | Banca: VUNESP | Órgão: TJ-GO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Inventário e Partilha"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta, no tocante às escrituras de inventário e partilha.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não é possível a escolha do tabelião de notas, aplicando-se as regras de competência do Código de Processo Civil."
+      },
+      {
+        "letra": "B",
+        "texto": "É vedada a simultaneidade da via judicial e administrativa."
+      },
+      {
+        "letra": "C",
+        "texto": "O inventário negativo pode ser realizado somente na via judicial."
+      },
+      {
+        "letra": "D",
+        "texto": "A lavratura de escritura é compulsória, se preenchidos os requisitos para tanto, não sendo possível aos interessados optar pela via judicial."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1852647",
+    "metadata": "Ano: 2021 | Banca: FGV | Órgão: TJ-SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Inventário e Partilha"
+    ],
+    "enunciado_principal": "Os herdeiros de João, que fizera testamento quando em vida, dando destinação aos seus bens com estrita observância dos balizamentos legais, procuraram determinado Tabelionato de Notas e informaram que desejavam realizar o inventário por escritura pública na via extrajudicial. À luz da sistemática vigente, nesse caso:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não há óbice à realização do inventário, devendo o tabelião zelar pelo cumprimento das disposições testamentárias;"
+      },
+      {
+        "letra": "B",
+        "texto": "o inventário somente pode ser realizado caso tenha sido esta a vontade do de cujus, expressa de modo inequívoco no testamento;"
+      },
+      {
+        "letra": "C",
+        "texto": "o inventário pode ser realizado caso tenha ocorrido a abertura do testamento em juízo e o cumprimento de todas as disposições testamentárias;"
+      },
+      {
+        "letra": "D",
+        "texto": "só será possível a realização do inventário se o testamento tiver sido revogado por expressa manifestação de vontade de João, sendo apresentada prova nesse sentido;"
+      },
+      {
+        "letra": "E",
+        "texto": "só será possível a realização do inventário se o testamento tiver sido invalidado por decisão judicial transitada em julgado, sendo apresentada certidão do testamento."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1852542",
+    "metadata": "Ano: 2021 | Banca: FGV | Órgão: TJ-SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Inventário e Partilha"
+    ],
+    "enunciado_principal": "Os herdeiros de João, falecido há pouco menos de um ano, todos maiores e capazes, sendo um deles emancipado, compareceram perante o Tabelionato da circunscrição em que residiam e requereram a lavratura de escritura pública de inventário e partilha. Os bens deixados pelo de cujus foram divididos igualmente, incluindo o valor da restituição relativa ao imposto sobre a renda que recolhera a maior. Além disso, como a escritura pública foi simultaneamente assinada por todos e inexistiam obrigações futuras a serem cumpridas, não foi nomeado inventariante. O tributo devido pela transmissão de bens foi recolhido nos dez dias subsequentes à lavratura da escritura, sendo o comprovante arquivado pelo tabelião. À luz da ordem jurídica vigente, a narrativa acima:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não apresenta qualquer incorreção;"
+      },
+      {
+        "letra": "B",
+        "texto": "somente apresenta incorreção em relação à inserção, na escritura, do valor referente à restituição do imposto de renda;"
+      },
+      {
+        "letra": "C",
+        "texto": "somente apresenta incorreção em relação à não nomeação de inventariante e ao momento de recolhimento do tributo;"
+      },
+      {
+        "letra": "D",
+        "texto": "somente apresenta incorreção em relação à celebração do ato por herdeiro emancipado e à ausência de inventariante;"
+      },
+      {
+        "letra": "E",
+        "texto": "somente apresenta incorreção quanto à partilha da restituição relativa ao imposto de renda e ao momento de recolhimento do tributo."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1852344",
+    "metadata": "Ano: 2021 | Banca: Instituto Consulplan | Órgão: TJ-MS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Inventário e Partilha"
+    ],
+    "enunciado_principal": "Assinale a alternativa INCORRETA em relação às escrituras de inventário e partilha.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É inadmissível o inventário com partilha parcial, pois configura sonegação de bens no rol inventariado."
+      },
+      {
+        "letra": "B",
+        "texto": "Os documentos apresentados serão arquivados em pasta própria, devendo ser consignado no ato notarial lavrado em qual pasta ou caixa estes ficarão arquivados."
+      },
+      {
+        "letra": "C",
+        "texto": "O traslado da escritura pública deverá ser instruído com o documento comprobatório do recolhimento do ITCD, e com eventuais guias de recolhimentos de outros tributos, se houver."
+      },
+      {
+        "letra": "D",
+        "texto": "Não há restrição na aquisição, por sucessão legítima, de imóvel rural por estrangeiro e, portanto, desnecessária autorização do INCRA para lavratura de escritura pública de inventário e partilha, salvo quando o imóvel estiver situado em área considerada indispensável à segurança nacional, que depende do assentimento prévio da Secretaria-Geral do Conselho de Segurança Nacional."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1677351",
+    "metadata": "Ano: 2019 | Banca: VUNESP | Órgão: TJ-AL",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Sucessão Legítima – Ordem de Vocação Hereditária",
+      "Inventário e Partilha"
+    ],
+    "enunciado_principal": "Caio faleceu sem deixar testamento e sem deixar cônjuge ou companheira{o). Deixou bons superiores a 1 ,000 (mil) salários mínimos Fábio, pai de Caio, está vivo. Caio deixou os seguintes descendentes: o filho Túlio e os netos Octávio e Petrônio, todos maiores e capazes Os netos são filhos de Tício, falecido antes de Caio Os herdeiros não desejam ceder seus direitos hereditários para ninguém, nem total nem parcialmente Ninguém deseja renunciar à herança. Na escritura pública de inventário e partilha dos bens deixados por Calo, o tabelião de notas fará constar que o acervo hereditário será partilhado da seguinte forma:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "para o filho Túlio e para os netos Octávio a Petrônio, em partes iguais, ou seja. uma terça parte Ideal para cada um."
+      },
+      {
+        "letra": "B",
+        "texto": "para o pai Fábio e para o filho Túlio, na proporção de metade ideal para cada um."
+      },
+      {
+        "letra": "C",
+        "texto": "para o filho Túlio, que receberá a metade ideal; e para os netos Octávio e Petrônio que receberão uma quarta parte ideal, cada um."
+      },
+      {
+        "letra": "D",
+        "texto": "para o pai Fábio, para o filho Túlio e para os netos Octávio e Petrônio, em partes iguais, ou seja, uma quarta parte Ideal para cada um."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1167188",
+    "metadata": "Ano: 2019 | Banca: IDCAP | Órgão: Câmara de Boa Esperança - ES",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Inventário e Partilha"
+    ],
+    "enunciado_principal": "Desde a assinatura do compromisso até a homologação da partilha, a administração da herança será exercida pelo inventariante. De acordo com o Código Civil, o herdeiro que sonegar bens da herança, não os descrevendo no inventário quando estejam em seu poder, ou, com o seu conhecimento, no de outrem, ou que os omitir na colação, a que os deva levar, ou que deixar de restituí-los, perderá o direito que sobre eles lhe cabia. Sobre os sonegados na herança, assinale a alternativa incorreta de acordo com o Código Civil:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Se o sonegador for o próprio inventariante, remover-se-á, em se provando a sonegação, ou negando ele a existência dos bens, quando indicados."
+      },
+      {
+        "letra": "B",
+        "texto": "A pena de sonegados só se pode requerer e impor em ação movida pelos herdeiros ou pelos credores da herança."
+      },
+      {
+        "letra": "C",
+        "texto": "A sentença que se proferir na ação de sonegados, movida por qualquer dos herdeiros ou credores, não aproveita aos demais interessados."
+      },
+      {
+        "letra": "D",
+        "texto": "Só se pode arguir de sonegação o inventariante depois de encerrada a descrição dos bens, com a declaração, por ele feita, de não existirem outros por inventariar e partir, assim como arguir o herdeiro, depois de declarar-se no inventário que não os possui."
+      },
+      {
+        "letra": "E",
+        "texto": "Se não se restituírem os bens sonegados, por já não os ter o sonegador em seu poder, pagará ele a importância dos valores que ocultou, mais as perdas e danos."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1135226",
+    "metadata": "Ano: 2019 | Banca: VUNESP | Órgão: Prefeitura de Osasco - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Inventário e Partilha"
+    ],
+    "enunciado_principal": "No que diz respeito ao pagamento das dívidas do falecido, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Se o herdeiro for devedor ao espólio, em regra, o débito será imputado inteiramente no quinhão do devedor."
+      },
+      {
+        "letra": "B",
+        "texto": "Sempre que houver ação regressiva de uns contra outros herdeiros, a parte do co-herdeiro insolvente dividir-se-á em proporção entre os demais."
+      },
+      {
+        "letra": "C",
+        "texto": "Os legatários e credores da herança não podem exigir que do patrimônio do falecido se discrimine o do herdeiro."
+      },
+      {
+        "letra": "D",
+        "texto": "As despesas funerárias, apenas no caso de haver herdeiros legítimos, sairão do monte da herança."
+      },
+      {
+        "letra": "E",
+        "texto": "A herança responde pelo pagamento das dívidas do falecido; mas, feita a partilha, respondem os herdeiros de forma solidária."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1103332",
+    "metadata": "Ano: 2019 | Banca: VUNESP | Órgão: TJ-RJ",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Sucessão Legítima – Ordem de Vocação Hereditária",
+      "Inventário e Partilha"
+    ],
+    "enunciado_principal": "João e Maria viviam em união estável, formalizada mediante escritura pública, em que elegeram o regime da comunhão parcial de bens. Da relação entre João e Maria, resultaram duas filhas, Madalena e Sara. João também tinha outros dois filhos, Mateus e Paulo, decorrentes de relações eventuais que manteve. João faleceu. Na data da sua morte, João possuía um patrimônio adquirido totalmente antes da constituição da união estável com Maria. É correto afirmar que o patrimônio de João será dividido da seguinte forma:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "um quarto (1/4) para cada um dos filhos de João."
+      },
+      {
+        "letra": "B",
+        "texto": "um quarto (1/4) da herança para Maria e o restante dividido igualmente entre todos os filhos de João."
+      },
+      {
+        "letra": "C",
+        "texto": "Maria e todos os filhos de João receberão, cada um, um quinto (1/5) da herança."
+      },
+      {
+        "letra": "D",
+        "texto": "um terço (1/3) para Maria e o restante dividido igualmente entre todos os filhos de João."
+      },
+      {
+        "letra": "E",
+        "texto": "10% para Maria e 15% para cada um dos filhos de João."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1045513",
+    "metadata": "Ano: 2019 | Banca: VUNESP | Órgão: Prefeitura de Campinas - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Inventário e Partilha"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta sobre a colação.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aquele que renunciou a herança ou dela foi excluído é dispensado de conferir as doações recebidas, para o fim de repor o que exceder o disponível."
+      },
+      {
+        "letra": "B",
+        "texto": "Os gastos ordinários do ascendente com o descendente, enquanto menor, na sua educação, devem vir à colação."
+      },
+      {
+        "letra": "C",
+        "texto": "O valor de colação dos bens doados será aquele, certo ou estimativo, que lhes atribuir o ato de liberalidade."
+      },
+      {
+        "letra": "D",
+        "texto": "As doações remuneratórias de serviços feitos ao ascendente estão sujeitas à colação."
+      },
+      {
+        "letra": "E",
+        "texto": "É vedada a doação com dispensa de colação prevista pelo doador em testamento, ou no próprio título de liberalidade."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "986567",
+    "metadata": "Ano: 2019 | Banca: FCC | Órgão: DPE-SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Inventário e Partilha"
+    ],
+    "enunciado_principal": "Marcos e Antônia casaram-se em 20 de dezembro de 2017. Antônia tem um filho de 20 anos com José, de quem ficou viúva em 1998. Nessa primeira união, cujo regime era de comunhão parcial de bens, Antônia adquiriu um apartamento e, após o casamento com Marcos, adquiriu uma casa na praia com recursos exclusivamente próprios. Antônia faleceu em 15 de março de 2018, sem realizar inventário dos bens do primeiro esposo. Considerando a situação acima exposta, de acordo com o que dispõe o Código Civil em vigor, Marcos",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "será herdeiro com relação a todos os bens."
+      },
+      {
+        "letra": "B",
+        "texto": "será herdeiro de Antônia com relação ao apartamento e meeiro com relação à casa na praia."
+      },
+      {
+        "letra": "C",
+        "texto": "não será herdeiro de Antônia."
+      },
+      {
+        "letra": "D",
+        "texto": "não terá direito ao apartamento e será meeiro da casa na praia."
+      },
+      {
+        "letra": "E",
+        "texto": "terá direito à meação de todos os bens."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1196598",
+    "metadata": "Ano: 2018 | Banca: CONSULPLAN | Órgão: TJ-MG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Inventário e Partilha"
+    ],
+    "enunciado_principal": "Nos termos do art. 1o da Lei nº 6.858/1980, “os valores devidos pelos empregadores aos empregados e os montantes das contas individuais do Fundo de Garantia do Tempo de Serviço e do Fundo de Participação PIS-PASEP, não recebidos em vida pelos respectivos titulares, serão pagos, em quotas iguais, aos dependentes habilitados perante a Previdência Social ou na forma da legislação específica dos servidores civis e militares, e, na sua falta, aos sucessores previstos na lei civil, indicados em alvará judicial, independentemente de inventário ou arrolamento”. Considerando tal dispositivo e os demais dispositivos legais de promoção de inventário e partilha extrajudicial, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A escritura pública de inventário e partilha é juridicamente válida para o recebimento do FGTS – Fundo de Garantia por Tempo de Serviço, por herdeiros ou dependentes."
+      },
+      {
+        "letra": "B",
+        "texto": "O fato de haver herdeiro com idade de 17 (dezessete) anos, mas emancipado, impede a realização de inventário e partilha por meio de escritura pública, restando às partes a via judicial."
+      },
+      {
+        "letra": "C",
+        "texto": "Em escritura de inventário e partilha, a divisão dos bens deixados pelo autor da herança terá de obedecer estritamente à ordem e forma de partilha previstas em leis que regulam a sucessão por morte, não podendo as partes dispor de forma diversa à prevista em lei."
+      },
+      {
+        "letra": "D",
+        "texto": "Se os herdeiros ou dependentes, maiores e capazes, não tiverem como demonstrar o saldo da conta de FGTS do autor da herança para promover escritura de inventário e partilha, restar-lhes-á, como meio de obter a informação acerca desse saldo (emissão de um extrato, por exemplo), o ajuizamento de ação em que requererão ordem judicial de entrega do extrato, já que não é juridicamente possível lavrar escritura prévia à própria escritura de inventário e partilha, por meio da qual se nomeie inventariante que, exibindo-a, requeira a emissão do extrato à Caixa Econômica Federal."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "941633",
+    "metadata": "Ano: 2018 | Banca: CONSULPLAN | Órgão: TJ-MG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Inventário e Partilha"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A sentença que se proferir na ação de sonegados aproveita apenas aos herdeiros."
+      },
+      {
+        "letra": "B",
+        "texto": "A pena de sonegados só se pode requerer e impor em ação movida pelos herdeiros, exclusivamente."
+      },
+      {
+        "letra": "C",
+        "texto": "Desde a assinatura do compromisso até a homologação da partilha, a administração da herança será exercida pelo inventariante."
+      },
+      {
+        "letra": "D",
+        "texto": "Se não se restituírem os bens sonegados, por já não os ter o sonegador em seu poder, não pagará ele a importância dos valores que ocultou, nem perdas e danos."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "941630",
+    "metadata": "Ano: 2018 | Banca: CONSULPLAN | Órgão: TJ-MG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Inventário e Partilha"
+    ],
+    "enunciado_principal": "Assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Será sempre judicial a partilha, se os herdeiros divergirem, assim como se algum deles for incapaz."
+      },
+      {
+        "letra": "B",
+        "texto": "No partilhar os bens, não será observada a maior igualdade possível quanto ao seu valor, natureza e qualidade."
+      },
+      {
+        "letra": "C",
+        "texto": "É válida a partilha feita por ascendente, por ato entre vivos ou de última vontade, contanto que não prejudique a legítima dos herdeiros necessários."
+      },
+      {
+        "letra": "D",
+        "texto": "Se os herdeiros forem capazes, poderão fazer partilha amigável, por escritura pública, termo nos autos do inventário, ou escrito particular, homologado pelo juiz."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "941614",
+    "metadata": "Ano: 2018 | Banca: CONSULPLAN | Órgão: TJ-MG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Inventário e Partilha"
+    ],
+    "enunciado_principal": "Nos termos do art. 1° da Lei nº 6.858/1980, “os valores devidos pelos empregadores aos empregados e os montantes das contas individuais do Fundo de Garantia do Tempo de Serviço e do Fundo de Participação PIS-PASEP, não recebidos em vida pelos respectivos titulares, serão pagos, em quotas iguais, aos dependentes habilitados perante a Previdência Social ou na forma da legislação específica dos servidores civis e militares, e, na sua falta, aos sucessores previstos na lei civil, indicados em alvará judicial, independentemente de inventário ou arrolamento”. Considerando tal dispositivo e os demais dispositivos legais de promoção de inventário e partilha extrajudicial, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A escritura pública de inventário e partilha é juridicamente válida para o recebimento do FGTS – Fundo de Garantia por Tempo de Serviço, por herdeiros ou dependentes."
+      },
+      {
+        "letra": "B",
+        "texto": "O fato de haver herdeiro com idade de 17 (dezessete) anos, mas emancipado, impede a realização de inventário e partilha por meio de escritura pública, restando às partes a via judicial."
+      },
+      {
+        "letra": "C",
+        "texto": "Em escritura de inventário e partilha, a divisão dos bens deixados pelo autor da herança terá de obedecer estritamente à ordem e forma de partilha previstas em leis que regulam a sucessão por morte, não podendo as partes dispor de forma diversa à prevista em lei."
+      },
+      {
+        "letra": "D",
+        "texto": "Se os herdeiros ou dependentes, maiores e capazes, não tiverem como demonstrar o saldo da conta de FGTS do autor da herança para promover escritura de inventário e partilha, restar-lhes-á, como meio de obter a informação acerca desse saldo (emissão de um extrato, por exemplo), o ajuizamento de ação em que requererão ordem judicial de entrega do extrato, já que não é juridicamente possível lavrar escritura prévia à própria escritura de inventário e partilha, por meio da qual se nomeie inventariante que, exibindo-a, requeira a emissão do extrato à Caixa Econômica Federal."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "927215",
+    "metadata": "Ano: 2018 | Banca: CONSULPLAN | Órgão: TJ-MG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aspectos Gerais do Direito das Sucessões – Momento, Espécies, Lugar, Herança e Representação",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante",
+      "Sucessão Legítima – Ordem de Vocação Hereditária",
+      "Inventário e Partilha"
+    ],
+    "enunciado_principal": "Quanto ao direito das sucessões, analise as afirmativas a seguir. I. Na petição de herança, o herdeiro aparente, que de boa-fé houver pago um legado, não está obrigado a prestar o equivalente ao verdadeiro sucessor, ressalvado a este o direito de proceder contra quem o recebeu. II. A sucessão de bens de estrangeiros, situados no Brasil, será regulada na lei do país em que era domiciliado o defunto, qualquer que seja a natureza e a situação dos bens, exceto quando houver cônjuge ou filhos brasileiros, ou de quem os represente, quando se utilizará a lei material brasileira, sempre que não lhes for mais favorável a lei pessoal do “de cujus”. III. Havendo a concorrência de herdeiros de classes diversas, a renúncia de qualquer deles devolve sua parte aos que integram a mesma ordem dos chamados a suceder. IV. Quando os netos, representando seus pais, sucedem aos avós, estão obrigados a trazer à colação, ainda que não o hajam herdado, o que os pais teriam de conferir, sob pena de sonegação. Estão corretas as afirmativas",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II, III e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "I e IV, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "I, II e III, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "II, III e IV, apenas."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "918549",
+    "metadata": "Ano: 2018 | Banca: FGV | Órgão: TJ-SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Inventário e Partilha"
+    ],
+    "enunciado_principal": "Findo o inventário entre partes maiores e capazes, foi realizada partilha amigável, lavrada em instrumento público e reduzida a termo nos autos do próprio inventário. Seis meses após o trânsito em julgado, percebeu uma das partes que houve erro essencial no referido ato. Para que possa desconstituí-lo, poderá manejar ação:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "rescisória, no prazo de 2 anos do trânsito em julgado;"
+      },
+      {
+        "letra": "B",
+        "texto": "anulatória, no prazo de 1 ano contado do dia em que se realizou o ato;"
+      },
+      {
+        "letra": "C",
+        "texto": "rescisória, no prazo de 2 anos, contados do dia em que se realizou o ato;"
+      },
+      {
+        "letra": "D",
+        "texto": "rescisória, no prazo de 2 anos, contados do dia do descobrimento do erro;"
+      },
+      {
+        "letra": "E",
+        "texto": "anulatória, no prazo de 2 anos do trânsito em julgado."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "914156",
+    "metadata": "Ano: 2018 | Banca: FGV | Órgão: MPE-AL",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aspectos Gerais do Direito das Sucessões – Momento, Espécies, Lugar, Herança e Representação",
+      "Inventário e Partilha"
+    ],
+    "enunciado_principal": "Joaquim faleceu e deixou, como herança, 04 (quatro) apartamentos iguais (101, 102, 103 e 104), todos localizados em um mesmo edifício e com idênticos preços de mercado. Sem deixar testamento, seus únicos herdeiros são seus filhos Jorge, Maria, Ana e Carlos. Passando por dificuldades financeiras, Carlos resolve alienar, antes de findado o inventário, um dos apartamentos (o 101), mediante cessão de direitos sobre o imóvel a Marcos. A respeito desta cessão, assinale a afirmativa correta",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Representa renúncia translativa da herança, pelo que Marcos, em substituição a Carlos, deve se habilitar no inventário."
+      },
+      {
+        "letra": "B",
+        "texto": "Tem efeito de cessão de direitos hereditários, mas Marcos poderá receber, contudo, qualquer um dos bens."
+      },
+      {
+        "letra": "C",
+        "texto": "Os demais herdeiros poderão se opor à alienação, mediante o exercício do direito de preferência."
+      },
+      {
+        "letra": "D",
+        "texto": "É ineficaz e, portanto, Marcos não fará jus ao apartamento 101."
+      },
+      {
+        "letra": "E",
+        "texto": "Trata-se de renúncia abdicativa, pelo que os demais herdeiros deverão pagar o preço do imóvel a Marcos."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "896339",
+    "metadata": "Ano: 2018 | Banca: IESES | Órgão: TJ-CE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aspectos Gerais do Direito das Sucessões – Momento, Espécies, Lugar, Herança e Representação",
+      "Aceitação e Renúncia da Herança, Herança Jacente e Vacante",
+      "Inventário e Partilha"
+    ],
+    "enunciado_principal": "Em relação a sonegação, responda: I. Só se pode arguir de sonegação o inventariante depois de encerrada a descrição dos bens, com a declaração, por ele feita, de não existirem outros por inventariar e partir. II. A pena de sonegadas independe de ação própria, podendo ser aplicada no inventário mediante requerimento fundamentado formulado pelos herdeiros. III. Está sujeito à pena de sonegação o herdeiro que deixar de apresentar bens que deveria colacionar. Assinale a correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas as assertivas I e III são verdadeiras."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas as assertivas I e II são verdadeiras."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas a assertiva II é verdadeira."
+      },
+      {
+        "letra": "D",
+        "texto": "Todas as assertivas são verdadeiras."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "889823",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: TJ-RS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aspectos Gerais do Direito das Sucessões – Momento, Espécies, Lugar, Herança e Representação",
+      "Inventário e Partilha"
+    ],
+    "enunciado_principal": "José e Maria (grávida de 9 meses) sofreram um acidente automobilístico. José faleceu no acidente. Maria foi levada com vida ao hospital e o filho que estava em seu ventre faleceu alguns minutos após o nascimento, tendo respirado. Na manhã seguinte, Maria também faleceu em decorrência dos ferimentos causados pelo acidente. José e Maria não tinham outros filhos. O casal tinha uma fortuna de R$ 50.000.000,00 (cinquenta milhões de reais) em aplicações financeiras, numa conta conjunta, valores acumulados exclusivamente durante o período do casamento, sob o regime legal de bens (comunhão parcial). Os pais de José (Josefa e João) e os pais de Maria (Ana e Paulo) ingressaram em juízo postulando seus direitos hereditários. Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os pais de Maria têm direito a 75% do valor da herança e os pais de José ao restante."
+      },
+      {
+        "letra": "B",
+        "texto": "Os pais de José têm direito a 75% do valor da herança e os pais de Maria ao restante."
+      },
+      {
+        "letra": "C",
+        "texto": "A herança deve ser atribuída totalmente aos pais de José, nada cabendo aos pais de Maria."
+      },
+      {
+        "letra": "D",
+        "texto": "A herança deve ser atribuída totalmente aos pais de Maria, nada cabendo aos pais de José."
+      },
+      {
+        "letra": "E",
+        "texto": "Os pais de José e os pais de Maria têm direito, cada um deles, à metade da herança."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "886112",
+    "metadata": "Ano: 2018 | Banca: MPE-MS | Órgão: MPE-MS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Sucessões",
+      "Aspectos Gerais do Direito das Sucessões – Momento, Espécies, Lugar, Herança e Representação",
+      "Inventário e Partilha"
+    ],
+    "enunciado_principal": "Quanto ao direito das sucessões, analise as seguintes assertivas. I. Na hipótese em que a ação de investigação de paternidade post mortem tenha sido ajuizada após o trânsito em julgado da decisão de partilha de bens deixados pelo de cujus, o termo inicial do prazo prescricional para o ajuizamento de ação de petição de herança é a data do trânsito em julgado da sentença que julgou a ação de inventário. II. O cônjuge sobrevivente casado sob o regime de comunhão parcial de bens somente concorrerá com os descendentes do cônjuge falecido com relação aos bens particulares eventualmente constantes do acervo hereditário. III. O princípio da saisine se aplica aos herdeiros legítimos e testamentários, aos legatários e à herança jacente. IV. Nada obsta o testamento conjuntivo, seja simultâneo, recíproco ou correspectivo, desde que seja realizado em instrumentos diferentes, em escrituras diversas. V. O concepturo possui capacidade testamentária sucessória passiva em razão de ter personalidade jurídica. Assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente as assertivas II e IV estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente as assertivas I, II, IV e V estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente as assertivas I, II e IV estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente as assertivas I, II, III e V estão corretas."
+      },
+      {
+        "letra": "E",
+        "texto": "Todas as assertivas estão corretas."
+      }
+    ],
+    "gabarito": "A"
+  }
+]

@@ -1,0 +1,903 @@
+[
+  {
+    "id": "3520614",
+    "metadata": "Ano: 2025 | Banca: FGV | Órgão: TJ-ES",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Cláusulas Especiais de Compra e Venda"
+    ],
+    "enunciado_principal": "Vitória vendeu a João coisa móvel, sendo o contrato celebrado por escrito e tendo a intervenção de duas testemunhas. No contrato foi pactuado que Vitória reservou para si a propriedade, até que o preço fosse integralmente pago, em até 24 meses. Cinco dias após a celebração do contrato, data fixada para o início de sua execução pelas partes, ele foi levado a registro no Registro de Títulos e Documentos de Linhares. Após o pagamento pontual das parcelas, a partir do mês de maio de 2025, João ficou inadimplente. Em relação à execução da cláusula com reserva de domínio, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o protesto do contrato no Registro de Títulos e Documentos é pressuposto para a execução, facultado ao devedor o pagamento em cartório no prazo de 3 dias úteis da data do recebimento da intimação;"
+      },
+      {
+        "letra": "B",
+        "texto": "Vitória somente poderá executar a cláusula após constituir João em mora, mediante protesto do contrato ou interpelação judicial;"
+      },
+      {
+        "letra": "C",
+        "texto": "o protesto do contrato ou qualquer outra providência para efeito da execução da cláusula diante da constituição em mora automática de João (mora ex re) é facultativo;"
+      },
+      {
+        "letra": "D",
+        "texto": "Vitória somente poderá executar a cláusula após constituir João em mora, mediante interpelação judicial, que deve ser feita nos 30 dias após o não pagamento, sob pena de decadência;"
+      },
+      {
+        "letra": "E",
+        "texto": "Vitória somente poderá executar a cláusula após constituir João em mora, mediante interpelação extrajudicial, que deve ser feita nos 15 dias após o não pagamento, sob pena de decadência."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3169058",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: TRF - 6ª REGIÃO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Cláusulas Especiais de Compra e Venda"
+    ],
+    "enunciado_principal": "De acordo com a jurisprudência do STJ sobre responsabilidade civil, contratos e inadimplemento de obrigações, julgue o item a seguir.A cláusula penal moratória prevista em promessa de compra e venda de imóvel na planta, quando estabelecida em valor equivalente ao do aluguel, afasta a cumulação com lucros cessantes.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3117513",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: TJ-PE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Cláusulas Especiais de Compra e Venda"
+    ],
+    "enunciado_principal": "Buscando cem mil reais emprestados para abrir um estabelecimento comercial, Abelardo procurou Mirtes, prometendo pagar-lhe de volta em um ano e oferecendo a ela, em garantia hipotecária, uma sala comercial de que é proprietário. Entretanto, Mirtes, alegando que a execução da hipoteca é muito burocrática e custosa, propôs a Abelardo a seguinte estratégia: ele vende a ela a sala comercial pelos cem mil reais imediatamente, mas eles preveem no contrato a prerrogativa de ele recomprar o imóvel em um ano, pelo valor atualizado e com juros. Desse modo, ele recebe o dinheiro, mas, caso não pague de volta, ela já detém a propriedade do imóvel dado em garantia. O negócio proposto por Mirtes configura:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "compra e venda com pacto de retrovenda, mas deve ser reputado simulado, pois tem por fim efetivar pacto comissório;"
+      },
+      {
+        "letra": "B",
+        "texto": "compra e venda com reserva de domínio, mas o contrato em questão deve ser declarado nulo por configurar hipótese de fraude à lei;"
+      },
+      {
+        "letra": "C",
+        "texto": "alienação fiduciária em garantia, e é um contrato válido por constituir modalidade legalmente regulada de negócio indireto;"
+      },
+      {
+        "letra": "D",
+        "texto": "venda a contento, que envolve estipulação válida de pacto marciano, já que a garantia imobiliária tem valor pré-estabelecido;"
+      },
+      {
+        "letra": "E",
+        "texto": "contrato estimatório, em que se efetiva negócio processual com o fim de agilizar a execução extrajudicial da garantia imobiliária."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2544033",
+    "metadata": "Ano: 2024 | Banca: FUNDATEC | Órgão: Prefeitura de Panambi - RS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Cláusulas Especiais de Compra e Venda"
+    ],
+    "enunciado_principal": "Em determinado contrato de compra e venda de bem imóvel firmado entre particulares, constou de forma expressa cláusula de exclusão de responsabilidade pela evicção. Sendo assim, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O contrato é nulo."
+      },
+      {
+        "letra": "B",
+        "texto": "O contrato é anulável."
+      },
+      {
+        "letra": "C",
+        "texto": "O contrato é válido, sendo nula apenas a cláusula de exclusão de responsabilidade pela evicção."
+      },
+      {
+        "letra": "D",
+        "texto": "O contrato é válido, sendo anulável apenas a cláusula de exclusão de responsabilidade pela evicção."
+      },
+      {
+        "letra": "E",
+        "texto": "A legislação admite a cláusula de exclusão de responsabilidade pela evicção."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2471070",
+    "metadata": "Ano: 2024 | Banca: Instituto Consulplan | Órgão: Câmara de Belo Horizonte - MG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Cláusulas Especiais de Compra e Venda"
+    ],
+    "enunciado_principal": "O Código Civil, Art. 505, dispõe da Cláusula especial de Retrovenda: “o vendedor de coisa imóvel pode reservar-se o direito de recobrá-la no prazo máximo (...) de três anos, restituindo o preço recebido e reembolsando as despesas do comprador, inclusive as que, durante o período de resgate, se efetuaram com a sua autorização escrita, ou para a realização de benfeitorias necessárias”. Sobre o prazo nela contido, analise as afirmativas a seguir. I. Trata-se de prazo prescricional, podendo, em regra, ser interrompido ou suspenso. II. Trata-se de prazo decadencial, não se aplicando, em regra, as normas que impedem, suspendem ou interrompem a prescrição. III. A parte a quem aproveita pode alegá-la em qualquer grau de jurisdição, mas o juiz não pode suprir a alegação. IV. Deve o juiz, de ofício, conhecê-la. Sobre os itens aplicados ao prazo constante da retrovenda, tendo em vista a sua natureza jurídica, está correto o que se afirma apenas em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "II e III."
+      },
+      {
+        "letra": "B",
+        "texto": "II e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "D",
+        "texto": "II, III e IV."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2468974",
+    "metadata": "Ano: 2024 | Banca: SELECON | Órgão: Câmara de Rondonópolis - MT",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Compra e Venda",
+      "Cláusulas Especiais de Compra e Venda"
+    ],
+    "enunciado_principal": "Bodil e Siv avençaram compra e venda de coisa futura. Nos termos do Código Civil, o contrato ficará sem efeito se a coisa não vier a existir, salvo se a intenção das partes era concluir contrato:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "parcial"
+      },
+      {
+        "letra": "B",
+        "texto": "aleatório"
+      },
+      {
+        "letra": "C",
+        "texto": "arbitrado"
+      },
+      {
+        "letra": "D",
+        "texto": "procrastinatório"
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2374417",
+    "metadata": "Ano: 2023 | Banca: FCC | Órgão: DPE-ES",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Compra e Venda",
+      "Cláusulas Especiais de Compra e Venda"
+    ],
+    "enunciado_principal": "Cláudia comparece à unidade de atendimento da Defensoria Pública do Estado do Espírito Santo, afirmando que não consegue regularizar junto aos órgãos públicos a situação do imóvel, de valor superior a 30 salários mínimos, no qual reside com sua família, há mais de cinco anos, pois esses não aceitam a documentação que alega comprovar a compra e venda do imóvel. Analisando os documentos, a Defensora Pública responsável pelo atendimento verifica que Cláudia possui apenas um contrato particular de compromisso de compra e venda do imóvel datado de 2017, com cláusula de irretratabilidade, mas não houve registro junto ao Cartório de Registro de Imóveis. Diante desta documentação, Cláudia deve ser informada que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "já houve a transferência da propriedade por meio da tradição, configurada com a obtenção da posse do imóvel para fins residenciais."
+      },
+      {
+        "letra": "B",
+        "texto": "já houve a transferência do domínio do imóvel por meio do contrato com cláusula de irretratabilidade, de modo que não há necessidade de adjudicação compulsória ou usucapião para o reconhecimento da propriedade."
+      },
+      {
+        "letra": "C",
+        "texto": "ainda não houve a transferência do domínio do imóvel, que poderá ser feito somente por meio de usucapião, pois a adjudicação compulsória apresenta como requisito o registro do compromisso de compra e venda no cartório de imóveis."
+      },
+      {
+        "letra": "D",
+        "texto": "ainda não houve a transferência do domínio do imóvel, que poderá ser feito somente por meio de adjudicação compulsória, pois não se verifica o cumprimento de prazo suficiente para pleitear o reconhecimento de nenhuma modalidade de usucapião."
+      },
+      {
+        "letra": "E",
+        "texto": "ainda não houve a transferência do domínio do imóvel, que poderá ser feito por meio de adjudicação compulsória ou usucapião, se presentes os requisitos para tanto."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2276596",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: PGE-PA",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Compra e Venda",
+      "Cláusulas Especiais de Compra e Venda"
+    ],
+    "enunciado_principal": "Julgue os itens subsequentes, referentes à chamada exceção de inseguridade. I Não há previsão da exceção de inseguridade no direito brasileiro. II Também conhecida como exceção de contrato não cumprido, a exceção de inseguridade ocorre quando, em contrato bilateral, nenhuma das partes pode, antes de cumprida a sua obrigação, exigir o cumprimento da do outro. III A exceção de inseguridade pode ser oposta à parte cuja conduta ponha manifestamente em risco a execução do programa contratual. IV Revela hipótese de exceção de inseguridade o art. 495 do Código Civil, ao estabelecer que, não obstante o prazo ajustado para o pagamento, se antes da tradição o comprador cair em insolvência, poderá o vendedor sobrestar na entrega da coisa, até que o comprador lhe dê caução de pagar no tempo ajustado. Estão certos apenas os itens",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e II."
+      },
+      {
+        "letra": "B",
+        "texto": "II e IV."
+      },
+      {
+        "letra": "C",
+        "texto": "III e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "E",
+        "texto": "I, III e IV."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2225684",
+    "metadata": "Ano: 2023 | Banca: FUNDATEC | Órgão: IFC-SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Cláusulas Especiais de Compra e Venda"
+    ],
+    "enunciado_principal": "Em relação à cláusula de venda com reserva de domínio, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É vedada nos contratos de consumo."
+      },
+      {
+        "letra": "B",
+        "texto": "Pode ser estabelecida nos contratos escritos ou verbais."
+      },
+      {
+        "letra": "C",
+        "texto": "Acarreta a transferência imediata da posse e da propriedade do bem alienado ao comprador."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente pode ser aplicada aos contratos de compra e venda de bens móveis."
+      },
+      {
+        "letra": "E",
+        "texto": "Impõe a necessidade de intervenção de instituição financeira como intermediadora no contrato."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2211314",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: TJ-SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Compra e Venda",
+      "Cláusulas Especiais de Compra e Venda"
+    ],
+    "enunciado_principal": "Mário vendeu um apartamento a Mauro, seu colega de trabalho. Além das cláusulas gerais dos contratos de venda e compra, ambos optaram por incluir, nos termos legais, a cláusula de retrovenda, que foi devidamente incluída na matrícula do imóvel. Após o falecimento de Mário, dois anos depois da venda regular, Victor, seu único filho e herdeiro, quer acionar imediatamente a cláusula para reaver o imóvel vendido. Nessa situação hipotética, de acordo com o disposto no Código Civil, Victor",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "poderá reaver o apartamento vendido por seu pai, desde que restitua o preço recebido à época da venda e reembolse as despesas do comprador, inclusive as que tenham sido efetuadas após autorização escrita ou para realizar benfeitorias necessárias."
+      },
+      {
+        "letra": "B",
+        "texto": "poderá reaver o apartamento vendido por seu pai, desde que restitua o preço recebido à época da venda, sendo dispensado de ressarcir as despesas do comprador, inclusive as que tenham sido efetuadas com autorização escrita ou para realizar benfeitorias necessárias."
+      },
+      {
+        "letra": "C",
+        "texto": "poderá reaver o apartamento vendido por seu pai, desde que restitua o preço recebido à época da venda, sendo dispensado de ressarcir as despesas do comprador, salvo aquelas que tenham sido efetuadas com autorização escrita ou para realizar benfeitorias necessárias."
+      },
+      {
+        "letra": "D",
+        "texto": "não poderá reaver o imóvel, haja vista que a cláusula especial de retrovenda perde a validade com o falecimento do vendedor, sendo intransferível a herdeiros."
+      },
+      {
+        "letra": "E",
+        "texto": "não poderá reaver o imóvel, haja vista o transcurso do prazo legal para exercer esse direito."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2133496",
+    "metadata": "Ano: 2023 | Banca: VUNESP | Órgão: Prefeitura de Marília - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Compra e Venda",
+      "Cláusulas Especiais de Compra e Venda"
+    ],
+    "enunciado_principal": "No contrato de compra e venda, salvo cláusula em contrário, ficarão as despesas de escritura",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "e registro a cargo do comprador, e a cargo do vendedor as da tradição."
+      },
+      {
+        "letra": "B",
+        "texto": "e registro a cargo do vendedor, e a cargo do comprador as da tradição."
+      },
+      {
+        "letra": "C",
+        "texto": "a cargo do comprador, ou a cargo do vendedor as da tradição."
+      },
+      {
+        "letra": "D",
+        "texto": "a cargo do vendedor, e a cargo do comprador as da tradição."
+      },
+      {
+        "letra": "E",
+        "texto": "registro e tradição a cargo do comprador."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1951289",
+    "metadata": "Ano: 2022 | Banca: FGV | Órgão: TJ-GO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Cláusulas Especiais de Compra e Venda"
+    ],
+    "enunciado_principal": "Cláudia, médica dermatologista, decidiu renovar a aparelhagem de sua clínica e, para isso, ofereceu a venda de seus equipamentos usados para a colega Regina, que estava montando seu primeiro consultório. Especificamente quanto a um equipamento de laser de alta potência, cujo valor é muito elevado, as duas combinaram condições vantajosas de pagamento para que Regina pudesse adquiri-lo. Assim, formalizaram instrumento particular de compra e venda do aparelho, nos termos do qual Cláudia reservava para si a propriedade do bem até que Regina quitasse todas as doze parcelas mensais do preço, sendo a posse do aparelho, por outro lado, transferida desde logo para a compradora. Após pagar as quatro primeiras parcelas do preço, porém, Regina não conseguiu prosseguir com os pagamentos. Além disso, Cláudia descobriu que Regina havia danificado uma peça do aparelho e que o conserto custaria mais da metade do preço pelo qual a compra e venda foi celebrada. Diante desse cenário, Cláudia procurou um advogado e, devidamente orientada, constituiu Regina em mora judicialmente, nos termos da lei. No caso narrado, é correto afirmar que, sem prejuízo de outras eventuais pretensões, Cláudia:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "poderá, se quiser, reaver a posse do aparelho, mas não tem a alternativa de, em vez disso, optar por persistir na cobrança das parcelas em aberto;"
+      },
+      {
+        "letra": "B",
+        "texto": "não poderá reaver a posse do aparelho, porque o equipamento se encontra deteriorado e os riscos da coisa nessa espécie contratual correm contra a compradora;"
+      },
+      {
+        "letra": "C",
+        "texto": "poderá, se quiser, restituir as parcelas do preço pagas por Regina e assim reaver a posse do aparelho, no estado em que se encontra, nada podendo reclamar sobre a deterioração;"
+      },
+      {
+        "letra": "D",
+        "texto": "não poderá reaver a posse do aparelho, porque o contrato não foi levado a registro, assistindo-lhe apenas persistir na cobrança das parcelas em aberto perante Regina;"
+      },
+      {
+        "letra": "E",
+        "texto": "poderá, se quiser, reaver a posse do aparelho e, se assim proceder, não precisará restituir nenhuma das parcelas do preço pagas por Regina."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2005176",
+    "metadata": "Ano: 2021 | Banca: FUNDEP (Gestão de Concursos) | Órgão: Prefeitura de Ubá - MG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Compra e Venda",
+      "Contratos em Geral",
+      "Vícios Redibitórios e Evicção",
+      "Cláusulas Especiais de Compra e Venda"
+    ],
+    "enunciado_principal": "No que concerne aos contratos, analise as afirmativas a seguir. I. Não podem ser comprados pelos servidores públicos os bens da pessoa jurídica a que servirem, ainda que em hasta pública. II. Não obstante a aquisição do bem se tenha realizado em hasta pública, o alienante responde pela evicção nos contratos onerosos. III. A compra e venda, quando pura, considerar-se-á obrigatória e perfeita, desde que as partes acordarem no objeto e no preço. IV. O vendedor somente poderá executar a cláusula de reserva de domínio após constituir o comprador em mora. São corretas as afirmativas",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II, III e IV"
+      },
+      {
+        "letra": "B",
+        "texto": "I e III, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "II e IV, apenas"
+      },
+      {
+        "letra": "D",
+        "texto": "II e III, apenas."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1097324",
+    "metadata": "Ano: 2019 | Banca: FUNDATEC | Órgão: Prefeitura de Chuí - RS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Cláusulas Especiais de Compra e Venda"
+    ],
+    "enunciado_principal": "Em relação à compra e venda, a cláusula de reserva de domínio:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É vedada expressamente pelo Código Civil."
+      },
+      {
+        "letra": "B",
+        "texto": "É permitida para alienação de bens imóveis."
+      },
+      {
+        "letra": "C",
+        "texto": "Pode ser estipulada por escrito ou ser acordada verbalmente."
+      },
+      {
+        "letra": "D",
+        "texto": "Terá por objeto bens fungíveis, sendo vedada para negociação de bens infungíveis."
+      },
+      {
+        "letra": "E",
+        "texto": "É aquela em que o vendedor reserva para si a propriedade, até que o preço seja integralmente pago."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1052733",
+    "metadata": "Ano: 2019 | Banca: VUNESP | Órgão: UNIFAI",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Compra e Venda",
+      "Cláusulas Especiais de Compra e Venda"
+    ],
+    "enunciado_principal": "Em se tratando de contratos de compra e venda, a cláusula que impõe ao comprador a obrigação de oferecer ao vendedor a coisa que aquele vai vender, ou dar em pagamento, para que este use de seu direito de prelação na compra, tanto por tanto, é a cláusula de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "venda a contento."
+      },
+      {
+        "letra": "B",
+        "texto": "retrovenda."
+      },
+      {
+        "letra": "C",
+        "texto": "preempção."
+      },
+      {
+        "letra": "D",
+        "texto": "venda sujeita a prova."
+      },
+      {
+        "letra": "E",
+        "texto": "venda com reserva de domínio."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1018021",
+    "metadata": "Ano: 2019 | Banca: IESES | Órgão: SCGás",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Troca ou Permuta, Contrato Estimatório e Doação",
+      "Cláusulas Especiais de Compra e Venda"
+    ],
+    "enunciado_principal": "Em relação aos contratos, responda: I. Podem ser revogadas por ingratidão as doações se o donatário injuriou gravemente ou o caluniou o doador. II. O doador pode estipular que os bens doados voltem ao seu patrimônio se sobreviver ao donatário. III. A cláusula de retrovenda pode ser colocada em contrato de compra e venda de bem móvel e imóvel, e confere ao vendedor o direito potestativo de recobrar o bem em prazo determinado. IV. O direito de retrato, que é cessível e transmissível a herdeiros e legatários, poderá ser exercido contra o terceiro adquirente. Assinale a correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Todas as assertivas são verdadeiras."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas as assertivas I, lI e IlI são verdadeiras."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas as assertivas lI e IlI são verdadeiras."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas as assertivas I, II e IV são verdadeiras."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1006879",
+    "metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: DPE-DF",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Cláusulas Especiais de Compra e Venda"
+    ],
+    "enunciado_principal": "Tendo como referência as disposições do Código Civil a respeito de sucessão provisória, perdas e danos e venda com reserva de domínio, julgue o item subsecutivo. Cláusula de reserva de domínio em contrato de compra e venda só terá validade contra terceiros se estiver estabelecida por escrito e registrada no domicílio do comprador.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "990113",
+    "metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: CGE - CE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Troca ou Permuta, Contrato Estimatório e Doação",
+      "Cláusulas Especiais de Compra e Venda"
+    ],
+    "enunciado_principal": "O ato de entrega de bem móvel de consignante para consignatário, ficando este autorizado a vendê-lo pelo preço acordado ou, se preferir, restituir o bem consignado, constitui hipótese de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "retrovenda."
+      },
+      {
+        "letra": "B",
+        "texto": "preempção."
+      },
+      {
+        "letra": "C",
+        "texto": "venda a contento."
+      },
+      {
+        "letra": "D",
+        "texto": "contrato estimatório."
+      },
+      {
+        "letra": "E",
+        "texto": "doação."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "983970",
+    "metadata": "Ano: 2019 | Banca: FGV | Órgão: DPE-RJ",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Cláusulas Especiais de Compra e Venda"
+    ],
+    "enunciado_principal": "Marcela adquiriu seu automóvel mediante financiamento bancário. Obrigou-se a pagar, ao Banco Z, 60 (sessenta) parcelas de R$ 300,00 (trezentos reais), cuja obrigação foi garantida pela alienação fiduciária do automóvel. Em razão de uma crise financeira pessoal, Marcela vendeu o carro a Carmen, quando ainda faltavam 30 (trinta) parcelas, que seriam assumidas por Carmen. Embora as partes não tenham estipulado a alteração do devedor junto ao Banco Z, Carmen, por precaução, solicitou à instituição financeira a transferência do débito para si. O pleito, contudo, foi negado, em razão de restrições creditícias que pendiam sobre Carmen. Diante desse quadro, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a venda do automóvel a Carmen é nula, cujo vício pode ser suscitado pelo Banco Z;"
+      },
+      {
+        "letra": "B",
+        "texto": "houve a assunção de dívida por Carmen perante o Banco Z, independentemente da anuência da instituição financeira;"
+      },
+      {
+        "letra": "C",
+        "texto": "a venda se mantém sem a anuência do Banco Z, com promessa de liberação da dívida entre Carmen e Marcela;"
+      },
+      {
+        "letra": "D",
+        "texto": "ocorreu a cessão de crédito, sendo desnecessária a anuência do Banco Z;"
+      },
+      {
+        "letra": "E",
+        "texto": "a venda é anulável, devido ao erro quanto à necessidade de anuência do Banco Z."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "981382",
+    "metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: PGE-PE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Cláusulas Especiais de Compra e Venda"
+    ],
+    "enunciado_principal": "Com base nas disposições do Código Civil acerca de contratos, julgue o item subsequente. O vendedor de coisa imóvel poderá inserir cláusula de retrovenda no contrato de compra e venda, para reservar a si o direito de recobrar a coisa em até cinco anos, bastando para a consumação da retrovenda a restituição do valor recebido.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "972022",
+    "metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: TJ-PR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Cláusulas Especiais de Compra e Venda"
+    ],
+    "enunciado_principal": "Na venda de coisa móvel com reserva de domínio, a transferência da propriedade ao comprador ocorre",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a qualquer tempo, não respondendo o comprador pelos riscos da coisa a partir de quando esta lhe for entregue."
+      },
+      {
+        "letra": "B",
+        "texto": "com o pagamento integral do preço, não respondendo o comprador pelos riscos da coisa a partir de quando esta lhe for entregue."
+      },
+      {
+        "letra": "C",
+        "texto": "com o pagamento integral do preço, respondendo o comprador pelos riscos da coisa a partir de quando esta lhe for entregue."
+      },
+      {
+        "letra": "D",
+        "texto": "a qualquer tempo, respondendo o comprador pelos riscos da coisa a partir de quando esta lhe for entregue."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "960800",
+    "metadata": "Ano: 2019 | Banca: CESPE / CEBRASPE | Órgão: TJ-BA",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Compra e Venda",
+      "Cláusulas Especiais de Compra e Venda"
+    ],
+    "enunciado_principal": "O pacto de retrovenda é uma das modalidades de compra e venda mercantis previstas no Código Civil e tem como principal característica a reserva ao vendedor do direito de, em determinado prazo, recobrar o imóvel que tenha vendido. A respeito dessa modalidade contratual, a legislação vigente dispõe que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não existe a possibilidade de cessão do direito de retrovenda."
+      },
+      {
+        "letra": "B",
+        "texto": "a cláusula somente será válida, sendo dois ou mais os beneficiários da retrovenda, se todos exercerem conjuntamente o pedido de retrato."
+      },
+      {
+        "letra": "C",
+        "texto": "somente as benfeitorias necessárias serão restituídas, além do valor integral recebido pela venda."
+      },
+      {
+        "letra": "D",
+        "texto": "o vendedor, em caso de recusa do comprador em receber a quantia a que faz jus, depositará o valor judicialmente para exercer o direito de resgate."
+      },
+      {
+        "letra": "E",
+        "texto": "o prazo máximo para o exercício do direito da retrovenda é de cinco anos."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1044359",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: Prefeitura de Registro - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Troca ou Permuta, Contrato Estimatório e Doação",
+      "Empréstimo: Comodato e Mútuo",
+      "Cláusulas Especiais de Compra e Venda"
+    ],
+    "enunciado_principal": "Consideram-se típicos os contratos que têm suas diretrizes delineadas em lei. A respeito dos contratos típicos a seguir, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A compra e venda é classificada como contrato real que, portanto, somente se aperfeiçoa com a entrega da coisa."
+      },
+      {
+        "letra": "B",
+        "texto": "No contrato estimatório, que poderá ter por objeto bens móveis e imóveis, deverá o consignatário pagar ao consignante o preço ajustado, ainda que não alienada a coisa."
+      },
+      {
+        "letra": "C",
+        "texto": "É absolutamente inválida a doação feita ao nascituro, já que carente de personalidade jurídica."
+      },
+      {
+        "letra": "D",
+        "texto": "O comodato é contrato de empréstimo, classificado como real e gratuito, que tem como essência a transferência da posse direta de coisa fungível ao comodatário, parte no contrato a quem recairá o ônus de restituição."
+      },
+      {
+        "letra": "E",
+        "texto": "Vigendo a fiança por prazo indeterminado, poderá o fiador se exonerar da garantia fidejussória, caso em que se manterá obrigado por sessenta dias a contar a notificação do credor."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1000602",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: Prefeitura de São Bernardo do Campo - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Cláusulas Especiais de Compra e Venda"
+    ],
+    "enunciado_principal": "Danilo celebrou promessa de compra e venda com Daniel, mediante instrumento particular. Na promessa de compra e venda, restou estabelecido que Danilo venderia sua casa a Daniel pelo valor de duzentos mil reais. A promessa de compra e venda não previu a cláusula de arrependimento nem foi levada à registro no Cartório de Registro de Imóveis. Sobre a situação hipotética apresentada, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A promessa de compra e venda não é válida, pois foi realizada por meio de instrumento particular e não foi levada à registro no Cartório de Registro de Imóveis."
+      },
+      {
+        "letra": "B",
+        "texto": "Daniel não possui o direito real à aquisição do imóvel, pois a promessa de compra e venda não foi registrada no Cartório de Registro de Imóveis."
+      },
+      {
+        "letra": "C",
+        "texto": "A promessa de compra e venda é válida e produz efeito perante terceiros."
+      },
+      {
+        "letra": "D",
+        "texto": "É possível a retratação de qualquer das partes mesmo sem a menção expressa à cláusula de arrependimento, uma vez que, em regra, a promessa de compra e venda é retratável."
+      },
+      {
+        "letra": "E",
+        "texto": "Se houver recusa da outorga definitiva de compra e venda, Daniel deverá requerer o imóvel administrativamente, não sendo cabível o requerimento ao juiz da adjudicação do imóvel."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "992373",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: Câmara de Orlândia - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Cláusulas Especiais de Compra e Venda"
+    ],
+    "enunciado_principal": "Nos contratos de compra e venda é possível estabelecer cláusulas especiais, tais como a retrovenda. No que diz respeito ao tema, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O direito de retrato poderá ser exercido contra o terceiro adquirente."
+      },
+      {
+        "letra": "B",
+        "texto": "A cláusula de retrovenda é válida para coisas móveis ou imóveis."
+      },
+      {
+        "letra": "C",
+        "texto": "O direito de retrato não poderá ser cedido nem transmitido a herdeiros e legatários."
+      },
+      {
+        "letra": "D",
+        "texto": "O prazo legal para exercer o direito de retrovenda é de 2 anos, contados da venda."
+      },
+      {
+        "letra": "E",
+        "texto": "Para exercer o direito de retrovenda, o vendedor da coisa deve restituir o preço recebido e as despesas do comprador, mas não é obrigado a restituir a realização de benfeitorias necessárias, úteis ou voluptuárias."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "937418",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: Prefeitura de São Bernardo do Campo - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Cláusulas Especiais de Compra e Venda"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta sobre a venda com reserva de domínio.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A reserva de domínio pode ser ajustada verbalmente ou por escrito."
+      },
+      {
+        "letra": "B",
+        "texto": "Responde o comprador pelos riscos da coisa desde o momento da tradição do bem."
+      },
+      {
+        "letra": "C",
+        "texto": "O instrumento contratual que prever a reserva de domínio deverá ser submetido a registro, sob pena de invalidade da cláusula."
+      },
+      {
+        "letra": "D",
+        "texto": "Havendo mora do comprador, este poderá optar entre purgá-la ou devolver a posse do bem ao vendedor, exigindo a devolução do valor pago."
+      },
+      {
+        "letra": "E",
+        "texto": "Com a quitação da compra e venda, o vendedor tem 10 (dez) dias para transferir o domínio ao comprador, sob pena de multa equivalente a 10% (dez por cento) do valor da compra e venda."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "911397",
+    "metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: EMAP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Compra e Venda",
+      "Cláusulas Especiais de Compra e Venda"
+    ],
+    "enunciado_principal": "Acerca das obrigações, dos direitos de personalidade e do negócio jurídico, julgue o item subsequente. De acordo com o Superior Tribunal de Justiça, na ação ajuizada pelo vendedor com o intuito de recuperar coisa vendida com cláusula de reserva de domínio, a apresentação de notificação extrajudicial enviada pelo cartório de títulos e documentos não é meio apto a comprovar a mora do devedor.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "879328",
+    "metadata": "Ano: 2018 | Banca: IADES | Órgão: CFM",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Cláusulas Especiais de Compra e Venda"
+    ],
+    "enunciado_principal": "Cláusula especial, em um contrato de compra e venda, que impõe ao comprador a obrigação de oferecer ao vendedor a coisa que aquele vai vender, ou dar em pagamento, para que este use do respectivo direito de prelação na compra, tanto por tanto. A definição apresentada refere-se ao conceito de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "retrovenda."
+      },
+      {
+        "letra": "B",
+        "texto": "venda a contento."
+      },
+      {
+        "letra": "C",
+        "texto": "venda sujeita à prova."
+      },
+      {
+        "letra": "D",
+        "texto": "preempção."
+      },
+      {
+        "letra": "E",
+        "texto": "venda com reserva de domínio."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "868460",
+    "metadata": "Ano: 2018 | Banca: TJ-MT | Órgão: TJ-MT",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Compra e Venda",
+      "Cláusulas Especiais de Compra e Venda"
+    ],
+    "enunciado_principal": "A venda de coisa móvel, na qual pode o vendedor reservar para si a propriedade, até que o preço esteja integralmente pago, configura o instituto da:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "preempção."
+      },
+      {
+        "letra": "B",
+        "texto": "venda com reserva de domínio."
+      },
+      {
+        "letra": "C",
+        "texto": "venda a contento."
+      },
+      {
+        "letra": "D",
+        "texto": "retrovenda."
+      }
+    ],
+    "gabarito": "B"
+  }
+]

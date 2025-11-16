@@ -1,0 +1,1244 @@
+[
+  {
+    "id": "3505761",
+    "metadata": "Ano: 2025 | Banca: FGV | Órgão: TJ-CE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Condomínio"
+    ],
+    "enunciado_principal": "Em janeiro de 2023, Antônio adquiriu um apartamento situado em um condomínio de luxo em Fortaleza, CE. Ao tomar posse, foi informado de que havia um débito de R$ 30.000,00 (trinta mil reais) referente a cotas condominiais vencidas durante os anos de 2021 e 2022, período em que o imóvel pertencia ao antigo proprietário, Bernardo. Em razão disso, o condomínio ajuizou ação de cobrança contra Antônio, exigindo o pagamento integral das cotas atrasadas. Antônio contestou, afirmando não ser responsável pelos débitos anteriores à aquisição e sustentando que o imóvel constitui seu único bem de família, o que tornaria impossível a sua penhora. Paralelamente, o Banco XYZ S.A. executou judicialmente Antônio por dívida oriunda de contrato de mútuo com garantia hipotecária sobre o mesmo imóvel. Durante a execução, o imóvel foi levado à hasta pública e arrematado por Carlos. Após a arrematação, o condomínio busca cobrar de Carlos o saldo remanescente das cotas condominiais anteriores. Sobre o caso narrado, com base na jurisprudência consolidada pelo Superior Tribunal de Justiça, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Antônio não responde pelos débitos condominiais anteriores à aquisição, pois o imóvel é impenhorável por ser bem de família."
+      },
+      {
+        "letra": "B",
+        "texto": "Antônio não é responsável pelas cotas condominiais vencidas antes da aquisição, considerando a natureza pessoal da obrigação."
+      },
+      {
+        "letra": "C",
+        "texto": "Os créditos do mutuante, Banco XYZ S.A., têm preferência em relação às cotas condominiais, por se tratar de contrato real, independentemente da garantia real."
+      },
+      {
+        "letra": "D",
+        "texto": "Carlos somente poderá ser responsabilizado pelo saldo remanescente das cotas condominiais anteriores à arrematação se o edital da hasta pública expressamente fizer referência a esse ônus."
+      },
+      {
+        "letra": "E",
+        "texto": "O Banco XYZ S.A., como credor hipotecário, possui preferência no recebimento do crédito em relação às cotas condominiais vencidas."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3301307",
+    "metadata": "Ano: 2025 | Banca: FGV | Órgão: TJ-SE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Condomínio"
+    ],
+    "enunciado_principal": "Um determinado condomínio edilício situado no Município de Poço Redondo/SE questionou judicialmente o valor das tarifas de serviços de água e esgoto cobradas pela concessionária desses serviços públicos na região. O referido condomínio possui diversas unidades autônomas de consumo, mas apenas um hidrômetro. Nessa situação, é correto afirmar, quanto à tarifa dos serviços públicos de saneamento, que é lícita a cobrança:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pelo método do consumo real global, haja vista que apura o serviço efetivamente prestado aos usuários do serviço a partir de todas as unidades conjuntamente consideradas;"
+      },
+      {
+        "letra": "B",
+        "texto": "pelo método do consumo real fracionado, pois apura o valor do serviço efetivamente prestado a cada fração do condomínio edilício a partir de todas as unidades individualmente consideradas;"
+      },
+      {
+        "letra": "C",
+        "texto": "pelo método do consumo global presumido, haja vista permitir à concessionária exigir do condomínio uma tarifa mínima a título de franquia de consumo, afastando a cobrança pelo consumo das unidades individualmente consideradas;"
+      },
+      {
+        "letra": "D",
+        "texto": "de uma tarifa mínima devida por cada uma das unidades consumidoras e de uma segunda parcela exigida apenas se o consumo real aferido pelo medidor exceder a franquia de consumo de todas as unidades conjuntamente consideradas;"
+      },
+      {
+        "letra": "E",
+        "texto": "por metodologia de cálculo que, a partir de um hibridismo de regras e conceitos, dispense cada unidade de consumo do condomínio da tarifa mínima exigida a título de franquia de consumo."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2555806",
+    "metadata": "Ano: 2024 | Banca: FUNATEC | Órgão: Prefeitura de Pinheiro - MA",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Condomínio"
+    ],
+    "enunciado_principal": "Qual foi a legislação que primeiro regulamentou a alienação parcial dos edifícios de mais de cinco andares no Brasil:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Decreto nº 5481 de 1928."
+      },
+      {
+        "letra": "B",
+        "texto": "Código Civil de 1916."
+      },
+      {
+        "letra": "C",
+        "texto": "Lei nº 10.406 de 2002."
+      },
+      {
+        "letra": "D",
+        "texto": "Lei nº 4.591 de 1964."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2553381",
+    "metadata": "Ano: 2024 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Condomínio"
+    ],
+    "enunciado_principal": "O condômino Aristóteles é o síndico do Condomínio Atenas e disputa eleição para o cargo com o condômino Platão. Designada assembleia para eleição, 10 condôminos partidários de Platão outorgaram-lhe procuração para representação no certame, encaminhando os documentos à administradora condominial em forma e prazo estabelecidos no edital. Instalados os trabalhos, a mesa diretora recusou as procurações ao argumento de que, embora a convenção silencie a respeito do voto por procuração, o Código Civil veda mandato em causa própria em eleições condominiais. Ato contínuo, das 50 unidades, 40 estavam presentes ou representadas, sendo que 15 votaram em Platão e 25 em Aristóteles, que foi, então, reconduzido ao cargo. Nesse contexto, é correto afirmar que a recusa das procurações foi",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ilegal, uma vez que foi determinante para o resultado da eleição."
+      },
+      {
+        "letra": "B",
+        "texto": "legal, uma vez que o Código Civil veda mandato em causa própria em eleições condominiais."
+      },
+      {
+        "letra": "C",
+        "texto": "legal, uma vez que, a despeito do silêncio da convenção, a concentração de poderes de representação na pessoa de um dos candidatos macula o caráter democrático do certame."
+      },
+      {
+        "letra": "D",
+        "texto": "ilegal, uma vez que inexiste no Código Civil vedação de mandato em causa própria em eleições condominiais."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2489089",
+    "metadata": "Ano: 2024 | Banca: IV - UFG | Órgão: TJ-AC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Condomínio"
+    ],
+    "enunciado_principal": "Leia o caso a seguir. Uma pessoa adquire o direito de usar e gozar da totalidade de um bangalô num resort, com exclusividade, por um período de cada ano. Nos demais períodos, o direito de uso e gozo pertence, com exclusividade, a outros adquirentes. O ato é regularmente registrado no cartório de registro de imóveis competente. Elaborado pelo(a) autor(a). A situação narrada descreve o denominado condomínio em multipropriedade, sendo direito do adquirente, nos termos do Código Civil,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "usar e gozar da propriedade a qualquer tempo."
+      },
+      {
+        "letra": "B",
+        "texto": "ceder a fração de tempo em locação ou comodato."
+      },
+      {
+        "letra": "C",
+        "texto": "adquirir com preferência as frações dos demais multiproprietários."
+      },
+      {
+        "letra": "D",
+        "texto": "ingressar com ação de extinção do condomínio contra os demais multiproprietários."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2464810",
+    "metadata": "Ano: 2024 | Banca: VUNESP | Órgão: MPE-RO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Condomínio"
+    ],
+    "enunciado_principal": "Júlia e Flávia, em regime de condomínio, são multiproprietárias de um imóvel na cidade de Alto Paraíso, do qual cada uma delas é titular de uma fração de tempo, à qual corresponde a faculdade de uso e gozo, com exclusividade, da totalidade do imóvel, a ser exercida por elas de forma alternada. Júlia foi transferida em seu emprego para Fortaleza, razão pela qual decidiu vender a sua fração de tempo à sua prima, Ana. Diante da situação hipotética, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não é necessária a anuência de Flávia para que ocorra a venda para Ana."
+      },
+      {
+        "letra": "B",
+        "texto": "Flávia tem direito de preferência, que deverá ser exercido no prazo de 30 dias, sobre a venda de fração de tempo por Júlia."
+      },
+      {
+        "letra": "C",
+        "texto": "Caso Júlia decida vender para Flávia, a multipropriedade se extinguirá automaticamente, considerando ser ela a proprietária de todas as frações de tempo."
+      },
+      {
+        "letra": "D",
+        "texto": "Júlia será subsidiariamente responsável pelas obrigações condominiais caso Ana não obtenha a declaração de inexistência de débitos referente à fração de tempo no momento de sua aquisição."
+      },
+      {
+        "letra": "E",
+        "texto": "É necessária a cientificação de Flávia para que Júlia possa vender a sua fração de tempo."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2387218",
+    "metadata": "Ano: 2024 | Banca: VUNESP | Órgão: PGE-SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Condomínio"
+    ],
+    "enunciado_principal": "Um terreno onde cada um dos proprietários tem a propriedade exclusiva sobre o seu lote, havendo partes de propriedade comuns dos condôminos, bem como outras partes onde foram instituídos direitos reais sobre coisa alheia em benefício do poder público, da população em geral e da proteção da paisagem urbana, denomina-se condomínio",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "de lotes."
+      },
+      {
+        "letra": "B",
+        "texto": "de acesso controlado."
+      },
+      {
+        "letra": "C",
+        "texto": "misto."
+      },
+      {
+        "letra": "D",
+        "texto": "em multipropriedade."
+      },
+      {
+        "letra": "E",
+        "texto": "urbano simples."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2436346",
+    "metadata": "Ano: 2023 | Banca: UNITINS | Órgão: AFTO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Condomínio"
+    ],
+    "enunciado_principal": "Rui é proprietário do apartamento 101 do Edifício Coliseu, onde habita com esposa, sogra e três filhos. Por ter perdido o emprego, não conseguiu pagar as contribuições condominiais dos últimos cinco meses. A convenção do condomínio prevê multa e juros para os inadimplentes. A esse respeito, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Rui e sua família, enquanto persistir o inadimplemento com as contribuições condominiais, poderão ser privados de acessar as áreas comuns do condomínio, como a piscina e o salão de festa."
+      },
+      {
+        "letra": "B",
+        "texto": "Rui deve responder por juros de mora e multa de até 2% do débito. Enquanto persistir o inadimplemento com as contribuições condominiais, não terá direito a votar nas deliberações da assembleia."
+      },
+      {
+        "letra": "C",
+        "texto": "Rui e sua família poderão ser privados da utilização do elevador, bem como do acesso à garagem onde os condôminos estacionam seus veículos enquanto persistir o inadimplemento com as contribuições condominiais."
+      },
+      {
+        "letra": "D",
+        "texto": "caso Rui consiga vender seu apartamento mesmo persistindo o inadimplemento com as contribuições condominiais, o adquirente não terá obrigação de pagá-las ao condomínio, pois se trata de obrigação personalíssima e não obrigação propter rem."
+      },
+      {
+        "letra": "E",
+        "texto": "Rui deve responder pela multa prevista na convenção, em que a deliberação de 2/3 dos condôminos pode ser arbitrada em até o décuplo da contribuição condominial. Mas não pode ser privado do acesso às áreas comuns do condomínio."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2328429",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: TJ-GO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Condomínio"
+    ],
+    "enunciado_principal": "Marcos, João e Fernando querem comprar juntos uma máquina de impressão, cujo valor no mercado é muito alto, pois conta com tecnologia avançada. Cada um usará a máquina quatro meses no ano e, dessa forma, poderão ratear as despesas de aquisição. Com base nas informações prestadas, bem como na legislação civil vigente, poderão valer-se, para aquisição da máquina:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "do condomínio em multipropriedade, previsto no Art. 1.358-B do Código Civil. Para dirimir eventuais questões (deliberações), como tempo para manutenção e seus custos, farão uma convenção com as devidas cláusulas, já que a lei é omissa;"
+      },
+      {
+        "letra": "B",
+        "texto": "do condomínio em multipropriedade, previsto no Art. 1.358-B do Código Civil. Para dirimir eventuais questões (deliberações), como tempo para manutenção e seus custos, a lei estabelece o quórum de maioria absoluta;"
+      },
+      {
+        "letra": "C",
+        "texto": "do condomínio voluntário, previsto no Art. 1.314 do Código Civil. Para dirimir eventuais questões (deliberações), como tempo para manutenção e seus custos, farão uma convenção com as devidas cláusulas, já que a lei é omissa;"
+      },
+      {
+        "letra": "D",
+        "texto": "do condomínio voluntário, previsto no Art. 1.314 do Código Civil. Para dirimir eventuais questões (deliberações), como tempo para manutenção e seus custos, a lei estabelece quórum de maioria absoluta;"
+      },
+      {
+        "letra": "E",
+        "texto": "do condomínio em multipropriedade, previsto no Art. 1.358-B do Código Civil. A lei estabelece que o administrador deverá dirimir eventuais questões (deliberações), como tempo para manutenção e seus custos."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2320001",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: Câmara dos Deputados",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Condomínio"
+    ],
+    "enunciado_principal": "Maicon, Norton e Gerson adquirem, conjuntamente, uma cobertura em um edifício na Av. Vieira Souto. Gerson, visando fazer melhorias no imóvel, adquiriu e instalou, às suas expensas, banheiras de hidromassagem nos três banheiros do apartamento, efetuando o pagamento por meio de cheque pós-datado. Quando da apresentação do título pelo credor, a instituição financeira devolveu o cheque por falta de provisão de fundos. Inconformada, a loja de materiais de construção ajuizou ação de cobrança em face de Gerson, que pagou integralmente a dívida. Diante do fato narrado, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Gerson pode exigir dos demais condôminos, em regresso, aquilo que pagou, uma vez que a benfeitoria aproveitou a todos, limitando-se, contudo, à proporção do quinhão de cada um."
+      },
+      {
+        "letra": "B",
+        "texto": "Gerson não pode exigir dos outros condôminos, em regresso, aquilo que pagou, uma vez que para a responsabilização dos demais é exigível a prévia e expressa anuência deles para a realização das despesas com a coisa comum, o que não ocorreu."
+      },
+      {
+        "letra": "C",
+        "texto": "Gerson não pode exigir dos demais condôminos, em regresso, aquilo que pagou, uma vez que ele realizou a compra das banheiras por sua própria conta, sendo sua a responsabilidade pessoal e individual."
+      },
+      {
+        "letra": "D",
+        "texto": "Gerson pode exigir integralmente dos demais condôminos, em regresso, aquilo que pagou, uma vez que a benfeitoria aproveitou a todos, acrescido de perdas e danos, em razão dos prejuízos sofridos com a demanda proposta pelo credor."
+      },
+      {
+        "letra": "E",
+        "texto": "Gerson pode exigir integralmente dos demais condôminos, em regresso, o valor por ele pago, uma vez que a benfeitoria aproveitou a todos, mas não poderá reclamar perdas e danos, pois os efeitos do inadimplemento apenas são imputáveis a ele."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2306778",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: TJ-SE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Condomínio"
+    ],
+    "enunciado_principal": "A multipropriedade foi positivada no ordenamento brasileiro pela Lei nº 13.777/2018 e assim definida pelo Art. 1.358-C do Código Civil: “[m]ultipropriedade é o regime de condomínio em que cada um dos proprietários de um mesmo imóvel é titular de uma fração de tempo, à qual corresponde a faculdade de uso e gozo, com exclusividade, da totalidade do imóvel, a ser exercida pelos proprietários de forma alternada”. Trata-se de um traço comum entre esse instituto e o condomínio em geral:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a sujeição à ação de extinção de condomínio;"
+      },
+      {
+        "letra": "B",
+        "texto": "a existência de matrícula própria;"
+      },
+      {
+        "letra": "C",
+        "texto": "a extinção quando todas as frações de propriedade se concentram na mão de uma mesma pessoa natural ou jurídica;"
+      },
+      {
+        "letra": "D",
+        "texto": "a possibilidade de adjudicação, pelo condomínio edilício a que pertençam, da fração atribuída ao condômino/coproprietário inadimplente;"
+      },
+      {
+        "letra": "E",
+        "texto": "o direito de preferência entre condôminos/coproprietários de adquirirem as frações dos demais."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2304591",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: PGE-SE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Condomínio"
+    ],
+    "enunciado_principal": "No tocante à disciplina do condomínio geral e edilício dada pelo Código Civil, assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Para que um condômino possa reivindicar a coisa de terceiros ou defender a posse, todos os condôminos devem participar da reivindicação ou, ao menos, autorizá-la."
+      },
+      {
+        "letra": "B",
+        "texto": "O síndico de condomínio edilício tem de ser obrigatoriamente um condômino."
+      },
+      {
+        "letra": "C",
+        "texto": "O condômino se obriga a concorrer para as despesas de conservação do condomínio na proporção de sua parte."
+      },
+      {
+        "letra": "D",
+        "texto": "O condômino, nos condomínios gerais, não pode exigir a divisão da coisa comum a não ser em situações muito específicas, sendo obrigado a permanecer em condomínio enquanto tais situações não ocorrerem."
+      },
+      {
+        "letra": "E",
+        "texto": "Em edificações, todas as partes são de propriedade comum dos condôminos, não existindo partes de propriedade exclusiva."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2250171",
+    "metadata": "Ano: 2023 | Banca: VUNESP | Órgão: Prefeitura de Sertãozinho - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Condomínio"
+    ],
+    "enunciado_principal": "Cada condômino concorrerá nas despesas do condomínio, recolhendo, nos prazos previstos na Convenção, a quota-parte que lhe couber em rateio. Acerca das despesas do condomínio, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Salvo disposição em contrário na Convenção, a fixação da quota no rateio corresponderá à área total de cada unidade."
+      },
+      {
+        "letra": "B",
+        "texto": "O condômino que não pagar a sua contribuição no prazo fixado na Convenção fica sujeito ao juro moratório de 1% ao mês, e multa de até 20% sobre o débito, que somente poderão ser executados com autorização da maioria dos condôminos."
+      },
+      {
+        "letra": "C",
+        "texto": "Cabe ao síndico arrecadar as contribuições competindo-lhe promover, por via executiva, a cobrança judicial das quotas atrasadas."
+      },
+      {
+        "letra": "D",
+        "texto": "As obras que interessarem ao serviço comum serão feitas com o concurso pecuniário de todos os proprietários, independentemente de aprovação em assembleia geral."
+      },
+      {
+        "letra": "E",
+        "texto": "A renúncia de qualquer condômino aos seus direitos, poderá valer como escusa para exonerá-lo de seus encargos."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2247750",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: TJ-ES",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Condomínio"
+    ],
+    "enunciado_principal": "Maria, João, Paulo e Pedro são proprietários de um apartamento em condomínio civil. Maria quer vendê-lo. Deu ciência aos demais proprietários e todos sinalizaram que querem exercer direito de preferência. Com base no Código Civil, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não há direito de preferência entre João, Paulo e Pedro, sendo que aquele que oferecer a maior quantia poderá ficar com a parte de Maria;"
+      },
+      {
+        "letra": "B",
+        "texto": "há direito de preferência entre João, Paulo e Pedro, sendo que, no caso, preferirá, em um primeiro momento, o condômino que tiver o maior quinhão."
+      },
+      {
+        "letra": "C",
+        "texto": "há direito de preferência entre João, Paulo e Pedro, sendo que, no caso, preferirá, em um primeiro momento, o condômino que tiver o maior número de benfeitorias realizadas;"
+      },
+      {
+        "letra": "D",
+        "texto": "há direito de preferência entre João, Paulo e Pedro, sendo que, no caso, preferirá, em um primeiro momento, o condômino que oferecer a maior quantia;"
+      },
+      {
+        "letra": "E",
+        "texto": "há direito de preferência entre João, Paulo e Pedro, sendo que, no caso de todos os condôminos terem interesse, a parte a ser alienada será sempre dividida entre eles de forma equânime."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2144036",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: TJ-MS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Condomínio"
+    ],
+    "enunciado_principal": "Um imóvel, objeto de multipropriedade, segundo o Código Civil:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é indivisível e não se sujeita à demanda de extinção de condomínio;"
+      },
+      {
+        "letra": "B",
+        "texto": "é divisível e se sujeita à demanda de extinção de condomínio;"
+      },
+      {
+        "letra": "C",
+        "texto": "é indivisível, mas se sujeita à demanda de extinção de condomínio, devendo ser indenizado àquele que ficou sem o imóvel;"
+      },
+      {
+        "letra": "D",
+        "texto": "é divisível, mas não se sujeita à demanda de extinção de condomínio, já que o Código Civil tem previsão expressa nesse sentido;"
+      },
+      {
+        "letra": "E",
+        "texto": "pode ser divisível ou indivisível, a depender do contrato que o formalizou. Sendo divisível, será possível a demanda de extinção do condomínio. Sendo indivisível, esta não será possível."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2134216",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: AGU",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Posse - Teoria, Classificação e Aquisição",
+      "Propriedade",
+      "Condomínio"
+    ],
+    "enunciado_principal": "Assinale a opção correta a respeito de posse, propriedade e condomínio, considerando a jurisprudência do STJ e as disposições do Código Civil.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "São princípios do registro imobiliário a legalidade e a distinção das matriculas."
+      },
+      {
+        "letra": "B",
+        "texto": "A alienação de bem por herdeiro aparente em favor de comprador de boa-fé é exemplo de venda a non domino."
+      },
+      {
+        "letra": "C",
+        "texto": "O atual Código Civil brasileiro adota preponderantemente a teoria subjetiva da posse"
+      },
+      {
+        "letra": "D",
+        "texto": "A usucapião extraordinária tem o prazo prescricional interrompido quando a notificação do proprietário para a desocupação do bem é feita após o implemento dos requisitos aquisitivos."
+      },
+      {
+        "letra": "E",
+        "texto": "A pretensão do condomínio de cobrar em juízo a taxa condominial, constante em instrumento público ou particular, prescreve no prazo de dois anos, contados do dia do vencimento da prestação."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2110424",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: MPE-SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Posse - Teoria, Classificação e Aquisição",
+      "Condomínio"
+    ],
+    "enunciado_principal": "Com base nas normas do Código Civil sobre o direito das coisas, julgue o item que se segue. Em regra, condôminos poderão usar da coisa, defender a sua posse e alhear a sua parte ideal, mas não poderão gravá-la.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2110423",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: MPE-SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Condomínio",
+      "Condomínio Edilício"
+    ],
+    "enunciado_principal": "Com base nas normas do Código Civil sobre o direito das coisas, julgue o item que se segue. Em um condomínio edilício, o condômino proprietário de apartamento e de vaga na garagem somente poderá alienar a uma pessoa estranha a vaga a qual lhe cabe caso haja autorização expressa na convenção de condomínio.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2082237",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: MPE-AM",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Condomínio",
+      "Usufruto"
+    ],
+    "enunciado_principal": "De acordo com as regras previstas no Código Civil e com a jurisprudência do Superior Tribunal de Justiça (STJ) acerca da propriedade, do condomínio e do usufruto, julgue os seguintes itens. I Deve ser afastada a legitimidade passiva do promitente vendedor para responder por despesas condominiais relativas a período em que a posse passou a ser exercida pelo promissário comprador, se ficar comprovado que este último se imitiu na posse e que o condomínio teve ciência inequívoca da transação. II Ao regulamentar o condomínio edilício, o Código Civil autoriza a convocação, a realização e a deliberação de assembleia por meio eletrônico, desde que essa modalidade virtual não seja vedada na convenção condominial e sejam garantidos aos condôminos os direitos de voz, de debate e de voto, devendo, ainda, o instrumento de convocação mencionar o modo de realização da assembleia e as instruções sobre acesso, manifestação e forma de coleta de votos dos condôminos. III A nua propriedade pode ser objeto de penhora e alienação em hasta pública, situação em que ficará ressalvado o direito real de usufruto já existente até sua extinção, mesmo após a arrematação e adjudicação do bem alienado. Assinale a opção correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas o item II está certo."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas o item III está certo."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas os itens I e II estão certos."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas os itens I e III estão certos."
+      },
+      {
+        "letra": "E",
+        "texto": "Todos os itens estão certos."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2372069",
+    "metadata": "Ano: 2022 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Condomínio"
+    ],
+    "enunciado_principal": "Assinale a alternativa que apresenta corretamente uma modalidade de condomínio.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Time sharing."
+      },
+      {
+        "letra": "B",
+        "texto": "Usufruto."
+      },
+      {
+        "letra": "C",
+        "texto": "Direito de Laje."
+      },
+      {
+        "letra": "D",
+        "texto": "Enfiteuse."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2029785",
+    "metadata": "Ano: 2022 | Banca: Instituto Access | Órgão: CELEPAR - PR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Condomínio"
+    ],
+    "enunciado_principal": "Funcionário de um condomínio residencial entrou, fora do horário de serviço, no apartamento de um morador que se encontrava no trabalho e tinha o costume de não trancar a porta. Uma vez lá, pegou, sem a autorização do morador, o cachorro para passear. Na rua, o animal foi atropelado e quebrou a pata. O morador pretende entrar com uma ação de reparação de danos. Nesse cenário, o condomínio",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não responde pelos danos causados porque Pedro praticou o ato ilícito fora do horário de expediente."
+      },
+      {
+        "letra": "B",
+        "texto": "responde pelos danos causados por seus empregados fora do horário de expediente, ainda que não seja em razão do seu trabalho."
+      },
+      {
+        "letra": "C",
+        "texto": "não responde pelos danos causados pois somente o agente que causou o dano tem a obrigação de indenizar os prejuízos sofridos pelo lesado."
+      },
+      {
+        "letra": "D",
+        "texto": "responde pelos danos causados por seus empregados mesmo que fora do horário de expediente, desde que em razão do seu trabalho."
+      },
+      {
+        "letra": "E",
+        "texto": "não responde pelos danos causados, bem como o funcionário, pois os danos foram causados por terceiro."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2025487",
+    "metadata": "Ano: 2022 | Banca: VUNESP | Órgão: Câmara de Orlândia - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Condomínio"
+    ],
+    "enunciado_principal": "No que diz respeito às convenções condominiais, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a convenção de condomínio aprovada, ainda que sem registro, é eficaz para regular as relações entre os condôminos."
+      },
+      {
+        "letra": "B",
+        "texto": "para efeitos tributários, cada unidade autônoma será tratada como parte integrante do todo, contribuindo o respectivo condômino, diretamente, com as importâncias relativas aos impostos e taxas federais, estaduais e municipais, na forma dos respectivos lançamentos."
+      },
+      {
+        "letra": "C",
+        "texto": "far-se-á o registro da Convenção no Cartório de Títulos e Documentos, bem como a averbação das suas eventuais alterações."
+      },
+      {
+        "letra": "D",
+        "texto": "somente considera-se aprovada, e obrigatória para os proprietários de unidades, promitentes compradores, cessionários e promitentes cessionários, atuais e futuros, como para qualquer ocupante, a Convenção que reúna a totalidade das assinaturas dos titulares de direitos."
+      },
+      {
+        "letra": "E",
+        "texto": "o proprietário ou titular de direito à aquisição de unidade poderá fazer obra que modifique sua fachada, se obtiver a aquiescência de 2/3 (dois terços) das frações ideias que compõem o condomínio."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1999203",
+    "metadata": "Ano: 2022 | Banca: FCC | Órgão: TRT - 17ª Região (ES)",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Condomínio"
+    ],
+    "enunciado_principal": "No condomínio voluntário,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "qualquer dos condôminos pode dar posse, uso ou gozo da coisa comum a estranhos, independentemente do consenso dos outros."
+      },
+      {
+        "letra": "B",
+        "texto": "pode o condômino eximir-se do pagamento das despesas e dívidas, renunciando à parte ideal."
+      },
+      {
+        "letra": "C",
+        "texto": "as dívidas contraídas por um dos condôminos em proveito da comunhão, e durante ela, obrigam solidariamente o contratante e todos os demais, mesmo quando a solidariedade não tenha sido expressamente convencionada."
+      },
+      {
+        "letra": "D",
+        "texto": "é nula convenção que preveja que a coisa comum fique indivisa, ainda que temporariamente, independentemente do prazo."
+      },
+      {
+        "letra": "E",
+        "texto": "o condômino que administrar a coisa sem oposição dos outros pode dela usar conforme sua destinação, mas não se presume representante comum."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1998712",
+    "metadata": "Ano: 2022 | Banca: Instituto Consulplan | Órgão: PGE-SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Condomínio"
+    ],
+    "enunciado_principal": "João possui uma casa que fica localizada no condomínio residencial Vivendas, no município de Vivafeliz. Faz quatro meses que, em razão de dificuldades financeiras, João deixou de pagar as tarifas condominiais. Considerando o fato narrado, nos termos do Código Civil e entendimento dos tribunais, em razão do inadimplemento, João:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não poderá dispor da sua unidade."
+      },
+      {
+        "letra": "B",
+        "texto": "Não poderá votar nas assembleias do condomínio."
+      },
+      {
+        "letra": "C",
+        "texto": "Ficará sujeito à multa de dez por cento sobre o débito."
+      },
+      {
+        "letra": "D",
+        "texto": "Ficará sujeito à multa de cinco por cento sobre o débito."
+      },
+      {
+        "letra": "E",
+        "texto": "Não poderá fazer uso das áreas comuns de lazer do condomínio."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1947694",
+    "metadata": "Ano: 2021 | Banca: FGV | Órgão: Prefeitura de Paulínia - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Condomínio"
+    ],
+    "enunciado_principal": "Gilda, proprietária e ocupante do último andar do condomínio edilício onde mora, decidiu utilizar o terraço do prédio com exclusividade, fechando com uma grade o corredor que leva ao local. Apesar de ter sido formalmente notificada pelo condomínio do esbulho, Gilda foi conseguindo manter o seu uso exclusivo da área por 8 anos. Essa situação se alterou com a mudança de síndico. O condomínio decidiu retomar o terraço que, desde a constituição do condomínio, figura em sua convenção como área comum, para cuja manutenção todos os condôminos contribuem. Gilda alega que, transcorrido todo esse tempo, ela já usucapiu o terraço, passando a ter, portanto, o direito de propriedade exclusivo sobre aquela área. Consultado(a) sobre a correção desse entendimento, assinale a opção que indica a orientação a ser conferida ao caso.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Gilda está correta, tendo em vista o transcurso do prazo de 8 anos, a situação se enquadra na hipótese de usucapião ordinária, eis que, a permissão tácita do condomínio pode ser considerada como justo título."
+      },
+      {
+        "letra": "B",
+        "texto": "Gilda está errada, pois tratando-se de condomínio edilício, a usucapião de uma área comum só é possível com a concordância expressa da maioria absoluta dos condôminos, reunidos em assembleia especialmente convocada para tal."
+      },
+      {
+        "letra": "C",
+        "texto": "Gilda está errada, visto que, para aquisição da propriedade por usucapião, deverá ela ressarcir os valores pagos pelos condôminos pela manutenção da área comum que ela ocupa."
+      },
+      {
+        "letra": "D",
+        "texto": "Gilda está errada, sendo o terraço uma área comum do edifício, Gilda não poderá usucapi-la no prazo indicado."
+      },
+      {
+        "letra": "E",
+        "texto": "Gilda está correta, pois cuida-se de usucapião especial edilícia, cujo prazo para configuração é de 03 (três) anos."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1869904",
+    "metadata": "Ano: 2021 | Banca: IESES | Órgão: TJ-RO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Condomínio"
+    ],
+    "enunciado_principal": "Sobre o condomínio urbano simples é correto afirmar: I. Quando um mesmo imóvel contiver construções de casas ou cômodos, poderá ser instituído, inclusive para fins de Regularização Fundiária Urbana- Reurb, um condomínio urbano simples. II. Na matrícula de condomínio urbano simples serão discriminadas a parte do terreno ocupada pelas edificações, as partes de utilização exclusiva e as áreas que constituem passagem para as vias públicas ou para as unidades entre si. III. Após o registro da instituição do condomínio urbano simples, deverá ser aberta uma matrícula para cada unidade autônoma, à qual caberá, como parte inseparável, uma fração ideal do solo e das outras partes comuns, se houver, representada na forma de percentual. IV. As unidades autônomas constituídas em matrícula própria não poderão ser alienadas e gravadas livremente por seus titulares, somente em comum acordo entre os condôminos, podendo ser formalizada a autorização por meio de instrumento particular. A sequência correta é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas as assertivas II e III estão corretas."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas as assertivas I, II e IV estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "As assertivas I, II, III e IV estão corretas."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas a assertiva IV está incorreta."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1869902",
+    "metadata": "Ano: 2021 | Banca: IESES | Órgão: TJ-RO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Condomínio"
+    ],
+    "enunciado_principal": "Em se tratando de Condomínio de Lotes, para fins de incorporação imobiliária, a implantação de toda a infraestrutura, legalmente, ficará a cargo:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Dos condôminos."
+      },
+      {
+        "letra": "B",
+        "texto": "Do município de localização do condomínio."
+      },
+      {
+        "letra": "C",
+        "texto": "Do condomínio."
+      },
+      {
+        "letra": "D",
+        "texto": "Do empreendedor."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1868339",
+    "metadata": "Ano: 2021 | Banca: IESES | Órgão: TJ-RO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Condomínio"
+    ],
+    "enunciado_principal": "Em relação ao condomínio em edificações e as incorporações imobiliárias, assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Considera-se aprovada, e obrigatória para os proprietários de unidades, promitentes compradores, cessionários e promitentes cessionários, atuais e futuros, como para qualquer ocupante, a Convenção que reúna as assinaturas de titulares de direitos que representem, no mínimo, 3/5 das frações ideais que compõem o condomínio."
+      },
+      {
+        "letra": "B",
+        "texto": "A cada unidade caberá, como parte inseparável, uma fração ideal do terreno e coisas comuns, expressa sob forma decimal ou ordinária"
+      },
+      {
+        "letra": "C",
+        "texto": "O condomínio por unidades autônomas instituir-se-á por ato entre vivos ou por testamento, com inscrição obrigatória no Registro de Imóvel, dele constando; a individualização de cada unidade, sua identificação e discriminação, bem como a fração ideal sobre o terreno e partes comuns atribuída a cada unidade, dispensando-se a descrição interna da unidade."
+      },
+      {
+        "letra": "D",
+        "texto": "Cada condômino concorrerá nas despesas do condomínio, recolhendo, nos prazos previstos na Convenção, a quota-parte que lhe couber em rateio."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1824939",
+    "metadata": "Ano: 2021 | Banca: FGV | Órgão: TJ-PR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Posse - Teoria, Classificação e Aquisição",
+      "Propriedade",
+      "Contratos em Espécie",
+      "Compra e Venda",
+      "Condomínio",
+      "Condomínio Edilício"
+    ],
+    "enunciado_principal": "Antônio prometeu vender unidade autônoma em condomínio edilício para Bárbara. Após a transferência da posse em favor do adquirente, este não levou a promessa de compra e venda para o competente registro imobiliário e não houve mais pagamento de cota condominial em favor do condomínio edilício. Diante da inadimplência, o condomínio ajuíza ação tendente a cobrar as cotas condominiais em atraso. Sendo assim, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "por se tratar de obrigação propter rem, apenas a pessoa cujo nome consta como proprietária no cartório do registro de imóveis pode ser eficazmente demandada;"
+      },
+      {
+        "letra": "B",
+        "texto": "a ciência do condomínio acerca do ato de alienação é irrelevante para definir a responsabilidade do adquirente pelo pagamento das cotas condominiais após o ato de alienação;"
+      },
+      {
+        "letra": "C",
+        "texto": "ainda que não haja a imissão na posse do imóvel, o promitente comprador tem exclusiva responsabilidade de pagar as cotas condominiais a partir do momento em que a escritura de promessa de compra e venda é realizada;"
+      },
+      {
+        "letra": "D",
+        "texto": "não sendo a promessa de compra e venda um título registrável, apenas após a realização da escritura definitiva de compra e venda é que o adquirente pode ser responsabilizado pelo inadimplemento das cotas condominiais;"
+      },
+      {
+        "letra": "E",
+        "texto": "a inexistência de registro da promessa de compra e venda pode levar a que o condomínio, conforme determinadas circunstâncias do caso, tenha o legítimo direito de exigir tanto do alienante como do adquirente o pagamento das cotas condominiais em atraso."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1779561",
+    "metadata": "Ano: 2021 | Banca: VUNESP | Órgão: Prefeitura de Jundiaí - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Condomínio"
+    ],
+    "enunciado_principal": "No condomínio de acesso controlado,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não existem áreas públicas, tais como áreas de lazer e institucionais, podendo, entretanto, ser instituídos direitos reais sobre coisa alheia em benefício do poder público."
+      },
+      {
+        "letra": "B",
+        "texto": "o controle de acesso será regulamentado por ato do poder público municipal."
+      },
+      {
+        "letra": "C",
+        "texto": "será permitido o impedimento de acesso a pedestres ou a condutores de veículos, não residentes, devidamente identificados ou cadastrados, durante o período noturno."
+      },
+      {
+        "letra": "D",
+        "texto": "cada proprietário de lote terá atribuída fração ideal de propriedade das áreas comuns, na proporção da dimensão do seu lote."
+      },
+      {
+        "letra": "E",
+        "texto": "a implantação de toda a infraestrutura ficará a cargo do empreendedor."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1677379",
+    "metadata": "Ano: 2019 | Banca: VUNESP | Órgão: TJ-AL",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Condomínio"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta para a constituição do condominio de lotes.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A convenção do condomínio de lotes será registrada no registro de títulos e documentos e o instrumento da instituição e especificação no registro de imóveis."
+      },
+      {
+        "letra": "B",
+        "texto": "A convenção e o Instrumento de instituição e especificação do condomínio de lotes serão registrados no registro de imóveis"
+      },
+      {
+        "letra": "C",
+        "texto": "A convenção e a instrumento de instituição e especificação do condomínio de lotes sarão registrados no registro de títulos e documentos."
+      },
+      {
+        "letra": "D",
+        "texto": "A convenção do condomínio de lotes será registrada no registro de civil de pessoa jurídica e o instrumento de instituição e especificação no registro de imóveis."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "990776",
+    "metadata": "Ano: 2019 | Banca: VUNESP | Órgão: TJ-RS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Condomínio"
+    ],
+    "enunciado_principal": "Acerca do condomínio em multipropriedade, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o instrumento de instituição da multipropriedade poderá estabelecer o limite máximo de frações de tempo no mesmo imóvel que poderão ser detidas pela mesma pessoa natural ou jurídica."
+      },
+      {
+        "letra": "B",
+        "texto": "a multipropriedade se extinguirá automaticamente, se todas as frações de tempo forem do mesmo multiproprietário."
+      },
+      {
+        "letra": "C",
+        "texto": "o imóvel objeto da multipropriedade é indivisível, não se sujeitando à ação de divisão ou de extinção de condomínio, mas não inclui as instalações, os equipamentos e o mobiliário destinados a seu uso e gozo."
+      },
+      {
+        "letra": "D",
+        "texto": "o período correspondente a cada fração de tempo será de, no mínimo, 30 (trinta) dias, seguidos ou intercalados, e poderá ser fixo e determinado, no mesmo período de cada ano ou flutuante."
+      },
+      {
+        "letra": "E",
+        "texto": "a transferência do direito de multipropriedade e a sua produção de efeitos perante terceiros dar-se-ão na forma da lei civil e não dependerão da anuência dos demais multiproprietários que têm, salvo disposição em sentido contrário, direito de preferência na aquisição de fração de tempo."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "973943",
+    "metadata": "Ano: 2019 | Banca: NC-UFPR | Órgão: TJ-PR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Condomínio"
+    ],
+    "enunciado_principal": "Marta, síndica do Condomínio Portal da Luz, tornou-se conhecida entre os moradores por aplicar multas infundadas e exigir obrigações não previstas em Convenção de Condomínio, tampouco em Regimento Interno. O caso mais emblemático surgiu quando Marta proibiu os moradores de receberem visitantes entre o período de Natal e Ano Novo, sob o pretexto de que haveria muito barulho e poderia, assim, haver reclamações dos moradores das unidades autônomas. Levando em consideração o caso acima e com base no Código Civil brasileiro, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não poderá a assembleia extraordinária investir outra pessoa, em lugar da síndica, em poderes de representação, restando aos moradores ajuizar ação competente a fim de resguardar os seus interesses individuais."
+      },
+      {
+        "letra": "B",
+        "texto": "Mesmo que Marta decida colaborar com a administração do condomínio e com o sossego dos moradores desistindo da gestão do condomínio, ainda assim somente poderá ser destituída por meio de ação autônoma, não podendo transferir a outrem, total ou parcialmente, os poderes de representação que lhe foram outorgados por meio de votação em assembleia específica."
+      },
+      {
+        "letra": "C",
+        "texto": "Marta somente poderá ser destituída do cargo de síndica após ouvidos o Ministério Público, em se tratando de Condomínio Edilício."
+      },
+      {
+        "letra": "D",
+        "texto": "Marta pode ser destituída da administração do condomínio pelo voto de um terço (1/3) dos membros da assembleia extraordinária, constituída para o fim específico de sanar os abusos da síndica."
+      },
+      {
+        "letra": "E",
+        "texto": "Marta pode ser destituída da administração do condomínio pelo voto da maioria absoluta dos membros da assembleia extraordinária, constituída para o fim específico de sanar os abusos da síndica."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "973938",
+    "metadata": "Ano: 2019 | Banca: NC-UFPR | Órgão: TJ-PR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Condomínio"
+    ],
+    "enunciado_principal": "Sobre a propriedade fiduciária e os créditos objeto do regime, identifique como verdadeiras (V) ou falsas (F) as seguintes afirmativas: ( ) Os créditos objeto do regime fiduciário constituem patrimônio separado, que não se confunde com o da companhia securitizadora. ( ) Os créditos objeto do regime fiduciário manter-se-ão apartados do patrimônio da companhia securitizadora até que se complete o resgate de todos os títulos da série a que estejam afetados. ( ) Os créditos objeto do regime fiduciário destinam-se exclusivamente à liquidação dos títulos a que estiverem afetados, bem como ao pagamento dos respectivos custos de administração e de obrigações fiscais. ( ) Os créditos objeto do regime fiduciário estão isentos de qualquer ação ou execução pelos credores da companhia securitizadora. Assinale a alternativa que apresenta a sequência correta, de cima para baixo.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V – F – V – F."
+      },
+      {
+        "letra": "B",
+        "texto": "F – V – F – V."
+      },
+      {
+        "letra": "C",
+        "texto": "F – F – V – V."
+      },
+      {
+        "letra": "D",
+        "texto": "V – V – V – V."
+      },
+      {
+        "letra": "E",
+        "texto": "V – F – F – F."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1061311",
+    "metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: PGE-AM",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Condomínio"
+    ],
+    "enunciado_principal": "A respeito da propriedade, da posse e das preferências e privilégios creditórios, julgue o item subsequente.De acordo com o STJ, a responsabilidade do promitente vendedor por dívidas condominiais relativas a período em que a posse for exercida pelo promissário comprador será afastada se forem demonstradas a ciência inequívoca do condomínio acerca da transação e a efetiva imissão do promissário comprador na posse do imóvel.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1000582",
+    "metadata": "Ano: 2018 | Banca: FEPESE | Órgão: Companhia Águas de Joinville",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Condomínio",
+      "Condomínio Edilício"
+    ],
+    "enunciado_principal": "Sobre o condomínio, é correto afirmar.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Presumem-se iguais as partes ideais dos condôminos."
+      },
+      {
+        "letra": "B",
+        "texto": "O condômino poderá se eximir do pagamento das despesas e dívidas, sem que tenha a necessidade de renunciar à sua parte ideal."
+      },
+      {
+        "letra": "C",
+        "texto": "O condômino pode usar da coisa conforme sua destinação e sobre ela exercer todos os direitos compatíveis com a indivisão, sendo vedado, contudo, reivindicá-la de terceiro, alhear a respectiva parte ideal, ou gravá-la."
+      },
+      {
+        "letra": "D",
+        "texto": "A dívida contraída por todos os condôminos, sem discriminação da parte de cada um na obrigação, obrigará apenas aquele que a fez em nome da coisa comum."
+      },
+      {
+        "letra": "E",
+        "texto": "É lícito ao condômino alterar a destinação da coisa comum, dar posse, uso ou gozo dela a estranhos, mesmo que sem o consenso dos outros."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "958688",
+    "metadata": "Ano: 2018 | Banca: FCC | Órgão: Prefeitura de Caruaru - PE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Condomínio"
+    ],
+    "enunciado_principal": "A convenção condominial",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "como regra geral dirige-se somente aos proprietários, excluídos os cessionários de direitos e os promitentes compradores das unidades autônomas."
+      },
+      {
+        "letra": "B",
+        "texto": "é oponível contra terceiros a partir de sua aprovação, independentemente de quaisquer formalidades."
+      },
+      {
+        "letra": "C",
+        "texto": "não pode prever a competência e forma de convocação das assembleias, o que é exclusivo da lei civil."
+      },
+      {
+        "letra": "D",
+        "texto": "deverá ser realizada necessariamente por escritura pública."
+      },
+      {
+        "letra": "E",
+        "texto": "deve ser subscrita pelos titulares de, no mínimo, dois terços das frações ideais e torna-se, desde logo, obrigatória para os titulares de direito sobre as unidades, ou para quantos sobre elas tenham posse ou detenção."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "895174",
+    "metadata": "Ano: 2018 | Banca: IESES | Órgão: TJ-AM",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Condomínio"
+    ],
+    "enunciado_principal": "Em relação ao condomínio, assinale a correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não pode o condômino eximir-se do pagamento das despesas e dívidas, renunciando à parte ideal."
+      },
+      {
+        "letra": "B",
+        "texto": "Não podem os condôminos acordar que fique indivisa a coisa comum por prazo determinado, sendo lícito exigir a divisão da coisa comum a qualquer tempo."
+      },
+      {
+        "letra": "C",
+        "texto": "O condomínio de coisa indivisível não pode vender a sua parte a estranhos, se outro consorte a quiser, tanto por tanto. Sendo muitos os condôminos, preferirá o que tiver benfeitorias de maior valor e, na falta de benfeitorias, o de quinhão maior."
+      },
+      {
+        "letra": "D",
+        "texto": "Cada condômino pode usar da coisa conforme sua destinação, sobre ela exercer todos os direitos compatíveis com a indivisão, reivindicá-la de terceiro, defender a sua posse e alhear a respectiva parte ideal, ou gravá-la., bem como dar posse, uso ou gozo dela a estranhos, independente do consenso dos outros."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "883321",
+    "metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: STJ",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Condomínio"
+    ],
+    "enunciado_principal": "À luz da legislação e da jurisprudência dos tribunais superiores, julgue o item a seguir, a respeito dos direitos da personalidade, do direito de família, dos direitos reais e da prescrição.De acordo com o Código Civil, uma vez constatada a inadimplência, o condomínio poderá proibir o condômino de usar a área comum destinada ao lazer.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "867082",
+    "metadata": "Ano: 2018 | Banca: Orhion Consultoria | Órgão: Prefeitura de Jaguariúna - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito das Coisas / Direitos Reais",
+      "Condomínio"
+    ],
+    "enunciado_principal": "Sobre condomínio, assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O proprietário que tiver direito a estremar um imóvel com paredes, cercas, muros, valas ou valados, tê-lo-á igualmente a adquirir meação na parede, muro, valado ou cerca do vizinho, embolsando-lhe metade do gasto havido com a obra."
+      },
+      {
+        "letra": "B",
+        "texto": "Cada condômino pode usar da coisa conforme sua destinação, sobre ela exercer todos os direitos compatíveis com a indivisão, reivindicá-la de terceiro, defender a sua posse e alhear a respectiva parte ideal, ou gravá-la."
+      },
+      {
+        "letra": "C",
+        "texto": "Cada condômino responde aos outros pelos frutos que percebeu da coisa e pelo dano que lhe causou."
+      },
+      {
+        "letra": "D",
+        "texto": "Deliberando a maioria sobre a administração da coisa comum, escolherá o administrador, que poderá ser estranho ao condomínio; resolvendo alugá-la, preferir-se-á, em condições iguais, o condômino ao que não o é."
+      }
+    ],
+    "gabarito": "A"
+  }
+]

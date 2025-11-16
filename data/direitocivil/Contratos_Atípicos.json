@@ -1,0 +1,216 @@
+[
+  {
+    "id": "3280346",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: EMBRAPA",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Contratos Atípicos"
+    ],
+    "enunciado_principal": "A respeito da disciplina alusiva aos contratos, julgue o item a seguir.O Código Civil brasileiro veda a formalização de contratos atípicos, admitindo-se apenas aqueles taxativamente previstos na lei.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3219465",
+    "metadata": "Ano: 2025 | Banca: Avança SP | Órgão: Câmara de Itupeva - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Contratos Atípicos"
+    ],
+    "enunciado_principal": "No que tange aos contratos em geral é correto afirmar, exceto:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A liberdade contratual será exercida nos limites da função social do contrato."
+      },
+      {
+        "letra": "B",
+        "texto": "Nos contratos de adesão, são nulas as cláusulas que estipulem a renúncia antecipada do aderente a direito resultante da natureza do negócio."
+      },
+      {
+        "letra": "C",
+        "texto": "É ilícito às partes estipular contratos atípicos."
+      },
+      {
+        "letra": "D",
+        "texto": "Não pode ser objeto de contrato a herança de pessoa viva."
+      },
+      {
+        "letra": "E",
+        "texto": "A proposta de contrato obriga o proponente, se o contrário não resultar dos termos dela, da natureza do negócio, ou das circunstâncias do caso."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1977665",
+    "metadata": "Ano: 2022 | Banca: FUNDATEC | Órgão: Prefeitura de Porto Alegre - RS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Contratos Atípicos"
+    ],
+    "enunciado_principal": "Sobre o chamado Direito Restituitório, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Desde que identificado o enriquecimento sem causa, conforme regulado no Código Civil, pode o devedor requerer a revisão judicial do contrato."
+      },
+      {
+        "letra": "B",
+        "texto": "O pagamento de dívida prescrita, quando o devedor não sabia da prescrição, corresponde a pagamento indevido, podendo ser repetido em razão da ocorrência de enriquecimento sem causa."
+      },
+      {
+        "letra": "C",
+        "texto": "Tratando-se de ato benéfico, toda e qualquer despesas incorrida pelo gestor de negócios para a realização dos atos de gestão são indenizáveis ao gestor."
+      },
+      {
+        "letra": "D",
+        "texto": "A indenização por enriquecimento sem causa é exemplo de responsabilidade objetiva."
+      },
+      {
+        "letra": "E",
+        "texto": "Se o problema jurídico for resolvível por meio da aplicação ao caso de normas indenizatórias ou contratuais, não serão aplicáveis as normas sobre enriquecimento sem causa."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1919111",
+    "metadata": "Ano: 2022 | Banca: IBFC | Órgão: DETRAN-AM",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Contratos em Geral",
+      "Noções e Princípios do Direito Contratual",
+      "Contratos Atípicos"
+    ],
+    "enunciado_principal": "No que se refere às disposições gerais sobre contratos previstas no Código Civil (CC), analise as afirmativas abaixo: I. A liberdade contratual será exercida nos limites da função social do contrato. II. Nas relações contratuais privadas, prevalecerão o princípio da intervenção mínima e a excepcionalidade da revisão contratual. III. Não é possível às partes estipularem contratos atípicos, tendo em vista que as disposições específicas sobre os contratos estão previstas no CC. Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "As afirmativas I, II e III estão corretas"
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas as afirmativas I e II estão corretas"
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas as afirmativas II e III estão corretas"
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas as afirmativas I e III estão corretas"
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1243327",
+    "metadata": "Ano: 2019 | Banca: INAZ do Pará | Órgão: Prefeitura de Terra Alta - PA",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Contratos em Geral",
+      "Contratos Atípicos"
+    ],
+    "enunciado_principal": "Sobre as regras dos contratos em geral, previstas no Código Civil Brasileiro. Assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Reputar-se-á celebrado o contrato no lugar em que foi proposto."
+      },
+      {
+        "letra": "B",
+        "texto": "Nos contratos de adesão, são nulas as cláusulas que estipulem a renúncia antecipada do aderente a direito resultante da natureza do negócio."
+      },
+      {
+        "letra": "C",
+        "texto": "Os contratantes são obrigados a guardar, assim na conclusão do contrato, como em sua execução, os princípios de probidade e boa-fé."
+      },
+      {
+        "letra": "D",
+        "texto": "Não pode ser objeto de contrato a herança de pessoa viva."
+      },
+      {
+        "letra": "E",
+        "texto": "Não é lícito às partes estipular contratos atípicos."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1165659",
+    "metadata": "Ano: 2018 | Banca: INSTITUTO AOCP | Órgão: PRODEB",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Contratos Atípicos"
+    ],
+    "enunciado_principal": "Negociar significa discutir com outros com o objetivo de se chegar a um acordo. Assinale a alternativa que apresenta dois tipos de negociação assistida.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Mediação e arbitragem."
+      },
+      {
+        "letra": "B",
+        "texto": "Mediação e distributiva."
+      },
+      {
+        "letra": "C",
+        "texto": "Arbitragem e competitiva."
+      },
+      {
+        "letra": "D",
+        "texto": "Negociação direta e negociação discreta."
+      },
+      {
+        "letra": "E",
+        "texto": "Inversa e colaborativa."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "903392",
+    "metadata": "Ano: 2018 | Banca: FUMARC | Órgão: COPASA",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Contratos em Espécie",
+      "Contratos Atípicos"
+    ],
+    "enunciado_principal": "Segundo as normas de Direito Civil, um contato atípico pode ser considerado",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ilícito, porque inobservadas nesse caso norma geral do Código Civil vigente."
+      },
+      {
+        "letra": "B",
+        "texto": "ilícito, se uma das partes contratantes for empresa pública ou sociedade de economia mista."
+      },
+      {
+        "letra": "C",
+        "texto": "lícito, desde que firmado mediante instrumento público."
+      },
+      {
+        "letra": "D",
+        "texto": "lícito, observadas as normas gerais fixadas no Código Civil vigente."
+      }
+    ],
+    "gabarito": "D"
+  }
+]

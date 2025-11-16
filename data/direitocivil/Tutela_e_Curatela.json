@@ -1,0 +1,1789 @@
+[
+  {
+    "id": "3560606",
+    "metadata": "Ano: 2025 | Banca: INSTITUTO AOCP | Órgão: MPE-MA",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Responsabilidade civil",
+      "Tutela e Curatela",
+      "Indenização - Liquidação do Dano"
+    ],
+    "enunciado_principal": "Nadilma ajuíza demanda visando ao reconhecimento da incapacidade de sua irmã Jurema, que apresenta quadro severo de transtorno bipolar. Caso seja nomeada curadora de Jurema, qual será o efeito jurídico decorrente dessa nomeação?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O prazo prescricional da dívida que Nadilma possui em favor de Jurema, que já se encontra prestes a se consumar, poderá transcorrer normalmente, pois a curatela não afeta prazos prescricionais."
+      },
+      {
+        "letra": "B",
+        "texto": "Nadilma poderá ser civilmente responsabilizada pelos danos que Jurema causar a terceiros, desde que os atos tenham ocorrido estando Jurema sob sua autoridade e em sua companhia."
+      },
+      {
+        "letra": "C",
+        "texto": "Se o irmão de Nadilma, que a nomeou tutora testamentária da filha dele, vier a falecer, Nadilma deverá exercer, cumulativamente, a curatela de Jurema e a tutela da sobrinha, não sendo possível a recusa de qualquer dos encargos."
+      },
+      {
+        "letra": "D",
+        "texto": "A autoridade de Nadilma como curadora abrangerá os atos da vida civil de Jurema, mas não se estenderá à administração dos bens dos filhos menores desta, caso existam."
+      },
+      {
+        "letra": "E",
+        "texto": "Ainda que desejasse compartilhar o encargo, Nadilma terá que exercer sozinha a curatela de Jurema, uma vez que a legislação brasileira não admite a figura da curatela compartilhada."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3420701",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: SUSEP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Tutela e Curatela"
+    ],
+    "enunciado_principal": "Em relação aos direitos de personalidade, julgue o item que se segue.Os viciados em tóxico estarão sujeitos à curatela quando houver pedido de interdição da pessoa natural.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3390837",
+    "metadata": "Ano: 2025 | Banca: FGV | Órgão: DPE-PE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Personalidade, Pessoa Natural e Capacidade",
+      "Tutela e Curatela",
+      "Parte Geral"
+    ],
+    "enunciado_principal": "Adão Sete, idoso de 82 anos e em situação de vulnerabilidade econômica, procura a Defensoria Pública do Estado de Pernambuco. Relata que tem sob sua guarda e tutela a neta Eva, de 16 anos e seis dias de idade, atualmente contratada como jovem aprendiz por uma grande empresa pernambucana. Afirma ainda que seus três filhos enfrentam graves problemas: Abel, de 47 anos, é ébrio habitual; Moisés, de 53 anos, encontra-se internado em hospital, em coma induzido; e Maria, de 55 anos, vem, em razão de transtornos psicológicos, dissipando progressivamente seu próprio patrimônio e comprometendo o sustento de todos os membros da família. Diante desse cenário, Adão deseja saber se é juridicamente possível requerer a interdição dos filhos e a emancipação da neta. Sobre o questionamento feito por Adão, com base nas disposições do Código Civil, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Eva, por ser menor de 18 anos, somente poderá ser emancipada por sentença judicial, sendo vedada a emancipação por outro meio, mesmo que seja economicamente ativa e esteja sob guarda de ascendente."
+      },
+      {
+        "letra": "B",
+        "texto": "A interdição de Abel é juridicamente inviável, pois a ebriedade habitual não é causa de incapacidade prevista em lei, salvo se associada à dependência química diagnosticada judicialmente."
+      },
+      {
+        "letra": "C",
+        "texto": "Moisés, por estar em coma induzido, é considerado absolutamente incapaz de fato, o que dispensa a necessidade de interdição judicial para representação nos atos da vida civil."
+      },
+      {
+        "letra": "D",
+        "texto": "Maria, em razão dos transtornos psicológicos que a levam à dissipação recorrente de seu patrimônio, poderá ser interditada por decisão judicial como relativamente incapaz em virtude da prodigalidade."
+      },
+      {
+        "letra": "E",
+        "texto": "A interdição de todos os filhos de Adão poderá ser requerida cumulativamente em um único processo judicial, desde que comprovadas suas condições clínicas por perícia médica e demonstrado o prejuízo à gestão dos próprios atos da vida civil."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3384793",
+    "metadata": "Ano: 2025 | Banca: INSTITUTO AOCP | Órgão: MPE-RS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Tutela e Curatela"
+    ],
+    "enunciado_principal": "João, pessoa com deficiência, decidiu formular pedido de tomada de decisão apoiada. Para prestar-lhe apoio na tomada de decisão sobre atos da vida civil, elegeu como seus apoiadores Joaquim e Maria, pessoas idôneas com as quais mantém vínculos e que gozam de sua confiança. Com base nessa situação hipotética e nos termos do Código Civil, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Para formular pedido de tomada de decisão apoiada, Joaquim e Maria devem apresentar termo em que constem os limites do apoio a ser oferecido e os compromissos dos apoiadores, inclusive o prazo de vigência do acordo e o respeito à vontade, aos direitos e aos interesses de João, o qual é facultado constar no referido termo."
+      },
+      {
+        "letra": "B",
+        "texto": "Desde que esteja inserida nos limites do apoio acordado, a decisão apoiada tomada por João terá validade e efeitos sobre terceiros, sem restrições. O terceiro com quem João mantenha relação negocial pode solicitar que os apoiadores contra-assinem o contrato ou acordo, especificando, por escrito, sua função em relação ao apoiado."
+      },
+      {
+        "letra": "C",
+        "texto": "Compete exclusivamente ao Ministério Público receber denúncia da pessoa apoiada ou de qualquer pessoa se o apoiador agir com negligência, exercer pressão indevida ou não adimplir as obrigações assumidas. Se procedente a denúncia, o juiz destituirá o apoiador e nomeará, ouvida a pessoa apoiada e se for de seu interesse, outra pessoa para a prestação de apoio."
+      },
+      {
+        "letra": "D",
+        "texto": "João pode, no prazo fixado no termo ou respeitado o prazo de trinta dias antes de expirar a vigência, solicitar o término de acordo firmado em processo de tomada de decisão apoiada."
+      },
+      {
+        "letra": "E",
+        "texto": "Joaquim pode solicitar ao juiz a exclusão de sua participação do processo de tomada de decisão apoiada, sendo seu desligamento condicionado à manifestação do Ministério Público sobre a matéria."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3306740",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: MPE-CE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Tutela e Curatela"
+    ],
+    "enunciado_principal": "No que se refere ao direito de família, julgue o item a seguir, com base nas disposições do Código Civil e no entendimento do Superior Tribunal de Justiça (STJ). Ao ser submetida à curatela, a pessoa com deficiência adulta apenas poderá ser considerada relativamente capaz, não mais se admitindo o reconhecimento da sua incapacidade absoluta.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3304113",
+    "metadata": "Ano: 2025 | Banca: FCC | Órgão: DPE-SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Tutela e Curatela"
+    ],
+    "enunciado_principal": "Ana, de 18 anos, foi diagnosticada com autismo de grau moderado desde criança. A jovem reside com os pais e com os irmãos, que lhe prestam apoio. Em perícia médica, o laudo concluiu que Ana, apesar de algumas limitações, se medicada adequadamente, consegue exercer os atos da vida civil. A jovem conta com a assistência da família para auxílio na administração da medicação e nas decisões do dia a dia. Nessa situação, o instituto jurídico que melhor se amolda ao caso é a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "emancipação, pois a curatela e a tomada de decisão apoiada são medidas que devem ser realizadas somente nos casos de institucionalização."
+      },
+      {
+        "letra": "B",
+        "texto": "curatela, cuja indicação de curador compete ao juiz dentre os ascendentes e colaterais que demonstrarem melhor aptidão, não podendo o munus ser realizado de forma compartilhada entre os parentes."
+      },
+      {
+        "letra": "C",
+        "texto": "curatela, em que a jovem deve sofrer restrições para casar, constituir união estável, exercer os direitos reprodutivos e em relação ao planejamento familiar, sendo vedada a esterilização compulsória."
+      },
+      {
+        "letra": "D",
+        "texto": "tomada de decisão apoiada, que terá validade e efeitos sobre terceiros, sem restrições, desde que esteja inserida nos limites do apoio acordado."
+      },
+      {
+        "letra": "E",
+        "texto": "tomada de decisão apoiada, que terá validade e efeitos sobre terceiros, que não poderão exigir que os apoiadores contra-assinem contratos ou negócios jurídicos."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3265278",
+    "metadata": "Ano: 2025 | Banca: FGV | Órgão: Prefeitura de Canaã dos Carajás - PA",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Personalidade, Pessoa Natural e Capacidade",
+      "Tutela e Curatela",
+      "Parte Geral"
+    ],
+    "enunciado_principal": "Antônio tem 70 anos, é viúvo e mora sozinho. Recentemente, ele conheceu Marília, de 65 anos, e começaram a namorar, passando a considerar viverem juntos. Ocorre que os filhos de Antônio se opuseram ao relacionamento paterno e estão considerando buscar a Justiça para interditá-lo. Frente à dinâmica em análise, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas Marília pode pedir a curatela de Antônio, desde que começaram a namorar."
+      },
+      {
+        "letra": "B",
+        "texto": "Antônio pode constituir novo relacionamento marital, desde que a nova união seja autorizada pelos filhos."
+      },
+      {
+        "letra": "C",
+        "texto": "Os filhos de Antônio devem exercer medida de interdição para proteção do pai, que deve estar demenciando."
+      },
+      {
+        "letra": "D",
+        "texto": "Os filhos de Antônio podem ingressar com a ação de interdição somente se levarem o pai para morar com eles."
+      },
+      {
+        "letra": "E",
+        "texto": "Antônio tem direito de constituir novo relacionamento e optar pela forma de convívio conjugal que considerar melhor."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3268603",
+    "metadata": "Ano: 2024 | Banca: Quadrix | Órgão: CREF - 9ª Região (PR)",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Tutela e Curatela"
+    ],
+    "enunciado_principal": "O professor Daniel Eduardo Braco define o instituto jurídico como: “É múnus público destinado à proteção de outra categoria ou espécie de incapazes: os enfermos com discernimento reduzido (viciados em tóxicos, ébrios habituais, os que não puderem exprimir sua vontade por causa transitória ou permanente e os pródigos) e os portadores de deficiência”. O instituto jurídico ao qual a definição apresentada se refere é a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "tutela."
+      },
+      {
+        "letra": "B",
+        "texto": "curatela."
+      },
+      {
+        "letra": "C",
+        "texto": "interdição."
+      },
+      {
+        "letra": "D",
+        "texto": "guarda."
+      },
+      {
+        "letra": "E",
+        "texto": "custódia."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "3253597",
+    "metadata": "Ano: 2024 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Tutela e Curatela"
+    ],
+    "enunciado_principal": "Assinale a alternativa que corresponde a um caso em que a pessoa será posta em tutela.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Maria sofreu um acidente vascular cerebral (AVC) que a deixou com sequelas neurológicas significativas. Em decorrência do AVC, Maria perdeu a capacidade de se comunicar verbalmente e apresenta dificuldades motoras que limitam seus movimentos. Os médicos afirmam que é improvável que ela recupere totalmente a capacidade de expressar suas vontades, fazendo com que Maria seja posta em tutela."
+      },
+      {
+        "letra": "B",
+        "texto": "Catarina herdou um considerável patrimônio de seus pais. Desde então, tem demonstrado um padrão de gastos excessivos e impulsivos, adquirindo bens de luxo e fazendo viagens frequentes. Apesar dos alertas de amigos e familiares, Catarina continua com seus gastos descontrolados, colocando em risco seu patrimônio, fazendo com que Catarina seja posta em tutela."
+      },
+      {
+        "letra": "C",
+        "texto": "João é dependente de álcool há mais de 15 anos. O consumo excessivo de bebidas alcoólicas tornou-se um problema crônico, afetando significativamente sua vida. Nas últimas semanas, João tem apresentado comportamentos cada vez mais agressivos, colocando em risco tanto sua própria segurança quanto a de seus familiares, fazendo com que João seja posto em tutela."
+      },
+      {
+        "letra": "D",
+        "texto": "Felipe possui uma deficiência mental grave. Apesar de sua inteligência e capacidade de aprender, apresenta dificuldades em diversas áreas da vida, como a compreensão de conceitos abstratos, a resolução de problemas complexos e a interação social. Em razão dessas limitações, Felipe deverá ser posto em tutela."
+      },
+      {
+        "letra": "E",
+        "texto": "Ana e Pedro, pais de Miguel, de 10 anos, desapareceram do seu domicílio sem deles haver notícia, sendo declarada judicialmente a ausência de ambos, o que pode fazer com que Miguel seja posto em tutela."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3253591",
+    "metadata": "Ano: 2024 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Ausência",
+      "Tutela e Curatela",
+      "Parte Geral"
+    ],
+    "enunciado_principal": "Josué, separado judicialmente de Marisa, desapareceu de seu domicílio sem deixar representante ou procurador para administrar seus bens. Sem haver qualquer notícia dele, o juiz, a requerimento de seu irmão, Pedro, declarou sua ausência e nomeou curador. Considerando que Josué não tem nenhum outro irmão, pais ou descendentes, é correto afirmar que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Pedro, por ser o único irmão, deverá ser o curador nomeado."
+      },
+      {
+        "letra": "B",
+        "texto": "Marisa deverá ser a curadora de Josué, tendo em vista a subsistência da relação conjugal, apesar da separação."
+      },
+      {
+        "letra": "C",
+        "texto": "qualquer parente até o 3º grau por consanguinidade ou afinidade deverá ser nomeado, escolhendo-se o mais velho dentre eles."
+      },
+      {
+        "letra": "D",
+        "texto": "qualquer parente até o 4º grau, desde que por consanguinidade, deverá ser nomeado como curador de Josué."
+      },
+      {
+        "letra": "E",
+        "texto": "qualquer pessoa, parente ou não, poderá ser escolhida pelo juiz."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3083875",
+    "metadata": "Ano: 2024 | Banca: Instituto Consulplan | Órgão: Câmara de Cotia - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Tutela e Curatela"
+    ],
+    "enunciado_principal": "João, psicólogo, desenvolveu grave dependência alcoólica ao longo dos anos, sendo diagnosticado como ébrio habitual. Sua esposa, Carla, preocupada com a condição de João e com a administração do patrimônio da família, busca orientação jurídica sobre a curatela. Ela informa que os pais de João estão vivos. Informa ainda que ela e João juntos tiveram dois filhos que são menores de idade e que não estão separados de fato. Considerando as normas do Código Civil brasileiro, assinale a afirmativa correta a respeito da possibilidade de curatela.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Caso João seja interditado, a curatela terá caráter exclusivamente patrimonial, não abrangendo a proteção de sua pessoa e de suas decisões pessoais."
+      },
+      {
+        "letra": "B",
+        "texto": "Mesmo que João seja interditado, ele poderá continuar a realizar atos da vida civil, exceto os que envolvem a gestão de seu patrimônio, como alienar ou hipotecar bens."
+      },
+      {
+        "letra": "C",
+        "texto": "A autoridade do curador, ao ser nomeado, abrangerá tanto a pessoa quanto os bens dos filhos menores de João, até que eles atinjam a maioridade ou sejam emancipados."
+      },
+      {
+        "letra": "D",
+        "texto": "Em caso de interdição de João, a preferência na curatela é dos pais dele, sendo possível que a esposa assuma o papel de curadora apenas se os pais não aceitarem o encargo."
+      },
+      {
+        "letra": "E",
+        "texto": "Para que Carla obtenha a curatela de João, será necessário comprovar a prodigalidade do marido, uma vez que o simples diagnóstico de ébrio habitual não basta para a interdição."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2575229",
+    "metadata": "Ano: 2024 | Banca: FCC | Órgão: TJ-AL",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Tutela e Curatela"
+    ],
+    "enunciado_principal": "Sueli foi recentemente diagnosticada com Alzheimer precoce e deficiência degenerativa. Embora ainda esteja com suas faculdades mentais parcialmente preservadas, possui dificuldade de locomoção, ficando, via de regra, acamada. Por esse motivo, entende que precisa de um representante para defender seus interesses e gerir seu patrimônio, tendo em vista, ainda, a possibilidade de avanço da demência causada pelo Alzheimer. Sueli confia em suas duas primas, Magali e Roseli, desejando indicá-las para representá-la. Com base nessas informações e no interesse e vontade manifestados por Sueli, a saída jurídica será a propositura de ação de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "curatela, com a nomeação de Magali e Roseli como curadoras de Sueli, considerando-a absolutamente incapaz para os atos da vida civil."
+      },
+      {
+        "letra": "B",
+        "texto": "tomada de decisão apoiada, com a nomeação de Magali e Roseli como apoiadoras de Sueli, considerando-a capaz para suas escolhas."
+      },
+      {
+        "letra": "C",
+        "texto": "tutela, com a nomeação de Magali ou Roseli como tutoras, avaliando suas condições pessoais, tendo em vista que não é possível o compartilhamento do papel de tutor."
+      },
+      {
+        "letra": "D",
+        "texto": "curatela, com a nomeação de Magali e Rosell como curadoras de Sueli, considerando-a relativamente incapaz para os atos da vida civil."
+      },
+      {
+        "letra": "E",
+        "texto": "tomada de decisão apoiada, com a nomeação de Magali e Roseli como curadoras de Sueli, considerando-a absolutamente incapaz para os atos da vida civil."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2553392",
+    "metadata": "Ano: 2024 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Tutela e Curatela"
+    ],
+    "enunciado_principal": "Não é atribuição de tutor",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "autorizar casamento de tutelado."
+      },
+      {
+        "letra": "B",
+        "texto": "receber as rendas e pensões do menor e as quantias a ele devidas."
+      },
+      {
+        "letra": "C",
+        "texto": "conceder emancipação ao tutelado por escritura pública."
+      },
+      {
+        "letra": "D",
+        "texto": "pagar as dívidas do menor com autorização judicial."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2553232",
+    "metadata": "Ano: 2024 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Tutela e Curatela"
+    ],
+    "enunciado_principal": "A legitimidade para eleger apoiadores para auxiliarem pessoa deficiente nos atos da vida civil é",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "do Ministério Público."
+      },
+      {
+        "letra": "B",
+        "texto": "dos parentes do deficiente em linha reta."
+      },
+      {
+        "letra": "C",
+        "texto": "de qualquer pessoa com a qual o deficiente mantenha vínculo."
+      },
+      {
+        "letra": "D",
+        "texto": "do próprio deficiente."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2515299",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: TJ-SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Tutela e Curatela"
+    ],
+    "enunciado_principal": "Cabecel fica órfão aos 16 anos e Camoriente é nomeada sua tutora. Um ano depois, com seu primeiro salário no cargo de oficial de justiça no Tribunal de Justiça de Santa, compra um anel valiosíssimo, toma coragem e pede em casamento Camoriente, por quem sempre fora apaixonado. Nesse caso:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "não há causa impeditiva ou suspensiva do casamento;"
+      },
+      {
+        "letra": "B",
+        "texto": "há impedimento ao casamento, que pode ser suscitado por qualquer interessado;"
+      },
+      {
+        "letra": "C",
+        "texto": "há causa suspensiva do casamento, que pode ser suscitada por qualquer interessado;"
+      },
+      {
+        "letra": "D",
+        "texto": "há causa impeditiva do casamento, que pode ser suscitada por qualquer interessado, inclusive a prima invejosa da Camoriente e que só pode ser arguida pelos parentes em linha reta de um dos nubentes, sejam consanguíneos ou afins, e pelos colaterais em segundo grau, sejam também consanguíneos ou afins;"
+      },
+      {
+        "letra": "E",
+        "texto": "há causa suspensiva do casamento, que pode ser suscitada por qualquer interessado, inclusive a prima invejosa da Camoriente; que só pode ser arguida pelos parentes em linha reta de um dos nubentes, sejam consanguíneos ou afins, e pelos colaterais em segundo grau, sejam também consanguíneos ou afins."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2449884",
+    "metadata": "Ano: 2024 | Banca: IV - UFG | Órgão: TJ-AC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Tutela e Curatela"
+    ],
+    "enunciado_principal": "O(a) magistrado(a) poderá interditar pessoa, sujeitando-a à curatela:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "quando não puder exprimir sua vontade, por causa transitória ou permanente."
+      },
+      {
+        "letra": "B",
+        "texto": "quando for menor de 18 (dezoito) anos ou embriagada eventual."
+      },
+      {
+        "letra": "C",
+        "texto": "quando for pródiga ou usuária de drogas."
+      },
+      {
+        "letra": "D",
+        "texto": "quando for excepcional sem completo desenvolvimento mental."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2386957",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: TJ-SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Tutela e Curatela"
+    ],
+    "enunciado_principal": "Enfiteutis, diagnosticado com psicopatia grave, foi autor de diversos crimes violentos, até mesmo contraparentes seus que o abandonaram por medo e até mesmo raiva. Em razão disso, sua filha, Laudêmia, busca sua curatela judicialmente. O Ministério Público, em parecer lançado nos autos, opina, em preliminar, nos seguintes termos: i) a filha não pode postular a medida quando há ascendentes vivos de Enfiteutis que possam desempenhar o encargo, consoante ordem do Art. 1.775 do Código Civil; e ii) a psicopatia não enseja a curatela, na medida em que não se pode falar em incapacidade civil. No mérito, se superados esses pontos, pede que a curatela se estenda também aos atos existenciais de Enfiteutis. As ponderações do Ministério Público:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "são todas procedentes;"
+      },
+      {
+        "letra": "B",
+        "texto": "são todas improcedentes;"
+      },
+      {
+        "letra": "C",
+        "texto": "procedem quanto ao mérito, mas não quanto às preliminares;"
+      },
+      {
+        "letra": "D",
+        "texto": "procedem quanto à primeira preliminar, mas não quanto ao mérito;"
+      },
+      {
+        "letra": "E",
+        "texto": "só procedem quanto à segunda preliminar."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2348948",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: Prefeitura de São José dos Campos - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Tutela e Curatela"
+    ],
+    "enunciado_principal": "Júlio Silva promoveu ação de curatela em face de sua esposa, Ana, de 42 anos, alegando que Ana não possui discernimento necessário e não está apta a expressar a sua vontade. No curso do processo, Ana deduz requerimento ao juízo para a adoção do processo de tomada de decisão apoiada e indica suas irmãs como suas apoiadoras. A sentença julga improcedente o pedido de Júlio e defere o pedido de Ana. Em relação ao caso, assinale a afirmativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O deferimento do pedido de Ana pressupõe a prévia declaração da sua incapacidade relativa."
+      },
+      {
+        "letra": "B",
+        "texto": "O deferimento do pedido de Ana não interfere em sua capacidade civil, que continua sendo absoluta."
+      },
+      {
+        "letra": "C",
+        "texto": "O pedido de Ana não poderia ter sido deferido, pois Júlio Silva, em razão da relação de conjugalidade, deveria ter sido nomeado seu apoiador."
+      },
+      {
+        "letra": "D",
+        "texto": "Considerando que as alegações de Júlio Silva tenham sido devidamente comprovadas por laudo médico e testemunhas, o juízo deveria ter declarado a incapacidade absoluta de Ana."
+      },
+      {
+        "letra": "E",
+        "texto": "O deferimento do pedido de Ana não interfere em sua capacidade civil, mas a validade dos negócios que ela venha a praticar após o trânsito em julgado da sentença dependem da anuência das apoiadoras."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2322739",
+    "metadata": "Ano: 2023 | Banca: FUNDEP (Gestão de Concursos) | Órgão: DPE-MG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Tutela e Curatela"
+    ],
+    "enunciado_principal": "Analise o caso hipotético a seguir. Maria, residente na cidade de Belo Horizonte - MG, inscreveu-se para atendimento no Mutirão das Famílias, projeto institucional realizado periodicamente pela Defensoria Pública do Estado de Minas Gerais, voltado para a solução consensual de conflitos. O projeto tem como objetivo fomentar atividades extrajudiciais, priorizando o uso de métodos alternativos de solução de conflitos, contribuindo, assim, para a conciliação e incentivando os envolvidos a participarem ativamente das decisões que envolvam sua família, sem prejuízo do ajuizamento das ações que se fazem necessárias. Durante o atendimento, Maria relatou que possui um filho de oito anos com João, quem dela se separou de fato há um ano, o qual se mudou para a cidade de Vespasiano - MG. Maria afirma que eles têm um bom relacionamento e que João sempre prestou assistência ao menino. Está em dúvida acerca de qual modalidade de guarda escolher. De acordo com o caso relatado, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Em regra, quando não houver acordo entre a mãe e o pai que estiverem em pleno exercício do poder familiar, o juiz optará pela guarda unilateral, que será concedida preferencialmente àquele que já exerça a guarda de fato da criança, após análise de estudo psicossocial."
+      },
+      {
+        "letra": "B",
+        "texto": "Ainda que seja o desejo de Maria e João, a guarda não poderá ser compartilhada, pois, para isso, é necessário que ambos os genitores residam na mesma cidade."
+      },
+      {
+        "letra": "C",
+        "texto": "Se a guarda for unilateral em favor de João, qualquer estabelecimento público ou privado é obrigado a prestar informações à Maria sobre o filho, independentemente da ciência de João, sob pena de multa de R$ 200,00 a R$ 500,00 por dia pelo não atendimento da solicitação."
+      },
+      {
+        "letra": "D",
+        "texto": "Na hipótese de a guarda ser unilateral em favor de Maria, somente ela poderá solicitar informações oficiais à escola na qual a criança estiver matriculada."
+      },
+      {
+        "letra": "E",
+        "texto": "Se Maria ou João descumprirem imotivadamente cláusula de guarda unilateral ou compartilhada, isso implicará em redução de prerrogativas atribuídas ao seu detentor, caso haja reiteração da conduta após comprovada manifestação contrária daquele que sofrer o descumprimento."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2318227",
+    "metadata": "Ano: 2023 | Banca: IGEDUC | Órgão: Prefeitura de Pombos - PE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Tutela e Curatela"
+    ],
+    "enunciado_principal": "De acordo com o Código Civil, na falta do cônjuge, a curadoria dos bens do ausente será incumbida somente aos pais.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2307914",
+    "metadata": "Ano: 2023 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Tutela e Curatela"
+    ],
+    "enunciado_principal": "No que diz respeito à nomeação do curador para aqueles que, por causa transitória ou permanente, não puderem exprimir sua vontade, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O cônjuge ou companheiro, não separado judicialmente ou de fato, é, de direito, curador do outro, quando interdito."
+      },
+      {
+        "letra": "B",
+        "texto": "Na falta de cônjuge ou companheiro, ascendentes e descendentes, é curador legítimo o colateral que se mostrar mais apto."
+      },
+      {
+        "letra": "C",
+        "texto": "Na falta de cônjuge ou companheiro, ascendentes, descendentes e colaterais, compete ao Ministério Público a indicação do curador."
+      },
+      {
+        "letra": "D",
+        "texto": "Na falta de cônjuge ou companheiro e ascendentes, será nomeado como curador legítimo o descendente mais próximo."
+      },
+      {
+        "letra": "E",
+        "texto": "Na falta do cônjuge ou companheiro, é curador legítimo qualquer um dos ascendentes."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2288424",
+    "metadata": "Ano: 2023 | Banca: Instituto Consulplan | Órgão: CRC-RJ",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Tutela e Curatela"
+    ],
+    "enunciado_principal": "A tutela e a curatela são institutos legais que têm grande importância na proteção dos direitos e interesses de pessoas que, por alguma razão, não possuem capacidade plena para cuidar de si mesmas ou de seus bens. Considerando que estes institutos têm como objetivo garantir o bem-estar e a dignidade das pessoas vulneráveis, como menores de idade ou adultos com incapacidade, assegurando que suas necessidades sejam atendidas e que seus direitos sejam protegidos, analise as afirmativas a seguir. I. Os filhos menores são postos em tutela com o falecimento dos pais, ou sendo eles julgados ausentes. II. A nomeação do tutor deve constar de testamento ou de qualquer outro documento autêntico. III. Quem não for parente do menor não poderá ser obrigado a aceitar a tutela, se houver no lugar parente idôneo, consanguíneo ou afim, em condições de exercê-la. IV. O cônjuge ou companheiro, não separado judicialmente ou de fato, é, de direito, curador do outro, quando interdito. Está correto o que se afirma em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II, III e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "I e III, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "II e IV, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "III e IV, apenas."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2285629",
+    "metadata": "Ano: 2023 | Banca: Quadrix | Órgão: CRM-TO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Tutela e Curatela"
+    ],
+    "enunciado_principal": "À luz do Código Civil, julgue o item.O tutor responde pelos prejuízos que causar ao tutelado, mas tem direito à remuneração proporcional à importância dos bens administrados.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2219073",
+    "metadata": "Ano: 2023 | Banca: Quadrix | Órgão: CREFITO-7ª Região(BA e SE)",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Tutela e Curatela"
+    ],
+    "enunciado_principal": "A partir do que dispõe o Código Civil, julgue o item.Quando o curador for o cônjuge, não há obrigação de se prestar contas, salvo por determinação judicial.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2219072",
+    "metadata": "Ano: 2023 | Banca: Quadrix | Órgão: CREFITO-7ª Região(BA e SE)",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Tutela e Curatela"
+    ],
+    "enunciado_principal": "A partir do que dispõe o Código Civil, julgue o item.Na falta de tutor nomeado pelos pais e de ascendentes, incumbe a tutela aos parentes consanguíneos do menor, incluindo-se os colaterais até o terceiro grau e preferindo-se os mais próximos aos mais remotos e, no mesmo grau, os mais velhos aos mais moços.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2207291",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: DPE-RS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Tutela e Curatela"
+    ],
+    "enunciado_principal": "Renato é diagnosticado, aos 60 anos, com Mal de Parkinson, em sua fase inicial. Começando a notar algumas pequenas dificuldades cotidianas, procura a Defensoria Pública, que recomenda a indicação de duas ou mais pessoas para auxliá-lo, futuramente, na gestão de sua vida civil, fornecendo informações e outros elementos necessários. Para dar iníco ao processo, Renato deveria delimitar, por termo, os limites e a vigência dessa ajuda, ao passo que os indicados deveriam assumir o compromisso de prestá-la, o Caso retrata hipótese de:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "diretiva antecipada de vontade;"
+      },
+      {
+        "letra": "B",
+        "texto": "mandato duradouro;"
+      },
+      {
+        "letra": "C",
+        "texto": "autocuratela;"
+      },
+      {
+        "letra": "D",
+        "texto": "tomada de decisão apoiada;"
+      },
+      {
+        "letra": "E",
+        "texto": "curatela compartilhada."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2173511",
+    "metadata": "Ano: 2023 | Banca: FCC | Órgão: MPE-PB",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Tutela e Curatela"
+    ],
+    "enunciado_principal": "Em relação à curatela,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o cônjuge ou companheiro, não separado judicialmente ou de fato, é, de direito, curador do outro, quando interdito."
+      },
+      {
+        "letra": "B",
+        "texto": "não se aplica aos ébrios habituais, aos viciados em tóxicos e aos pródigos, que se sujeitam à tomada de decisão apoiada."
+      },
+      {
+        "letra": "C",
+        "texto": "as pessoas sujeitas à curatela devem ser recolhidas em estabelecimento próprio à sua condição, preservando-se o direito à convivência familiar e comunitária."
+      },
+      {
+        "letra": "D",
+        "texto": "deve ser imposta às pessoas com deficiência, ainda que possam exprimir sua vontade."
+      },
+      {
+        "letra": "E",
+        "texto": "na nomeação de curador para pessoa com deficiência, não é possível estabelecer curatela compartilhada."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2131331",
+    "metadata": "Ano: 2023 | Banca: COTEC | Órgão: Prefeitura de São Romão - MG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Responsabilidade civil",
+      "Tutela e Curatela",
+      "Responsabilidade Civil - Teorias, Espécies e Pressupostos."
+    ],
+    "enunciado_principal": "Pedrinho, incapaz, tem como seu tutor o tio João, nomeado conjuntamente pelos pais de Pedrinho antes de falecerem. No dia 13 de maio de 2022, Pedrinho quebra o quadro da bicicleta de Antônio Pedal. A bicicleta de Antônio é avaliada em R$ 30.000,00. Ocorre que o tio João não tem renda fixa, sobrevive da venda de pipocas e algodão-doce na porta da igreja, aos domingos e dias de festas, tendo como renda mensal a quantia aproximada de R$ 1.200,00. Portanto, ele não dispõe de meios suficientes para arcar com os prejuízos causados por Pedrinho. Considerando esse cenário, o prejuízo de Antônio Pedal deve ser reparado pelo(s)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pais de Pedrinho, mesmo já falecidos."
+      },
+      {
+        "letra": "B",
+        "texto": "Pedrinho, uma vez que causou o prejuízo."
+      },
+      {
+        "letra": "C",
+        "texto": "tio João, por se tutor de Pedrinho."
+      },
+      {
+        "letra": "D",
+        "texto": "estado, por Pedrinho ser órfão."
+      },
+      {
+        "letra": "E",
+        "texto": "município onde reside, por Pedrinho ser incapaz."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2110246",
+    "metadata": "Ano: 2023 | Banca: FGV | Órgão: PGM - Niterói",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Casamento no Direito de Família",
+      "Tutela e Curatela",
+      "Regime de Bens e Outros Direitos Patrimoniais nas Relações Familiares"
+    ],
+    "enunciado_principal": "Lindoia e Adolfo se casaram quando este já contava 75 anos. Três anos depois, Adolfo passou a apresentar quadro de demência senil, razão pela qual foi ajuizada ação de curatela e nomeado seu filho como curador provisório. Nesse ínterim, Lindoia, que não desejava cuidar mais do marido, pediu o divórcio. O marido foi citado na pessoa de seu curador provisório que, imediatamente, manifestou concordância ao pleito. Nesse caso, é correto afirmar que:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a curatela, desde o advento do Estatuto da Pessoa com Deficiência, circunscreve-se aos atos de natureza patrimonial, de modo que o curador, definitivo ou provisório, não tem legitimidade para concordar com o divórcio;"
+      },
+      {
+        "letra": "B",
+        "texto": "embora o curador definitivo possa até requerer o divórcio, mesmo sob a égide do Estatuto da Pessoa com Deficiência, igual legitimidade não é conferida ao curador provisório, salvo casos excepcionais;"
+      },
+      {
+        "letra": "C",
+        "texto": "o juiz poderá decretar o divórcio com o que consta dos autos, mas, por força do regime da separação legal a que foi submetida, nada tocará a Lindoia na partilha;"
+      },
+      {
+        "letra": "D",
+        "texto": "o juiz poderá decretar o divórcio com o que consta dos autos; quanto à partilha, caberá a Lindoia comprovar o esforço comum na aquisição dos bens havidos durante a união;"
+      },
+      {
+        "letra": "E",
+        "texto": "não é possível decretar o divórcio no caso concreto, sob pena de se prestigiar a discriminação contra a pessoa com deficiência."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2099014",
+    "metadata": "Ano: 2023 | Banca: INSTITUTO AOCP | Órgão: MPE-RR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Tutela e Curatela"
+    ],
+    "enunciado_principal": "João, casado com Josefa sob o regime da comunhão universal de bens, com quem teve 3 filhos, tem reconhecida a sua incapacidade civil, pois está impossibilitado de manifestar a sua vontade por deficiência mental de longa duração. Por conseguinte, é-lhe nomeado(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "curador, para a prática de todos os atos da vida civil, de natureza patrimonial, não patrimonial e existencial."
+      },
+      {
+        "letra": "B",
+        "texto": "curador, porque, impossibilitado de manifestar a sua vontade, João é pessoa com absoluta incapacidade civil."
+      },
+      {
+        "letra": "C",
+        "texto": "curador, sendo possível, inclusive, o estabelecimento de curatela compartilhada em face da deficiência mental."
+      },
+      {
+        "letra": "D",
+        "texto": "Josefa como sua curadora, uma vez que o cônjuge casado pelo regime da comunhão universal de bens é de direito quem exercerá essa atribuição legal."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2068783",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: TJ-DFT",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Tutela e Curatela"
+    ],
+    "enunciado_principal": "Conforme entendimento do STJ, a imposição da guarda compartilhada dos filhos é afastada no caso de I inaptidão de um dos genitores para o exercício da guarda. II o genitor residir em país diferente daquele onde os filhos residem. III um dos genitores praticar atos contrários à moral. IV suspensão do poder familiar. V perda do poder familiar. Estão certos apenas os itens",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e V."
+      },
+      {
+        "letra": "B",
+        "texto": "IV e V."
+      },
+      {
+        "letra": "C",
+        "texto": "II, III e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "I, II, III e IV."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II, III e V."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1995385",
+    "metadata": "Ano: 2022 | Banca: IBFC | Órgão: TJ-MG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Tutela e Curatela"
+    ],
+    "enunciado_principal": "J., 14 anos, filho único, perdeu os pais e avós em um acidente fatal de trânsito ocorrido em 10/10/2022. Seus pais não deixaram testamento ou qualquer documento acerca dos representantes futuros do menor. Frente a essa situação, segundo o disposto no Código Civil (Lei Federal 10.406/2022), analise as afirmativas a seguir. I. Considerando ser menor de idade, ele será submetido à tutela, competindo ao tutor o representar até os até os dezesseis anos, nos atos da vida civil, e assisti-lo, após essa idade, nos atos em que for parte. II. Tendo em vista a ausência de ascendentes e de tutor nomeado pelos pais incumbe a tutela aos parentes consanguíneos do menor, colaterais até o quarto grau, preferindo os maiores de idade mais moços frente aos mais velhos. III. Podem escusar-se da tutela as tias de J. que forem casadas. IV.Não podem ser tutores, aqueles tios (tias) que já exercerem tutela ou curatela. Estão corretas as afirmativas:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e III apenas"
+      },
+      {
+        "letra": "B",
+        "texto": "II e III apenas"
+      },
+      {
+        "letra": "C",
+        "texto": "III e IV apenas"
+      },
+      {
+        "letra": "D",
+        "texto": "I e II apenas"
+      },
+      {
+        "letra": "E",
+        "texto": "II e IV apenas"
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1971708",
+    "metadata": "Ano: 2022 | Banca: FUNDEP (Gestão de Concursos) | Órgão: MPE-MG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Tutela e Curatela"
+    ],
+    "enunciado_principal": "Considerando a regulamentação da tomada de decisão apoiada disposta no Código Civil de 2002, analise as assertivas a seguir: I. A pessoa com deficiência poderá eleger pelo menos 2 (duas) pessoas, com as quais mantenha fidúcia e vínculos, para prestar-lhe apoio na tomada de decisão sobre atos da vida civil. II. Se o apoiador agir com negligência, exercer pressão indevida ou não adimplir as obrigações assumidas, cabe somente ao Ministério Público denunciar tais fatos. III. Não é exigível prestação de contas na tomada de decisão apoiada, mas somente na curatela. IV. O apoiador pode apresentar requerimento ao juiz para a exclusão de sua participação do processo de tomada de decisão apoiada, porém o seu desligamento é condicionado à manifestação do juiz sobre a matéria. Assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas as assertivas I, II e III são verdadeiras."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas as assertivas I, III, IV são verdadeiras."
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas as assertivas I e IV são verdadeiras."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas as assertivas II e IV são verdadeiras."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1960392",
+    "metadata": "Ano: 2022 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Tutela e Curatela"
+    ],
+    "enunciado_principal": "A interdição civil e curatela são ações judiciais que julgam a capacidade ou incapacidade de sujeitos para prover autonomamente atos da vida civil. No caso do julgamento da incapacidade, esse sujeito é interditado e uma pessoa, uma instituição ou outro ente é nomeado curador, tornando-se responsável pelos cuidados de sua saúde, de seu patrimônio e de proporcionar ao mesmo o acesso a seus direitos. Conforme o CFESS (2021), o Serviço Social, por meio dos conhecimentos que possui, pode contribuir para:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "emitir diagnóstico de alguém que vivencia um processo de interdição."
+      },
+      {
+        "letra": "B",
+        "texto": "indicar ao tutor ou curador tratamento e apoio apropriados à conquista da autonomia pelo interdito."
+      },
+      {
+        "letra": "C",
+        "texto": "especificar os fatos que demonstram a incapacidade do interditando para administrar seus bens e, se for o caso, para praticar atos da vida civil."
+      },
+      {
+        "letra": "D",
+        "texto": "contextualizar historicamente a incapacidade e até mesmo afirmar a sua improcedência, diante do que se observa acerca da vida dos sujeitos envolvidos."
+      },
+      {
+        "letra": "E",
+        "texto": "promover a ação de interdição nos casos em que os familiares, previstos em lei, não o façam ou em casos de doença mental grave."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1959639",
+    "metadata": "Ano: 2022 | Banca: FCC | Órgão: DPE-AP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Tutela e Curatela"
+    ],
+    "enunciado_principal": "Marta e Caíque procuraram a Defensoria Pública do Amapá afirmando que sua genitora Cássia possui deficiência intelectual e está impossibilitada de exprimir sua vontade. Em razão disso, ambos desejam ingressar com ação de curatela para representá-la em alguns atos da vida civil. Nessa situação,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a curatela de Cássia poderá ser exigida para emissão de documentos oficiais."
+      },
+      {
+        "letra": "B",
+        "texto": "o estabelecimento de curatela compartilhada a mais de uma pessoa constituirá medida excepcional e só poderá ser decretado de forma provisória, até que a autoridade judicial decida qual interessado é o mais apto a exercer o encargo."
+      },
+      {
+        "letra": "C",
+        "texto": "durante a curatela, não correrá a prescrição entre a genitora curatelada e seus filhos curadores."
+      },
+      {
+        "letra": "D",
+        "texto": "em razão da relação de parentesco sanguíneo de primeiro grau em linha reta entre as partes, há dispensa legal dos curadores na prestação de contas à autoridade judicial."
+      },
+      {
+        "letra": "E",
+        "texto": "a curatela de Cássia afetará tão somente os atos relacionados aos direitos patrimoniais e ao matrimônio."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1939515",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: PG-DF",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Personalidade, Pessoa Natural e Capacidade",
+      "Tutela e Curatela",
+      "Parte Geral"
+    ],
+    "enunciado_principal": "À luz do Código Civil e do Código de Processo Civil, e considerando a jurisprudência do STJ naquilo a que ela for pertinente, julgue o item que se segue. As pessoas com enfermidade ou deficiência mental, quando excepcionalmente forem submetidas a curatela, não poderão ser declaradas como absolutamente incapazes.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1935058",
+    "metadata": "Ano: 2022 | Banca: IBADE | Órgão: TJ-RS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Tutela e Curatela"
+    ],
+    "enunciado_principal": "A respeito da tutela e da curatela, à luz do Código Civil:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é válida a nomeação de tutor pelo pai ou pela mãe que, ao tempo de sua morte, não tinha o poder familiar."
+      },
+      {
+        "letra": "B",
+        "texto": "não podem ser tutores e serão exonerados da tutela, caso exerçam, aqueles que tiverem a livre administração de seus bens."
+      },
+      {
+        "letra": "C",
+        "texto": "os imóveis pertencentes aos menores sob tutela somente podem ser vendidos quando houver manifesta vantagem, mediante prévia avaliação judicial e aprovação do juiz."
+      },
+      {
+        "letra": "D",
+        "texto": "quando o curador for o cônjuge e o regime de bens do casamento for da comunhão parcial de bens, não será obrigado à prestação de contas, salvo determinação judicial."
+      },
+      {
+        "letra": "E",
+        "texto": "ainda que com a autorização judicial, poderá o tutor dispor dos bens do menor a título gratuito."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1927217",
+    "metadata": "Ano: 2022 | Banca: IBADE | Órgão: TJ-RS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Tutela e Curatela"
+    ],
+    "enunciado_principal": "Gardênia é assistente social e certo dia atendeu Cristiano, adolescente órfão de 13 anos, e seu irmão Estêvão, de 7 anos. Antes de morrerem, seus pais perderam o poder familiar em razão de denúncia por maus tratos, mas indicaram Bianca para ser a tutora, tia dos menores e casada com Ricardo. Contudo, o casal, mesmo sem filhos, alegou indisponibilidade. Quando o caso foi a juízo, o advogado responsável por defender o interesse dos menores indicou que Francisca, a avó de 70 anos, ocupasse o papel de tutora de Cristiano, enquanto Antônio, tio e militar em serviço, fosse o tutor de Estêvão. Para tristeza de Cristiano, ambos apenas concordaram com a tutela sob essa condição. Se pudesse escolher, o adolescente confessou o desejo de ser tutelado com o irmão, por Leandro, que é amigo da família e também não se opôs. Considerando os dados da história hipotética e à luz do Código Civil, a alternativa que indica corretamente a explicação que Gardênia pode oferecer aos irmãos sobre o caso é:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Bianca, tia dos irmãos, não poderia se escusar da tutela, por ser mulher casada e sem filhos."
+      },
+      {
+        "letra": "B",
+        "texto": "Os pais dos menores, ainda que desprovidos de poder familiar, poderiam indicar Bianca para a tutela dos irmãos."
+      },
+      {
+        "letra": "C",
+        "texto": "Sendo avó dos irmãos, Francisca não poderia se escusar da tutela usando como argumento sua idade avançada."
+      },
+      {
+        "letra": "D",
+        "texto": "Antônio, tio dos irmãos, está impedido de aceitar a tutela de Estêvão, por ser militar em serviço."
+      },
+      {
+        "letra": "E",
+        "texto": "O advogado errou ao indicar dois tutores e não há qualquer objeção para Leandro ser o tutor."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1914860",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: MPE-AC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Tutela e Curatela"
+    ],
+    "enunciado_principal": "A curatela afetará os atos relacionados aos direitos de natureza",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "negocial e laboral."
+      },
+      {
+        "letra": "B",
+        "texto": "patrimonial e negocial."
+      },
+      {
+        "letra": "C",
+        "texto": "patrimonial e laboral."
+      },
+      {
+        "letra": "D",
+        "texto": "eleitoral e matrimonial."
+      },
+      {
+        "letra": "E",
+        "texto": "educacional e eleitoral."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1908879",
+    "metadata": "Ano: 2022 | Banca: FCC | Órgão: DPE-PB",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Tutela e Curatela"
+    ],
+    "enunciado_principal": "Em relação aos efeitos da curatela,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a autoridade do curador não se estende aos filhos menores de 18 anos do curatelado, aos quais devem ser nomeados outros tutores."
+      },
+      {
+        "letra": "B",
+        "texto": "a responsabilidade civil do curador pelos danos praticados pelo curatelado depende da prova de dolo ou culpa daquele."
+      },
+      {
+        "letra": "C",
+        "texto": "a definição da curatela alcança o direito ao matrimônio, à saúde e ao trabalho da pessoa curatelada."
+      },
+      {
+        "letra": "D",
+        "texto": "não corre a prescrição entre curatelado e curador, durante o exercício da curatela."
+      },
+      {
+        "letra": "E",
+        "texto": "o curador não pode se casar com o curatelado, ainda que cessada a curatela e saldadas as contas."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1894976",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: DPE-DF",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Tutela e Curatela"
+    ],
+    "enunciado_principal": "Considere que Renata e Lucas vivam em união estável e tenham uma filha de sete anos de idade, fruto desse relacionamento. Considere, também, que o irmão de Lucas, seu parente mais próximo, tenha sido acometido de grave doença degenerativa. Acerca da situação hipotética, julgue o item a seguir, com base nas disposições do Código Civil.Caso Lucas e Renata viessem a falecer em decorrência de grave acidente, o irmão de Lucas poderia escusar-se da tutela de sua sobrinha.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1870500",
+    "metadata": "Ano: 2022 | Banca: CESPE / CEBRASPE | Órgão: DPE-PI",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Tutela e Curatela"
+    ],
+    "enunciado_principal": "O instituto da tutela se aplica a",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "maiores incapazes."
+      },
+      {
+        "letra": "B",
+        "texto": "pródigos."
+      },
+      {
+        "letra": "C",
+        "texto": "ébrios habituais e viciados em tóxicos."
+      },
+      {
+        "letra": "D",
+        "texto": "quem não pode exprimir sua vontade."
+      },
+      {
+        "letra": "E",
+        "texto": "menores cujos pais foram destituídos do poder familiar."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1864541",
+    "metadata": "Ano: 2021 | Banca: FCC | Órgão: TJ-SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Tutela e Curatela"
+    ],
+    "enunciado_principal": "Com o falecimento dos pais, os filhos menores que possuam patrimônio podem ser postos em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Medida de Segurança."
+      },
+      {
+        "letra": "B",
+        "texto": "Curatela."
+      },
+      {
+        "letra": "C",
+        "texto": "Tutela."
+      },
+      {
+        "letra": "D",
+        "texto": "Apadrinhamento Social."
+      },
+      {
+        "letra": "E",
+        "texto": "Inventário Disciplinar."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1836918",
+    "metadata": "Ano: 2021 | Banca: FCC | Órgão: DPE-RR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Tutela e Curatela"
+    ],
+    "enunciado_principal": "Após alguns episódios de esquecimento das chaves e do fogo aceso em casa, Joana procura atendimento médico especializado. Ao final de diversos exames e retornos em consultas, Joana recebe o diagnóstico de Alzheimer precoce. Preocupada em sofrer algum tipo de golpe financeiro ou mesmo ser enganada por amigos ou familiares, Joana procura a Defensoria Pública para orientação jurídica sobre como pode se precaver. Joana possui laudo multiprofissional que atesta suas capacidades mentais e sociais atuais e aponta o prognóstico de sua doença. Como responsável pelo atendimento de Joana, a melhor estratégia jurídica a ser adotada pelo/a Defensor/a Público/a, nesse momento, é a propositura de",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "testamento vital com a nomeação de representantes."
+      },
+      {
+        "letra": "B",
+        "texto": "ação para tomada de decisão apoiada tendo como autora Joana."
+      },
+      {
+        "letra": "C",
+        "texto": "ação de interdição civil total tendo como autora Joana."
+      },
+      {
+        "letra": "D",
+        "texto": "ação judicial para fixação dos limites da curatela em face de Joana."
+      },
+      {
+        "letra": "E",
+        "texto": "outorga de procuração pública com definição de poderes do procurador."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1826165",
+    "metadata": "Ano: 2021 | Banca: FCC | Órgão: TJ-GO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Tutela e Curatela"
+    ],
+    "enunciado_principal": "Compete ao tutor, independentemente de autorização do juiz,",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "receber as rendas e pensões do menor e transigir."
+      },
+      {
+        "letra": "B",
+        "texto": "vender os bens móveis e imóveis do menor, cuja conservação não convier, aplicando os respectivos preços na sua educação."
+      },
+      {
+        "letra": "C",
+        "texto": "representar o menor até os dezesseis anos nos atos da vida civil e, após essa idade, assisti-lo nos atos em que for parte, bem como promover-lhe, mediante preço conveniente, o arrendamento de bens imóveis."
+      },
+      {
+        "letra": "D",
+        "texto": "pagar as dívidas do menor e alienar seus bens destinados à venda."
+      },
+      {
+        "letra": "E",
+        "texto": "aceitar, pelo menor, heranças, legados ou doações com ou sem encargo."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1825512",
+    "metadata": "Ano: 2021 | Banca: NC-UFPR | Órgão: PC-PR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Personalidade, Pessoa Natural e Capacidade",
+      "Tutela e Curatela",
+      "Representação",
+      "Parte Geral"
+    ],
+    "enunciado_principal": "D.M., menor com dezesseis anos de idade, ficou órfã perdendo seu pai e sua mãe por conta da pandemia do novo coronavírus. Agora, após ser recentemente aprovada no vestibular de medicina, ela precisa manterse economicamente sozinha, tendo apenas um tio como tutor, que administra os bens e negócios deixados pelos seus pais, os quais empregam uma grande quantidade de trabalhadores. Considerando as informações apresentadas, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A morte dos pais de D.M. é suficiente para lhe garantir plena capacidade para os atos da vida civil, ante a situação excepcional de crise sanitária mundial, dispensando a oitiva de seu tutor."
+      },
+      {
+        "letra": "B",
+        "texto": "Uma das formas de D.M. adquirir a emancipação, tendo em vista possuir apenas dezesseis anos completos, se deu com a sua aprovação para curso superior."
+      },
+      {
+        "letra": "C",
+        "texto": "D.M. poderá ser emancipada somente por decisão judicial, após ouvido seu tutor, tendo em vista o falecimento de ambos os seus genitores."
+      },
+      {
+        "letra": "D",
+        "texto": "D.M. só poderá exercer os atos da vida civil após dezoito anos completos, nos termos da lei civil, quando adquirirá sua maioridade e consequente capacidade de direito."
+      },
+      {
+        "letra": "E",
+        "texto": "D.M. ficou imediatamente responsável pelos negócios de seus pais, o que acarretou sua emancipação automática por conta da presunção de economia própria, ainda que existente o tutor."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1141878",
+    "metadata": "Ano: 2020 | Banca: IBFC | Órgão: TRE-PA",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Personalidade, Pessoa Natural e Capacidade",
+      "Tutela e Curatela",
+      "Parte Geral"
+    ],
+    "enunciado_principal": "O Código Civil, no seu Art. 1.767, define quem, em razão de sua incapacidade, está sujeito à curatela. Quanto a quem está sujeito à curatela, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aqueles que, por outra causa duradoura, não puderem exprimir sua vontade"
+      },
+      {
+        "letra": "B",
+        "texto": "Aqueles que em detrimento de sua enfermidade ou deficiência mental, tiverem o necessário discernimento para os atos da vida civil"
+      },
+      {
+        "letra": "C",
+        "texto": "Todos indivíduos com uso nocivo de substâncias com síndrome de dependência."
+      },
+      {
+        "letra": "D",
+        "texto": "Aqueles que transitoriamente encontram-se incapacitados de exercer sua vontade por causa reversível"
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1167186",
+    "metadata": "Ano: 2019 | Banca: IDCAP | Órgão: Câmara de Boa Esperança - ES",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Tutela e Curatela"
+    ],
+    "enunciado_principal": "Com base no Código Civil, assinale a alternativa correta sobre a tutela:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O direito de nomear tutor compete aos pais, individualmente, valendo a decisão do pai."
+      },
+      {
+        "letra": "B",
+        "texto": "Mesmo em falta de tutor nomeado pelos pais não incumbe a tutela aos parentes consanguíneos do menor,"
+      },
+      {
+        "letra": "C",
+        "texto": "É nula a nomeação de tutor pelo pai ou pela mãe que, ao tempo de sua morte, não tinha o poder familiar."
+      },
+      {
+        "letra": "D",
+        "texto": "O juiz nunca poderá nomear tutor ao menor de idade."
+      },
+      {
+        "letra": "E",
+        "texto": "Os filhos menores não são postos em tutela, mas sim em tomada de decisão apoiada com o falecimento dos pais, ou sendo estes julgados ausentes"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1109753",
+    "metadata": "Ano: 2019 | Banca: MPE-GO | Órgão: MPE-GO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Tutela e Curatela"
+    ],
+    "enunciado_principal": "A curatela é o encargo imposto a alguém para reger e proteger a pessoa que, por causa transitória ou permanente, não possa exprimir a sua vontade, administrando os seus bens (STJ - Resp: 1515701/RS. Rel. Min. Luis Felipe Salomão, DJu. 02/10/2018, T4 - Quarta Turma, Data de Publicação: DJe 31/10/2018). Acerca do instituto da curatela, assinale a alternativa incorreta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não existem mais absolutamente incapazes maiores, por força das alterações que foram feitas no art. 3º do Código Civil pelo Estatuto da Pessoa com Deficiência (Lei n. 13.146/2015). Sendo assim, a curatela somente incide para os maiores relativamente incapazes, que são os ébrios habituais, os viciados em tóxicos, as pessoas que por causa transitória ou definitiva não puderem exprimir vontade e os pródigos."
+      },
+      {
+        "letra": "B",
+        "texto": "De acordo com posição dominante no STJ, o rol de legitimados para propor a ação de levantamento da curatela previsto no art. 756, § 1º do CPC/2015 é taxativo, somente podendo ser ajuizada pelas pessoas arroladas expressamente no mencionado dispositivo."
+      },
+      {
+        "letra": "C",
+        "texto": "O Ministério Público detém legitimidade expressa para propor a ação de levantamento de curatela."
+      },
+      {
+        "letra": "D",
+        "texto": "O Estatuto da Pessoa com Deficiência incluiu disposição expressa no Código Civil segundo a qual, na nomeação de curador para a pessoa com deficiência, o juiz poderá estabelecer a curatela compartilhada a mais de uma pessoa."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "960537",
+    "metadata": "Ano: 2019 | Banca: MPE-PR | Órgão: MPE-PR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Tutela e Curatela"
+    ],
+    "enunciado_principal": "Sobre tomada de decisão apoiada, assinale a alternativa incorreta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Antes de se pronunciar sobre o pedido de tomada de decisão apoiada, o juiz, assistido por equipe multidisciplinar, após oitiva do Ministério Público, ouvirá pessoalmente o requerente e as pessoas que lhe prestarão apoio."
+      },
+      {
+        "letra": "B",
+        "texto": "A decisão tomada por pessoa apoiada terá validade e efeitos sobre terceiros, sem restrições, desde que esteja inserida nos limites do apoio acordado."
+      },
+      {
+        "letra": "C",
+        "texto": "Terceiro com quem a pessoa apoiada mantenha relação negocial pode solicitar que os apoiadores contraassinem o contrato ou acordo, especificando, por escrito, sua função em relação ao apoiado."
+      },
+      {
+        "letra": "D",
+        "texto": "Em caso de negócio jurídico que possa trazer risco ou prejuízo relevante, se houver divergência de opiniões entre a pessoa apoiada e um dos apoiadores, prevalecerá a opinião do apoiador."
+      },
+      {
+        "letra": "E",
+        "texto": "O apoiador pode solicitar ao juiz a exclusão de sua participação do processo de tomada de decisão apoiada, sendo seu desligamento condicionado à manifestação do juiz sobre a matéria."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1636794",
+    "metadata": "Ano: 2018 | Banca: INSTITUTO AOCP | Órgão: ITEP-RN",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Tutela e Curatela"
+    ],
+    "enunciado_principal": "Quanto ao instituto da curatela, assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O cônjuge ou companheiro, separado judicialmente ou de fato, é, de direito, curador do outro, quando interdito."
+      },
+      {
+        "letra": "B",
+        "texto": "Na nomeação de curador para a pessoa com deficiência, o juiz poderá estabelecer curatela compartilhada a mais de uma pessoa."
+      },
+      {
+        "letra": "C",
+        "texto": "Dar-se-á curador ao nascituro se o pai falecer estando grávida a mulher, ainda que tenha o poder familiar."
+      },
+      {
+        "letra": "D",
+        "texto": "A interdição do pródigo o privará de emprestar, transigir, dar quitação, alienar, hipotecar, demandar ou ser demandado, e praticar, em geral, os atos que sejam de mera administração, ainda que tenha um curado."
+      },
+      {
+        "letra": "E",
+        "texto": "Estão sujeitos à curatela aqueles que, por enfermidade ou deficiência mental, não tiverem o necessário discernimento para os atos da vida civil, podendo estes serem interditados integralmente."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1632863",
+    "metadata": "Ano: 2018 | Banca: MS CONCURSOS | Órgão: GHC-RS",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Tutela e Curatela"
+    ],
+    "enunciado_principal": "Segundo o Estatuto da Criança e do Adolescente (ECA) e o Código Civil Brasileiro, como podemos conceituar a tutela?",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Encargo atribuído à criança ou adolescente menor de idade que foge da casa dos pais ou responsáveis."
+      },
+      {
+        "letra": "B",
+        "texto": "A sentença que declara a interdição do responsável pelo indivíduo maior de idade."
+      },
+      {
+        "letra": "C",
+        "texto": "Encargo atribuído por um juiz a um adulto para cuidar de outra pessoa também adulta com incapacidade física e mental."
+      },
+      {
+        "letra": "D",
+        "texto": "Encargo atribuído a uma pessoa adulta capaz de atender todos os interesses da criança ou adolescente. A nomeação deve constar em testamento ou qualquer outro documento autêntico."
+      },
+      {
+        "letra": "E",
+        "texto": "Encargo atribuído a uma pessoa adulta ao assinar união civil com a responsável pelo menor."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1190643",
+    "metadata": "Ano: 2018 | Banca: CESPE / CEBRASPE | Órgão: TJ-PR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Tutela e Curatela"
+    ],
+    "enunciado_principal": "Após o falecimento dos pais, uma criança de dez anos de idade foi colocada sob tutela de sua avó, de sessenta e cinco anos de idade, já que constitui parente de grau mais próximo. Em relação à tutela dessa criança, considerando-se as disposições legais, é correto afirmar que a avó",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "poderá se escusar da tutela, sob a alegação de ser aposentada."
+      },
+      {
+        "letra": "B",
+        "texto": "poderá se escusar da tutela, sob o fundamento de ser maior de sessenta anos."
+      },
+      {
+        "letra": "C",
+        "texto": "não poderá se escusar da tutela, já que é o parente de grau mais próximo da criança."
+      },
+      {
+        "letra": "D",
+        "texto": "não poderá se escusar da tutela, uma vez que tal ato é vedado pela legislação vigente."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1153566",
+    "metadata": "Ano: 2018 | Banca: Instituto Excelência | Órgão: Prefeitura de São Luís do Paraitinga - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Tutela e Curatela"
+    ],
+    "enunciado_principal": "Sobre procedimento chamado de tomada de decisão apoiada, por esse procedimento, a pessoa com deficiência:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pode eleger pelo menos 3 (três) pessoas idôneas, com as quais mantenha vínculos e que gozem de sua confiança, para prestar-lhe apoio na tomada de decisão sobre atos da vida civil, fornecendo-lhes os elementos e informações necessários para que possa exercer sua capacidade."
+      },
+      {
+        "letra": "B",
+        "texto": "recebe incentivo a candidatar-se e a desempenhar quaisquer funções públicas em todos os níveis de governo, inclusive por meio do uso de novas tecnologias assistivas, quando apropriado."
+      },
+      {
+        "letra": "C",
+        "texto": "tem direito ao trabalho de sua livre escolha e aceitação, em ambiente acessível e inclusivo, em igualdade de oportunidades com as demais pessoas."
+      },
+      {
+        "letra": "D",
+        "texto": "pode eleger pelo menos 2 (duas) pessoas idôneas, com as quais mantenha vínculos e que gozem de sua confiança, para prestar-lhe apoio na tomada de decisão sobre atos da vida civil, fornecendo-lhes os elementos e informações necessários para que possa exercer sua capacidade."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "950356",
+    "metadata": "Ano: 2018 | Banca: FCC | Órgão: MPE-PE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Tutela e Curatela"
+    ],
+    "enunciado_principal": "De acordo com a atual redação do Código Civil, estão sujeitos à curatela:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "aqueles que, por causa transitória ou permanente, não puderem exprimir sua vontade; os ébrios habituais e os viciados em tóxico; os deficientes mentais; e os deficientes visuais."
+      },
+      {
+        "letra": "B",
+        "texto": "aqueles que, por enfermidade ou deficiência mental, não tiverem o necessário discernimento para os atos da vida civil; aqueles que, por outra causa duradoura, não puderem exprimir a sua vontade; os deficientes mentais, os ébrios habituais e os viciados em tóxicos; os excepcionais sem completo desenvolvimento mental; os filhos menores de dezoito anos."
+      },
+      {
+        "letra": "C",
+        "texto": "aqueles que, por enfermidade ou deficiência mental, não tiverem o necessário discernimento para os atos da vida civil, desde que não se trate de fato transitório; e os ébrios habituais e os viciados em tóxicos."
+      },
+      {
+        "letra": "D",
+        "texto": "os excepcionais sem completo desenvolvimento mental; aqueles que, por outra causa duradoura, não puderem exprimir a sua vontade; os surdos, ainda que possam exprimir sua vontade; e os pródigos."
+      },
+      {
+        "letra": "E",
+        "texto": "aqueles que, por causa transitória ou permanente, não puderem exprimir sua vontade; os ébrios habituais e os viciados em tóxico; e os pródigos."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "941542",
+    "metadata": "Ano: 2018 | Banca: CONSULPLAN | Órgão: TJ-MG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Defeitos do Negócio Jurídico",
+      "Tutela e Curatela",
+      "Parte Geral"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Admite-se a nomeação conjunta de tutor, para filhos menores, pelo casal, em cédula testamentária única."
+      },
+      {
+        "letra": "B",
+        "texto": "Um imóvel instituído convencionalmente como bem de família isenta o prédio da execução de qualquer dívida posterior ao ato da instituição do bem."
+      },
+      {
+        "letra": "C",
+        "texto": "A anulação do negócio jurídico poderá ser evitada se a parte favorecida oferecer suplemento suficiente à outra parte ou se a parte favorecida concordar com a redução do proveito obtido."
+      },
+      {
+        "letra": "D",
+        "texto": "Em relação ao contrato de locação de imóvel não residencial, dissolvida a sociedade locatária por morte de um dos sócios, não há previsão legal para o exercício do direito de renovação do contrato de locação do imóvel para os sócios restantes."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "906387",
+    "metadata": "Ano: 2018 | Banca: VUNESP | Órgão: TJ-SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Tutela e Curatela"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta a respeito da tomada de decisão apoiada.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Terceiro com quem a pessoa apoiada mantenha relação negocial pode solicitar aos apoiadores que contra-assinem o contrato, especificando, por escrito, suas respectivas funções em relação ao apoiado."
+      },
+      {
+        "letra": "B",
+        "texto": "Antes da apreciação do pedido de tomada de decisão apoiada, é imprescindível a realização de perícia por equipe multidisciplinar, podendo ser dispensada, a critério do magistrado, a oitiva pessoal do requerente e das pessoas que lhe prestarão apoio."
+      },
+      {
+        "letra": "C",
+        "texto": "É um procedimento que implica em uma restrição da capacidade civil do autor do pedido, seja com relação à sua pessoa, seja com relação aos seus bens."
+      },
+      {
+        "letra": "D",
+        "texto": "Os apoiadores da pessoa com deficiência serão por ela indicados, com observância do rol previsto no artigo 1.775 do Código Civil e passarão a representá-la nos atos da vida civil."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "895172",
+    "metadata": "Ano: 2018 | Banca: IESES | Órgão: TJ-AM",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Direito de Família",
+      "Tutela e Curatela"
+    ],
+    "enunciado_principal": "A respeito da curatela, responda: I. Não corre prescrição entre curatelados e seus curadores, durante a curatela. II. Há impedimento matrimonial entre o tutor e os seus descendentes, ascendentes, irmãos, cunhados ou sobrinhos, com a pessoa curatelada, enquanto não cessar a curatela, e não estiverem saldadas as respectivas contas. III. Quando o curador for o cônjuge e o regime de bens do casamento for de comunhão universal, não será obrigado à prestação de contas, salvo determinação judicial. Assinale a correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas as assertivas I e III são verdadeiras."
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas a assertiva II é verdadeira."
+      },
+      {
+        "letra": "C",
+        "texto": "Todas as assertivas são verdadeiras."
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas as assertivas I e II são verdadeiras."
+      }
+    ],
+    "gabarito": "A"
+  }
+]

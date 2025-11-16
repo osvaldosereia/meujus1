@@ -1,0 +1,1685 @@
+[
+  {
+    "id": "3407501",
+    "metadata": "Ano: 2025 | Banca: CESPE / CEBRASPE | Órgão: STM",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Parte Geral",
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "Julgue o item a seguir, a respeito das pessoas jurídicas, do negócio jurídico, das obrigações e dos contratos.Constitui ato ilícito a destruição de coisa alheia para a remoção de perigo iminente.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "3284404",
+    "metadata": "Ano: 2025 | Banca: Avança SP | Órgão: Prefeitura de Caconde - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Ato Jurídico, Fato Jurídico e Teoria Geral do Negócio Jurídico",
+      "Parte Geral",
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "Em relação aos atos jurídicos lícitos e ilícitos, analise as afirmativas abaixo atribuindo (V) para Verdadeira e (F) para Falsa, em seguida assinale a alternativa com a sequência correta. ( ) Aquele que, por ação ou omissão involuntária, negligência ou imprudência, violar direito e causar dano a outrem, ainda que exclusivamente moral, comete ato ilícito. ( ) Também comete ato ilícito o titular de um direito que, ao exercê-lo, excede manifestamente os limites impostos pelo seu fim econômico ou social, pela boa-fé ou pelos bons costumes. ( ) Não constitui ato ilícito os praticados em legítima defesa ou no exercício regular de um direito reconhecido.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "V, V, V"
+      },
+      {
+        "letra": "B",
+        "texto": "V, F, V"
+      },
+      {
+        "letra": "C",
+        "texto": "V, F, F"
+      },
+      {
+        "letra": "D",
+        "texto": "F, V, V"
+      },
+      {
+        "letra": "E",
+        "texto": "F, F, V"
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3228252",
+    "metadata": "Ano: 2025 | Banca: IBGP | Órgão: TJ-PR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Parte Geral",
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "O Código Civil determina que quem, por ato ilícito, causar dano a outrem, fica obrigado a repará-lo. Sobre a disciplina da responsabilidade civil, assinale a alternativa CORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Ressalvados outros casos previstos em lei especial, os empresários individuais e as empresas respondem independentemente de culpa pelos danos causados pelos produtos postos em circulação."
+      },
+      {
+        "letra": "B",
+        "texto": "Aquele que ressarcir o dano causado por outrem pode reaver o que houver pago daquele por quem pagou, mesmo se o causador do dano for descendente seu, absoluta ou relativamente incapaz."
+      },
+      {
+        "letra": "C",
+        "texto": "A responsabilidade civil é independente da criminal, sendo possível, portanto, questionar sobre a existência do fato, ou sobre quem seja o seu autor, quando estas questões se acharem decididas no juízo criminal."
+      },
+      {
+        "letra": "D",
+        "texto": "O dono ou detentor do animal ressarcirá o dano por este causado, ainda que venha a provar culpa da vítima ou força maior."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "3228251",
+    "metadata": "Ano: 2025 | Banca: IBGP | Órgão: TJ-PR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Ato Jurídico, Fato Jurídico e Teoria Geral do Negócio Jurídico",
+      "Parte Geral",
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "Sobre os atos jurídicos lícitos e ilícitos, a partir da legislação e da jurisprudência do Supremo Tribunal Federal acerca do tema, assinale a alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Na hipótese de publicação de entrevista em que o entrevistado imputa falsamente prática de crime a terceiro, a empresa jornalística poderá, em qualquer caso, ser responsabilizada solidariamente, conforme entendimento do Supremo Tribunal Federal."
+      },
+      {
+        "letra": "B",
+        "texto": "Aquele que, por ação ou omissão voluntária, negligência ou imprudência, violar direito e causar dano a outrem, exceto se exclusivamente moral, comete ato ilícito."
+      },
+      {
+        "letra": "C",
+        "texto": "A deterioração ou destruição da coisa alheia, ou a lesão a pessoa, a fim de remover perigo iminente, constitui ato ilícito, ainda que moralmente justificável."
+      },
+      {
+        "letra": "D",
+        "texto": "Também comete ato ilícito o titular de um direito que, ao exercê-lo, excede manifestamente os limites impostos pelo seu fim econômico ou social, pela boa-fé ou pelos bons costumes."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "3168536",
+    "metadata": "Ano: 2024 | Banca: AMAUC | Órgão: Companhia Hidromineral de Piratuba - SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Responsabilidade civil",
+      "Parte Geral",
+      "Responsabilidade Civil - Teorias, Espécies e Pressupostos.",
+      "Atos Ilícitos",
+      "Elementos Essenciais – Conduta, Nexo Causal, Culpa e Dano"
+    ],
+    "enunciado_principal": "A responsabilidade civil do guarda-vidas envolve o dever de agir com diligência e evitar danos a terceiros. Analise as afirmativas a seguir. I. A omissão no resgate de um banhista em perigo pode gerar responsabilização civil.II. O guarda-vidas responde apenas administrativamente perante seus superiores, sem implicações judiciais. III. A responsabilidade civil abrange tanto ações quanto omissões que causem prejuízos a terceiros. Está correto o que se afirma em:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "II e III, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "II, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "I e III, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "E",
+        "texto": "I e II, apenas."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "3091385",
+    "metadata": "Ano: 2024 | Banca: FGV | Órgão: TJ-RR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Parte Geral",
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "Em relação aos atos ilícitos, analise as assertivas a seguir. I. Comete ato ilícito o titular de um direito que, ao exercê-lo, excede manifestamente os limites impostos pelo seu fim econômico ou social, pela boa-fé ou pelos bons costumes. II. Não constituem atos ilícitos os praticados em legítima defesa ou no exercício regular de um direito reconhecido. III. Constituem atos ilícitos a deterioração ou destruição da coisa alheia, ou a lesão a pessoa, a fim de remover perigo iminente. Nesse caso, o ato será ilegítimo, do ponto de cista do Direito Civil, mesmo quando as circunstâncias o tornarem absolutamente necessário, não excedendo os limites do indispensável para a remoção do perigo. No entanto, tais circunstâncias poderão influenciar na esfera penal. De acordo com o Código Civil, está correto o que se afirma em",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "II e III, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "I e III, apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II e III."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2681870",
+    "metadata": "Ano: 2024 | Banca: Quadrix | Órgão: CRM-RR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Parte Geral",
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "Considerando o Código Civil, julgue o item a seguir. Não comete ato ilícito o titular de direito que, ao exercê‑lo, exceda os limites impostos por sua finalidade econômica.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2564421",
+    "metadata": "Ano: 2024 | Banca: CESPE / CEBRASPE | Órgão: Prefeitura de Mossoró - RN",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Parte Geral",
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "Com referência a prescrição, decadência e atos ilícitos, julgue o próximo item.No caso de perigo iminente, é lícita a destruição ou deterioração de coisa alheia, mas, civilmente, considera-se ilícita a lesão corporal à pessoa sob as mesmas circunstâncias.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2559255",
+    "metadata": "Ano: 2024 | Banca: IGEDUC | Órgão: Câmara de Abreu e Lima - PE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Parte Geral",
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "Julgue o item subsequente. De acordo com o Código Civil brasileiro, a configuração de um ato ilícito requer a demonstração de violação de direito e a ocorrência de dano, implicando a obrigatoriedade de reparação por parte do agente causador, independentemente da existência de dolo ou culpa.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2559236",
+    "metadata": "Ano: 2024 | Banca: IGEDUC | Órgão: Câmara de Abreu e Lima - PE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Parte Geral",
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "Julgue o item subsequente. De acordo com o Código Civil brasileiro, um ato jurídico lícito realizado sem a intenção de prejudicar, mas que resulta em dano a terceiros, obriga o agente a reparar o dano se for comprovado que ele agiu com negligência, imprudência ou imperícia.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2521598",
+    "metadata": "Ano: 2024 | Banca: Avança SP | Órgão: Prefeitura de Guarulhos - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Parte Geral",
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "Indique a afirmativa INCORRETA quando tratamos de ato ilícito:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o ato ilícito se divide em subjetivo e objetivo; o primeiro relacionado ao estado de consciência e o segundo com a conduta e o abuso de direito."
+      },
+      {
+        "letra": "B",
+        "texto": "aquele que, por ação ou omissão voluntária, negligência ou imprudência, violar direito e causar dano a outrem, ainda que exclusivamente moral, comete ato ilícito, ficando obrigado a repará-lo."
+      },
+      {
+        "letra": "C",
+        "texto": "também comete ato ilícito o titular de um direito que, ao exercê-lo, excede manifestamente os limites impostos pelo seu fim econômico ou social, pela boa-fé ou pelos bons costumes."
+      },
+      {
+        "letra": "D",
+        "texto": "depende de prova do prejuízo a indenização pela publicação não autorizada de imagem de pessoa com fins econômicos ou comerciais."
+      },
+      {
+        "letra": "E",
+        "texto": "caracteriza dano moral a apresentação antecipada de cheque pré-datado. A simples devolução indevida de cheque caracteriza dano moral."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2497624",
+    "metadata": "Ano: 2024 | Banca: IBADE | Órgão: Prefeitura de Jaru - RO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Parte Geral",
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "Acerca dos atos ilícitos, é correto dizer que, de acordo com o Código Civil:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a violação da boa-fé não pode ser considerada um ato ilícito;"
+      },
+      {
+        "letra": "B",
+        "texto": "a deterioração ou destruição da coisa alheia, a fim de remover perigo iminente, não será considerada legítima mesmo se as circunstâncias a tornarem necessária;"
+      },
+      {
+        "letra": "C",
+        "texto": "constituem atos ilícitos mesmo aqueles praticados em legítima defesa;"
+      },
+      {
+        "letra": "D",
+        "texto": "o exercício de direito que excede o limite dos bons costumes pode ser considerado um ato ilícito;"
+      },
+      {
+        "letra": "E",
+        "texto": "aquele que, por ação ou omissão voluntária, negligência ou imprudência, violar direito e causar dano a outrem, desde que não exclusivamente moral, comete ato ilícito."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2493716",
+    "metadata": "Ano: 2024 | Banca: UNIVIDA | Órgão: Prefeitura de Iguaraçu - PR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Parte Geral",
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "São atos jurídicos lícitos, todo ato lícito que tenha por fim imediato adquirir, resguardar, transferir, modificar ou extinguir direitos. Assim, segundo o Código Civil responda corretamente sobre ato ilícito:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aquele que, por ação ou omissão voluntária, negligência ou imprudência, violar direito e causar dano a outrem, desde que não seja moral, comete ato ilícito."
+      },
+      {
+        "letra": "B",
+        "texto": "Sempre constitui ato ilícito a deterioração ou destruição da coisa alheia, ou a lesão a pessoa, a fim de remover perigo iminente."
+      },
+      {
+        "letra": "C",
+        "texto": "Também comete ato ilícito o titular de um direito que, ao exercê-lo, excede manifestamente os limites impostos pelo seu fim econômico ou social, pela boa-fé ou pelos bons costumes."
+      },
+      {
+        "letra": "D",
+        "texto": "Constitui ato ilícito os praticados em legítima defesa ou no exercício regular de um direito reconhecido."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2476380",
+    "metadata": "Ano: 2024 | Banca: CESPE / CEBRASPE | Órgão: DPE-AC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Personalidade, Pessoa Natural e Capacidade",
+      "Parte Geral",
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "De acordo com o STJ e o Código Civil, se ocorrer a contratação de cartão de crédito, mediante fraude, após a morte do usuário, e daí resultar a inscrição do nome do de cujus nos cadastros de devedores inadimplentes, a propositura de ação judicial para pleitear que cesse a lesão ou ameaça dos direitos da personalidade",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "caberá a qualquer interessado."
+      },
+      {
+        "letra": "B",
+        "texto": "caberá ao cônjuge sobrevivente ou a qualquer dos parentes em linha reta, ou colateral até o quarto grau."
+      },
+      {
+        "letra": "C",
+        "texto": "atenta contra o ordenamento jurídico brasileiro, dada a falta de previsão legal para conferir legitimidade aos sucessores."
+      },
+      {
+        "letra": "D",
+        "texto": "caberá ao espólio."
+      },
+      {
+        "letra": "E",
+        "texto": "não será possível, por se tratar de direito intransmissível."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2415112",
+    "metadata": "Ano: 2024 | Banca: IGEDUC | Órgão: Câmara de Olinda - PE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Parte Geral",
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "Julgue o item que se segue.Os atos ilícitos no Direito Civil são caracterizados pela existência de um dano, requerendo que haja uma violação de direitos com consequências negativas, seja por ação ou omissão, voluntária ou não, incluindo tanto aspectos subjetivos quanto objetivos na sua configuração.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2415091",
+    "metadata": "Ano: 2024 | Banca: IGEDUC | Órgão: Câmara de Olinda - PE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Parte Geral",
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "Julgue o item que se segue.A licitude de um fato jurídico é irrelevante para sua classificação, visto que o Direito não faz distinção entre fatos conforme sua conformidade com a norma, tratando da mesma forma atos lícitos e ilícitos.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2371662",
+    "metadata": "Ano: 2024 | Banca: CESPE / CEBRASPE | Órgão: INPI",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Parte Geral",
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "Acerca de fatos e negócios jurídicos, de atos jurídicos, de prescrição e decadência, de prova dos fatos jurídicos e de contratos, julgue o item a seguir.Ainda que o abuso de direito possa ser caracterizado como ato lícito, haverá sempre obrigação de indenizar o prejudicado.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2326905",
+    "metadata": "Ano: 2023 | Banca: IMPARH | Órgão: Prefeitura de Pedra Branca - CE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Parte Geral",
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "Marque a resposta certa.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "É nulo o ato jurídico quando a lei taxativamente assim o declarar nulo, ou proibir-lhe a prática, ainda que sem cominar sanção."
+      },
+      {
+        "letra": "B",
+        "texto": "É anulável o ato jurídico por vício resultante de erro, culpa, dolo, coação e estado de perigo."
+      },
+      {
+        "letra": "C",
+        "texto": "Não constituem atos ilícitos os praticados em legítima defesa, salvo se as circunstâncias não o tornarem absolutamente necessário."
+      },
+      {
+        "letra": "D",
+        "texto": "Aquele que, por ação ou omissão voluntária, negligência ou imprudência, violar direito e causar dano a outrem, ainda que exclusivamente moral, comete ato ilícito."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2281642",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: TBG",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Responsabilidade civil",
+      "Parte Geral",
+      "Atos Ilícitos",
+      "Indenização - Liquidação do Dano"
+    ],
+    "enunciado_principal": "A respeito da analogia, dos atos e negócios jurídicos, das obrigações e da prescrição, julgue o item subsecutivo. Embora não se caracterize como ato ilícito, o abuso de direito enseja indenização.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2279502",
+    "metadata": "Ano: 2023 | Banca: IADES | Órgão: CRF-TO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Parte Geral",
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "Quando o Código Civil faz menção ao ato ilícito, no art. 186, ele afirma que",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "esse ato importa no cometimento de crime."
+      },
+      {
+        "letra": "B",
+        "texto": "quem pratica ato ilícito, nesses termos, responderá criminalmente."
+      },
+      {
+        "letra": "C",
+        "texto": "o ordenamento jurídico vigente foi descumprido por alguém, e essa conduta gerou dano a outrem, obrigando o autor da conduta a indenizar a vítima pecuniariamente."
+      },
+      {
+        "letra": "D",
+        "texto": "esse ato pode gerar dano patrimonial, mas não moral."
+      },
+      {
+        "letra": "E",
+        "texto": "o ordenamento jurídico vigente foi descumprido por alguém que agiu dolosamente e, por isso, terá o dever de indenizar civil e penalmente."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2253118",
+    "metadata": "Ano: 2023 | Banca: VUNESP | Órgão: Prefeitura de São Paulo - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Parte Geral",
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "De acordo com o Código Civil Brasileiro, aquele que, por ação ou omissão voluntária, negligência ou imprudência, violar direito e causar dano a outrem, ainda que exclusivamente moral, comete ato ilícito. No entanto, não comete ato ilícito:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "o titular de um direito que, ao exercê-lo, excede manifestamente os limites impostos pelos bons costumes, já que o direito civil não regula o direito consuetudinário."
+      },
+      {
+        "letra": "B",
+        "texto": "o indivíduo que destrói coisa alheia, a fim de remover perigo iminente, ainda que as circunstâncias o tornem absolutamente desnecessário."
+      },
+      {
+        "letra": "C",
+        "texto": "o titular de um direito que, ao exercê-lo, excede manifestamente os limites impostos pelo seu fim econômico."
+      },
+      {
+        "letra": "D",
+        "texto": "o indivíduo que lesionar uma pessoa, a fim de remover perigo iminente, ainda que as circunstâncias o tornem absolutamente desnecessário."
+      },
+      {
+        "letra": "E",
+        "texto": "o sujeito que praticar atos em legítima defesa, ainda que suscetíveis de causar danos a terceiros."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "2249314",
+    "metadata": "Ano: 2023 | Banca: FAU | Órgão: UNIOESTE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Parte Geral",
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "No tocante ao tema do dano moral, em especial no que traz o nosso código cível, em seu artigo 186, aponte a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aquele que, por ação ou omissão voluntária ou involuntária, negligência ou imprudência, violar direito e causar dano a outrem, ainda que exclusivamente moral, comete ato ilícito."
+      },
+      {
+        "letra": "B",
+        "texto": "Aquele que, por ação ou omissão voluntária, negligência e imprudência, violar direito e causar dano a outrem, ainda que exclusivamente moral, comete ato ilícito."
+      },
+      {
+        "letra": "C",
+        "texto": "Aquele que, por ação ou omissão voluntária, negligência ou imprudência, violar direito e causar dano a outrem, ainda que exclusivamente moral, comete ato ilícito."
+      },
+      {
+        "letra": "D",
+        "texto": "Aquele que, por ação e omissão voluntária, negligência ou imprudência, violar direito e causar dano a outrem, ainda que exclusivamente moral, comete ato ilícito."
+      },
+      {
+        "letra": "E",
+        "texto": "Aquele que, por ação e omissão voluntária, negligência e imprudência, violar direito e causar dano a outrem, ainda que exclusivamente moral, comete ato ilícito."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2231543",
+    "metadata": "Ano: 2023 | Banca: TJ-AP | Órgão: TJ-AP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Ato Jurídico, Fato Jurídico e Teoria Geral do Negócio Jurídico",
+      "Parte Geral",
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "Renata conduzia seu veículo pela Rodovia Duca Serra, conforme as regras de trânsito da via, quando foi surpreendida por um veículo que abruptamente invadiu sua faixa na contramão e a fez desviar para a calçada, porém a condutora prudente e ágil visualiza um pedestre e para não atropelá-lo desvia novamente, chocando-se com o muro da residência de Jean que desmorona parcialmente. Diante dos fatos acima relatos, responda de acordo com o Código Civil e Jurisprudência dos Tribunais Superiores:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A conduta de Renata é lícita, pois praticada em estado de necessidade, porém não resta afastado seu dever de indenizar Jean."
+      },
+      {
+        "letra": "B",
+        "texto": "A conduta de Renata é ilícita, mesmo praticada em estado de necessidade de terceiro, razão pela qual deve indenizar Jean."
+      },
+      {
+        "letra": "C",
+        "texto": "A conduta de Renata é lícita, pois praticada em estado de necessidade, afastando o dever desta de indenizar Jean."
+      },
+      {
+        "letra": "D",
+        "texto": "Renata não deve indenizar Jean, pois agiu amparada por uma causa supralegal de exclusão da responsabilidade civil."
+      },
+      {
+        "letra": "E",
+        "texto": "A conduta de Renata é ilícita, mas afasta o dever de indenizar Jean, pois a culpa foi de terceiro."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "2215646",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: MPE-BA",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Parte Geral",
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "De acordo com o Superior Tribunal de Justiça (STJ), se a parte a que a perda aproveita permanecer deliberadamente inerte diante do dano, haverá abuso de direito, por se configurar o(a)",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "surrectio."
+      },
+      {
+        "letra": "B",
+        "texto": "duty to mitigate the own loss."
+      },
+      {
+        "letra": "C",
+        "texto": "supressio."
+      },
+      {
+        "letra": "D",
+        "texto": "venire contra factum proprium."
+      },
+      {
+        "letra": "E",
+        "texto": "tu quoque."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2207164",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: PC-AL",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Parte Geral",
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "Em relação à prática de ato ilícito, julgue o seguinte item. Não constitui ilícito o ato praticado no exercício regular de um direito reconhecido.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2207162",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: PC-AL",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Parte Geral",
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "Em relação à prática de ato ilícito, julgue o seguinte item.Causar dano a outrem, ainda que exclusivamente moral, é requisito para configuração de ato ilícito.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2165664",
+    "metadata": "Ano: 2023 | Banca: PROMUN | Órgão: Câmara de Roseira - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Parte Geral",
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "De acordo com o Código Civil Brasileiro, em relação aos atos ilícitos, considere os itens I, II e III abaixo: I. Não comete ato ilícito o titular de um direito que, ao exercê-lo, excede manifestamente os limites impostos pelo seu fim econômico ou social, pela boa-fé ou pelos bons costumes. II. Aquele que, por ação ou omissão voluntária, negligência ou imprudência, violar direito e causar dano a outrem, ainda que exclusivamente moral, comete ato ilícito. III. Os atos praticados em legítima defesa ou no exercício regular de um direito reconhecido não são ilícitos. Estão CORRETOS:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente o item I"
+      },
+      {
+        "letra": "B",
+        "texto": "Somente os itens I e II"
+      },
+      {
+        "letra": "C",
+        "texto": "Somente os itens I e III"
+      },
+      {
+        "letra": "D",
+        "texto": "Somente os itens II e III."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2134218",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: AGU",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Ato Jurídico, Fato Jurídico e Teoria Geral do Negócio Jurídico",
+      "Defeitos do Negócio Jurídico",
+      "Parte Geral",
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "Com relação ao negócio jurídico e o ato ilícito, Julgue os itens a seguir. I Nulidade textual é aquela expressamente disciplinada em lei:II A simulação é causa exclusiva de anulabilidade do negócio jurídico.III O negócio jurídico nulo não é suscetível de confirmação nem convalesce pelo decurso do tempo.IV Ato praticado em legítima defesa ou no exercício irregular de um direito não configura ato ilícito. V O ilícito caducificante é aquele que se relaciona à perda de um direito, como ocorre com a perda do poder familiar.Estão certos apenas os itens",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II e IV."
+      },
+      {
+        "letra": "B",
+        "texto": "I, III e V."
+      },
+      {
+        "letra": "C",
+        "texto": "I, IV e V."
+      },
+      {
+        "letra": "D",
+        "texto": "II, III e V."
+      },
+      {
+        "letra": "E",
+        "texto": "II , III e IV."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2133491",
+    "metadata": "Ano: 2023 | Banca: VUNESP | Órgão: Prefeitura de Marília - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Parte Geral",
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "Ocorre exclusivamente abuso de direito quando",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "acontecer necessariamente um dano."
+      },
+      {
+        "letra": "B",
+        "texto": "decorrer de um ato praticado com culpa."
+      },
+      {
+        "letra": "C",
+        "texto": "o ato é resultado do exercício não regular de um direito."
+      },
+      {
+        "letra": "D",
+        "texto": "praticado o ato de maneira oculta."
+      },
+      {
+        "letra": "E",
+        "texto": "aferível subjetivamente."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2131220",
+    "metadata": "Ano: 2023 | Banca: FUNDEPES | Órgão: Prefeitura de Marechal Deodoro - AL",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Prescrição e Decadência",
+      "Parte Geral",
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "Dadas as afirmativas referentes à prescrição, à decadência e aos atos jurídicos lícitos e ilícitos, I. Na decadência convencional, a parte da qual se aproveita pode alegá-la em qualquer grau de jurisdição, bem como o juiz poderá, na sua falta, suplementá-la em face de imposição de norma de ordem pública. II. A renúncia da prescrição pode ser expressa ou tácita, e somente valerá, sendo feita, sem prejuízo de terceiro, depois que a prescrição se consumar; sendo considerada tácita a renúncia quando se presume de fatos do interessado, incompatíveis com a prescrição. III. Aquele que, por ação ou omissão voluntária, por negligência ou imprudência, violar direito e causar dano a outrem, ainda que exclusivamente moral, comete ato ilícito. verifica-se que está/ão correta/s",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, apenas."
+      },
+      {
+        "letra": "B",
+        "texto": "III, apenas."
+      },
+      {
+        "letra": "C",
+        "texto": "I e II, apenas."
+      },
+      {
+        "letra": "D",
+        "texto": "II e III, apenas."
+      },
+      {
+        "letra": "E",
+        "texto": "I, II e III."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2115949",
+    "metadata": "Ano: 2023 | Banca: CESPE / CEBRASPE | Órgão: TJ-ES",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Responsabilidade civil",
+      "Parte Geral",
+      "Atos Ilícitos",
+      "Indenização - Liquidação do Dano"
+    ],
+    "enunciado_principal": "Ainda que tenha sido praticado em legítima defesa, todo ato enseja a obrigação de indenizar se causar prejuízo a terceiro.",
+    "alternativas": [
+      {
+        "letra": "",
+        "texto": "Certo"
+      },
+      {
+        "letra": "",
+        "texto": "Errado"
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2197936",
+    "metadata": "Ano: 2022 | Banca: FCC | Órgão: TRT - 14ª Região (RO e AC)",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Ato Jurídico, Fato Jurídico e Teoria Geral do Negócio Jurídico",
+      "Parte Geral",
+      "Teoria das Nulidades: Causas de Nulidade e de Anulabilidade",
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "De acordo com o Código Civil, o negócio que tiver objeto ilícito é considerado",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "inexistente."
+      },
+      {
+        "letra": "B",
+        "texto": "nulo."
+      },
+      {
+        "letra": "C",
+        "texto": "válido, mas ineficaz."
+      },
+      {
+        "letra": "D",
+        "texto": "anulável."
+      },
+      {
+        "letra": "E",
+        "texto": "válido, mas inexigível."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "2058906",
+    "metadata": "Ano: 2022 | Banca: IBADE | Órgão: Prefeitura de Colíder - MT",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Parte Geral",
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "Analise as assertivas e responda. I – Os praticados em legítima defesa. II – Os praticados no exercício regular de um direito reconhecido. III – A deterioração ou destruição da coisa alheia a fim de remover perigo iminente. IV - A lesão à pessoa a fim de remover perigo iminente. O Código Civil Brasileiro prevê que aquele que, por ação ou omissão voluntária, negligência ou imprudência, violar direito e causar dano a outrem, ainda que exclusivamente moral, comete ato ilícito. Nesse sentido, é CORRETO afirmar que, das assertivas dispostas, não constituem atos ilícitos:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I, II e III."
+      },
+      {
+        "letra": "B",
+        "texto": "I e II."
+      },
+      {
+        "letra": "C",
+        "texto": "I, II, III e IV."
+      },
+      {
+        "letra": "D",
+        "texto": "II e III."
+      },
+      {
+        "letra": "E",
+        "texto": "III e IV."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2025396",
+    "metadata": "Ano: 2022 | Banca: FAU | Órgão: Prefeitura de Ponta Grossa - PR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Parte Geral",
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "A respeito dos Atos Jurídicos Ilícitos, dispostos no Código Civil, assinale a única alternativa CORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Constituem atos ilícitos os praticados em legítima defesa ou no exercício regular de um direito reconhecido."
+      },
+      {
+        "letra": "B",
+        "texto": "A deterioração ou destruição da coisa alheia, ou a lesão a pessoa, a fim de remover perigo iminente, sempre é considerada ato ilícito."
+      },
+      {
+        "letra": "C",
+        "texto": "Aquele que, por ação ou omissão voluntária, negligência ou imprudência, violar direito e causar dano a outrem, ainda que exclusivamente moral, não comete ato ilícito."
+      },
+      {
+        "letra": "D",
+        "texto": "Comete ato ilícito o titular de um direito que, ao exercê-lo, excede manifestamente os limites impostos pelo seu fim econômico ou social, pela boa-fé ou pelos bons costumes."
+      },
+      {
+        "letra": "E",
+        "texto": "Não existe ato ilícito na legislação civil."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1958885",
+    "metadata": "Ano: 2022 | Banca: TRF - 4ª REGIÃO | Órgão: TRF - 4ª REGIÃO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Princípios Gerais de Direito Civil",
+      "Lei de Introdução às Normas do Direito Brasileiro (LINDB)",
+      "Responsabilidade civil",
+      "Parte Geral",
+      "Atos Ilícitos",
+      "Indenização - Liquidação do Dano"
+    ],
+    "enunciado_principal": "Assinale a alternativa INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O Código Civil de 2002 adotou a técnica legislativa das cláusulas gerais."
+      },
+      {
+        "letra": "B",
+        "texto": "O instituto jurídico da prescrição fulmina a pretensão do direito subjetivo, e não a respectiva ação judicial."
+      },
+      {
+        "letra": "C",
+        "texto": "Os três princípios fundamentais que guiaram a edição do Código Civil de 2002 são a eticidade, a socialidade e a operabilidade."
+      },
+      {
+        "letra": "D",
+        "texto": "Aquele que habitar prédio, ou parte dele, responde pelo dano proveniente das coisas que dele caírem ou forem lançadas em lugar indevido."
+      },
+      {
+        "letra": "E",
+        "texto": "A previsão do abuso do direito no Código Civil não contempla o ato ilícito, derivando da boa-fé objetiva na sua função limitadora do exercício de direitos subjetivos."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1938361",
+    "metadata": "Ano: 2022 | Banca: Instituto Access | Órgão: TJ-PB",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Parte Geral",
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "Não constituem atos ilícitos",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "os praticados em legítima defesa ou no exercício regular de um direito reconhecido; e a deterioração ou destruição da coisa alheia, ou a lesão a pessoa, a fim de remover perigo iminente."
+      },
+      {
+        "letra": "B",
+        "texto": "os praticados em legítima defesa ou no exercício regular de um direito iminente; e a deterioração ou destruição da coisa alheia, ou a lesão a pessoa, a fim de remover perigo reconhecido."
+      },
+      {
+        "letra": "C",
+        "texto": "os praticados em defesa da honra ou no exercício regular de um direito reconhecido; e a deterioração ou destruição da coisa alheia, ou a lesão a pessoa, a fim de remover perigo iminente."
+      },
+      {
+        "letra": "D",
+        "texto": "os praticados em defesa da honra ou no exercício regular de um direito reconhecido; e a deterioração ou destruição da coisa alheia, ou a lesão a pessoa, a fim de remover perigo reconhecido."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1905218",
+    "metadata": "Ano: 2022 | Banca: UECE-CEV | Órgão: Prefeitura de Sobral - CE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Parte Geral",
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "Constituem atos ilícitos",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "a deterioração ou destruição da coisa alheia, ou a lesão a pessoa, a fim de remover perigo iminente."
+      },
+      {
+        "letra": "B",
+        "texto": "aqueles que, por negligência ou imprudência, violarem direito e causarem dano a outrem."
+      },
+      {
+        "letra": "C",
+        "texto": "os praticados em desacordo com a legislação civil, ainda que em legítima defesa."
+      },
+      {
+        "letra": "D",
+        "texto": "os praticados em desacordo com a lei, mesmo no exercício regular de um direito reconhecido."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1889586",
+    "metadata": "Ano: 2022 | Banca: FGV | Órgão: CGU",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Responsabilidade civil",
+      "Parte Geral",
+      "Atos Ilícitos",
+      "Elementos Essenciais – Conduta, Nexo Causal, Culpa e Dano"
+    ],
+    "enunciado_principal": "Um funcionário da Revertio Ltda., escritório de contabilidade situado no nº 202 da rua das Palmeiras, esqueceu a torneira do banheiro aberta antes de fechar o estabelecimento na sexta-feira. O grande volume de água começou a atingir o imóvel vizinho, um pronto-socorro, inundando o seu gerador de energia e causando perigo imediato de curto-circuito. Os administradores do pronto-socorro tentaram contatar os responsáveis pela Revertio, mas sem sucesso, e, diante da situação de emergência, arrombaram a porta do escritório e fecharam a torneira do banheiro. Ao retornar, os administradores da Revertio ficaram indignados com a invasão e propuseram ação de indenização pelos danos decorrentes do arrombamento. Nesse caso, é correto afirmar que o pronto-socorro:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "deve indenizar a Revertio em razão do ato ilícito cometido pelos seus administradores;"
+      },
+      {
+        "letra": "B",
+        "texto": "não deve indenizar a Revertio porque seus administradores agiram no estrito cumprimento do dever legal;"
+      },
+      {
+        "letra": "C",
+        "texto": "deve indenizar a Revertio porque, embora o ato seja considerado lícito, há dever de indenizar;"
+      },
+      {
+        "letra": "D",
+        "texto": "não deve indenizar a Revertio porque seu funcionário foi culpado pelo perigo;"
+      },
+      {
+        "letra": "E",
+        "texto": "deve indenizar a Revertio, porque os administradores do pronto-socorro tinham o dever de esperar a resposta dos administradores da Revertio."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "2170938",
+    "metadata": "Ano: 2021 | Banca: FAFIPA | Órgão: Prefeitura de Barra do Jacaré - PR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Parte Geral",
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "Sobre os atos lícitos e ilícitos, nos termos do Código Civil de 2002, assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "No caso de deterioração ou destruição da coisa alheia, ou a lesão a pessoa, a fim de remover perigo iminente, o ato será legítimo somente quando as circunstâncias o tornarem absolutamente necessário, não excedendo os limites do indispensável para a remoção do perigo."
+      },
+      {
+        "letra": "B",
+        "texto": "Aquele que, por ação ou omissão voluntária, negligência ou imprudência, violar direito e causar dano a outrem, ainda que exclusivamente moral, comete ato ilícito."
+      },
+      {
+        "letra": "C",
+        "texto": "Comete ato ilícito o titular de um direito que, ao exercê-lo, excede manifestamente os limites impostos pelo seu fim econômico ou social, pela boa-fé ou pelos bons costumes."
+      },
+      {
+        "letra": "D",
+        "texto": "Não constituem atos lícitos os praticados em legítima defesa ou no exercício regular de um direito reconhecido."
+      },
+      {
+        "letra": "E",
+        "texto": "Não constituem atos ilícitos a deterioração ou destruição da coisa alheia, ou a lesão a pessoa, a fim de remover perigo iminente."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1752664",
+    "metadata": "Ano: 2021 | Banca: APICE | Órgão: DPE-PB",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Parte Geral",
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "Resumidamente, o conceito jurídico de ato ilícito descreve qualquer ato que seja contrário ao direito. Assim, diante de tal conceito e segundo as normas de direito civil, considera-se ato ilícito:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "os atos que deterioram ou destroem coisa alheia, a fim de remover perigo iminente;"
+      },
+      {
+        "letra": "B",
+        "texto": "os atos praticados em legítima defesa;"
+      },
+      {
+        "letra": "C",
+        "texto": "os atos praticados no exercício regular de um direito reconhecido;"
+      },
+      {
+        "letra": "D",
+        "texto": "ação ou omissão voluntária;"
+      },
+      {
+        "letra": "E",
+        "texto": "os atos que causam lesão à pessoa, a fim de remover perigo iminente."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1719774",
+    "metadata": "Ano: 2020 | Banca: IPEFAE | Órgão: Prefeitura de Campos do Jordão - SP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Parte Geral",
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "Assinale a alternativa incorreta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Aquele que, por ação ou omissão voluntária, negligência ou imprudência, violar direito e causar dano a outrem, ainda que exclusivamente moral, comete ato ilícito."
+      },
+      {
+        "letra": "B",
+        "texto": "Não constituem atos ilícitos a deterioração ou destruição da coisa alheia, ou a lesão a pessoa, a fim de evitar perigo de qualquer natureza."
+      },
+      {
+        "letra": "C",
+        "texto": "Os relativamente incapazes e as pessoas jurídicas têm ação contra os seus assistentes ou representantes legais, que derem causa à prescrição, ou não a alegarem oportunamente."
+      },
+      {
+        "letra": "D",
+        "texto": "A renúncia da prescrição pode ser expressa ou tácita, e só valerá, sendo feita, sem prejuízo de terceiro, depois que a prescrição se consumar; tácita é a renúncia quando se presume de fatos do interessado, incompatíveis com a prescrição."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1616466",
+    "metadata": "Ano: 2020 | Banca: GUALIMP | Órgão: Prefeitura de Conceição de Macabu - RJ",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Parte Geral",
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "Sobre os atos ilícitos, assinale a alternativa correta de acordo com o Código Civil:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Os atos praticados em legítima defesa ou no exercício regular de um direito reconhecido constituem ato ilícito."
+      },
+      {
+        "letra": "B",
+        "texto": "O titular de um direito que, ao exercê-lo, excede manifestamente os limites impostos pelo seu fim econômico ou social, pela boa-fé ou pelos bons costumes não comete ato ilícito."
+      },
+      {
+        "letra": "C",
+        "texto": "Aquele que, por ação ou omissão voluntária, negligência ou imprudência, violar direito e causar dano a outrem, ainda que exclusivamente moral, comete ato ilícito."
+      },
+      {
+        "letra": "D",
+        "texto": "A deterioração ou destruição da coisa alheia, ou a lesão à pessoa, a fim de remover perigo iminente constitui ato ilícito em regra."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1202692",
+    "metadata": "Ano: 2020 | Banca: IBADE | Órgão: Prefeitura de Linhares - ES",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Parte Geral",
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "O Código Civil dispõe que aquele que, por ação ou omissão voluntária, negligência ou imprudência, violar direito e causar dano a outrem, ainda que exclusivamente moral, comete:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ato de compaixão."
+      },
+      {
+        "letra": "B",
+        "texto": "ato lícito."
+      },
+      {
+        "letra": "C",
+        "texto": "ato ilícito."
+      },
+      {
+        "letra": "D",
+        "texto": "dano material."
+      },
+      {
+        "letra": "E",
+        "texto": "dano moral."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "2070111",
+    "metadata": "Ano: 2019 | Banca: IBFC | Órgão: Prefeitura de Cuiabá - MT",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Parte Geral",
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "O Ato Ilícito é o praticado em desacordo com a ordem jurídica, violando direito subjetivo individual. Considere as obrigações por Atos Ilícitos, analise as afirmativas abaixo e assinale a alternativa correta. I. Aquele que, por ação ou omissão voluntaria, negligência ou imprudência, violar direito e causar dano a outrem, ainda que exclusivamente moral, comete ato ilícito. II. Não constituem atos ilícitos: a deterioração ou destruição da coisa alheia, ou a lesão a pessoa, a fim de remover perigo iminente. III. Para configurar ato ilícito, é necessário que o infrator tenha conhecimento da ilicitude de seu ato, agindo com dolo, se intencionalmente procura prejudicar outrem, ou culpa, se, consciente dos prejuízos que advêm de seu ato, assume o risco de provocar o dano, sem qualquer deliberação de violar um dever. IV. Para que haja o pagamento da indenização pleiteada, é suficiente a apresentação de prova e do dolo do agente.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Apenas as afirmativas I, II e III estão corretas"
+      },
+      {
+        "letra": "B",
+        "texto": "Apenas a afirmativa I está correta"
+      },
+      {
+        "letra": "C",
+        "texto": "Apenas a afirmativa III está correta"
+      },
+      {
+        "letra": "D",
+        "texto": "Apenas as afirmativas I, III e IV estão corretas"
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "1818011",
+    "metadata": "Ano: 2019 | Banca: Método Soluções Educacionais | Órgão: Prefeitura de Arenápolis - MT",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Parte Geral",
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "Assinale a alternativa correta.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Quanto ao “Erro ou Ignorância” estabelecido pelo Código Civil, pode se dizer que, O erro de cálculo apenas autoriza a ratificação da declaração de vontade."
+      },
+      {
+        "letra": "B",
+        "texto": "Se ambas as partes procederem com dolo somente o primeiro aceitante pode alegá-lo para anular o negócio, ou reclamar indenização."
+      },
+      {
+        "letra": "C",
+        "texto": "Não se considera coação a ameaça do exercício normal de um direito, nem o simples temor reverencial."
+      },
+      {
+        "letra": "D",
+        "texto": "Ocorre a lesão quando uma pessoa, premido da necessidade de salvar-se, ou a pessoa de sua família, de grave dano conhecido pela outra parte, assume obrigação excessivamente onerosa."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1360499",
+    "metadata": "Ano: 2019 | Banca: OBJETIVA | Órgão: Prefeitura de Antônio Olinto - PR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Parte Geral",
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "Em face dos atos ilícitos consignados no Código Civil, analisar os itens abaixo: I. Aquele que, por ação ou omissão voluntária, negligência ou imprudência, violar direito e causar dano a outrem, ainda que exclusivamente moral, comete ato ilícito. II. Também comete ato ilícito o titular de um direito que, ao exercê-lo, excede manifestamente os limites impostos pelo seu fim econômico ou social, pela boa-fé ou pelos bons costumes. III. A deterioração ou destruição da coisa alheia, ou a lesão à pessoa, a fim de remover perigo iminente, não constitui ato ilícito. Está(ão) CORRETO(S):",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente o item I."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente o item II."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente os itens I e II."
+      },
+      {
+        "letra": "D",
+        "texto": "Todos os itens."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1347033",
+    "metadata": "Ano: 2019 | Banca: TJ-AP | Órgão: TJ-AP",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Domicílio e Bens",
+      "Prova",
+      "Parte Geral",
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "Marque a alternativa CORRETA: I. Considera-se imóvel para efeitos legais o direito à sucessão aberta. II. Aquele que, por ação ou omissão voluntária, negligência ou imprudência, violar direito e causar dano a outrem, ainda que exclusivamente moral, comete ato ilícito. III. A invalidade do instrumento induz a do negócio jurídico sempre que este puder provar-se por outro meio.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Somente a I está correta."
+      },
+      {
+        "letra": "B",
+        "texto": "Somente a I e II estão corretas."
+      },
+      {
+        "letra": "C",
+        "texto": "Somente a II está correta."
+      },
+      {
+        "letra": "D",
+        "texto": "Somente a II e III estão corretas."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1174517",
+    "metadata": "Ano: 2019 | Banca: GUALIMP | Órgão: Prefeitura de Porciúncula - RJ",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Parte Geral",
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "Nos termos do Código Civil Brasileiro, aquele que, por ação ou omissão voluntária, negligência ou imprudência, violar direito e causar dano a outrem, ainda que exclusivamente moral, comete ato ilícito. Ainda de acordo com o Código Civil, é certo dizer que o titular de um direito que, ao exercê-lo, excede manifestamente os limites impostos pelo seu fim econômico ou social, pela boa-fé ou pelos bons costumes:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Não comete ato ilícito."
+      },
+      {
+        "letra": "B",
+        "texto": "Comete ato ilícito."
+      },
+      {
+        "letra": "C",
+        "texto": "Comete ato imoral somente."
+      },
+      {
+        "letra": "D",
+        "texto": "Comete ato que gera mero dissabor."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "1169465",
+    "metadata": "Ano: 2019 | Banca: FURB | Órgão: FURB - SC",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Parte Geral",
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "Analise a seguinte situação hipotética: após o julgamento e o trânsito em julgado da sentença de procedência de determinada ação de conhecimento proposta tão somente contra uma sociedade limitada, o Advogado do autor ingressou com pedido de cumprimento de sentença para receber os honorários advocatícios decorrentes da sucumbência da referida empresa, bem como dos seus sócios. Após o regular andamento do cumprimento de sentença, houve bloqueio judicial e penhora nas contas dos sócios, fato que lhes ocasionou transtornos e prejuízos, pois tais bloqueios somente foram revertidos em segunda instância, portanto, em tempo considerável depois de realizados. Considerando essa narrativa e também a disciplina legal dos atos ilícitos e do abuso de direito no Código Civil, assinale a alternativa correta:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "A existência da possibilidade de aplicar a teoria da desconsideração da personalidade jurídica caracteriza, no caso, o exercício regular de um direito reconhecido, não havendo, portanto, ato ilícito passível de indenização."
+      },
+      {
+        "letra": "B",
+        "texto": "A conduta do Advogado não caracteriza abuso do direito, pois não excedeu os limites impostos pela boa-fé diante da possibilidade de pedir, oportunamente, a desconsideração da personalidade jurídica."
+      },
+      {
+        "letra": "C",
+        "texto": "Não houve ato ilícito nem abuso de direito, pois o patrimônio dos sócios deve responder por dívidas da sociedade limitada."
+      },
+      {
+        "letra": "D",
+        "texto": "Não houve ato ilícito nem abuso de direito, pois os fins econômicos e sociais dos honorários advocatícios justificam a inclusão dos sócios no polo passivo do cumprimento de sentença."
+      },
+      {
+        "letra": "E",
+        "texto": "A conduta do Advogado caracteriza abuso do direito."
+      }
+    ],
+    "gabarito": "E"
+  },
+  {
+    "id": "1169232",
+    "metadata": "Ano: 2019 | Banca: FADESP | Órgão: Prefeitura de Marabá - PA",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Personalidade, Pessoa Natural e Capacidade",
+      "Parte Geral",
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "De acordo com os ditames do Código Civil, é correto afirmar o seguinte:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "sobre a responsabilidade prevista na lei civil, não comete ato ilícito o titular de um direito que, ao exercê-lo, excede manifestamente os limites impostos pelo seu fim econômico ou social, pela boafé ou pelos bons costumes."
+      },
+      {
+        "letra": "B",
+        "texto": "o nome da pessoa pode ser empregado por outrem em publicações ou representações, como ocorre nas redes sociais, independentemente da exposição ao desprezo público ou intenção difamatória; isto porque o nome alheio pode ser usado em propaganda comercial."
+      },
+      {
+        "letra": "C",
+        "texto": "todo homem é capaz de direitos e deveres na ordem civil. São absolutamente incapazes de exercer pessoalmente os atos da vida civil os menores de 16 (dezesseis) anos, além dos que por enfermidade ou deficiência mental, não tiverem o necessário discernimento para a prática desses atos e dos que, mesmo por causa transitória, não puderem exprimir sua vontade."
+      },
+      {
+        "letra": "D",
+        "texto": "todo aquele que recebeu o que lhe não era devido fica obrigado a restituir; obrigação que incumbe àquele que recebe dívida condicional antes de cumprida a condição. Àquele que voluntariamente pagou o indevido incumbe a prova de tê-lo feito por erro."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1068466",
+    "metadata": "Ano: 2019 | Banca: Prefeitura de Rondonópolis - MT | Órgão: Prefeitura de Rondonópolis - MT",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Parte Geral",
+      "Responsabilidade Civil - Teorias, Espécies e Pressupostos.",
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "Considerando o entendimento jurisprudencial acerca do abuso de direito, assinale a assertiva INCORRETA.",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "O abuso de direito é uma categoria jurídica autônoma em relação à responsabilidade civil. Por isso, o exercício abusivo de posições jurídicas desafia controle independentemente de dano."
+      },
+      {
+        "letra": "B",
+        "texto": "A responsabilidade civil decorrente do abuso do direito independe de culpa, e fundamenta-se somente no critério objetivo-finalístico."
+      },
+      {
+        "letra": "C",
+        "texto": "O caráter protelatório dos embargos de declaração é insuficiente para caracterizar o abuso de direito, pois toda faculdade processual está amparada no postulado constitucional da ampla defesa."
+      },
+      {
+        "letra": "D",
+        "texto": "O abuso de direito, como cláusula geral prevista no Código Civil, tem fundamento constitucional nos princípios da solidariedade, devido processo legal e proteção da confiança e aplica-se a todos os ramos do direito."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1068465",
+    "metadata": "Ano: 2019 | Banca: Prefeitura de Rondonópolis - MT | Órgão: Prefeitura de Rondonópolis - MT",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "De acordo com as disposições do Código Civil (Lei n.º 10.406/2002), o abuso de direito é espécie de ato ilícito caracterizado",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pelo exercício de direito subjetivo ou potestativo de forma desproporcional, mediante conduta abusiva que infrinja danos patrimoniais ou morais a outrem."
+      },
+      {
+        "letra": "B",
+        "texto": "pela violação do direito e pelo dano causado a outrem, em virtude de ação ou omissão voluntária."
+      },
+      {
+        "letra": "C",
+        "texto": "pela violação do direito e pelo dano causado a outrem, em virtude de prática considerada abusiva."
+      },
+      {
+        "letra": "D",
+        "texto": "pelo excesso quanto ao limite imposto pelo fim econômico ou social do direito exercido, pela boa-fé ou pelos bons costumes."
+      }
+    ],
+    "gabarito": "D"
+  },
+  {
+    "id": "1325845",
+    "metadata": "Ano: 2018 | Banca: TJ-PR | Órgão: TJ-PR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Ato Jurídico, Fato Jurídico e Teoria Geral do Negócio Jurídico",
+      "Parte Geral",
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "Quanto ao tipo de boa-fé a que se referem, analise as afirmações abaixo. I. Os negócios jurídicos devem ser interpretados conforme a boa-fé e os usos do lugar de sua celebração. II. Se um dos cônjuges estava de boa-fé ao celebrar o casamento, os seus efeitos civis só a ele e aos filhos aproveitarão. III. A posse de boa-fé só perde este caráter no caso e desde o momento em que as circunstâncias façam presumir que o possuidor não ignora que possui indevidamente. IV. Os contratantes são obrigados a guardar, assim na conclusão do contrato, como em sua execução, os princípios da probidade e da boa-fé. V. Também comete ato ilícito o titular de um direito que, ao exercê-lo, excede manifestamente os limites impostos pelo seu fim econômico ou social, pela boa-fé ou pelos bons costumes. As afirmações:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "I e V tratam da boa-fé subjetiva e as afirmações II, III e IV tratam da boa-fé objetiva."
+      },
+      {
+        "letra": "B",
+        "texto": "IV e V tratam da boa-fé objetiva e as afirmações I, II e III tratam da boa-fé subjetiva."
+      },
+      {
+        "letra": "C",
+        "texto": "I, IV e V tratam da boa-fé objetiva e as afirmações II e III tratam da boa-fé subjetiva."
+      },
+      {
+        "letra": "D",
+        "texto": "II, IV e V tratam da boa-fé subjetiva e as afirmações I e III tratam da boa-fé objetiva."
+      }
+    ],
+    "gabarito": "C"
+  },
+  {
+    "id": "1271866",
+    "metadata": "Ano: 2018 | Banca: FAUEL | Órgão: IPRERINE - PR",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Parte Geral",
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "Sobre atos ilícitos no Direito Civil Brasileiro, assinale a alternativa INCORRETA:",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "Comete ato ilícito aquele que, por ação ou omissão voluntária, negligência ou imprudência, violar direito e causar dano a outrem, ainda que exclusivamente moral."
+      },
+      {
+        "letra": "B",
+        "texto": "Comete ato ilícito, aquele que promover a deterioração ou destruição da coisa alheia, ou a lesão a pessoa, mesmo com o intuito de remover perigo iminente."
+      },
+      {
+        "letra": "C",
+        "texto": "Não comete ato ilícito, os praticados em legítima defesa ou no exercício regular de um direito reconhecido"
+      },
+      {
+        "letra": "D",
+        "texto": "Comete ato ilícito o titular de um direito que, ao exercê-lo, excede manifestamente os limites impostos pelo seu fim econômico ou social, pela boa-fé ou pelos bons costumes."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "950515",
+    "metadata": "Ano: 2018 | Banca: COMPERVE - UFRN | Órgão: TJ-RN",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Parte Geral",
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "Tony, dirigindo seu carro prudentemente e de acordo com as regras de trânsito, se depara com uma situação aterrorizante: um ladrão, durante um assalto, empurra uma senhora para o meio da rua em sua direção. Buscando salvar a vida da senhora, ele desvia o seu carro e atinge, em cheio, uma loja, destruindo toda a vitrine do estabelecimento. Segundo o Código Civil, nesse caso, Tony",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "pagará indenização e, eventualmente, poderá se ressarcir do dano contra o ladrão."
+      },
+      {
+        "letra": "B",
+        "texto": "está isento de indenização, conforme o art. 188, inciso II do Código Civil."
+      },
+      {
+        "letra": "C",
+        "texto": "pagará indenização, uma vez que o dano não pode ficar sem reparação, diante do act of god no caso concreto."
+      },
+      {
+        "letra": "D",
+        "texto": "está isento de indenização, uma vez que, no caso concreto, Tony foi apenas um instrumento para o dano."
+      }
+    ],
+    "gabarito": "A"
+  },
+  {
+    "id": "950405",
+    "metadata": "Ano: 2018 | Banca: FCC | Órgão: MPE-PE",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Parte Geral",
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "Leandro, na condução de sua motocicleta, para não causar mal maior, decide deliberadamente jogá-la contra o automóvel de Roberto, provocando-lhe dano, evitando, assim, o atropelamento de Paulo, que, imprudentemente, atravessou a rua fora da faixa de pedestre e sem se atentar para o trânsito de veículos. Nesse caso, no tocante à colisão do veículo, Leandro terá praticado ato",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "ilícito e injustificável em relação a Roberto, que nada tem a ver com a imprudência de Paulo."
+      },
+      {
+        "letra": "B",
+        "texto": "lícito, desde que as circunstâncias o tornassem absolutamente necessário, não excedendo os limites do indispensável para evitar o atropelamento de Paulo."
+      },
+      {
+        "letra": "C",
+        "texto": "ilícito, porém justificável e legítimo, ainda que houvesse outro meio menos gravoso para evitar o atropelamento de Paulo."
+      },
+      {
+        "letra": "D",
+        "texto": "lícito, ainda que houvesse outro meio menos gravoso para evitar o atropelamento de Paulo."
+      },
+      {
+        "letra": "E",
+        "texto": "que não se qualifica como lícito ou ilícito, ante a excepcionalidade da situação de perigo iminente provocada por terceiro."
+      }
+    ],
+    "gabarito": "B"
+  },
+  {
+    "id": "937729",
+    "metadata": "Ano: 2018 | Banca: FCC | Órgão: SEFAZ-GO",
+    "categoria": "Direito Civil",
+    "subcategorias": [
+      "Parte Geral",
+      "Atos Ilícitos"
+    ],
+    "enunciado_principal": "Para o Código Civil, o abuso do direito",
+    "alternativas": [
+      {
+        "letra": "A",
+        "texto": "é previsto como ato ilícito e gera responsabilidade ao agente ofensor, por desvio da finalidade social e econômica do ato tido por abusivo."
+      },
+      {
+        "letra": "B",
+        "texto": "é previsto como ato ilícito, mas não gera responsabilidade ao agente ofensor, por não se tratar de ato ilegal."
+      },
+      {
+        "letra": "C",
+        "texto": "é previsto como ato lícito, não gerando responsabilidade ao ofensor."
+      },
+      {
+        "letra": "D",
+        "texto": "não é previsto no Código Civil, mas apenas na doutrina e na jurisprudência."
+      },
+      {
+        "letra": "E",
+        "texto": "é previsto como ato ilícito, gerando apenas a possibilidade de desfazimento do ato, sem outras cominações legais."
+      }
+    ],
+    "gabarito": "A"
+  }
+]
