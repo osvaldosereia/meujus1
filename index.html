@@ -25,7 +25,7 @@
             width: 100%; padding: 0.75rem; border: 1px solid #D1D5DB; border-radius: 0.375rem;
             background-color: #F9FAFB; display: flex; justify-content: space-between;
             align-items: center; cursor: pointer; text-align: left;
-            font-size: 0.875rem; /* <-- ALTERADO: Fonte menor */
+            font-size: 0.875rem; /* 14px */
         }
         .custom-select-button:focus { outline: none; box-shadow: 0 0 0 2px #3B82F6; }
         .custom-select-list {
@@ -36,14 +36,15 @@
         }
         .custom-select-search {
             width: 100%; padding: 0.5rem 0.75rem; border-bottom: 1px solid #E5E7EB; outline: none;
-            position: sticky; /* <-- ALTERADO: Fixo no topo */
-            top: 0; /* <-- ALTERADO: Fixo no topo */
-            background-color: white; /* <-- ALTERADO: Fundo opaco */
-            z-index: 11; /* <-- ALTERADO: Acima das opções */
+            position: sticky; 
+            top: 0; 
+            background-color: white; 
+            z-index: 11; 
         }
         .custom-select-option {
             padding: 0.5rem 0.75rem; cursor: pointer; user-select: none;
             display: flex; align-items: center; gap: 0.5rem;
+            font-size: 0.875rem; /* <-- ALTERADO: Fonte menor para subcategorias */
         }
         .custom-select-option:hover { background-color: #F3F4F6; }
         .custom-select-option.selected { background-color: #DBEAFE; font-weight: 500; }
@@ -141,12 +142,13 @@
     </nav>
     <div class="max-w-4xl mx-auto p-4 md:p-8">
 
-        <section class="mb-6 p-6 bg-white rounded-lg shadow-sm text-center">
+        <section id="welcomeBox" class="mb-6 p-6 bg-white rounded-lg shadow-sm text-center">
             <h2 class="text-2xl font-semibold text-gray-800">Bem-vindo ao MeuJus!</h2>
             <p class="text-md text-gray-600 mt-1">
-                Selecione a categoria, as subcategorias (até 3) e clique em "Buscar Questão".
+                Selecione a categoria, as subcategorias (até 5) e clique em "Buscar Questão".
             </p>
         </section>
+
         <section class="mb-6 p-6 bg-white rounded-lg shadow-sm">
             <div class="flex flex-col sm:flex-row gap-4 items-center sm:items-start"> 
                 
@@ -163,7 +165,7 @@
                 </div>
                 
                 <div class="w-full sm:w-1/2">
-                    <label for="selectTemaBtn" class="block text-sm font-medium text-gray-700 mb-1">Subcategoria (Máx. 3)</label>
+                    <label for="selectTemaBtn" class="block text-sm font-medium text-gray-700 mb-1">Subcategoria (Máx. 5)</label>
                     <div id="customSelectTema" class="custom-select-container">
                         <button id="selectTemaBtn" type="button" class="custom-select-button">
                             <span id="selectTemaValue">Selecione...</span>
@@ -216,6 +218,7 @@
                 </button>
             </div>
         </section>
+
         <main id="areaProva">
             <div id="divStatus" class="text-center text-gray-600 p-10 text-lg">
                 Selecione a categoria e as subcategorias para começar.
@@ -237,9 +240,11 @@
         // O objeto 'dbDisciplinas' é carregado do arquivo 'config.js'
         
         // --- 1. Constantes ---
-        const MAX_SUBCATEGORIAS = 3;
+        const MAX_SUBCATEGORIAS = 5; // <-- ALTERADO: Limite para 5
 
         // --- 2. Referências aos Elementos do DOM ---
+        const welcomeBox = document.getElementById('welcomeBox'); // NOVO: Referência ao box de boas-vindas
+        
         const customSelectDisciplina = document.getElementById('customSelectDisciplina');
         const selectDisciplinaBtn = document.getElementById('selectDisciplinaBtn');
         const selectDisciplinaValue = document.getElementById('selectDisciplinaValue');
@@ -294,7 +299,7 @@
 
         // --- 4. Funções Principais ---
 
-        // NOVO: Função auxiliar para normalizar texto (remove acentos, ç -> c)
+        // Função auxiliar para normalizar texto (remove acentos, ç -> c)
         function normalizarTexto(texto) {
             if (!texto) return '';
             return texto
@@ -321,7 +326,7 @@
             btnFiltroErrei.addEventListener('click', () => setFiltro('errado'));
             btnFiltroAcertei.addEventListener('click', () => setFiltro('correto'));
             
-            // NOVO: Listeners da Nova Busca por Palavra
+            // Listeners da Nova Busca por Palavra
             btnBuscaPalavra.addEventListener('click', filtrarQuestoesPorPalavra);
             btnLimparBuscaPalavra.addEventListener('click', limparFiltroPalavra);
             inputBuscaPalavra.addEventListener('keyup', (e) => {
@@ -329,8 +334,6 @@
                     filtrarQuestoesPorPalavra();
                 }
             });
-            
-            // ### LISTENER DE SCROLL E CLICK DO BTNTOPO (REMOVIDOS) ###
             
             atualizarEstadoBotaoBuscar();
         }
@@ -349,11 +352,11 @@
                 selectDisciplinaList.classList.add('hidden');
             });
             selectTemaSearch.addEventListener('input', (e) => {
-                // SUBSTITUÍDO (Req. 1 - Busca Flexível)
-                const termo = normalizarTexto(e.target.value); // Usa a nova função
+                // Busca Flexível (sem acento/ç)
+                const termo = normalizarTexto(e.target.value); 
                 estadoSelect.tema.listaFiltrada = estadoSelect.tema.listaCompleta.filter(tema => {
-                    const nomeNormalizado = normalizarTexto(tema.nome); // Normaliza o nome do tema
-                    return nomeNormalizado.includes(termo); // Compara normalizado com normalizado
+                    const nomeNormalizado = normalizarTexto(tema.nome); 
+                    return nomeNormalizado.includes(termo); 
                 });
                 renderizarOpcoesTema();
             });
@@ -457,6 +460,7 @@
                 estadoSelect.tema.nomesSelecionados.splice(index, 1);
             } else {
                 if (estadoSelect.tema.chavesSelecionadas.length >= MAX_SUBCATEGORIAS) {
+                    // Mensagem usa a constante MAX_SUBCATEGORIAS (agora 5)
                     showToast(`Máximo de ${MAX_SUBCATEGORIAS} subcategorias atingido.`, 'info'); 
                     return;
                 }
@@ -493,13 +497,15 @@
         }
         
         function resetarEstadoEstudo() {
+            welcomeBox.classList.remove('hidden'); // ALTERADO: Mostra o box de boas-vindas
+            
             divQuestoes.innerHTML = ''; 
             divFiltros.classList.add('hidden'); 
-            divBuscaPalavra.classList.add('hidden'); // NOVO: Esconde a busca por palavra
+            divBuscaPalavra.classList.add('hidden'); 
             
             questoesCarregadas = [];
-            questoesOriginais = []; // NOVO: Limpa o backup
-            filtroPalavraAtivo = false; // NOVO: Reseta o estado do filtro
+            questoesOriginais = []; 
+            filtroPalavraAtivo = false; 
             
             historicoNavegacao = [];
             indiceHistorico = -1;
@@ -540,6 +546,8 @@
             divStatus.textContent = 'Carregando questões...';
             divStatus.classList.remove('hidden');
             
+            welcomeBox.classList.add('hidden'); // ALTERADO: Esconde o box de boas-vindas
+            
             isLoading = true; 
             atualizarEstadoBotaoBuscar(); 
 
@@ -555,14 +563,14 @@
                 }));
                 const arraysDeQuestoes = await Promise.all(promises);
                 
-                // NOVO: Bloco de gerenciamento das questões (Req. 4)
-                questoesOriginais = [].concat(...arraysDeQuestoes); // Salva no backup
-                questoesOriginais.forEach(q => { // Aplica o status no backup
+                // Bloco de gerenciamento das questões
+                questoesOriginais = [].concat(...arraysDeQuestoes); 
+                questoesOriginais.forEach(q => { 
                     q.status = 'nao-respondi'; 
                     q.respostaUsuario = null; 
                 });
                 
-                questoesCarregadas = [...questoesOriginais]; // Copia para a lista de trabalho
+                questoesCarregadas = [...questoesOriginais]; 
                 filtroPalavraAtivo = false;
                 
                 if (questoesCarregadas.length === 0) {
@@ -571,7 +579,7 @@
                 
                 divFiltros.classList.remove('hidden');
                 
-                // NOVO: Mostra e reseta a barra de busca por palavra
+                // Mostra e reseta a barra de busca por palavra
                 divBuscaPalavra.classList.remove('hidden'); 
                 btnLimparBuscaPalavra.classList.add('hidden');
                 btnBuscaPalavra.disabled = false;
@@ -586,7 +594,7 @@
                 divStatus.innerHTML = `<p class="font-semibold text-red-600">Nenhum resultado.</p><p class="text-sm text-gray-500 mt-2">Nenhuma questão foi encontrada para esta combinação de filtros. Verifique os arquivos JSON.</p>`;
                 divStatus.classList.remove('hidden');
                 divQuestoes.innerHTML = '';
-                divBuscaPalavra.classList.add('hidden'); // NOVO: Esconde se der erro
+                divBuscaPalavra.classList.add('hidden'); 
             } finally {
                 isLoading = false; 
                 atualizarEstadoBotaoBuscar(); 
@@ -594,12 +602,12 @@
         }
         
         // ==============================================================
-        // == INÍCIO: NOVAS FUNÇÕES DE BUSCA POR PALAVRA-CHAVE (Req. 4) ==
+        // == INÍCIO: FUNÇÕES DE BUSCA POR PALAVRA-CHAVE (sem alterações) ==
         // ==============================================================
 
         // Função auxiliar para verificar se a questão contém o termo
         function questaoContemTermo(questao, termo) {
-            if (!termo) return true; // Se não há termo, não filtra
+            if (!termo) return true; 
             
             const termoNormalizado = normalizarTexto(termo);
 
@@ -625,7 +633,7 @@
                 }
             }
             
-            return textoCompleto.includes(termoNormalizado); // Verifica tudo de uma vez
+            return textoCompleto.includes(termoNormalizado); 
         }
 
         // Função principal para aplicar o filtro de palavra
@@ -636,7 +644,6 @@
                 return;
             }
             
-            // Filtra a partir do backup original
             const questoesFiltradas = questoesOriginais.filter(q => questaoContemTermo(q, termo));
             
             if (questoesFiltradas.length === 0) {
@@ -644,10 +651,9 @@
                 divStatus.textContent = `Nenhuma questão encontrada para "${termo}".`;
                 divStatus.classList.remove('hidden');
                 divQuestoes.innerHTML = '';
-                questoesCarregadas = []; // Zera a lista de trabalho
-                atualizarContadoresFiltros(); // Zera os contadores
+                questoesCarregadas = []; 
+                atualizarContadoresFiltros(); 
                 
-                // Permite nova busca
                 filtroPalavraAtivo = false;
                 btnLimparBuscaPalavra.classList.add('hidden');
                 btnBuscaPalavra.disabled = false;
@@ -655,25 +661,23 @@
                 return;
             }
 
-            // Atualiza a lista de trabalho
             questoesCarregadas = questoesFiltradas;
             filtroPalavraAtivo = true;
             btnLimparBuscaPalavra.classList.remove('hidden');
-            btnBuscaPalavra.disabled = true; // Desabilita para evitar re-filtro
+            btnBuscaPalavra.disabled = true; 
             inputBuscaPalavra.disabled = true;
 
             showToast(`${questoesCarregadas.length} questões filtradas por "${termo}".`, 'success');
             
-            // Reseta o estado do quiz para usar o novo pool
             historicoNavegacao = [];
             indiceHistorico = -1;
             atualizarContadoresFiltros();
-            setFiltro('nao-respondi', true); // Inicia o quiz com o novo pool
+            setFiltro('nao-respondi', true); 
         }
 
         // Função para limpar o filtro de palavra
         function limparFiltroPalavra() {
-            questoesCarregadas = [...questoesOriginais]; // Restaura do backup
+            questoesCarregadas = [...questoesOriginais]; 
             filtroPalavraAtivo = false;
             
             inputBuscaPalavra.value = '';
@@ -683,15 +687,14 @@
             
             showToast("Filtro de palavra-chave removido.", 'info');
             
-            // Reseta o estado do quiz para usar o pool original
             historicoNavegacao = [];
             indiceHistorico = -1;
             atualizarContadoresFiltros();
-            setFiltro('nao-respondi', true); // Reinicia o quiz
+            setFiltro('nao-respondi', true); 
         }
         
         // ==============================================================
-        // == FIM: NOVAS FUNÇÕES DE BUSCA POR PALAVRA-CHAVE          ==
+        // == FIM: FUNÇÕES DE BUSCA POR PALAVRA-CHAVE
         // ==============================================================
 
 
