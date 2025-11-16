@@ -25,6 +25,7 @@
             width: 100%; padding: 0.75rem; border: 1px solid #D1D5DB; border-radius: 0.375rem;
             background-color: #F9FAFB; display: flex; justify-content: space-between;
             align-items: center; cursor: pointer; text-align: left;
+            font-size: 0.875rem; /* <-- ALTERADO: Fonte menor */
         }
         .custom-select-button:focus { outline: none; box-shadow: 0 0 0 2px #3B82F6; }
         .custom-select-list {
@@ -35,6 +36,10 @@
         }
         .custom-select-search {
             width: 100%; padding: 0.5rem 0.75rem; border-bottom: 1px solid #E5E7EB; outline: none;
+            position: sticky; /* <-- ALTERADO: Fixo no topo */
+            top: 0; /* <-- ALTERADO: Fixo no topo */
+            background-color: white; /* <-- ALTERADO: Fundo opaco */
+            z-index: 11; /* <-- ALTERADO: Acima das opções */
         }
         .custom-select-option {
             padding: 0.5rem 0.75rem; cursor: pointer; user-select: none;
@@ -197,6 +202,20 @@
             </button>
         </section>
 
+        <section id="divBuscaPalavra" class="hidden mb-6 p-4 bg-white rounded-lg shadow-sm">
+            <label for="inputBuscaPalavra" class="block text-sm font-medium text-gray-700 mb-2">
+                Buscar por palavra-chave nas questões carregadas:
+            </label>
+            <div class="flex flex-col sm:flex-row gap-3">
+                <input type="text" id="inputBuscaPalavra" class="w-full sm:flex-1 px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500" placeholder="Ex: Homicídio, Art. 121, etc. (Pressione Enter ou clique em Filtrar)">
+                <button id="btnBuscaPalavra" class="w-full sm:w-auto px-6 py-2 font-semibold text-white bg-blue-600 rounded-md hover:bg-blue-700 transition-colors">
+                    Filtrar
+                </button>
+                <button id="btnLimparBuscaPalavra" class="w-full sm:w-auto px-4 py-2 font-medium text-gray-700 bg-gray-200 rounded-md hover:bg-gray-300 hidden">
+                    Limpar Filtro
+                </button>
+            </div>
+        </section>
         <main id="areaProva">
             <div id="divStatus" class="text-center text-gray-600 p-10 text-lg">
                 Selecione a categoria e as subcategorias para começar.
@@ -249,6 +268,12 @@
         const countErrei = document.getElementById('countErrei');
         const countAcertei = document.getElementById('countAcertei');
 
+        // Referências da Nova Busca por Palavra
+        const divBuscaPalavra = document.getElementById('divBuscaPalavra');
+        const inputBuscaPalavra = document.getElementById('inputBuscaPalavra');
+        const btnBuscaPalavra = document.getElementById('btnBuscaPalavra');
+        const btnLimparBuscaPalavra = document.getElementById('btnLimparBuscaPalavra');
+
 
         // --- 3. Estado da Aplicação ---
         let estadoSelect = {
@@ -256,7 +281,10 @@
             tema: { chavesSelecionadas: [], nomesSelecionados: [], listaCompleta: [], listaFiltrada: [] }
         };
         
-        let questoesCarregadas = []; // O "bolo" de questões
+        let questoesOriginais = []; // NOVO: Backup das questões antes de filtrar por palavra
+        let questoesCarregadas = []; // O "bolo" de questões (agora é o conjunto filtrado)
+        let filtroPalavraAtivo = false; // NOVO: Controla se o filtro por palavra está ativo
+        
         let historicoNavegacao = []; // Questões vistas, com status
         let indiceHistorico = -1; // Posição atual no historicoNavegacao
         let perguntaAtual = null; // Objeto da questão atual
@@ -265,6 +293,16 @@
         let filtroAtivo = 'nao-respondi'; // 'nao-respondi', 'errado', 'correto'
 
         // --- 4. Funções Principais ---
+
+        // NOVO: Função auxiliar para normalizar texto (remove acentos, ç -> c)
+        function normalizarTexto(texto) {
+            if (!texto) return '';
+            return texto
+                .toLowerCase()
+                .normalize("NFD") // Decompor acentos
+                .replace(/[\u0300-\u036f]/g, "") // Remover acentos
+                .replace(/ç/g, "c"); // Tratar cedilha
+        }
 
         function init() {
             if (typeof dbDisciplinas === 'undefined') {
@@ -282,6 +320,15 @@
             btnFiltroNaoRespondi.addEventListener('click', () => setFiltro('nao-respondi'));
             btnFiltroErrei.addEventListener('click', () => setFiltro('errado'));
             btnFiltroAcertei.addEventListener('click', () => setFiltro('correto'));
+            
+            // NOVO: Listeners da Nova Busca por Palavra
+            btnBuscaPalavra.addEventListener('click', filtrarQuestoesPorPalavra);
+            btnLimparBuscaPalavra.addEventListener('click', limparFiltroPalavra);
+            inputBuscaPalavra.addEventListener('keyup', (e) => {
+                if (e.key === 'Enter') {
+                    filtrarQuestoesPorPalavra();
+                }
+            });
             
             // ### LISTENER DE SCROLL E CLICK DO BTNTOPO (REMOVIDOS) ###
             
@@ -302,10 +349,12 @@
                 selectDisciplinaList.classList.add('hidden');
             });
             selectTemaSearch.addEventListener('input', (e) => {
-                const termo = e.target.value.toLowerCase();
-                estadoSelect.tema.listaFiltrada = estadoSelect.tema.listaCompleta.filter(tema => 
-                    tema.nome.toLowerCase().includes(termo.replace(/_/g, ' '))
-                );
+                // SUBSTITUÍDO (Req. 1 - Busca Flexível)
+                const termo = normalizarTexto(e.target.value); // Usa a nova função
+                estadoSelect.tema.listaFiltrada = estadoSelect.tema.listaCompleta.filter(tema => {
+                    const nomeNormalizado = normalizarTexto(tema.nome); // Normaliza o nome do tema
+                    return nomeNormalizado.includes(termo); // Compara normalizado com normalizado
+                });
                 renderizarOpcoesTema();
             });
         }
@@ -446,7 +495,12 @@
         function resetarEstadoEstudo() {
             divQuestoes.innerHTML = ''; 
             divFiltros.classList.add('hidden'); 
+            divBuscaPalavra.classList.add('hidden'); // NOVO: Esconde a busca por palavra
+            
             questoesCarregadas = [];
+            questoesOriginais = []; // NOVO: Limpa o backup
+            filtroPalavraAtivo = false; // NOVO: Reseta o estado do filtro
+            
             historicoNavegacao = [];
             indiceHistorico = -1;
             perguntaAtual = null;
@@ -501,17 +555,29 @@
                 }));
                 const arraysDeQuestoes = await Promise.all(promises);
                 
-                questoesCarregadas = [].concat(...arraysDeQuestoes);
-                questoesCarregadas.forEach(q => {
+                // NOVO: Bloco de gerenciamento das questões (Req. 4)
+                questoesOriginais = [].concat(...arraysDeQuestoes); // Salva no backup
+                questoesOriginais.forEach(q => { // Aplica o status no backup
                     q.status = 'nao-respondi'; 
                     q.respostaUsuario = null; 
                 });
+                
+                questoesCarregadas = [...questoesOriginais]; // Copia para a lista de trabalho
+                filtroPalavraAtivo = false;
                 
                 if (questoesCarregadas.length === 0) {
                     throw new Error("Nenhuma questão foi encontrada para as subcategorias selecionadas.");
                 }
                 
-                divFiltros.classList.remove('hidden'); 
+                divFiltros.classList.remove('hidden');
+                
+                // NOVO: Mostra e reseta a barra de busca por palavra
+                divBuscaPalavra.classList.remove('hidden'); 
+                btnLimparBuscaPalavra.classList.add('hidden');
+                btnBuscaPalavra.disabled = false;
+                inputBuscaPalavra.disabled = false;
+                inputBuscaPalavra.value = '';
+                
                 atualizarContadoresFiltros(); 
                 setFiltro('nao-respondi', true); 
 
@@ -520,12 +586,115 @@
                 divStatus.innerHTML = `<p class="font-semibold text-red-600">Nenhum resultado.</p><p class="text-sm text-gray-500 mt-2">Nenhuma questão foi encontrada para esta combinação de filtros. Verifique os arquivos JSON.</p>`;
                 divStatus.classList.remove('hidden');
                 divQuestoes.innerHTML = '';
+                divBuscaPalavra.classList.add('hidden'); // NOVO: Esconde se der erro
             } finally {
                 isLoading = false; 
                 atualizarEstadoBotaoBuscar(); 
             }
         }
         
+        // ==============================================================
+        // == INÍCIO: NOVAS FUNÇÕES DE BUSCA POR PALAVRA-CHAVE (Req. 4) ==
+        // ==============================================================
+
+        // Função auxiliar para verificar se a questão contém o termo
+        function questaoContemTermo(questao, termo) {
+            if (!termo) return true; // Se não há termo, não filtra
+            
+            const termoNormalizado = normalizarTexto(termo);
+
+            // 1. Enunciado Principal (ou único)
+            let textoCompleto = normalizarTexto(questao.enunciado_principal) + ' ' + normalizarTexto(questao.enunciado);
+            
+            // 2. Enunciado Pergunta (se houver)
+            if (questao.enunciado_pergunta) {
+                textoCompleto += ' ' + normalizarTexto(questao.enunciado_pergunta);
+            }
+            
+            // 3. Itens/Assertivas (se houver)
+            if (questao.itens_assertiva && questao.itens_assertiva.length > 0) {
+                for (const item of questao.itens_assertiva) {
+                    textoCompleto += ' ' + normalizarTexto(item);
+                }
+            }
+            
+            // 4. Alternativas
+            if (questao.alternativas && questao.alternativas.length > 0) {
+                for (const alt of questao.alternativas) {
+                    textoCompleto += ' ' + normalizarTexto(alt.texto);
+                }
+            }
+            
+            return textoCompleto.includes(termoNormalizado); // Verifica tudo de uma vez
+        }
+
+        // Função principal para aplicar o filtro de palavra
+        function filtrarQuestoesPorPalavra() {
+            const termo = inputBuscaPalavra.value;
+            if (!termo || termo.trim() === '') {
+                showToast("Digite um termo para filtrar.", 'info');
+                return;
+            }
+            
+            // Filtra a partir do backup original
+            const questoesFiltradas = questoesOriginais.filter(q => questaoContemTermo(q, termo));
+            
+            if (questoesFiltradas.length === 0) {
+                showToast(`Nenhuma questão encontrada com "${termo}".`, 'info');
+                divStatus.textContent = `Nenhuma questão encontrada para "${termo}".`;
+                divStatus.classList.remove('hidden');
+                divQuestoes.innerHTML = '';
+                questoesCarregadas = []; // Zera a lista de trabalho
+                atualizarContadoresFiltros(); // Zera os contadores
+                
+                // Permite nova busca
+                filtroPalavraAtivo = false;
+                btnLimparBuscaPalavra.classList.add('hidden');
+                btnBuscaPalavra.disabled = false;
+                inputBuscaPalavra.disabled = false;
+                return;
+            }
+
+            // Atualiza a lista de trabalho
+            questoesCarregadas = questoesFiltradas;
+            filtroPalavraAtivo = true;
+            btnLimparBuscaPalavra.classList.remove('hidden');
+            btnBuscaPalavra.disabled = true; // Desabilita para evitar re-filtro
+            inputBuscaPalavra.disabled = true;
+
+            showToast(`${questoesCarregadas.length} questões filtradas por "${termo}".`, 'success');
+            
+            // Reseta o estado do quiz para usar o novo pool
+            historicoNavegacao = [];
+            indiceHistorico = -1;
+            atualizarContadoresFiltros();
+            setFiltro('nao-respondi', true); // Inicia o quiz com o novo pool
+        }
+
+        // Função para limpar o filtro de palavra
+        function limparFiltroPalavra() {
+            questoesCarregadas = [...questoesOriginais]; // Restaura do backup
+            filtroPalavraAtivo = false;
+            
+            inputBuscaPalavra.value = '';
+            inputBuscaPalavra.disabled = false;
+            btnBuscaPalavra.disabled = false;
+            btnLimparBuscaPalavra.classList.add('hidden');
+            
+            showToast("Filtro de palavra-chave removido.", 'info');
+            
+            // Reseta o estado do quiz para usar o pool original
+            historicoNavegacao = [];
+            indiceHistorico = -1;
+            atualizarContadoresFiltros();
+            setFiltro('nao-respondi', true); // Reinicia o quiz
+        }
+        
+        // ==============================================================
+        // == FIM: NOVAS FUNÇÕES DE BUSCA POR PALAVRA-CHAVE          ==
+        // ==============================================================
+
+
         // --- Sistema de Filtros ---
 
         function atualizarContadoresFiltros() {
@@ -565,9 +734,10 @@
                 const poolNaoRespondidas = questoesCarregadas.filter(q => q.status === 'nao-respondi');
                 
                 if (poolNaoRespondidas.length === 0) {
-                    showToast("Você respondeu todas as questões!", 'success');
+                    const msgFiltro = filtroPalavraAtivo ? "neste filtro de palavra-chave" : "deste conjunto";
+                    showToast(`Você respondeu todas as questões ${msgFiltro}!`, 'success');
                     divQuestoes.innerHTML = '';
-                    divStatus.textContent = 'Parabéns! Você respondeu todas as questões deste conjunto.';
+                    divStatus.textContent = `Parabéns! Você respondeu todas as questões ${msgFiltro}.`;
                     divStatus.classList.remove('hidden');
                     return;
                 }
