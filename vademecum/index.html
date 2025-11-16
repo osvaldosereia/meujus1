@@ -1,10 +1,8 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-    <meta charset="UTF-8"> <!-- Charset para a página principal -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Vademecum Digital - MeuJus</title>
-    <!-- Carrega Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
         /* Estrutura geral para forçar o layout de 100% da altura */
@@ -211,10 +209,21 @@
              outline: 1px solid #7dd3fc;
         }
         
-        /* Cursor no modo de seleção */
-        #codeContent.selection-mode-active [data-article-id] {
-            cursor: pointer !important;
+        /* --- CSS ATUALIZADO (Solução 2) --- */
+        /* 1. Torna TODOS os parágrafos mapeados clicáveis (mobile e desktop) */
+        #codeContent [data-article-id] {
+            cursor: pointer; 
+            transition: background-color 0.2s; /* Suaviza o hover */
         }
+        
+        /* 2. Mostra um fundo sutil no hover (APENAS desktop) */
+        @media (hover: hover) { /* Só aplica em dispositivos com mouse */
+            #codeContent [data-article-id]:not(.manual-selection):hover {
+                background-color: #f9fafb; /* bg-gray-50 */
+            }
+        }
+        /* --- FIM DA ATUALIZAÇÃO --- */
+
         
         /* Estilos de busca (Mark.js) */
         #codeContent mark.search-highlight { 
@@ -229,52 +238,38 @@
         }
 
     </style>
-     <!-- Importa a fonte Inter -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
+     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
-     <!-- Ícones IonIcons (Mantido para ícone da busca) -->
-    <script type.module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+     <script type.module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
 
 
 </head>
-<!-- *** CORRIGIDO: Adicionado h-screen e flex-col ao body *** -->
 <body class="bg-gray-100 h-screen flex flex-col">
 
-    <!-- ### INÍCIO DO CABEÇALHO UNIFICADO ### -->
     <nav id="mainNav" class="bg-white shadow-sm w-full sticky top-0 z-30">
         <div class="max-w-4xl mx-auto px-4 sm:px-6">
             <div class="flex justify-between items-center h-16">
-                <!-- Logo/Brand -->
                 <div class="flex-shrink-0 flex items-center">
                     <h1 class="text-2xl font-bold text-gray-900">MeuJus</h1>
                 </div>
-                <!-- Navigation Links -->
                 <div class="flex space-x-4">
-                    <!-- Links relativos à raiz do domínio -->
                     <a href="/" class="text-gray-500 hover:text-blue-600 px-3 py-2 rounded-md text-sm font-medium">Simulador</a>
                     <a href="/vademecum/" class="text-blue-600 border-b-2 border-blue-600 px-3 py-2 rounded-md text-sm font-medium" aria-current="page">Vademecum</a>
                 </div>
             </div>
         </div>
     </nav>
-    <!-- ### FIM DO CABEÇALHO UNIFICADO ### -->
-
-    <!-- Cabeçalho da Visualização (Oculto Inicialmente, agora full-width) -->
-    <!-- *** CORRIGIDO: Adicionado sticky top-16 (para mobile) *** -->
     <div id="codeViewHeader" class="hidden bg-gray-50 border-b border-gray-200 w-full sticky top-16 md:top-0 z-20">
          <div class="max-w-4xl mx-auto flex items-center p-3">
-             <!-- Botão Voltar -->
-            <button onclick="showCategories()" class="p-2 mr-2 text-blue-600 hover:bg-gray-200 rounded-full">
+             <button onclick="showCategories()" class="p-2 mr-2 text-blue-600 hover:bg-gray-200 rounded-full">
                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="w-6 h-6">
                   <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 19.5L8.25 12l7.5-7.5" />
                 </svg>
             </button>
-             <!-- Título do Código -->
-            <h2 id="codeTitle" class="text-lg font-semibold text-gray-800 flex-grow truncate mr-2">Código</h2>
-             <!-- Campo de Busca e Navegação -->
-            <div class="flex items-center space-x-1">
+             <h2 id="codeTitle" class="text-lg font-semibold text-gray-800 flex-grow truncate mr-2">Código</h2>
+             <div class="flex items-center space-x-1">
                 <div class="relative">
                     <input type="search" id="searchInput" placeholder="Buscar no código..." class="pl-8 pr-2 py-1.5 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent text-sm w-32 md:w-48">
                     <div class="absolute inset-y-0 left-0 pl-2 flex items-center pointer-events-none">
@@ -283,7 +278,6 @@
                         </svg>
                     </div>
                 </div>
-                <!-- Botões de Navegação da Busca -->
                 <button id="searchPrev" onclick="goToPreviousResult()" class="p-1.5 text-gray-500 hover:bg-gray-200 rounded-md disabled:opacity-50 disabled:cursor-not-allowed" disabled>
                     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" class="w-4 h-4"><path stroke-linecap="round" stroke-linejoin="round" d="M15 19l-7-7 7-7" /></svg>
                 </button>
@@ -296,46 +290,32 @@
     </div>
 
 
-    <!-- Container Principal (Centralizado e que controla o scroll) -->
-    <!-- *** CORRIGIDO: Adicionado flex-grow, flex-col, overflow-hidden *** -->
     <div id="main-container" class="flex-grow flex flex-col overflow-hidden">
-        <!-- Tela de Seleção de Código (Inicial) -->
-        <!-- *** CORRIGIDO: Classes de layout simplificadas *** -->
         <div id="categorySelection" class="max-w-4xl mx-auto p-4 md:p-8 w-full">
             <div class="space-y-4">
-                <!-- Botão para carregar o Código Penal (caminho atualizado para data/) -->
                 <button onclick="loadCode('data/DEL2848compilado.html', 'Código Penal', 'https://www.planalto.gov.br/ccivil_03/decreto-lei/')" class="w-full bg-white p-4 rounded-lg shadow hover:shadow-md transition text-left text-lg font-medium text-gray-700">
                     Código Penal (Decreto-Lei nº 2.848/1940)
                 </button>
-                <!-- Botão para carregar o Código Civil (caminho atualizado para data/ e nome do arquivo) -->
                 <button onclick="loadCode('data/civil1.html', 'Código Civil', 'https://www.planalto.gov.br/ccivil_03/leis/')" class="w-full bg-white p-4 rounded-lg shadow hover:shadow-md transition text-left text-lg font-medium text-gray-700">
                      Código Civil
                        </button>
-                <!-- Botão para carregar o Código Processo Civil (caminho atualizado para data/ e nome do arquivo) -->
                 <button onclick="loadCode('data/processocivil.html', 'Código Civil', 'https://www.planalto.gov.br/ccivil_03/leis/')" class="w-full bg-white p-4 rounded-lg shadow hover:shadow-md transition text-left text-lg font-medium text-gray-700">
                      Código Processo Civil
                        </button>
-                <!-- Botão para carregar o Código Processo Penal (caminho atualizado para data/ e nome do arquivo) -->
                 <button onclick="loadCode('data/processopenal.html', 'Código Civil', 'https://www.planalto.gov.br/ccivil_03/leis/')" class="w-full bg-white p-4 rounded-lg shadow hover:shadow-md transition text-left text-lg font-medium text-gray-700">
                      Código Processo Penal
                 
                 </div>
-            </div> <!-- Fechamento correto do div space-y-4 -->
-        </div>
+            </div> </div>
 
-        <!-- Tela de Visualização do Código (Oculta Inicialmente) -->
-        <!-- *** CORRIGIDO: Classes de layout adicionadas para preencher o espaço *** -->
         <div id="codeView" class="hidden flex-grow flex flex-col h-full overflow-hidden">
-            <!-- Área de Conteúdo do Código (NÃO É MAIS IFRAME) -->
             <div id="codeContent" class="max-w-4xl mx-auto w-full">
                  <p class="p-4 text-gray-500">Carregando conteúdo...</p>
             </div>
         </div>
     </div>
 
-    <!-- Botão Flutuante (FAB) - Oculto por padrão, aparece na codeView -->
     <div id="fabContainer" class="fab-container">
-        <!-- Sub-botões -->
         <div class="fab-options">
             <div class="fab-option" onclick="handleArticleAction('explain')">
                 <span class="fab-option-label">Explicação Detalhada</span>
@@ -350,9 +330,7 @@
                 <span class="fab-option-label">Buscar Videoaula</span>
             </div>
         </div>
-         <!-- Botão Principal '+' -->
-        <button class="fab-button" id="fabButton" onclick="fabClickHandler()">
-             <!-- O SVG aqui será trocado dinamicamente pelo JS -->
+         <button class="fab-button" id="fabButton" onclick="fabClickHandler()">
              <svg id="fabIconPlus" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="3" stroke="currentColor">
               <path stroke-linecap="round" stroke-linejoin="round" d="M12 4.5v15m7.5-7.5h-15" />
             </svg>
@@ -365,10 +343,15 @@
         </button>
     </div>
 
-    <!-- Div de Mensagem (Toast) -->
     <div id="messageBox" class="hidden fixed bottom-24 left-1/2 -translate-x-1/2 bg-gray-800 text-white px-6 py-3 rounded-lg shadow-lg z-50">
-        <p>Clique nos parágrafos que deseja estudar</p>
+        <p>Limite de 10 parágrafos atingido.</p>
     </div>
+
+    <div id="onboardingToast" class="hidden fixed bottom-6 left-1/2 -translate-x-1/2 bg-blue-600 text-white px-4 py-3 rounded-lg shadow-lg z-50 flex items-center gap-4 max-w-xs w-11/12 justify-between">
+        <p class="text-sm">Toque em qualquer parágrafo para selecionar e estudar.</p>
+        <button onclick="dismissOnboardingToast()" class="text-sm font-bold opacity-80 hover:opacity-100 p-1">OK</button>
+    </div>
+
 
     <script>
         // --- Elementos Globais ---
@@ -388,6 +371,7 @@
         const fabIconCheck = document.getElementById('fabIconCheck');
         const fabIconClose = document.getElementById('fabIconClose');
         const messageBox = document.getElementById('messageBox');
+        const onboardingToast = document.getElementById('onboardingToast'); // <-- ADICIONADO (Solução 2)
 
         // --- Variáveis Globais de Estado ---
         const articleTextMap = new Map();
@@ -415,12 +399,15 @@
             categorySelection.classList.add('hidden');
             codeView.classList.remove('hidden'); // Mostra o container do conteúdo
             codeViewHeader.classList.remove('hidden'); // Mostra o cabeçalho da busca
-            fabContainer.style.display = 'block'; // Mostra o FAB
+            
+            // --- ATUALIZADO (Solução 2) ---
+            fabContainer.style.display = 'none'; // FAB COMEÇA ESCONDIDO
+            resetFabToIdle();
+            // --- FIM DA ATUALIZAÇÃO ---
             
             codeTitle.textContent = title;
             searchInput.value = '';
             articleTextMap.clear();
-            resetFabToIdle(); 
             resetSearch();
             codeContent.scrollTop = 0; // Garante que o scroll comece do topo
 
@@ -457,6 +444,19 @@
                     preparePageContent(codeContent, dynamicBaseUrl); // Prepara links e imagens
                     prepareElementsForSelection(codeContent); // Mapeia artigos e adiciona listeners
                     styleParentheses(codeContent); // Estiliza parênteses
+
+                    // *** ADICIONADO (Solução 2) ***
+                    // Mostra o aviso de ajuda se for a primeira vez
+                    try {
+                        if (localStorage.getItem('vademecumOnboarding') !== 'true') {
+                            onboardingToast.classList.remove('hidden');
+                        }
+                    } catch (e) {
+                        console.warn("Não foi possível ler do localStorage");
+                        onboardingToast.classList.remove('hidden'); // Mostra se o localStorage falhar
+                    }
+                    // *** FIM DA ADIÇÃO ***
+
                 }, 150); 
 
             } catch (error) {
@@ -648,21 +648,39 @@
              }, 2000); 
         }
 
-        // Lógica de clique agora funciona em QUALQUER [data-article-id]
-        function codeContentClickHandler(event) {
-             if (fabState !== 'selecting') return; // Só funciona em modo de seleção
+        // *** NOVA FUNÇÃO (Solução 2) ***
+        // Para dispensar o aviso de onboarding
+        function dismissOnboardingToast() {
+            if (onboardingToast) {
+                onboardingToast.classList.add('hidden');
+            }
+            try {
+                // Salva para não mostrar novamente
+                localStorage.setItem('vademecumOnboarding', 'true');
+            } catch (e) {
+                console.warn("Não foi possível salvar no localStorage");
+            }
+        }
 
+        // *** SUBSTITUÍDO (Solução 2) ***
+        // Lógica de clique agora controla o FAB
+        function codeContentClickHandler(event) {
              // Encontra o parágrafo clicado que foi mapeado
              const targetElement = event.target.closest('[data-article-id]');
-             if (!targetElement) return; // Se clicou no fundo ou num <p> vazio, ignora
+             if (!targetElement) return; // Se clicou no fundo, ignora
 
              event.preventDefault();
              event.stopPropagation();
+             
+             // O usuário entendeu! Esconde o aviso de onboarding.
+             if (onboardingToast && !onboardingToast.classList.contains('hidden')) {
+                 dismissOnboardingToast();
+             }
 
              const articleId = targetElement.dataset.articleId;
 
+             // Lógica de Seleção/Desseleção (como você já tinha)
              if (selectedElements.has(articleId)) {
-                 // Desseleciona
                  selectedElements.delete(articleId);
                  targetElement.classList.remove('manual-selection');
              } else {
@@ -674,13 +692,28 @@
                     showMessage("Limite de 10 parágrafos atingido.");
                  }
              }
+
+             // *** LÓGICA DE UX (Solução 2) ***
+             // Se houver qualquer item selecionado, mostre o menu de ações.
+             if (selectedElements.size > 0) {
+                 if (fabState !== 'actions_open') { // Só executa se já não estiver aberto
+                    fabState = 'actions_open';
+                    setFabIcon('close'); // Muda ícone para X
+                    fabContainer.classList.add('open'); // Abre o menu (E, G, S, V)
+                    fabContainer.style.display = 'block'; // MOSTRA o container do FAB
+                 }
+             } else {
+                 // Se 0 itens selecionados, reseta e esconde o FAB.
+                 resetFabToIdle();
+             }
         }
+
         
         // Encontra o elemento mais centralizado na viewport do #codeContent
+        // (Esta função não é mais usada para iniciar a seleção, mas pode ser útil no futuro)
         function findInEvidenceElement() {
              if (!codeContent) return null;
              
-             // O codeContent é o elemento que rola
              const containerRect = codeContent.getBoundingClientRect();
              const viewportCenterY = containerRect.top + (codeContent.clientHeight / 2);
              
@@ -690,12 +723,9 @@
              const elements = codeContent.querySelectorAll('[data-article-id]');
              elements.forEach(el => {
                  const rect = el.getBoundingClientRect();
-                 // Ignora elementos que não estão visíveis (fora da viewport do codeContent)
                  if (rect.height === 0 || rect.width === 0 || rect.top > containerRect.bottom || rect.bottom < containerRect.top) return;
                  
-                 // Calcula o centro do elemento
                  const elementCenterY = rect.top + (rect.height / 2);
-                 // Calcula a distância do centro do elemento ao centro da viewport
                  const distance = Math.abs(viewportCenterY - elementCenterY);
 
                  if (distance < minDistance) {
@@ -707,58 +737,28 @@
              return closestElement;
         }
 
-        // Função principal do FAB
+        // *** SUBSTITUÍDO (Solução 2) ***
+        // Função principal do FAB (agora só 'Cancela')
         function fabClickHandler() {
-            if (fabState === 'idle') {
-                // Estado 1: Iniciar Seleção
-                fabState = 'selecting';
-                setFabIcon('check'); // Muda ícone para ✔
-                
-                const inEvidenceElement = findInEvidenceElement();
-                if (inEvidenceElement) {
-                     const articleId = inEvidenceElement.dataset.articleId;
-                     if(articleId) { // Garante que o elemento encontrado tenha um ID mapeado
-                        selectedElements.add(articleId);
-                        inEvidenceElement.classList.add('manual-selection');
-                     }
-                }
-                
-                // Mostra o toast "Clique nos parágrafos..."
-                showMessage("Clique nos parágrafos que deseja estudar");
-                
-                // Adiciona classe para mudar o cursor
-                codeContent.classList.add('selection-mode-active');
-            
-            } else if (fabState === 'selecting') {
-                // Estado 2: Confirmar Seleção
-                if (selectedElements.size === 0) {
-                     showMessage("Nenhum artigo selecionado.");
-                     resetFabToIdle(); // Volta ao estado inicial
-                     return;
-                }
-                
-                fabState = 'actions_open';
-                setFabIcon('close'); // Muda ícone para X
-                fabContainer.classList.add('open'); // Abre o menu E, G, S, V
-
-                // Remove classe do cursor
-                codeContent.classList.remove('selection-mode-active');
-
-            } else if (fabState === 'actions_open') {
-                // Estado 3: Fechar Menu
+            // O clique no FAB (que agora é sempre o 'X')
+            // apenas cancela e reseta o estado.
+            if (fabState === 'actions_open') {
                 resetFabToIdle();
             }
         }
         
-        // Limpa tudo e volta ao estado inicial
+        // *** SUBSTITUÍDO (Solução 2) ***
+        // Limpa tudo, volta ao estado inicial E ESCONDE o FAB
         function resetFabToIdle() {
             fabState = 'idle';
-            setFabIcon('plus'); // Muda ícone para +
+            setFabIcon('plus'); // Volta ao ícone '+' padrão
             fabContainer.classList.remove('open'); // Fecha o menu
+            fabContainer.style.display = 'none'; // *** ESCONDE O FAB ***
             
             // Limpa seleções visuais
             if (codeContent) {
-                codeContent.classList.remove('selection-mode-active');
+                // Remove a classe de cursor antiga (se houver)
+                codeContent.classList.remove('selection-mode-active'); 
                 codeContent.querySelectorAll('.manual-selection').forEach(el => {
                     el.classList.remove('manual-selection');
                 });
@@ -937,10 +937,8 @@
         document.addEventListener('DOMContentLoaded', showCategories);
 
     </script>
-     <!-- Adiciona a biblioteca Mark.js para a busca -->
      <script src="https://cdnjs.cloudflare.com/ajax/libs/mark.js/8.11.1/mark.min.js"></script>
 
-     <!-- Script para registrar o Service Worker -->
      <script>
         if ('serviceWorker' in navigator) {
             window.addEventListener('load', () => {
@@ -959,4 +957,3 @@
 
 </body>
 </html>
-
